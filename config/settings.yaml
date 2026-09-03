@@ -1,0 +1,55 @@
+# Base project configuration.
+# This is Phase 1 (repository bootstrap) configuration: structure, schemas,
+# logging, and defaults. No curriculum content lives here.
+#
+# Loaded at runtime by `core.config`.
+project:
+  name: "Grade 11 Adaptive Socratic Tutor"
+  environment: "development"
+  timezone: "UTC"
+
+specs:
+  # Matches the version headers in each spec file.
+  system_spec_version: "1.0.0"
+  implementation_spec_version: "1.0.0"
+  run_log_spec_version: "1.0.0"
+
+agents:
+  # Metadata about the agent that is executing runs. Overridden per run.
+  agent_version: "1.0.0"
+  model: "unknown"
+  model_provider: "unknown"
+
+paths:
+  runs_dir: "runs"
+  review_queue_dir: "review_queue"
+  data_raw_dir: "data/raw"
+  data_extracted_dir: "data/extracted"
+  data_structured_dir: "data/structured"
+  data_validated_dir: "data/validated"
+  database_dir: "database"
+  knowledge_dir: "knowledge"
+  schema_dir: "database/schema"
+
+logging:
+  # One JSON line per event.
+  events_file: "events.jsonl"
+  decisions_file: "decisions.json"
+  errors_file: "errors.json"
+  metrics_file: "metrics.json"
+  run_manifest_file: "run.json"
+  artifacts_dir: "artifacts"
+  artifacts_manifest: "artifacts.yaml"
+
+schema:
+  # Names of the JSON Schema documents shipped under database/schema/.
+  source_metadata: "source_metadata.schema.json"
+  question: "question.schema.json"
+  question_family: "question_family.schema.json"
+  # knowledge_model is the canonical Understanding Model schema. Later phases
+  # reference it both as `knowledge_model` and as `understanding_model`.
+  knowledge_model: "knowledge_model.schema.json"
+  understanding_model: "knowledge_model.schema.json"
+  breakdown: "breakdown.schema.json"
+  diagnostic: "diagnostic.schema.json"
+  validation: "validation.schema.json"

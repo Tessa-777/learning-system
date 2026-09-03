@@ -1,0 +1,420 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/biology
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426648Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: data/raw/biology'
+- artifact_id: ART-0002
+  path: /home/user/learning-system/data/raw/physics
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426667Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: data/raw/physics'
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/history
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426682Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: data/raw/history'
+- artifact_id: ART-0004
+  path: /home/user/learning-system/data/raw/english
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426694Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: data/raw/english'
+- artifact_id: ART-0005
+  path: /home/user/learning-system/data/raw/ap_mathematics
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426708Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: data/raw/ap_mathematics'
+- artifact_id: ART-0006
+  path: /home/user/learning-system/data/raw/mathematics
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426721Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: data/raw/mathematics'
+- artifact_id: ART-0007
+  path: /home/user/learning-system/data/extracted
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426733Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: data/extracted'
+- artifact_id: ART-0008
+  path: /home/user/learning-system/data/structured
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426749Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: data/structured'
+- artifact_id: ART-0009
+  path: /home/user/learning-system/data/validated
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426762Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: data/validated'
+- artifact_id: ART-0010
+  path: /home/user/learning-system/knowledge/biology
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426775Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: knowledge/biology'
+- artifact_id: ART-0011
+  path: /home/user/learning-system/knowledge/physics
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426787Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: knowledge/physics'
+- artifact_id: ART-0012
+  path: /home/user/learning-system/knowledge/history
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426798Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: knowledge/history'
+- artifact_id: ART-0013
+  path: /home/user/learning-system/knowledge/english
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426809Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: knowledge/english'
+- artifact_id: ART-0014
+  path: /home/user/learning-system/knowledge/ap_mathematics
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426821Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: knowledge/ap_mathematics'
+- artifact_id: ART-0015
+  path: /home/user/learning-system/knowledge/mathematics
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426832Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: knowledge/mathematics'
+- artifact_id: ART-0016
+  path: /home/user/learning-system/database/schema
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426844Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: database/schema'
+- artifact_id: ART-0017
+  path: /home/user/learning-system/database/migrations
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426856Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: database/migrations'
+- artifact_id: ART-0018
+  path: /home/user/learning-system/database/seed
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426867Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: database/seed'
+- artifact_id: ART-0019
+  path: /home/user/learning-system/ingestion/acquisition
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426878Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: ingestion/acquisition'
+- artifact_id: ART-0020
+  path: /home/user/learning-system/ingestion/extraction
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426892Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: ingestion/extraction'
+- artifact_id: ART-0021
+  path: /home/user/learning-system/ingestion/segmentation
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426903Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: ingestion/segmentation'
+- artifact_id: ART-0022
+  path: /home/user/learning-system/ingestion/classification
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426926Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: ingestion/classification'
+- artifact_id: ART-0023
+  path: /home/user/learning-system/ingestion/analysis
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426938Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: ingestion/analysis'
+- artifact_id: ART-0024
+  path: /home/user/learning-system/ingestion/validation
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426949Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: ingestion/validation'
+- artifact_id: ART-0025
+  path: /home/user/learning-system/tutor/core
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426960Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: tutor/core'
+- artifact_id: ART-0026
+  path: /home/user/learning-system/tutor/prompts
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426971Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: tutor/prompts'
+- artifact_id: ART-0027
+  path: /home/user/learning-system/tutor/subjects/biology
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426983Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: tutor/subjects/biology'
+- artifact_id: ART-0028
+  path: /home/user/learning-system/tutor/subjects/physics
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.426995Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: tutor/subjects/physics'
+- artifact_id: ART-0029
+  path: /home/user/learning-system/tutor/subjects/history
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.427006Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: tutor/subjects/history'
+- artifact_id: ART-0030
+  path: /home/user/learning-system/tutor/subjects/english
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.427017Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: tutor/subjects/english'
+- artifact_id: ART-0031
+  path: /home/user/learning-system/tutor/subjects/ap_mathematics
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.427028Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: tutor/subjects/ap_mathematics'
+- artifact_id: ART-0032
+  path: /home/user/learning-system/tutor/subjects/mathematics
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.427039Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: tutor/subjects/mathematics'
+- artifact_id: ART-0033
+  path: /home/user/learning-system/student_model
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.427051Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: student_model'
+- artifact_id: ART-0034
+  path: /home/user/learning-system/tests
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.427062Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: tests'
+- artifact_id: ART-0035
+  path: /home/user/learning-system/runs
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.427072Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: runs'
+- artifact_id: ART-0036
+  path: /home/user/learning-system/review_queue
+  type: directory
+  created_or_modified: '2026-09-03T07:55:32.427082Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: null
+  description: 'Phase 1 deliverable: review_queue'
+- artifact_id: ART-0037
+  path: /home/user/learning-system/database/schema/source_metadata.schema.json
+  type: json
+  created_or_modified: '2026-09-03T07:55:32.427094Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: f8a30395469cb9745657af8c2d9dfab81306372dd4634aff797446f6990416d4
+  description: 'Phase 1 deliverable: database/schema/source_metadata.schema.json'
+- artifact_id: ART-0038
+  path: /home/user/learning-system/database/schema/question.schema.json
+  type: json
+  created_or_modified: '2026-09-03T07:55:32.427159Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 92e92979fefdc5e0f4991beed3d5cffe9138eacb218b3203d0af34e83618f155
+  description: 'Phase 1 deliverable: database/schema/question.schema.json'
+- artifact_id: ART-0039
+  path: /home/user/learning-system/database/schema/question_family.schema.json
+  type: json
+  created_or_modified: '2026-09-03T07:55:32.427184Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: e711e258bb3870ff82b2d4e1d6b5063dfe6319dfc00e2113fc832f076e8579f8
+  description: 'Phase 1 deliverable: database/schema/question_family.schema.json'
+- artifact_id: ART-0040
+  path: /home/user/learning-system/database/schema/knowledge_model.schema.json
+  type: json
+  created_or_modified: '2026-09-03T07:55:32.427204Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 41338e56bd02d93bff127f51d3393c904ca1ac200561891d2ba8fc6804ffaaf6
+  description: 'Phase 1 deliverable: database/schema/knowledge_model.schema.json'
+- artifact_id: ART-0041
+  path: /home/user/learning-system/database/schema/breakdown.schema.json
+  type: json
+  created_or_modified: '2026-09-03T07:55:32.427229Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 1fd448dd987bdcd200a96c49da44be56869e44357c6ae5e42d70496c8c93ab3f
+  description: 'Phase 1 deliverable: database/schema/breakdown.schema.json'
+- artifact_id: ART-0042
+  path: /home/user/learning-system/database/schema/diagnostic.schema.json
+  type: json
+  created_or_modified: '2026-09-03T07:55:32.427250Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: a1c0ae8a1f6265d0da043da0f47caa54d8b4991497347cb17cc343f9ffe36065
+  description: 'Phase 1 deliverable: database/schema/diagnostic.schema.json'
+- artifact_id: ART-0043
+  path: /home/user/learning-system/database/schema/validation.schema.json
+  type: json
+  created_or_modified: '2026-09-03T07:55:32.427271Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: e87ff77aa7533f72321340fc20e7a165ecf35c0ab9e92e635af49c3c50b84e03
+  description: 'Phase 1 deliverable: database/schema/validation.schema.json'
+- artifact_id: ART-0044
+  path: /home/user/learning-system/config/settings.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T07:55:32.427336Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 2e01846d5b22b089abd2e81bf9306472387c3a6fb7d17049f602b7e745d61c83
+  description: 'Phase 1 deliverable: config/settings.yaml'
+- artifact_id: ART-0045
+  path: /home/user/learning-system/config/subjects.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T07:55:32.427364Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: b9e8597130ca9229057866419905d6860945b8fc444883d8570a9a91b0b45ae0
+  description: 'Phase 1 deliverable: config/subjects.yaml'
+- artifact_id: ART-0046
+  path: /home/user/learning-system/core/__init__.py
+  type: python
+  created_or_modified: '2026-09-03T07:55:32.427386Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: b53c1fef42af14c0a16d73ea200710bccd7c1ac477cc1905fca224a0cc3576ee
+  description: 'Phase 1 deliverable: core/__init__.py'
+- artifact_id: ART-0047
+  path: /home/user/learning-system/core/ids.py
+  type: python
+  created_or_modified: '2026-09-03T07:55:32.427405Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: ec2df7e3460ad18db74894c34a997193d5f58a151e51b2b12257ff7d657e4dc8
+  description: 'Phase 1 deliverable: core/ids.py'
+- artifact_id: ART-0048
+  path: /home/user/learning-system/core/config.py
+  type: python
+  created_or_modified: '2026-09-03T07:55:32.427427Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 3576f8bc6b03b2f44d5e658a52b5a475f1eec6566996be8bbcfb6180a7c7efce
+  description: 'Phase 1 deliverable: core/config.py'
+- artifact_id: ART-0049
+  path: /home/user/learning-system/core/runlog.py
+  type: python
+  created_or_modified: '2026-09-03T07:55:32.427452Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: ae423c0bf45e060a62533736faaaf55ba2f2d6a1058f68854172a850c3d2d34e
+  description: 'Phase 1 deliverable: core/runlog.py'
+- artifact_id: ART-0050
+  path: /home/user/learning-system/core/schema.py
+  type: python
+  created_or_modified: '2026-09-03T07:55:32.427480Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 967cfe18715d0aeb9bf7788116a25b29b8248c1abb13cfc651c40f984972a820
+  description: 'Phase 1 deliverable: core/schema.py'
+- artifact_id: ART-0051
+  path: /home/user/learning-system/ingestion/__init__.py
+  type: python
+  created_or_modified: '2026-09-03T07:55:32.427499Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: f6e0a1f0e61b208fc4a11ec3051d11a057e675f9d58bc3096357453c60f45d17
+  description: 'Phase 1 deliverable: ingestion/__init__.py'
+- artifact_id: ART-0052
+  path: /home/user/learning-system/ingestion/run_context.py
+  type: python
+  created_or_modified: '2026-09-03T07:55:32.427518Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: b94c5b16eea7bf3e2fa3e87c182f04e00b5bf892223d2c151e0db9050ab03b3d
+  description: 'Phase 1 deliverable: ingestion/run_context.py'
+- artifact_id: ART-0053
+  path: /home/user/learning-system/requirements.txt
+  type: file
+  created_or_modified: '2026-09-03T07:55:32.427538Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 9c1afed2dabcbd6be042335222915e10aeb70f2e7865b7a970d770deda440f0a
+  description: 'Phase 1 deliverable: requirements.txt'
+- artifact_id: ART-0054
+  path: /home/user/learning-system/.gitignore
+  type: file
+  created_or_modified: '2026-09-03T07:55:32.427558Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: ea9b47de1490a4f9d30f43d354167e09bf2fc4205f5c4398064038b46d1e3e93
+  description: 'Phase 1 deliverable: .gitignore'
+- artifact_id: ART-0055
+  path: /home/user/learning-system/conftest.py
+  type: python
+  created_or_modified: '2026-09-03T07:55:32.427576Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 539c0a5b37e68064c121dbb64a5f4f274af2b9415904901235b7ebd40dfc069d
+  description: 'Phase 1 deliverable: conftest.py'
+- artifact_id: ART-0056
+  path: /home/user/learning-system/pytest.ini
+  type: file
+  created_or_modified: '2026-09-03T07:55:32.427594Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 6a96ba0e2d5a8296fb90f474da9d2f0173d3e41eba18965513f711104155f913
+  description: 'Phase 1 deliverable: pytest.ini'
+- artifact_id: ART-0057
+  path: /home/user/learning-system/scripts/phase1_bootstrap.py
+  type: python
+  created_or_modified: '2026-09-03T07:55:32.427612Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: dc1fb37d3dce9fc24e0688c8a84abcf8a7f47ba4fc1d6e9f3161c541ed917ecf
+  description: 'Phase 1 deliverable: scripts/phase1_bootstrap.py'
+- artifact_id: ART-0058
+  path: /home/user/learning-system/review_queue/README.md
+  type: markdown
+  created_or_modified: '2026-09-03T07:55:32.427646Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 8c55c8568924b286751b21c7623be9f3046084d92afd28fc27bf6af4e3757674
+  description: 'Phase 1 deliverable: review_queue/README.md'
+- artifact_id: ART-0059
+  path: /home/user/learning-system/README.md
+  type: markdown
+  created_or_modified: '2026-09-03T07:55:32.704776Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 48572bfa187e8cadc09ec75fc1ea84347ec625478934400ef32dfc790691706d
+  description: 'Phase 1 deliverable: README.md'
+- artifact_id: ART-0060
+  path: /home/user/learning-system/STATUS.md
+  type: markdown
+  created_or_modified: '2026-09-03T07:55:32.704840Z'
+  source_run: 20260903T075532Z_0796
+  content_hash: 1a8dfa55b1d3b8649fe74f31de3a418ffade2d6efe7983aaaaa1b2ddd300158d
+  description: 'Phase 1 deliverable: STATUS.md'

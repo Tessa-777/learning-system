@@ -1,0 +1,12 @@
+# Runtime and test dependencies for the Phase 1 bootstrap layer.
+#
+# Install in a virtual environment:
+#   python3 -m venv .venv
+#   . .venv/bin/activate
+#   pip install -r requirements.txt
+#
+# pytest is used to run the schema/logging test suite.
+
+pytest>=7.0
+PyYAML>=6.0
+jsonschema>=4.0

@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://learning-system.local/schema/diagnostic.schema.json",
+  "title": "Diagnostic Question",
+  "description": "A Socratic diagnostic question asked by the tutor to determine what a student understands (SYSTEM_SPEC section 11). It is not necessarily an exam question and must minimise leading toward the answer.",
+  "type": "object",
+  "properties": {
+    "diagnostic_id": {
+      "type": "string",
+      "pattern": "^DIAG-"
+    },
+    "understanding_model_id": {
+      "type": "string",
+      "pattern": "^UNDERSTANDING-"
+    },
+    "target_breakdown": {
+      "type": ["string", "null"],
+      "pattern": "^BREAKDOWN-",
+      "description": "The breakdown this diagnostic is designed to distinguish."
+    },
+    "question": { "type": "string" },
+    "purpose": { "type": "string" },
+    "distinguishes": { "type": "array", "items": { "type": "string" } },
+    "expected_evidence": { "type": "array", "items": { "type": "string" } },
+    "follow_up_conditions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "condition": { "type": "string" },
+          "follow_up": { "type": "string" }
+        },
+        "required": ["condition", "follow_up"],
+        "additionalProperties": false
+      }
+    },
+    "source_or_rationale": { "type": "string" },
+    "confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    }
+  },
+  "required": ["diagnostic_id", "understanding_model_id", "question", "purpose", "source_or_rationale"],
+  "additionalProperties": false
+}

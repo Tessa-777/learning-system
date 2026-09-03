@@ -1,0 +1,109 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://learning-system.local/schema/knowledge_model.schema.json",
+  "title": "Knowledge Model (Understanding Model)",
+  "description": "The central conceptual entity of the knowledge bank (SYSTEM_SPEC section 9). An Understanding Model describes what a student must understand in order to successfully complete a recurring kind of assessment task. It describes competence being assessed, not an answer to a question. This is the 'knowledge-model schema' referenced by Phase 1 and is stored under database/schema/knowledge_model.schema.json; the understanding_model alias resolves to the same file.",
+  "type": "object",
+  "properties": {
+    "identity": {
+      "type": "string",
+      "pattern": "^UNDERSTANDING-",
+      "description": "Model identifier, e.g. UNDERSTANDING-MATH-014."
+    },
+    "definition": {
+      "type": "string",
+      "description": "A precise description of the competence assessed."
+    },
+    "subject": {
+      "type": "string",
+      "enum": ["biology", "physics", "history", "english", "ap_mathematics", "mathematics"]
+    },
+    "grade": {
+      "type": "string"
+    },
+    "topic": {
+      "type": ["string", "null"]
+    },
+    "question_family": {
+      "type": "string",
+      "pattern": "^QUESTION-FAMILY-",
+      "description": "Link to the question family this model belongs to."
+    },
+    "assessment_operations": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "The assessment operations the model captures."
+    },
+    "required_knowledge": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Facts, concepts, definitions, rules, relationships the student must know."
+    },
+    "prerequisites": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "What must be understood beforehand; may reference other models or knowledge items."
+    },
+    "required_reasoning": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "required_procedure": {
+      "type": ["string", "null"],
+      "description": "The procedure a student must be able to execute."
+    },
+    "evidence_of_understanding": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "What a student must demonstrate to show understanding."
+    },
+    "marking_requirements": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Marking requirements drawn from memo/rubric evidence."
+    },
+    "common_breakdowns": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Breakdown ids that may apply to this model."
+    },
+    "misconceptions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Documented misconceptions if source-supported; otherwise mark as derived (Tier 3)."
+    },
+    "diagnostic_dimensions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Stages/dimensions along which understanding can be probed (SYSTEM_SPEC section 10)."
+    },
+    "diagnostic_questions": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "source_references": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Provenance chain to source evidence."
+    },
+    "provenance": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Traceable provenance chain, e.g. knowledge item -> model -> family -> question -> memo -> source -> ORC source."
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    },
+    "validation_state": {
+      "type": "string",
+      "enum": ["unvalidated", "draft", "validated", "unresolved", "rejected"]
+    },
+    "version": {
+      "type": ["string", "null"],
+      "description": "Semantic version of this model, set at freeze time."
+    }
+  },
+  "required": ["identity", "definition", "subject", "grade", "question_family", "validation_state", "confidence"],
+  "additionalProperties": false
+}

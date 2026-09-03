@@ -1,0 +1,63 @@
+[
+  {
+    "decision_id": "DEC-P1-0001",
+    "timestamp": "2026-09-03T07:55:32.704571Z",
+    "phase": 1,
+    "subject": null,
+    "decision_type": "schema_naming",
+    "context": "The Phase 1 deliverable lists a 'knowledge-model schema'. SYSTEM_SPEC \u00a79 names the central entity the 'Understanding Model'.",
+    "evidence": [
+      "SYSTEM_SPEC.md \u00a79",
+      "IMPLEMENTATION_SPEC.md \u00a72"
+    ],
+    "alternatives": [
+      "ship understanding_model.schema.json only",
+      "ship knowledge_model.schema.json only",
+      "ship knowledge_model.schema.json and alias understanding_model to it"
+    ],
+    "selected": "ship knowledge_model.schema.json and alias understanding_model to it",
+    "rationale": "Avoids two copies of the same schema drifting apart while satisfying both the Phase 1 terminology and the later phases that reference understanding_model.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-P1-0002",
+    "timestamp": "2026-09-03T07:55:32.704578Z",
+    "phase": 1,
+    "subject": null,
+    "decision_type": "empty_dir_tracking",
+    "context": "Empty data/ingestion/knowledge directories must be tracked by Git despite having no files (Phase 1 has no curriculum content).",
+    "evidence": [
+      "IMPLEMENTATION_SPEC.md \u00a71"
+    ],
+    "alternatives": [
+      "use .gitkeep files",
+      "omit empty dirs",
+      "use .empty marker dirs"
+    ],
+    "selected": "use .gitkeep files",
+    "rationale": ".gitkeep is the conventional, low-friction way to track empty directories and is understood by Git and reviewers.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-P1-0003",
+    "timestamp": "2026-09-03T07:55:32.704582Z",
+    "phase": 1,
+    "subject": null,
+    "decision_type": "virtual_environment_for_tests",
+    "context": "System Python is externally managed (PEP 668), so test dependencies cannot be installed globally.",
+    "evidence": [
+      "pip externally-managed-environment error"
+    ],
+    "alternatives": [
+      "install with --break-system-packages",
+      "use a virtual environment",
+      "vendored deps"
+    ],
+    "selected": "use a virtual environment",
+    "rationale": "Keeps the host system clean while relying on requirements.txt so deployment can reproduce deps.",
+    "confidence": "high",
+    "requires_review": false
+  }
+]
