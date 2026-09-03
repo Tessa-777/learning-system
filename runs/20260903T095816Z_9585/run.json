@@ -1,0 +1,15 @@
+{
+  "run_id": "20260903T095816Z_9585",
+  "started_at": "2026-09-03T09:58:16.581744Z",
+  "completed_at": "2026-09-03T09:58:16.870612Z",
+  "phase": 4,
+  "subject": "ap_mathematics",
+  "spec_version": "1.0.0",
+  "implementation_spec_version": "1.0.0",
+  "agent_version": "1.0.0",
+  "model": "unknown",
+  "model_provider": "unknown",
+  "git_commit_before": "60adb60",
+  "git_commit_after": "60adb60",
+  "status": "blocked"
+}

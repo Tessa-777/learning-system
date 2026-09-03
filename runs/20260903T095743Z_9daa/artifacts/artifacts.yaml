@@ -1,0 +1,21 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/physics/ACQUISITION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:57:51.566822Z'
+  source_run: 20260903T095743Z_9daa
+  content_hash: 5956de4b06e1b56304f5e9b0e0ac11ab6e8397a2d6465fde72a70cf9e4ea595c
+  description: Phase 3 acquisition retry report for physics
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P3-PHY-ACQUISITION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:57:51.567105Z'
+  source_run: 20260903T095743Z_9daa
+  content_hash: ce08dc0884b62ab924c068aada0aa8bcde7d1e4ed568b600459062b468e1b779
+  description: Phase 3 review-queue item for physics (retry)
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/physics/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:57:51.567166Z'
+  source_run: 20260903T095743Z_9daa
+  content_hash: c4304cacfbd3f6e3479453764e98728199dba590944787065e7ec596ed9c9daf
+  description: Source inventory for physics (Phase 3 retry run record appended)

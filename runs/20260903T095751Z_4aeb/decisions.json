@@ -1,0 +1,48 @@
+[
+  {
+    "decision_id": "DEC-P3-history-001",
+    "timestamp": "2026-09-03T09:57:51.603902Z",
+    "phase": 3,
+    "subject": "history",
+    "decision_type": "acquisition_retry_strategy",
+    "context": "Phase 3 retry for history: re-attempt download of every non-external source regardless of the access_status left by the earlier Phase 3 run(s), because a retry must re-test previously inaccessible sources.",
+    "evidence": [
+      "/home/user/learning-system/data/raw/history/SOURCE_INVENTORY.yaml",
+      "total_sources=18",
+      "prior_phase3_run_ids=['20260903T091848Z_81f2']"
+    ],
+    "alternatives": [
+      "skip_previously_inaccessible_sources",
+      "simulate_downloads",
+      "attempt_all_non_external_sources"
+    ],
+    "selected": "attempt_all_non_external_sources",
+    "rationale": "The earlier Phase 3 runs failed for every source (sandbox TLS restriction to Google services). Skipping them would make the retry vacuous; simulating success would violate AGENTS.md rules 4-5. Re-attempting every non-external source is the only honest retry.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-P3-history-002",
+    "timestamp": "2026-09-03T09:57:52.157416Z",
+    "phase": 3,
+    "subject": "history",
+    "decision_type": "acquisition_completion",
+    "context": "Phase 3 acquisition retry completed for history.",
+    "evidence": [
+      "sources_total=18",
+      "sources_attempted=18",
+      "sources_acquired=0",
+      "sources_failed=18"
+    ],
+    "alternatives": [
+      "completed",
+      "completed_with_review",
+      "blocked",
+      "failed"
+    ],
+    "selected": "completed_with_review",
+    "rationale": "Every non-external source was re-attempted with a real download request. Where downloads failed the failure was recorded per source and the source kept/marked inaccessible; no file was fabricated. Completion therefore reflects that the phase procedure ran to completion with explicitly recorded unresolved items where any source failed.",
+    "confidence": "high",
+    "requires_review": true
+  }
+]

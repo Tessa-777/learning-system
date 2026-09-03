@@ -10,7 +10,7 @@ evidence:
   3)'
 - 'phase3 run: runs/20260903T091848Z_81f2 (status completed_with_review, 0 acquired)'
 - 'phase3 report: /home/user/learning-system/data/raw/history/ACQUISITION_REPORT.yaml'
-- 'phase4 run: runs/20260903T094154Z_f08a (status blocked)'
+- 'phase4 run: runs/20260903T095816Z_8955 (status blocked)'
 - 'STATUS.md Next Phase gate: Phase 4 must not start until every source has a preserved
   original file and verified SHA-256 hash'
 possible_resolutions:
@@ -21,4 +21,4 @@ possible_resolutions:
 - Provide files through an alternative storage mechanism, then re-run Phase 4
 recommended_review: 'Human review required: resolve RQ-P3-HIS-ACQUISITION first; do
   not treat Phase 4 as extractable until preserved originals exist.'
-created_at: '2026-09-03T09:41:54.485179Z'
+created_at: '2026-09-03T09:58:16.120183Z'

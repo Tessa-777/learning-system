@@ -1,0 +1,21 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/english/ACQUISITION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:57:55.418172Z'
+  source_run: 20260903T095752Z_c30a
+  content_hash: b8045d2e41cb2e8bf7a02225b749fbf825784f3b6b8440501362f0cb6dad64c8
+  description: Phase 3 acquisition retry report for english
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P3-ENG-ACQUISITION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:57:55.418367Z'
+  source_run: 20260903T095752Z_c30a
+  content_hash: 48ba00859082e55b4dbd6f339ea553dcc0425790d5ef39636cdb9524e7550d76
+  description: Phase 3 review-queue item for english (retry)
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/english/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:57:55.418406Z'
+  source_run: 20260903T095752Z_c30a
+  content_hash: 89994dd0182edc0b80ff7d718bac9621bad285146be56aac8c4c9b57291692bb
+  description: Source inventory for english (Phase 3 retry run record appended)

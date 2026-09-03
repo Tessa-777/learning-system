@@ -1,9 +1,33 @@
 subject: history
 phase: 3
-run_id: 20260903T091848Z_81f2
+phase_letter: C
+run_id: 20260903T095751Z_4aeb
 report_type: phase3_acquisition_report
-generated_at: '2026-09-03T09:18:48.751474Z'
+retry: true
+prior_phase3_runs:
+- 20260903T091848Z_81f2
+generated_at: '2026-09-03T09:57:52.157424Z'
+status: completed_with_review
 total_sources: 18
+sources_attempted:
+- SOURCE-ORC-HIS-2009-001
+- SOURCE-ORC-HIS-2017-002
+- SOURCE-ORC-HIS-2017-003
+- SOURCE-ORC-HIS-2017-004
+- SOURCE-ORC-HIS-2016-005
+- SOURCE-ORC-HIS-2016-006
+- SOURCE-ORC-HIS-2013-007
+- SOURCE-ORC-HIS-2013-008
+- SOURCE-ORC-HIS-2013-009
+- SOURCE-ORC-HIS-2012-010
+- SOURCE-ORC-HIS-2012-011
+- SOURCE-ORC-HIS-2012-012
+- SOURCE-ORC-HIS-2009-013
+- SOURCE-ORC-HIS-UNK-014
+- SOURCE-ORC-HIS-2013-015
+- SOURCE-ORC-HIS-2015-016
+- SOURCE-ORC-HIS-2014-017
+- SOURCE-ORC-HIS-UNK-018
 acquired_sources: []
 failed_sources:
 - SOURCE-ORC-HIS-2009-001
@@ -24,8 +48,13 @@ failed_sources:
 - SOURCE-ORC-HIS-2015-016
 - SOURCE-ORC-HIS-2014-017
 - SOURCE-ORC-HIS-UNK-018
+skipped_sources: []
 duplicate_hashes: {}
-notes: Sandbox TLS/SSL restriction prevents connection to Google Drive (drive.google.com).
-  All acquisition attempts failed. Original files not modified or downloaded.
-next_action: Retry acquisition in an environment with working Google Drive access,
-  or manually provide source files and rerun Phase 3.
+external_sources: []
+notes: Retry of Phase 3. Every non-external source was re-attempted. If downloads
+  failed, the sandbox TLS/SSL restriction to Google services remains in effect (see
+  run log errors). Original files are preserved unchanged where acquired; no file
+  was invented or modified.
+next_action: If sources remain inaccessible, acquisition must be retried in an environment
+  with working Google Drive access, or preserved originals must be provided manually
+  and recorded in the inventory before Phase 4.

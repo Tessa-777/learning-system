@@ -1,15 +1,23 @@
-issue: Phase 3 acquisition failed for all accessible Mathematics sources due to sandbox TLS/SSL restriction to Google Drive (2 external sources excluded)
-affected_entity: SOURCE-ORC-MAT-2016-??? through SOURCE-ORC-MAT-2026-??? (270 accessible, 2 external)
-evidence:
-  - inventory: data/raw/mathematics/SOURCE_INVENTORY.yaml (272 total; 270 accessible before Phase 3)
-  - run: runs/20260903T091854Z_8c5d
-  - errors: 270 acquisition_failed errors in errors.json
-  - external: 2 sources (stithian.com, Mindbourne portal) remain external
-possible_resolutions:
-  - Retry Phase 3 in an environment with working Google Drive access
-  - Verify external sources' grade applicability
-  - Confirm Mathematics inventory completeness (some file IDs may need re-verification)
-recommended_review: Human review required; verify Mathematics source completeness and external sources; do not proceed to Phase 4 without resolving
-subject: mathematics
+review_queue_id: RQ-P3-MAT-ACQUISITION
 phase: 3
-created_at: '2026-09-03T09:19:00Z'
+subject: mathematics
+retry: true
+issue: 'Phase 3 acquisition (retry) failed for 270 of 270 attempted mathematics sources:
+  sandbox TLS/SSL restriction to Google services.'
+affected_entity: SOURCE-INV-ORC-MAT (272 source records) -> data/raw/mathematics/
+evidence:
+- 'inventory: data/raw/mathematics/SOURCE_INVENTORY.yaml'
+- 'prior phase3 runs: [''20260903T091854Z_8c5d'']'
+- 'this retry run: runs/20260903T095800Z_7724 (status completed_with_review, acquired=0,
+  failed=270)'
+- 'report: /home/user/learning-system/data/raw/mathematics/ACQUISITION_REPORT.yaml'
+possible_resolutions:
+- Retry Phase 3 in an environment with working Google Drive access
+- Manually download source files from the recorded Google Drive URLs and preserve
+  them under data/raw/<subject>/ with local_path + SHA-256 file_hash recorded in the
+  inventory
+- Provide source files through an alternative storage mechanism
+recommended_review: Human review required to confirm whether source files can be obtained
+  from the ORC. Do not treat sources as acquired without a preserved local file and
+  verified hash.
+created_at: '2026-09-03T09:58:08.989870Z'

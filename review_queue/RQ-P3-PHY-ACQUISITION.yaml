@@ -1,15 +1,23 @@
-issue: Phase 3 acquisition failed for all accessible Physics sources due to sandbox TLS/SSL restriction to Google Drive
-affected_entity: SOURCE-ORC-PHY-2016-001 through SOURCE-ORC-PHY-2025-??? (233 sources) plus 4 container folders
-evidence:
-  - inventory: data/raw/physics/SOURCE_INVENTORY.yaml (233 accessible sources before Phase 3)
-  - run: runs/20260903T091842Z_c0f7
-  - errors: 233 acquisition_failed errors in errors.json
-  - container records: 4 folders (IeBT P1-Physics, IeBT P2-Chemistry, etc.)
-possible_resolutions:
-  - Retry Phase 3 in an environment with working Google Drive access
-  - Manually download source files from Google Drive URLs and rerun Phase 3
-  - Verify container folder contents separately
-recommended_review: Human review required to confirm Physics source acquisition; container folders also require manual inspection; do not proceed to Phase 4 without resolving
-subject: physics
+review_queue_id: RQ-P3-PHY-ACQUISITION
 phase: 3
-created_at: '2026-09-03T09:19:00Z'
+subject: physics
+retry: true
+issue: 'Phase 3 acquisition (retry) failed for 233 of 233 attempted physics sources:
+  sandbox TLS/SSL restriction to Google services.'
+affected_entity: SOURCE-INV-ORC-PHY (233 source records) -> data/raw/physics/
+evidence:
+- 'inventory: data/raw/physics/SOURCE_INVENTORY.yaml'
+- 'prior phase3 runs: [''20260903T091842Z_c0f7'']'
+- 'this retry run: runs/20260903T095743Z_9daa (status completed_with_review, acquired=0,
+  failed=233)'
+- 'report: /home/user/learning-system/data/raw/physics/ACQUISITION_REPORT.yaml'
+possible_resolutions:
+- Retry Phase 3 in an environment with working Google Drive access
+- Manually download source files from the recorded Google Drive URLs and preserve
+  them under data/raw/<subject>/ with local_path + SHA-256 file_hash recorded in the
+  inventory
+- Provide source files through an alternative storage mechanism
+recommended_review: Human review required to confirm whether source files can be obtained
+  from the ORC. Do not treat sources as acquired without a preserved local file and
+  verified hash.
+created_at: '2026-09-03T09:57:51.417947Z'

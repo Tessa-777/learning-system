@@ -1,0 +1,15 @@
+{
+  "run_id": "20260903T095751Z_4aeb",
+  "started_at": "2026-09-03T09:57:51.601663Z",
+  "completed_at": "2026-09-03T09:57:52.175498Z",
+  "phase": 3,
+  "subject": "history",
+  "spec_version": "1.0.0",
+  "implementation_spec_version": "1.0.0",
+  "agent_version": "1.0.0",
+  "model": "unknown",
+  "model_provider": "unknown",
+  "git_commit_before": "60adb60",
+  "git_commit_after": "60adb60",
+  "status": "completed_with_review"
+}

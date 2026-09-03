@@ -1,10 +1,10 @@
 subject: ap_mathematics
 phase: 4
 phase_letter: E
-run_id: 20260903T094154Z_85c3
+run_id: 20260903T095816Z_9585
 report_type: phase4_extraction_report
 status: blocked
-generated_at: '2026-09-03T09:41:55.112745Z'
+generated_at: '2026-09-03T09:58:16.775483Z'
 executed_scope: Phase 4 only. No question segmentation (Phase 5), no educational content
   analysis/classification, no other subjects processed.
 gate_check:

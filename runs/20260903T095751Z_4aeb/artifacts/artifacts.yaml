@@ -1,0 +1,21 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/history/ACQUISITION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:57:52.175199Z'
+  source_run: 20260903T095751Z_4aeb
+  content_hash: 2046596a7b5ffefc522d80efdd7ae634ce7eb4cc6efbf6ef1daa4f4a83d32b89
+  description: Phase 3 acquisition retry report for history
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P3-HIS-ACQUISITION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:57:52.175382Z'
+  source_run: 20260903T095751Z_4aeb
+  content_hash: 75c30c211a7c7e7381108d379513e6566bc2fc5b0e523cdc721b9791c28c66d0
+  description: Phase 3 review-queue item for history (retry)
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/history/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:57:52.175430Z'
+  source_run: 20260903T095751Z_4aeb
+  content_hash: 19dda7acd5e51002a95f695ede0ef3dc90af7e525430a9db9edb46ba23bddf75
+  description: Source inventory for history (Phase 3 retry run record appended)

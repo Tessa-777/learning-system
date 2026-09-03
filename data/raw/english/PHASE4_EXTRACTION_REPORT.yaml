@@ -1,10 +1,10 @@
 subject: english
 phase: 4
 phase_letter: D
-run_id: 20260903T094154Z_0671
+run_id: 20260903T095816Z_980e
 report_type: phase4_extraction_report
 status: blocked
-generated_at: '2026-09-03T09:41:54.721521Z'
+generated_at: '2026-09-03T09:58:16.368861Z'
 executed_scope: Phase 4 only. No question segmentation (Phase 5), no educational content
   analysis/classification, no other subjects processed.
 gate_check:

@@ -1,0 +1,28 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/ap_mathematics/PHASE4_EXTRACTION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:58:16.870123Z'
+  source_run: 20260903T095816Z_9585
+  content_hash: 5cb79086877a2bc38992b53c96bde2cc6989c3e68c3d4267763e3e5020828aff
+  description: Phase 4 blocked-state extraction report for ap_mathematics
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P4-APM-EXTRACTION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:58:16.870317Z'
+  source_run: 20260903T095816Z_9585
+  content_hash: 34cee7c01f41b19e067c500ed5d7cb3bab1061cfde7d0340d40bd0e2fe34da71
+  description: Phase 4 review-queue item for ap_mathematics
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/ap_mathematics/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:58:16.870364Z'
+  source_run: 20260903T095816Z_9585
+  content_hash: 0e005f71b29b0d41d854be918c84f1f12b74855f388e06474a8d1f7441d5a7d5
+  description: Source inventory for ap_mathematics (Phase 4 run record appended)
+- artifact_id: ART-0004
+  path: /home/user/learning-system/data/extracted/ap_mathematics/.gitkeep
+  type: file
+  created_or_modified: '2026-09-03T09:58:16.870510Z'
+  source_run: 20260903T095816Z_9585
+  content_hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  description: "Structural placeholder only \u2014 no extraction artifacts for ap_mathematics"
