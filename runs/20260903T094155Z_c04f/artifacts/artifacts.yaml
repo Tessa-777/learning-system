@@ -1,0 +1,42 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/mathematics/PHASE4_EXTRACTION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:41:55.945184Z'
+  source_run: 20260903T094155Z_c04f
+  content_hash: 3bca9e96471c016c73224617802ba894758069b89df00791a3538e5ce40d4760
+  description: Phase 4 blocked-state extraction report for mathematics
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P4-MAT-EXTRACTION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:41:55.945421Z'
+  source_run: 20260903T094155Z_c04f
+  content_hash: 51333d0f12b268ed073bc0575bada1cd9271452b7b733810cff9e853cb11a33f
+  description: Phase 4 review-queue item for mathematics
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/mathematics/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:41:55.945467Z'
+  source_run: 20260903T094155Z_c04f
+  content_hash: df022ed798292a3a0cdeb0ce7e2b1441830e6fac3027d747fbfd1838438582ef
+  description: Source inventory for mathematics (Phase 4 run record appended)
+- artifact_id: ART-0004
+  path: /home/user/learning-system/data/extracted/mathematics/.gitkeep
+  type: file
+  created_or_modified: '2026-09-03T09:41:55.945646Z'
+  source_run: 20260903T094155Z_c04f
+  content_hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  description: "Structural placeholder only \u2014 no extraction artifacts for mathematics"
+- artifact_id: ART-0005
+  path: /home/user/learning-system/data/raw/PHASE4_AGGREGATE_SUMMARY.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:41:55.948967Z'
+  source_run: 20260903T094155Z_c04f
+  content_hash: 848b93ea0d725196422b368f20778cb0cae5627f47cd4e12d7b9170a4f49b478
+  description: Phase 4 aggregate blocked-state summary (all subjects)
+- artifact_id: ART-0006
+  path: /home/user/learning-system/STATUS.md
+  type: markdown
+  created_or_modified: '2026-09-03T09:41:55.949151Z'
+  source_run: 20260903T094155Z_c04f
+  content_hash: 4ae15c1ba6b66fb79903369924bf7e1d27e317ab0832b082269796287f3bc34b
+  description: STATUS.md updated with Phase 4 blocked status

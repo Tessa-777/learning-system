@@ -3,12 +3,12 @@
 This file is auto-written by `scripts/phase1_bootstrap.py` and should be updated after each run (IMPLEMENTATION_SPEC §25). The current phase is recorded under `runs/`.
 
 ```yaml
-current_phase: 3
+current_phase: 4
 current_subject: all
-status: completed_with_review
+status: blocked
 knowledge_bank_version: null
 unresolved_items: 818
-last_run_id: 20260903T091854Z_8c5d
+last_run_id: 20260903T094155Z_c04f
 next_allowed_phase: 4
 ```
 
@@ -330,6 +330,297 @@ No source files were downloaded for any subject because the sandbox environment 
 
 ---
 
+## Phase 4A — Biology Extraction
+
+**Status:** blocked
+
+**Run ID:** `20260903T094153Z_264a`
+
+### Outcome
+
+Phase 4 extraction was executed for biology. The gate check confirmed there is **no acquired corpus**: Phase 3 preserved 0 of 52 sources requiring extraction (all `access_status: inaccessible`, `local_path: null`, `file_hash: null`). The sandbox TLS restriction to Google Drive was re-probed and is still present. With zero preserved originals there were no pages to extract text from, no tables, figures, diagrams, headers/footers, question numbers or mark allocations to preserve, no extraction confidence to record, and no pages to flag for visual verification. No text was invented and no external material was substituted. The run is marked **blocked** (RUN_LOG_SPEC §11) on the missing Phase 3 dependency. Phase 5 was not started.
+
+---
+
+### Deliverables
+
+- `data/raw/biology/PHASE4_EXTRACTION_REPORT.yaml` — blocked-state report
+- `data/extracted/biology/` — structural placeholder only (`.gitkeep`); no artifacts
+- `review_queue/RQ-P4-BIO-EXTRACTION.yaml`
+- `runs/20260903T094153Z_264a/` — full run log (events, decisions, errors, metrics, artifacts)
+
+---
+
+### Metrics
+
+- Sources requiring extraction: 52
+- Sources with preserved original: 0
+- Documents extracted: 0
+- Pages extracted: 0
+- Pages requiring visual verification: 0
+- Extraction uncertainty records: 0
+- Original files modified: 0
+- Unresolved items (carried from Phase 3): 52
+
+---
+
+### Unresolved / review items
+
+- All 52 biology sources still lack a preserved original; Phase 4 extraction remains blocked until Phase 3 is resolved (see `RQ-P3-BIO-ACQUISITION.yaml` and `RQ-P4-BIO-EXTRACTION.yaml`).
+
+---
+
+## Phase 4B — Physics Extraction
+
+**Status:** blocked
+
+**Run ID:** `20260903T094153Z_392b`
+
+### Outcome
+
+Phase 4 extraction was executed for physics. The gate check confirmed there is **no acquired corpus**: Phase 3 preserved 0 of 233 sources requiring extraction (all `access_status: inaccessible`, `local_path: null`, `file_hash: null`). The sandbox TLS restriction to Google Drive was re-probed and is still present. With zero preserved originals there were no pages to extract text from, no tables, figures, diagrams, headers/footers, question numbers or mark allocations to preserve, no extraction confidence to record, and no pages to flag for visual verification. No text was invented and no external material was substituted. The run is marked **blocked** (RUN_LOG_SPEC §11) on the missing Phase 3 dependency. Phase 5 was not started.
+
+---
+
+### Deliverables
+
+- `data/raw/physics/PHASE4_EXTRACTION_REPORT.yaml` — blocked-state report
+- `data/extracted/physics/` — structural placeholder only (`.gitkeep`); no artifacts
+- `review_queue/RQ-P4-PHY-EXTRACTION.yaml`
+- `runs/20260903T094153Z_392b/` — full run log (events, decisions, errors, metrics, artifacts)
+
+---
+
+### Metrics
+
+- Sources requiring extraction: 233
+- Sources with preserved original: 0
+- Documents extracted: 0
+- Pages extracted: 0
+- Pages requiring visual verification: 0
+- Extraction uncertainty records: 0
+- Original files modified: 0
+- Unresolved items (carried from Phase 3): 233
+
+---
+
+### Unresolved / review items
+
+- All 233 physics sources still lack a preserved original; Phase 4 extraction remains blocked until Phase 3 is resolved (see `RQ-P3-PHY-ACQUISITION.yaml` and `RQ-P4-PHY-EXTRACTION.yaml`).
+
+---
+
+## Phase 4C — History Extraction
+
+**Status:** blocked
+
+**Run ID:** `20260903T094154Z_f08a`
+
+### Outcome
+
+Phase 4 extraction was executed for history. The gate check confirmed there is **no acquired corpus**: Phase 3 preserved 0 of 18 sources requiring extraction (all `access_status: inaccessible`, `local_path: null`, `file_hash: null`). The sandbox TLS restriction to Google Drive was re-probed and is still present. With zero preserved originals there were no pages to extract text from, no tables, figures, diagrams, headers/footers, question numbers or mark allocations to preserve, no extraction confidence to record, and no pages to flag for visual verification. No text was invented and no external material was substituted. The run is marked **blocked** (RUN_LOG_SPEC §11) on the missing Phase 3 dependency. Phase 5 was not started.
+
+---
+
+### Deliverables
+
+- `data/raw/history/PHASE4_EXTRACTION_REPORT.yaml` — blocked-state report
+- `data/extracted/history/` — structural placeholder only (`.gitkeep`); no artifacts
+- `review_queue/RQ-P4-HIS-EXTRACTION.yaml`
+- `runs/20260903T094154Z_f08a/` — full run log (events, decisions, errors, metrics, artifacts)
+
+---
+
+### Metrics
+
+- Sources requiring extraction: 18
+- Sources with preserved original: 0
+- Documents extracted: 0
+- Pages extracted: 0
+- Pages requiring visual verification: 0
+- Extraction uncertainty records: 0
+- Original files modified: 0
+- Unresolved items (carried from Phase 3): 18
+
+---
+
+### Unresolved / review items
+
+- All 18 history sources still lack a preserved original; Phase 4 extraction remains blocked until Phase 3 is resolved (see `RQ-P3-HIS-ACQUISITION.yaml` and `RQ-P4-HIS-EXTRACTION.yaml`).
+
+---
+
+## Phase 4D — English Extraction
+
+**Status:** blocked
+
+**Run ID:** `20260903T094154Z_0671`
+
+### Outcome
+
+Phase 4 extraction was executed for english. The gate check confirmed there is **no acquired corpus**: Phase 3 preserved 0 of 100 sources requiring extraction (all `access_status: inaccessible`, `local_path: null`, `file_hash: null`). The sandbox TLS restriction to Google Drive was re-probed and is still present. With zero preserved originals there were no pages to extract text from, no tables, figures, diagrams, headers/footers, question numbers or mark allocations to preserve, no extraction confidence to record, and no pages to flag for visual verification. No text was invented and no external material was substituted. The run is marked **blocked** (RUN_LOG_SPEC §11) on the missing Phase 3 dependency. Phase 5 was not started.
+
+---
+
+### Deliverables
+
+- `data/raw/english/PHASE4_EXTRACTION_REPORT.yaml` — blocked-state report
+- `data/extracted/english/` — structural placeholder only (`.gitkeep`); no artifacts
+- `review_queue/RQ-P4-ENG-EXTRACTION.yaml`
+- `runs/20260903T094154Z_0671/` — full run log (events, decisions, errors, metrics, artifacts)
+
+---
+
+### Metrics
+
+- Sources requiring extraction: 100
+- Sources with preserved original: 0
+- Documents extracted: 0
+- Pages extracted: 0
+- Pages requiring visual verification: 0
+- Extraction uncertainty records: 0
+- Original files modified: 0
+- Unresolved items (carried from Phase 3): 100
+
+---
+
+### Unresolved / review items
+
+- All 100 english sources still lack a preserved original; Phase 4 extraction remains blocked until Phase 3 is resolved (see `RQ-P3-ENG-ACQUISITION.yaml` and `RQ-P4-ENG-EXTRACTION.yaml`).
+
+---
+
+## Phase 4E — AP Mathematics Extraction
+
+**Status:** blocked
+
+**Run ID:** `20260903T094154Z_85c3`
+
+### Outcome
+
+Phase 4 extraction was executed for ap_mathematics. The gate check confirmed there is **no acquired corpus**: Phase 3 preserved 0 of 145 sources requiring extraction (all `access_status: inaccessible`, `local_path: null`, `file_hash: null`). The sandbox TLS restriction to Google Drive was re-probed and is still present. With zero preserved originals there were no pages to extract text from, no tables, figures, diagrams, headers/footers, question numbers or mark allocations to preserve, no extraction confidence to record, and no pages to flag for visual verification. No text was invented and no external material was substituted. The run is marked **blocked** (RUN_LOG_SPEC §11) on the missing Phase 3 dependency. Phase 5 was not started.
+
+---
+
+### Deliverables
+
+- `data/raw/ap_mathematics/PHASE4_EXTRACTION_REPORT.yaml` — blocked-state report
+- `data/extracted/ap_mathematics/` — structural placeholder only (`.gitkeep`); no artifacts
+- `review_queue/RQ-P4-APM-EXTRACTION.yaml`
+- `runs/20260903T094154Z_85c3/` — full run log (events, decisions, errors, metrics, artifacts)
+
+---
+
+### Metrics
+
+- Sources requiring extraction: 145
+- Sources with preserved original: 0
+- Documents extracted: 0
+- Pages extracted: 0
+- Pages requiring visual verification: 0
+- Extraction uncertainty records: 0
+- Original files modified: 0
+- Unresolved items (carried from Phase 3): 145
+
+---
+
+### Unresolved / review items
+
+- All 145 ap_mathematics sources still lack a preserved original; Phase 4 extraction remains blocked until Phase 3 is resolved (see `RQ-P3-APM-ACQUISITION.yaml` and `RQ-P4-APM-EXTRACTION.yaml`).
+
+---
+
+## Phase 4F — Mathematics Extraction
+
+**Status:** blocked
+
+**Run ID:** `20260903T094155Z_c04f`
+
+### Outcome
+
+Phase 4 extraction was executed for mathematics. The gate check confirmed there is **no acquired corpus**: Phase 3 preserved 0 of 270 sources requiring extraction (all `access_status: inaccessible`, `local_path: null`, `file_hash: null`). The sandbox TLS restriction to Google Drive was re-probed and is still present. With zero preserved originals there were no pages to extract text from, no tables, figures, diagrams, headers/footers, question numbers or mark allocations to preserve, no extraction confidence to record, and no pages to flag for visual verification. No text was invented and no external material was substituted. The run is marked **blocked** (RUN_LOG_SPEC §11) on the missing Phase 3 dependency. Phase 5 was not started.
+
+---
+
+### Deliverables
+
+- `data/raw/mathematics/PHASE4_EXTRACTION_REPORT.yaml` — blocked-state report
+- `data/extracted/mathematics/` — structural placeholder only (`.gitkeep`); no artifacts
+- `review_queue/RQ-P4-MAT-EXTRACTION.yaml`
+- `runs/20260903T094155Z_c04f/` — full run log (events, decisions, errors, metrics, artifacts)
+
+---
+
+### Metrics
+
+- Sources requiring extraction: 270
+- Sources with preserved original: 0
+- Documents extracted: 0
+- Pages extracted: 0
+- Pages requiring visual verification: 0
+- Extraction uncertainty records: 0
+- Original files modified: 0
+- Unresolved items (carried from Phase 3): 270
+
+---
+
+### Unresolved / review items
+
+- All 270 mathematics sources still lack a preserved original; Phase 4 extraction remains blocked until Phase 3 is resolved (see `RQ-P3-MAT-ACQUISITION.yaml` and `RQ-P4-MAT-EXTRACTION.yaml`).
+
+---
+
+## Aggregate Phase 4 Status
+
+**Status:** blocked
+
+**Run IDs:**
+- Biology: `20260903T094153Z_264a`
+- Physics: `20260903T094153Z_392b`
+- History: `20260903T094154Z_f08a`
+- English: `20260903T094154Z_0671`
+- AP Mathematics: `20260903T094154Z_85c3`
+- Mathematics: `20260903T094155Z_c04f`
+
+### Aggregate Notes
+
+Phase 4 was executed for all six subjects in the prescribed order (IMPLEMENTATION_SPEC §23). No subject had an acquired corpus, so no extraction was performed anywhere; nothing was fabricated or substituted. All six subject runs are marked blocked on the Phase 3 dependency, consistent with the STATUS.md gate and RUN_LOG_SPEC §11. Aggregate unresolved items carried from Phase 3: 818.
+
+---
+
+### Deliverables (aggregate)
+
+- `data/raw/PHASE4_AGGREGATE_SUMMARY.yaml` — aggregate blocked-state summary
+- `data/raw/<subject>/PHASE4_EXTRACTION_REPORT.yaml` × 6
+- `review_queue/RQ-P4-*-EXTRACTION.yaml` × 6
+- `runs/` × 6 (full logs, decisions, errors, metrics, artifacts)
+
+---
+
+### Validation
+
+- All 6 run directories contain `run.json`, `events.jsonl`, `decisions.json`, `errors.json`, `metrics.json` and `artifacts/artifacts.yaml`.
+- All source records in all 6 inventories still validate against `database/schema/source_metadata.schema.json` (no source record modified).
+- `data/extracted/<subject>/` contains structural `.gitkeep` placeholders only; no extraction content was created.
+- No original files were modified or created.
+- Pytest suite passes (48 passed).
+- All errors recorded with `unresolved` status; all runs marked `blocked` with rationale in `decisions.json`.
+
+---
+
+### Unresolved / review items (aggregate)
+
+1. All 818 accessible sources across 6 subjects remain without preserved originals (carried from Phase 3).
+2. Phase 4 extraction is blocked for all 6 subjects until Phase 3 is resolved (new review items `RQ-P4-*-EXTRACTION.yaml` × 6).
+3. Phase 2 unresolved items (ORC legacy folder, AP boundary, History zip, Physics legacy folder, external formula sheets/portal, out-of-scope clusters) remain open.
+---
+
 ## Next Phase
 
-**Phase 4 — Extract source content.** Do NOT start Phase 4 until Phase 3 acquisition failures are resolved for all six subjects. Every source must have a preserved original file (`local_path`) and a verified SHA-256 hash (`file_hash`) before extraction can proceed responsibly.
+**Phase 4 — Extract source content (BLOCKED).** Do NOT re-run Phase 4
+until Phase 3 acquisition is resolved: every source must have a preserved
+original file (`local_path`) and a verified SHA-256 hash (`file_hash`)
+before extraction can proceed. Extraction must not invent, substitute or
+simulate source text. Once originals are preserved, re-run Phase 4 per
+subject; do not proceed to Phase 5 until extraction is unblocked and
+validated.

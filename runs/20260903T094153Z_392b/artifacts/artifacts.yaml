@@ -1,0 +1,28 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/physics/PHASE4_EXTRACTION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:41:54.434077Z'
+  source_run: 20260903T094153Z_392b
+  content_hash: 4c278d99ee6ee6c2e829980a53e8194f1317ebf9ab915d17bac4253cec14759a
+  description: Phase 4 blocked-state extraction report for physics
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P4-PHY-EXTRACTION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:41:54.434285Z'
+  source_run: 20260903T094153Z_392b
+  content_hash: 885dd83829ee1a6ac60a17ee4387e3363b2854fd71efccfa8c95ee7d7b708c55
+  description: Phase 4 review-queue item for physics
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/physics/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:41:54.434329Z'
+  source_run: 20260903T094153Z_392b
+  content_hash: 00e803625d2be993aa88b66202db835515df3aed4cc89c05e7f18094d89c8f7f
+  description: Source inventory for physics (Phase 4 run record appended)
+- artifact_id: ART-0004
+  path: /home/user/learning-system/data/extracted/physics/.gitkeep
+  type: file
+  created_or_modified: '2026-09-03T09:41:54.434488Z'
+  source_run: 20260903T094153Z_392b
+  content_hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  description: "Structural placeholder only \u2014 no extraction artifacts for physics"

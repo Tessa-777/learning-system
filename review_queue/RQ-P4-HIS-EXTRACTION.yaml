@@ -1,0 +1,24 @@
+review_queue_id: RQ-P4-HIS-EXTRACTION
+phase: 4
+subject: history
+issue: 'Phase 4 extraction cannot start for history: no acquired corpus exists. 18
+  of 18 sources have no preserved original file (local_path=null, file_hash=null after
+  Phase 3).'
+affected_entity: SOURCE-INV-ORC-HIS (18 source records) -> data/extracted/history/
+evidence:
+- 'inventory: data/raw/history/SOURCE_INVENTORY.yaml (0 sources acquired in Phase
+  3)'
+- 'phase3 run: runs/20260903T091848Z_81f2 (status completed_with_review, 0 acquired)'
+- 'phase3 report: /home/user/learning-system/data/raw/history/ACQUISITION_REPORT.yaml'
+- 'phase4 run: runs/20260903T094154Z_f08a (status blocked)'
+- 'STATUS.md Next Phase gate: Phase 4 must not start until every source has a preserved
+  original file and verified SHA-256 hash'
+possible_resolutions:
+- Retry Phase 3 acquisition in an environment with working Google Drive access, then
+  re-run Phase 4
+- Provide preserved original files manually (data/raw/<subject>/ + local_path/file_hash),
+  then re-run Phase 4
+- Provide files through an alternative storage mechanism, then re-run Phase 4
+recommended_review: 'Human review required: resolve RQ-P3-HIS-ACQUISITION first; do
+  not treat Phase 4 as extractable until preserved originals exist.'
+created_at: '2026-09-03T09:41:54.485179Z'
