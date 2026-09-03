@@ -1,0 +1,91 @@
+- artifact_id: ART-0001
+  path: data/raw/CORPUS_MANIFEST.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.699909Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: a5eb58bcab1eb3c018fb98fb71cade8533334c2c055f9b94c48d3df5506f9896
+  description: Phase 2 corpus manifest for all six subjects
+- artifact_id: ART-0002
+  path: data/raw/biology/SOURCE_INVENTORY.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.699931Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: 8c4ae01eccd6f092f0e12dfefa03171f4942a9cf934ede2601e44532d5ff033a
+  description: Phase 2 source inventory for biology
+- artifact_id: ART-0003
+  path: data/raw/physics/SOURCE_INVENTORY.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.699944Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: 6e337431e42b42ec7caff8e1965948d41f284b128662556ab8b38ab5807279bd
+  description: Phase 2 source inventory for physics
+- artifact_id: ART-0004
+  path: data/raw/history/SOURCE_INVENTORY.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.699954Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: 885e9225b6152b29c4093ac17efbea321505c4ac0df84d5442c586789a3dbab5
+  description: Phase 2 source inventory for history
+- artifact_id: ART-0005
+  path: data/raw/english/SOURCE_INVENTORY.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.699965Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: 6b1c4d58c5c87d5fde57b834d7ca87ce4d1bd989cfc0df28f3ac62b6c253c49d
+  description: Phase 2 source inventory for english
+- artifact_id: ART-0006
+  path: data/raw/ap_mathematics/SOURCE_INVENTORY.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.699976Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: f5b4be9e629debce4c461f6ac4bc578afc26cd3e311f9939b6414cfbcf6856c9
+  description: Phase 2 source inventory for ap_mathematics
+- artifact_id: ART-0007
+  path: data/raw/mathematics/SOURCE_INVENTORY.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.699985Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: 34076d267542a10d9a06c6bed0493cdbd347e707313a8b2e9254a03677a8ff1d
+  description: Phase 2 source inventory for mathematics
+- artifact_id: ART-0008
+  path: review_queue/RQ-ORC-002.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.700365Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: 0870d83bd30d756e8694e2b582072f898286103759b73e85bd7e348c5093be98
+  description: Phase 2 review queue item
+- artifact_id: ART-0009
+  path: review_queue/RQ-ORC-003.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.700402Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: 5b5558a387bf71278c9d27584c1cb252b0dc531f15e4d6ed7b9c9b1fa81209cd
+  description: Phase 2 review queue item
+- artifact_id: ART-0010
+  path: review_queue/RQ-ORC-004.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.700435Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: fa17259d28aed2f7ea7e9659f70b7cd3bce0b518d9fe09dca278c053f181aba2
+  description: Phase 2 review queue item
+- artifact_id: ART-0011
+  path: review_queue/RQ-ORC-005.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.700456Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: 7cd9214d467869db9ec91f5e690ed4160b89898d6d2aff28a79b43157f10fa24
+  description: Phase 2 review queue item
+- artifact_id: ART-0012
+  path: review_queue/RQ-ORC-006.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:04:36.700476Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: 74b4c562d22b2831fad7931d9ec40b215c5ac8edf1413b52b2b0f2efa10413dc
+  description: Phase 2 review queue item
+- artifact_id: ART-0013
+  path: STATUS.md
+  type: markdown
+  created_or_modified: '2026-09-03T09:04:36.700507Z'
+  source_run: 20260903T090314Z_25ba
+  content_hash: b512a601bc120c98a63762310f1c2e477f9e0dcd8e19fbff8f6aa44ba2bb9903
+  description: Project status updated for Phase 2

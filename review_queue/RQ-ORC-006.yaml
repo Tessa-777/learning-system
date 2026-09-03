@@ -1,0 +1,12 @@
+review_queue_id: RQ-ORC-006
+phase: 2
+subject: physics
+issue: Out-of-scope chemistry / Grade 12 clusters recorded within physics inventories
+affected_entity: RQ-ORC-006
+evidence:
+- SOURCE-ORC-PHY-UNK-197
+- SOURCE-ORC-PHY-UNK-198
+possible_resolutions:
+- keep out of scope
+- move to a separate chemistry inventory
+recommended_review: keep out of scope unless a chemistry subject is added

@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2026-09-03T09:04:35.980923Z",
+    "phase": 2,
+    "subject": "all",
+    "error_type": "http_transport",
+    "message": "Direct curl-based fetching of ORC/Drive pages was blocked in the sandbox; all page fetches used the fetch_page tool instead.",
+    "affected_artifact": "discovery tables",
+    "retry_attempts": 2,
+    "resolution": "Fetch tool used; all pages retrieved successfully.",
+    "status": "resolved"
+  },
+  {
+    "timestamp": "2026-09-03T09:04:35.980927Z",
+    "phase": 2,
+    "subject": "all",
+    "error_type": "page_truncation",
+    "message": "Google embeddedfolderview listings were truncated when retrieved whole; chunked retrieval was used for large trees.",
+    "affected_artifact": "maths/exams, english, physics trees",
+    "retry_attempts": 3,
+    "resolution": "Chunked fetches completed; live re-verification matched the TSVs with no missing file-level entries.",
+    "status": "resolved"
+  },
+  {
+    "timestamp": "2026-09-03T09:04:35.980930Z",
+    "phase": 2,
+    "subject": "unknown",
+    "error_type": "source_inaccessible",
+    "message": "Legacy 'Grade 11 work' Drive folder could not be listed (embedded folder view HTTP 500); subject attribution unconfirmed.",
+    "affected_artifact": "SOURCE-UNRESOLVED-ORC-G11-WORK-001",
+    "retry_attempts": 1,
+    "resolution": "Recorded as unresolved; queued for human review.",
+    "status": "unresolved"
+  }
+]

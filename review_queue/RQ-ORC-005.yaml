@@ -1,0 +1,13 @@
+review_queue_id: RQ-ORC-005
+phase: 2
+subject: mathematics
+issue: External sources grade applicability unknown
+affected_entity: RQ-ORC-005
+evidence:
+- SOURCE-ORC-MAT-UNK-271
+- SOURCE-ORC-MAT-UNK-272
+- SOURCE-ORC-APM-UNK-146
+possible_resolutions:
+- treat as reference-grade-agnostic
+- exclude from Grade 11 corpus
+recommended_review: confirm applicability with subject owner

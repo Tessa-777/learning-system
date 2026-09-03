@@ -1,0 +1,301 @@
+inventory_id: SOURCE-INV-ORC-HIS
+phase: 2
+subject: history
+grade: '11'
+primary_source: https://sites.google.com/stbenedicts.co.za/orc
+subject_page: https://sites.google.com/stbenedicts.co.za/orc/history
+drive_root: 1_bAfnilOSHd9xK1HBczMc43F4Uhtnd0T
+generated_at: '2026-09-03T09:04:28.066534Z'
+record_count: 18
+container_record_count: 0
+dedupe:
+  rows: 18
+  unique_fileids: 18
+  duplicates_removed: 0
+additional_tables: {}
+container_records: []
+summary:
+  by_document_type:
+    past_paper: 11
+    memorandum: 3
+    reference: 3
+    other: 1
+  by_access_status:
+    accessible: 18
+  by_year:
+    '2009': 2
+    '2017': 3
+    '2016': 2
+    '2013': 4
+    '2012': 3
+    unknown: 2
+    '2015': 1
+    '2014': 1
+  by_grade:
+    '11': 18
+  out_of_scope_source_ids: []
+scope_notes:
+- 'INVENTORY SCOPE: Grade 11 material published in the St Benedict''s ORC for history.'
+- Sources marked OUT OF SCOPE (chemistry / Grade 12 / other subject) are recorded
+  for
+- discovery provenance only and MUST NOT be used by later phases without review.
+- 'External sources (access_status: external) are recorded for discovery provenance
+  only.'
+- No source files were downloaded in Phase 2; local_path / file_hash are null.
+sources:
+- source_id: SOURCE-ORC-HIS-2009-001
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: 2009_July_exam_Gr_11.doc.docx
+  year: 2009
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1DFF6EMTPie12k9qUMzpMwje-DdyVp87m
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers
+- source_id: SOURCE-ORC-HIS-2017-002
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: Copy of Gr 11- Exam - Cold War - Exam - Oct 2017.docx
+  year: 2017
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1BLZ7PDd7ixujROZZ219TJj5OPCUCpFg6
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers
+- source_id: SOURCE-ORC-HIS-2017-003
+  subject: history
+  grade: '11'
+  document_type: memorandum
+  title: Copy of Gr 11- Exam - Cold War - Exam MEMO - Oct 2017.docx
+  year: 2017
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1NWJ15t-mBmyECZclqn_J0nzhEFLqDWaJ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers
+- source_id: SOURCE-ORC-HIS-2017-004
+  subject: history
+  grade: '11'
+  document_type: reference
+  title: Copy of Gr 11- Exam Source Booklet - Cold War - Exam - Oct 2017.docx
+  year: 2017
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1GHl4VuFEe_DnGNSk0ht2bFfehzJS7XI5
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers; source booklet
+- source_id: SOURCE-ORC-HIS-2016-005
+  subject: history
+  grade: '11'
+  document_type: memorandum
+  title: Copy of Gr11 - Class Test SSA MEMO - Botha's Reforms and Response - March
+    2016(1).docx
+  year: 2016
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1-MCfagpJ92u0AmPqR5HkcdFrnRMgeEiD
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers
+- source_id: SOURCE-ORC-HIS-2016-006
+  subject: history
+  grade: '11'
+  document_type: memorandum
+  title: Copy of Gr11 - Class Test SSA MEMO - Botha's Reforms and Response - March
+    2016.docx
+  year: 2016
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1ty6QkKdYTrHI-qLbQ-qZijzhVT7VtH9g
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers; duplicate copy of previous memo
+- source_id: SOURCE-ORC-HIS-2013-007
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: GR 11 JULY EXAM 2013 P1.docx
+  year: 2013
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1CC4AXPcoJbWK2VfoTOGam_JI34EgsM6x
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers
+- source_id: SOURCE-ORC-HIS-2013-008
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: GR 11 JULY EXAM 2013.docx
+  year: 2013
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1jdN6MfF4hHdhjRszPKOaRopHQCNBNRuF
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers; paper number not stated in title
+- source_id: SOURCE-ORC-HIS-2013-009
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: GR 11 JULY EXAM P2 2013.docx
+  year: 2013
+  term: 2
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1VMDMs6PZKQYiRundWfnLCcY0WTWOlJ4e
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers
+- source_id: SOURCE-ORC-HIS-2012-010
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: GR11 July exam 2012 2 (1).docx
+  year: 2012
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1y0l7mku_KSeDPoNCwyBuGXEp5PRVvqaO
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers; duplicate copy
+- source_id: SOURCE-ORC-HIS-2012-011
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: GR11 July exam 2012 2.docx
+  year: 2012
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1WZdRUNsRJG2IqkzsDJVm1GYQuealx07V
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers
+- source_id: SOURCE-ORC-HIS-2012-012
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: GR11 July exam 2012.docx
+  year: 2012
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1IwrK8HDtx_VeAIDAvpNty47whENP_uFw
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers
+- source_id: SOURCE-ORC-HIS-2009-013
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: Gr11_Exam_July_2009.doc.docx
+  year: 2009
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1RqQ6UywkYvv4Tt0z-OsR4l3P8EPMskvf
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers
+- source_id: SOURCE-ORC-HIS-UNK-014
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: GRADE 11 Nov Exam P1.docx
+  year: unknown
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1S04Ao5SY0sLBY5tZQiR3vrRAXqkFZW2W
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers; year not stated in title
+- source_id: SOURCE-ORC-HIS-2013-015
+  subject: history
+  grade: '11'
+  document_type: past_paper
+  title: GRADE 11 Nov Exam P2 2013.docx
+  year: 2013
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1NCjO2UsL3ZkCZ1PQNlhwQ04vlnfNurhw
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers
+- source_id: SOURCE-ORC-HIS-2015-016
+  subject: history
+  grade: '11'
+  document_type: reference
+  title: July 2015 Exam Requirements for 10,11 and 12 (1).docx
+  year: 2015
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/13FfbIeCNuZ1JLtEvwslYWqnHrADxtemy
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers; exam requirements/format document (Grades 10-12)
+- source_id: SOURCE-ORC-HIS-2014-017
+  subject: history
+  grade: '11'
+  document_type: reference
+  title: NOVEMBER 2014 format and content (3).docx
+  year: 2014
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1MD7O4OgKT-9uCGaKVmnh5BzRjWJASkY2
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers; exam format and content document
+- source_id: SOURCE-ORC-HIS-UNK-018
+  subject: history
+  grade: '11'
+  document_type: other
+  title: Zipped Past Papers.zip
+  year: unknown
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1da5evyT9uYBhnhyUKtcNgnVqWRxTJ-Bj
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: History G11 Past Papers; single ZIP archive containing multiple past papers;
+    contents not expanded in Phase 2
+run_id: 20260903T090314Z_25ba
