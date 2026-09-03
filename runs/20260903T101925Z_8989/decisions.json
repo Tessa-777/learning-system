@@ -1,0 +1,44 @@
+[
+  {
+    "decision_id": "DEC-P3-ap_mathematics-001",
+    "timestamp": "2026-09-03T10:19:25.198961Z",
+    "phase": 3,
+    "subject": "ap_mathematics",
+    "decision_type": "acquisition_strategy",
+    "context": "Phase 3 acquisition for ap_mathematics: attempt download of all accessible sources from Phase 2 inventory.",
+    "evidence": [
+      "/home/user/learning-system/data/raw/ap_mathematics/SOURCE_INVENTORY.yaml"
+    ],
+    "alternatives": [
+      "skip_download",
+      "simulate_download",
+      "download_and_preserve"
+    ],
+    "selected": "download_and_preserve",
+    "rationale": "Phase 3 requires acquiring every accessible authoritative source identified in Phase 2. Original files must be preserved unchanged with SHA-256 hashes computed.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-P3-ap_mathematics-002",
+    "timestamp": "2026-09-03T10:19:28.399880Z",
+    "phase": 3,
+    "subject": "ap_mathematics",
+    "decision_type": "acquisition_completion",
+    "context": "Phase 3 acquisition completed for ap_mathematics. All accessible sources attempted.",
+    "evidence": [
+      "sources_total=146",
+      "sources_acquired=0",
+      "sources_failed=145"
+    ],
+    "alternatives": [
+      "completed",
+      "completed_with_review",
+      "blocked"
+    ],
+    "selected": "completed_with_review",
+    "rationale": "No files could be downloaded from Google Drive due to sandbox TLS/SSL restrictions. All sources remain inaccessible. Acquisition must be retried in an environment with working Google Drive access, or files must be provided manually.",
+    "confidence": "high",
+    "requires_review": true
+  }
+]

@@ -22,28 +22,28 @@ summary:
 - subject: biology
   status: completed_with_review
   details: failed=52, acquired=0
-  run_id: 20260903T091841Z_9448
+  run_id: 20260903T101915Z_c3ac
 - subject: physics
   status: completed_with_review
   details: failed=233, acquired=0
-  run_id: 20260903T091842Z_c0f7
+  run_id: 20260903T101916Z_175a
 - subject: history
   status: completed_with_review
   details: failed=18, acquired=0
-  run_id: 20260903T091848Z_81f2
+  run_id: 20260903T101922Z_4f46
 - subject: english
   status: completed_with_review
   details: failed=100, acquired=0
-  run_id: 20260903T091848Z_827b
+  run_id: 20260903T101922Z_8ca2
 - subject: ap_mathematics
   status: completed_with_review
   details: failed=145, acquired=0
-  run_id: 20260903T091851Z_b250
+  run_id: 20260903T101925Z_8989
 - subject: mathematics
   status: completed_with_review
   details: failed=270, acquired=0
-  run_id: 20260903T091854Z_8c5d
+  run_id: 20260903T101928Z_b2a6
 aggregate_notes: No source files were downloaded due to sandbox TLS restriction to
   Google Drive. All sources recorded as inaccessible with failure details. No original
   files modified. No Phase 4 work performed.
-unresolved_items_total: 16
+unresolved_items_total: 818

@@ -2,7 +2,7 @@ issue: Phase 3 acquisition failed for all accessible History sources due to sand
 affected_entity: SOURCE-ORC-HIS-2009-001 through SOURCE-ORC-HIS-2017-??? (18 sources)
 evidence:
   - inventory: data/raw/history/SOURCE_INVENTORY.yaml (18 accessible sources before Phase 3)
-  - run: runs/20260903T091848Z_81f2
+  - run: runs/20260903T101922Z_4f46
   - errors: 18 acquisition_failed errors in errors.json
   - note: includes Zipped Past Papers.zip not expanded in Phase 2
 possible_resolutions:
@@ -11,4 +11,4 @@ possible_resolutions:
 recommended_review: Human review required; zip contents must be expanded and inspected before Phase 4
 subject: history
 phase: 3
-created_at: '2026-09-03T09:19:00Z'
+created_at: '2026-09-03T10:20:13Z'

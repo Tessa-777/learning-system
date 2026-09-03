@@ -8,9 +8,35 @@ current_subject: all
 status: completed_with_review
 knowledge_bank_version: null
 unresolved_items: 818
-last_run_id: 20260903T091854Z_8c5d
+last_run_id: 20260903T101928Z_b2a6
 next_allowed_phase: 4
 ```
+
+---
+
+## Phase 3 re-run — this session (2026-09-03)
+
+Phase 3 (source acquisition) for all six subjects was **re-executed in this session**
+against the Phase 2 inventories (which were first restored to their Phase 2
+`accessible` state so every source was genuinely re-attempted). Every accessible
+authoritative source identified in Phase 2 (818 across six subjects) was attempted;
+each Google Drive download failed because the sandbox terminates outbound TLS
+connections (`TLS/SSL connection has been closed (EOF)`), including to generic
+hosts such as `example.com`. Only `github.com` (git) is reachable.
+
+Results were identical in kind to the earlier recorded runs, but produced a fresh
+set of run IDs for this session:
+
+- Biology: `20260903T101915Z_c3ac`
+- Physics: `20260903T101916Z_175a`
+- History: `20260903T101922Z_4f46`
+- English: `20260903T101922Z_8ca2`
+- AP Mathematics: `20260903T101925Z_8989`
+- Mathematics: `20260903T101928Z_b2a6`
+
+No source files were downloaded, no original files were modified or invented, and
+no duplicate hashes were detected (no files acquired). No Phase 4 (extraction) work
+was started. The earlier Phase 3 run directories remain under `runs/` as history.
 
 ---
 
@@ -67,7 +93,7 @@ No source files were downloaded or altered. No educational content was analysed.
 
 **Status:** completed_with_review
 
-**Run ID:** `20260903T091841Z_9448`
+**Run ID:** `20260903T101915Z_c3ac`
 
 **Subject:** biology
 
@@ -79,7 +105,7 @@ Phase 3 acquisition was executed for Biology. All 52 accessible authoritative so
 
 - Updated `data/raw/biology/SOURCE_INVENTORY.yaml`
 - `data/raw/biology/ACQUISITION_REPORT.yaml`
-- `runs/20260903T091841Z_9448/` — full run log (events, decisions, errors, metrics, artifacts)
+- `runs/20260903T101915Z_c3ac/` — full run log (events, decisions, errors, metrics, artifacts)
 - `review_queue/RQ-P3-BIO-ACQUISITION.yaml`
 
 ### Metrics
@@ -103,7 +129,7 @@ Phase 3 acquisition was executed for Biology. All 52 accessible authoritative so
 
 **Status:** completed_with_review
 
-**Run ID:** `20260903T091842Z_c0f7`
+**Run ID:** `20260903T101916Z_175a`
 
 **Subject:** physics
 
@@ -115,7 +141,7 @@ Phase 3 acquisition was executed for Physics. All 233 accessible authoritative s
 
 - Updated `data/raw/physics/SOURCE_INVENTORY.yaml`
 - `data/raw/physics/ACQUISITION_REPORT.yaml`
-- `runs/20260903T091842Z_c0f7/` — full run log
+- `runs/20260903T101916Z_175a/` — full run log
 - `review_queue/RQ-P3-PHY-ACQUISITION.yaml`
 
 ### Metrics
@@ -139,7 +165,7 @@ Phase 3 acquisition was executed for Physics. All 233 accessible authoritative s
 
 **Status:** completed_with_review
 
-**Run ID:** `20260903T091848Z_81f2`
+**Run ID:** `20260903T101922Z_4f46`
 
 **Subject:** history
 
@@ -151,7 +177,7 @@ Phase 3 acquisition was executed for History. All 18 accessible authoritative so
 
 - Updated `data/raw/history/SOURCE_INVENTORY.yaml`
 - `data/raw/history/ACQUISITION_REPORT.yaml`
-- `runs/20260903T091848Z_81f2/` — full run log
+- `runs/20260903T101922Z_4f46/` — full run log
 - `review_queue/RQ-P3-HIS-ACQUISITION.yaml`
 
 ### Metrics
@@ -174,7 +200,7 @@ Phase 3 acquisition was executed for History. All 18 accessible authoritative so
 
 **Status:** completed_with_review
 
-**Run ID:** `20260903T091848Z_827b`
+**Run ID:** `20260903T101922Z_8ca2`
 
 **Subject:** english
 
@@ -186,7 +212,7 @@ Phase 3 acquisition was executed for English. All 100 accessible authoritative s
 
 - Updated `data/raw/english/SOURCE_INVENTORY.yaml`
 - `data/raw/english/ACQUISITION_REPORT.yaml`
-- `runs/20260903T091848Z_827b/` — full run log
+- `runs/20260903T101922Z_8ca2/` — full run log
 - `review_queue/RQ-P3-ENG-ACQUISITION.yaml`
 
 ### Metrics
@@ -209,7 +235,7 @@ Phase 3 acquisition was executed for English. All 100 accessible authoritative s
 
 **Status:** completed_with_review
 
-**Run ID:** `20260903T091851Z_b250`
+**Run ID:** `20260903T101925Z_8989`
 
 **Subject:** ap_mathematics
 
@@ -221,7 +247,7 @@ Phase 3 acquisition was executed for AP Mathematics. 145 accessible authoritativ
 
 - Updated `data/raw/ap_mathematics/SOURCE_INVENTORY.yaml`
 - `data/raw/ap_mathematics/ACQUISITION_REPORT.yaml`
-- `runs/20260903T091851Z_b250/` — full run log
+- `runs/20260903T101925Z_8989/` — full run log
 - `review_queue/RQ-P3-APM-ACQUISITION.yaml`
 
 ### Metrics
@@ -244,7 +270,7 @@ Phase 3 acquisition was executed for AP Mathematics. 145 accessible authoritativ
 
 **Status:** completed_with_review
 
-**Run ID:** `20260903T091854Z_8c5d`
+**Run ID:** `20260903T101928Z_b2a6`
 
 **Subject:** mathematics
 
@@ -256,7 +282,7 @@ Phase 3 acquisition was executed for Mathematics. 270 accessible authoritative s
 
 - Updated `data/raw/mathematics/SOURCE_INVENTORY.yaml`
 - `data/raw/mathematics/ACQUISITION_REPORT.yaml`
-- `runs/20260903T091854Z_8c5d/` — full run log
+- `runs/20260903T101928Z_b2a6/` — full run log
 - `review_queue/RQ-P3-MAT-ACQUISITION.yaml`
 
 ### Metrics
@@ -281,12 +307,12 @@ Phase 3 acquisition was executed for Mathematics. 270 accessible authoritative s
 
 **Run IDs:**
 
-- Biology: `20260903T091841Z_9448`
-- Physics: `20260903T091842Z_c0f7`
-- History: `20260903T091848Z_81f2`
-- English: `20260903T091848Z_827b`
-- AP Mathematics: `20260903T091851Z_b250`
-- Mathematics: `20260903T091854Z_8c5d`
+- Biology: `20260903T101915Z_c3ac`
+- Physics: `20260903T101916Z_175a`
+- History: `20260903T101922Z_4f46`
+- English: `20260903T101922Z_8ca2`
+- AP Mathematics: `20260903T101925Z_8989`
+- Mathematics: `20260903T101928Z_b2a6`
 
 ### Aggregate Metrics
 

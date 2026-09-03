@@ -1,0 +1,200 @@
+[
+  {
+    "timestamp": "2026-09-03T10:19:22.439087Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2009-001: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1DFF6EMTPie12k9qUMzpMwje-DdyVp87m",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.459669Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2017-002: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1BLZ7PDd7ixujROZZ219TJj5OPCUCpFg6",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.479985Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2017-003: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1NWJ15t-mBmyECZclqn_J0nzhEFLqDWaJ",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.501883Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2017-004: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1GHl4VuFEe_DnGNSk0ht2bFfehzJS7XI5",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.524250Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2016-005: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1-MCfagpJ92u0AmPqR5HkcdFrnRMgeEiD",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.545587Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2016-006: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1ty6QkKdYTrHI-qLbQ-qZijzhVT7VtH9g",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.565764Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2013-007: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1CC4AXPcoJbWK2VfoTOGam_JI34EgsM6x",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.586668Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2013-008: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1jdN6MfF4hHdhjRszPKOaRopHQCNBNRuF",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.608030Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2013-009: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1VMDMs6PZKQYiRundWfnLCcY0WTWOlJ4e",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.631946Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2012-010: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1y0l7mku_KSeDPoNCwyBuGXEp5PRVvqaO",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.653329Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2012-011: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1WZdRUNsRJG2IqkzsDJVm1GYQuealx07V",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.673926Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2012-012: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1IwrK8HDtx_VeAIDAvpNty47whENP_uFw",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.696113Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2009-013: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1RqQ6UywkYvv4Tt0z-OsR4l3P8EPMskvf",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.716437Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-UNK-014: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1S04Ao5SY0sLBY5tZQiR3vrRAXqkFZW2W",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.737051Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2013-015: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1NCjO2UsL3ZkCZ1PQNlhwQ04vlnfNurhw",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.757838Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2015-016: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/13FfbIeCNuZ1JLtEvwslYWqnHrADxtemy",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.786776Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-2014-017: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1MD7O4OgKT-9uCGaKVmnh5BzRjWJASkY2",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-03T10:19:22.807330Z",
+    "phase": 3,
+    "subject": "history",
+    "error_type": "acquisition_failed",
+    "message": "Could not download SOURCE-ORC-HIS-UNK-018: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>",
+    "affected_artifact": "https://drive.google.com/file/d/1da5evyT9uYBhnhyUKtcNgnVqWRxTJ-Bj",
+    "retry_attempts": 0,
+    "resolution": "Source remains inaccessible from sandbox. Requires manual download or alternative access.",
+    "status": "unresolved"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "decision_id": "DEC-P3-english-001",
+    "timestamp": "2026-09-03T10:19:22.877486Z",
+    "phase": 3,
+    "subject": "english",
+    "decision_type": "acquisition_strategy",
+    "context": "Phase 3 acquisition for english: attempt download of all accessible sources from Phase 2 inventory.",
+    "evidence": [
+      "/home/user/learning-system/data/raw/english/SOURCE_INVENTORY.yaml"
+    ],
+    "alternatives": [
+      "skip_download",
+      "simulate_download",
+      "download_and_preserve"
+    ],
+    "selected": "download_and_preserve",
+    "rationale": "Phase 3 requires acquiring every accessible authoritative source identified in Phase 2. Original files must be preserved unchanged with SHA-256 hashes computed.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-P3-english-002",
+    "timestamp": "2026-09-03T10:19:25.060858Z",
+    "phase": 3,
+    "subject": "english",
+    "decision_type": "acquisition_completion",
+    "context": "Phase 3 acquisition completed for english. All accessible sources attempted.",
+    "evidence": [
+      "sources_total=100",
+      "sources_acquired=0",
+      "sources_failed=100"
+    ],
+    "alternatives": [
+      "completed",
+      "completed_with_review",
+      "blocked"
+    ],
+    "selected": "completed_with_review",
+    "rationale": "No files could be downloaded from Google Drive due to sandbox TLS/SSL restrictions. All sources remain inaccessible. Acquisition must be retried in an environment with working Google Drive access, or files must be provided manually.",
+    "confidence": "high",
+    "requires_review": true
+  }
+]

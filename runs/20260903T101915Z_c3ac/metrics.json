@@ -1,0 +1,14 @@
+{
+  "subject": "biology",
+  "phase": 3,
+  "run_id": "20260903T101915Z_c3ac",
+  "sources_discovered": 52,
+  "sources_accessible_before": 52,
+  "sources_acquired": 0,
+  "sources_failed": 52,
+  "sources_external": 0,
+  "sources_inaccessible_after": 52,
+  "duplicate_hashes_detected": 0,
+  "files_downloaded": 2,
+  "unresolved_items": 52
+}

@@ -2,7 +2,7 @@ issue: Phase 3 acquisition failed for all accessible Physics sources due to sand
 affected_entity: SOURCE-ORC-PHY-2016-001 through SOURCE-ORC-PHY-2025-??? (233 sources) plus 4 container folders
 evidence:
   - inventory: data/raw/physics/SOURCE_INVENTORY.yaml (233 accessible sources before Phase 3)
-  - run: runs/20260903T091842Z_c0f7
+  - run: runs/20260903T101916Z_175a
   - errors: 233 acquisition_failed errors in errors.json
   - container records: 4 folders (IeBT P1-Physics, IeBT P2-Chemistry, etc.)
 possible_resolutions:
@@ -12,4 +12,4 @@ possible_resolutions:
 recommended_review: Human review required to confirm Physics source acquisition; container folders also require manual inspection; do not proceed to Phase 4 without resolving
 subject: physics
 phase: 3
-created_at: '2026-09-03T09:19:00Z'
+created_at: '2026-09-03T10:20:13Z'

@@ -1,0 +1,7 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/biology/ACQUISITION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T10:19:16.769052Z'
+  source_run: 20260903T101915Z_c3ac
+  content_hash: d3844e00462e6e1acebec89499e95057be850df621c026a1dc8c2dd5d1f1df07
+  description: Phase 3 acquisition failure report for biology

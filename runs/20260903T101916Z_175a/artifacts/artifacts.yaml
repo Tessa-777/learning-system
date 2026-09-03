@@ -1,0 +1,7 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/physics/ACQUISITION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T10:19:22.390144Z'
+  source_run: 20260903T101916Z_175a
+  content_hash: be8db8ce43cfe802651e9984aec2dd991ba96bcda94e951db29ab89b42b1dc84
+  description: Phase 3 acquisition failure report for physics

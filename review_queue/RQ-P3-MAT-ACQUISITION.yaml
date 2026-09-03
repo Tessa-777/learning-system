@@ -2,7 +2,7 @@ issue: Phase 3 acquisition failed for all accessible Mathematics sources due to 
 affected_entity: SOURCE-ORC-MAT-2016-??? through SOURCE-ORC-MAT-2026-??? (270 accessible, 2 external)
 evidence:
   - inventory: data/raw/mathematics/SOURCE_INVENTORY.yaml (272 total; 270 accessible before Phase 3)
-  - run: runs/20260903T091854Z_8c5d
+  - run: runs/20260903T101928Z_b2a6
   - errors: 270 acquisition_failed errors in errors.json
   - external: 2 sources (stithian.com, Mindbourne portal) remain external
 possible_resolutions:
@@ -12,4 +12,4 @@ possible_resolutions:
 recommended_review: Human review required; verify Mathematics source completeness and external sources; do not proceed to Phase 4 without resolving
 subject: mathematics
 phase: 3
-created_at: '2026-09-03T09:19:00Z'
+created_at: '2026-09-03T10:20:13Z'
