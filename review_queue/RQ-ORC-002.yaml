@@ -1,0 +1,11 @@
+review_queue_id: RQ-ORC-002
+phase: 2
+subject: ap_mathematics
+issue: AP Mathematics source boundary
+affected_entity: RQ-ORC-002
+evidence:
+- SOURCE-INV-ORC-APM
+possible_resolutions:
+- keep FS Maths Drive as source
+- extend ORC with another AP source
+recommended_review: confirm boundary with subject owner before Phase 3

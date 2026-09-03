@@ -1,0 +1,2107 @@
+inventory_id: SOURCE-INV-ORC-APM
+phase: 2
+subject: ap_mathematics
+grade: '11'
+primary_source: https://sites.google.com/stbenedicts.co.za/orc
+subject_page: NO DEDICATED ORC PAGE (see scope_notes)
+drive_root: 1rlthpMH5OD3n50DI6fvw4RVjpDL-jOo2
+generated_at: '2026-09-03T09:04:28.066534Z'
+record_count: 146
+container_record_count: 0
+dedupe:
+  rows: 146
+  unique_fileids: 146
+  duplicates_removed: 0
+additional_tables: {}
+container_records: []
+summary:
+  by_document_type:
+    past_paper: 46
+    memorandum: 72
+    assessment_material: 25
+    other: 1
+    reference: 2
+  by_access_status:
+    accessible: 145
+    external: 1
+  by_year:
+    '2013': 4
+    '2014': 6
+    '2015': 8
+    '2016': 13
+    '2017': 9
+    '2018': 8
+    '2019': 11
+    '2020': 8
+    '2021': 13
+    '2022': 6
+    '2023': 9
+    '2024': 16
+    '2025': 17
+    '2009': 4
+    '2007': 4
+    unknown: 2
+    '2026': 8
+  by_grade:
+    '11': 144
+    '12': 1
+    unknown: 1
+  out_of_scope_source_ids:
+  - SOURCE-ORC-APM-2019-145
+scope_notes:
+- 'INVENTORY SCOPE: Grade 11 material published in the St Benedict''s ORC for ap_mathematics.'
+- Sources marked OUT OF SCOPE (chemistry / Grade 12 / other subject) are recorded
+  for
+- discovery provenance only and MUST NOT be used by later phases without review.
+- 'External sources (access_status: external) are recorded for discovery provenance
+  only.'
+- No source files were downloaded in Phase 2; local_path / file_hash are null.
+sources:
+- source_id: SOURCE-ORC-APM-2013-001
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1a.SBC G11 AP 2013 CALCULUS AND ALGEBRA 2013.pdf
+  year: 2013
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1-MDiQsUvCOOJgBuLTiV8nGEf1UsYqPq-
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2013; Calculus & Algebra exam
+- source_id: SOURCE-ORC-APM-2013-002
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. SBC G11 AP 2013 Algebra and Calculus Memo.pdf
+  year: 2013
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1rKhRKnzovEneh8tvbvC0-aahrdLcwIxt
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2013; Calculus & Algebra memo
+- source_id: SOURCE-ORC-APM-2013-003
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. SBC G11 2013 AP STATS.pdf
+  year: 2013
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1pjFUMB2USh7E5MOG97_44r4oPJLuYjtN
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2013; Statistics exam
+- source_id: SOURCE-ORC-APM-2013-004
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b.SBC G11 AP 2013 Stats Memo.pdf
+  year: 2013
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1kd8ASWi6g7UVu-lFUaE0caiPucVcjMaB
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2013; Statistics memo
+- source_id: SOURCE-ORC-APM-2014-005
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1a. Grade 11 AP Exam - July 2014 (1).docx
+  year: 2014
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1uohinJO66tU2XuDXORKRiaJwU2FOJ9da
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2014; July exam paper 1
+- source_id: SOURCE-ORC-APM-2014-006
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Grade 11 AP Exam - July 2014 - Memorandum (1).docx
+  year: 2014
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1j0g_T9C36lbPvp56k850qLOmG2NkWDO0
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2014; July exam P1 memorandum
+- source_id: SOURCE-ORC-APM-2014-007
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. G11 AP Maths P1 Nov 2014.pdf
+  year: 2014
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1nu3uxg81sCXEsJpCU3cmZdb3fwaqLl7Y
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2014; Nov P1
+- source_id: SOURCE-ORC-APM-2014-008
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Grade 11 ap Memo Nov 2014.pdf
+  year: 2014
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1iOIXMISyuK1eEKI-7iLloofVAeP7-gN5
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2014; Nov P1 memo
+- source_id: SOURCE-ORC-APM-2014-009
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: G11 AP Maths P2 Nov 2014 Memo.pdf
+  year: 2014
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1CZ3se0EF76uJLv-kKPlYKKYqPEiuYGvQ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2014; Nov P2 memo
+- source_id: SOURCE-ORC-APM-2014-010
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: G11 AP Maths P2 Nov 2014.pdf
+  year: 2014
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1bA37ocDvo7btUGw4yY1FyBP0AZlfOkxu
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2014; Nov P2
+- source_id: SOURCE-ORC-APM-2015-011
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1a. Grade 11 AP Mid-Year Exam.pdf
+  year: 2015
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1jVvOD4yhUNenuyMFSwUFg-_tUGjvNlRN
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2015; mid-year exam
+- source_id: SOURCE-ORC-APM-2015-012
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Grade 11 AP Mid-Year Exam Memo.pdf
+  year: 2015
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1izqtbsWRu1mgX302vXDuBG8RFS75HPm2
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2015; mid-year memo
+- source_id: SOURCE-ORC-APM-2015-013
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. Grade 11 AP Mathematics Paper 1 November 2015.docx
+  year: 2015
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1aVmIsM7GizRMqBROgfOcagA3KcG4BUqy
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2015; Nov P1
+- source_id: SOURCE-ORC-APM-2015-014
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Grade 11 AP Mathematics Paper 1 November 2015 - Memorandum.docx
+  year: 2015
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/17paofMdHVye33Lq7G7ibpmyGgZfqYy0L
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2015; Nov P1 memo
+- source_id: SOURCE-ORC-APM-2015-015
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 3a. Grade 11 AP November Stats Exam.pdf
+  year: 2015
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1fRWlx9gMhJgKSVeGQ_2ab7hVq_S4wxln
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2015; Statistics exam
+- source_id: SOURCE-ORC-APM-2015-016
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 3b. Grade 11 AP November Stats Exam Memo.pdf
+  year: 2015
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1iyvWIN4Yg2ktpG3ddJU8_kI50bTBff59
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2015; Statistics memo
+- source_id: SOURCE-ORC-APM-2016-017
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1a. G11 AP Maths P1 July 2016.pdf
+  year: 2016
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1jfj6T3s7RBUwHalE-mfcQdfmyWRVd0rT
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2016; July P1
+- source_id: SOURCE-ORC-APM-2016-018
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. AP Gr 11 AP Algebra Memo.pdf
+  year: 2016
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1GeZZWicTlAVX4GiBleeqbsNKep7vzlI-
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2016; July P1 memo (Algebra)
+- source_id: SOURCE-ORC-APM-2016-019
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. G11 AP Maths P2 Stats July 2016.pdf
+  year: 2016
+  term: 2
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1by0SLzqYxURIv48aVxkozGqUVWYcToaG
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2016; July P2 Statistics
+- source_id: SOURCE-ORC-APM-2016-020
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. AP Gr 11 Paper 2 Stats - MEMO.pdf
+  year: 2016
+  term: 2
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/14Cfv9GTgd9DA6IjPfDblfEV3Q1YRVyzi
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2016; July P2 Statistics memo
+- source_id: SOURCE-ORC-APM-2016-021
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 3a. G11 AP Maths P1 Nov 2016.pdf
+  year: 2016
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1pEnQqxbVt2wpi7dnCCb79QW-ixoQqEQY
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2016; Nov P1
+- source_id: SOURCE-ORC-APM-2016-022
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 3b. Grade 11 ap paper 1 final memo 2016.pdf
+  year: 2016
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/14Ero5QtYW52GrHMZbobAkDYtnjU4z6p5
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2016; Nov P1 memo
+- source_id: SOURCE-ORC-APM-2016-023
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 4a. G11 AP Maths P2 Nov 2016.pdf
+  year: 2016
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1CTeVXco29ZpS4gMrSanJEwkfUZUS49xH
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2016; Nov P2
+- source_id: SOURCE-ORC-APM-2016-024
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 4b. G 11 AP Maths P2 Nov 2016 memo.pdf
+  year: 2016
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/11YIKvKKHBxG1V5XL4pIz3iMjHZyLk8WH
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2016; Nov P2 memo
+- source_id: SOURCE-ORC-APM-2017-025
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: Gr 11 AP Algebra Jun Memo.pdf
+  year: 2017
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/18Z3tVDZvOq1hnTsOwjahoLEkHHAiNoNk
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2017; June Algebra memo
+- source_id: SOURCE-ORC-APM-2017-026
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: Gr 11 AP Algebra Jun.pdf
+  year: 2017
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1x0WEjyben6kaBgvIfbDflbx76lD_zZpF
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2017; June Algebra exam
+- source_id: SOURCE-ORC-APM-2017-027
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: Gr 11 AP Algebra Nov Memo.pdf
+  year: 2017
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1da4_3KfLv6DTvGsmOWkasAGe4DlhO8BB
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2017; Nov Algebra memo
+- source_id: SOURCE-ORC-APM-2017-028
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: Gr 11 AP Algebra Nov.pdf
+  year: 2017
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1WjPo_BWTCRJWgi9BCN5m4VDC7GimqZa2
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2017; Nov Algebra exam
+- source_id: SOURCE-ORC-APM-2017-029
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: Gr 11 AP Stats Jun Memo.pdf
+  year: 2017
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1O4pHb_ixpJcolTe8VMOtfa_Ff2O4AfGS
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2017; June Statistics memo
+- source_id: SOURCE-ORC-APM-2017-030
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: Gr 11 AP Stats Jun.pdf
+  year: 2017
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/10CulG-alHhlFSAnu6opbzrbXN7ugEIPG
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2017; June Statistics exam
+- source_id: SOURCE-ORC-APM-2017-031
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: Gr 11 AP Stats Nov Memo.pdf
+  year: 2017
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1JwO15wKuwAHHWYpZYJvulsmNX4tra8b-
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2017; Nov Statistics memo
+- source_id: SOURCE-ORC-APM-2017-032
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: Gr 11 AP Stats Nov.pdf
+  year: 2017
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/19ND26lOb_Stfr_x5gjAyexkbtyb6rBFL
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2017; Nov Statistics exam
+- source_id: SOURCE-ORC-APM-2018-033
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1a. Gr 11 AP July Exam Calculus 2018 (1).pdf
+  year: 2018
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1AlZo-qtteUt-Ege0K4yKMCRtBT9JUSsH
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2018; July Calculus exam
+- source_id: SOURCE-ORC-APM-2018-034
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Gr 11 AP July Exam Calculus 2018 Memo.pdf
+  year: 2018
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1sX25KRNj0fTkSNuDZY0o0N_Q1-i_9NVL
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2018; July Calculus memo
+- source_id: SOURCE-ORC-APM-2018-035
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. Gr 11 AP July Exam Stats 2018.pdf
+  year: 2018
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1JAhJkemaRKvy4ap8Z56IKkNWsAiilsUK
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2018; July Statistics exam
+- source_id: SOURCE-ORC-APM-2018-036
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Gr 11 AP July Exam Stats 2018 Memo.pdf
+  year: 2018
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1x_aw5rb-L8VA5LVbgeXJf7qCc9-kWRdU
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2018; July Statistics memo
+- source_id: SOURCE-ORC-APM-2018-037
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 3a. Gr 11 AP November Exam Calculus 2018.pdf
+  year: 2018
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1qhYhqJaR4E7eiXqs_8jpczJalPAdpKz3
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2018; Nov Calculus exam
+- source_id: SOURCE-ORC-APM-2018-038
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 3b. Gr 11 AP November Exam Calculus 2018 Memo.pdf
+  year: 2018
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1nU_UO1P9wckv-B0jyf_MhP1Y21UVdriu
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2018; Nov Calculus memo
+- source_id: SOURCE-ORC-APM-2018-039
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 4a. Gr 11 AP November Exam Stats 2018.pdf
+  year: 2018
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1r-9EhNNoJEarkgQg7WwMgJDpOKQO8SSA
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2018; Nov Statistics exam
+- source_id: SOURCE-ORC-APM-2018-040
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 4b. Gr 11 AP November Exam Stats 2018 Memo.pdf
+  year: 2018
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1OqOxuA7PegAilcIJFw00kvutuLnGcRrO
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2018; Nov Statistics memo
+- source_id: SOURCE-ORC-APM-2019-041
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1a. Gr11 Mid-year 2019 Paper 1.pdf
+  year: 2019
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1UNowOfDkrOGwXqTmk-RLc7qQEhmCC-mG
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2019; mid-year P1
+- source_id: SOURCE-ORC-APM-2019-042
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Gr11 Mid-year 2019 Paper 1 Memo.pdf
+  year: 2019
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1TYm9B6eg4TDJpQ98MMzoi_UujBS-7ELm
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2019; mid-year P1 memo
+- source_id: SOURCE-ORC-APM-2019-043
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. Gr11 Mid-year 2019 Paper 2 .pdf
+  year: 2019
+  term: 2
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1T8JvBpYRKNy9oPKdqUXcNKhrLfvveQrL
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2019; mid-year P2
+- source_id: SOURCE-ORC-APM-2019-044
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Gr11 Mid-year 2019 Paper 2 Memo.pdf
+  year: 2019
+  term: 2
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1Q5xYuYQNfeIGZDXFvpuJg_Eu4ZcE0LVs
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2019; mid-year P2 memo
+- source_id: SOURCE-ORC-APM-2019-045
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 3a.Gr 11 AP 2019 NOV P1 2019 PDF.pdf
+  year: 2019
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1HgttyX70IWqWV0dGUs-ILK7y-xdHCY_U
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2019; Nov P1
+- source_id: SOURCE-ORC-APM-2019-046
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 3b. Gr 11 AP P1 2019 memo.pdf
+  year: 2019
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1AFr_IZvR6PkuCM_QuEejCdHDDelMkJYE
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2019; Nov P1 memo
+- source_id: SOURCE-ORC-APM-2019-047
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 4a. Gr 11 P2 November 2019 Final.pdf
+  year: 2019
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1CGnl8CEB4UPE5JrEMWRqxyoQ-nvcibEy
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2019; Nov P2
+- source_id: SOURCE-ORC-APM-2019-048
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 4b. Gr 11 AP P2 memo.pdf
+  year: 2019
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1iWMIfTYRzYASx7yWqwuZ3pkaSrP35PjH
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2019; Nov P2 memo
+- source_id: SOURCE-ORC-APM-2020-049
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1a. Gr11AP Paper 1 Nov 2020.pdf
+  year: 2020
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1yUYxjy5szX2DU8RWfzmeK_tIC9kLujwx
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2020; Nov P1
+- source_id: SOURCE-ORC-APM-2020-050
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Gr11AP Paper 1 Memo Nov 2020.pdf
+  year: 2020
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/16vPZIei3I9MGfIDDpBogP6-M4B_C-Vxj
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2020; Nov P1 memo
+- source_id: SOURCE-ORC-APM-2020-051
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. Grade 11 AP Paper 2 Stats Nov 2020.pdf
+  year: 2020
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1eIIZiCWeXpTcrfG_Atsze1VFTt9aGSsW
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2020; Nov P2 Statistics
+- source_id: SOURCE-ORC-APM-2020-052
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Gr11AP Paper 2 Memo Nov 2020.pdf
+  year: 2020
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1W5MJLf0dKoaGjw2vtv0nuiCvc4uPA5E3
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2020; Nov P2 memo
+- source_id: SOURCE-ORC-APM-2021-053
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1a. Gr 11 AP Maths August Calculus Exam 2021 Memo (1).pdf
+  year: 2021
+  term: 3
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Q1OR0t4L25rW9ZrSUdkSJ76fcvF6PNwr
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2021; August Calculus memo
+- source_id: SOURCE-ORC-APM-2021-054
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1b. Gr 11 AP Maths August Calculus Exam 2021.pdf
+  year: 2021
+  term: 3
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1TzwJr7Mpzh-U5y-fTBCocdl6Szb35rOp
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2021; August Calculus exam
+- source_id: SOURCE-ORC-APM-2021-055
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. Gr11 AP Maths Paper 1 - November 2021.pdf
+  year: 2021
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1XjuTaAGgEUWXaJLBonlDS6B5RlKMgytY
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2021; Nov P1
+- source_id: SOURCE-ORC-APM-2021-056
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Gr11 AP Maths Paper 1 Memo - November 2021.pdf
+  year: 2021
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1hePi_JxqJZs-S-WLNUHynotij_3IitlV
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2021; Nov P1 memo
+- source_id: SOURCE-ORC-APM-2021-057
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 3a. Gr 11 AP November Paper 2 Exam 2021.pdf
+  year: 2021
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1CgXS-vDV4wkNlihjAbQE-YkVrX9L_hmT
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2021; Nov P2
+- source_id: SOURCE-ORC-APM-2021-058
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 3b. Gr 11 AP November Exam Paper 2 2021 Memo.pdf
+  year: 2021
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1qyLTlNeKKTzGcpclwPI4HCpmVgXmzmmr
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2021; Nov P2 memo
+- source_id: SOURCE-ORC-APM-2022-059
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1a. FS Mathematics July 2022 .pdf
+  year: 2022
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/17r81PEnZAawyZwbBqzCfDhTl-Vaexpvs
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2022; July Further Studies exam
+- source_id: SOURCE-ORC-APM-2022-060
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. FS Mathematics July 2022 Memo.pdf
+  year: 2022
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1fGoEOdNo2SMb_Yc-5ecd_1QMVHz-9kJV
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2022; July memo
+- source_id: SOURCE-ORC-APM-2022-061
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. FS Maths Final Exam Nov.pdf
+  year: 2022
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1rE3DcfagOsWK5Qio_REATGbZahQZND3U
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2022; Nov final exam
+- source_id: SOURCE-ORC-APM-2022-062
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. FS Maths Final Exam Nov Memo.pdf
+  year: 2022
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Lpv9iaDvkHVVae0JA7zz5qUNCVCMVFHJ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2022; Nov final memo
+- source_id: SOURCE-ORC-APM-2023-063
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1a. Gr11FS July Exam 2023.pdf
+  year: 2023
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1RCREaJWI8ay7mm0K6m8VoYtlwVuGPXdY
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2023; July exam
+- source_id: SOURCE-ORC-APM-2023-064
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Gr11FS July Exam 2023 MEMO.pdf
+  year: 2023
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1ua2aGf8I_Kqn5z-Mx8maMIKp4sal0kbr
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2023; July memo
+- source_id: SOURCE-ORC-APM-2023-065
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. Paper 1 Final exam 2023.pdf
+  year: 2023
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1Dsk26fgpSa7liYQaazIZGhEF6Zz5agKp
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2023; final P1
+- source_id: SOURCE-ORC-APM-2023-066
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Final Paper 1 memo.pdf
+  year: 2023
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1NAuVG0MCedd425XXf1tHdpexFgyjHYyj
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2023; final P1 memo
+- source_id: SOURCE-ORC-APM-2023-067
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 3a. Gr11FS P2 Nov Exam 2023.pdf
+  year: 2023
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1LZza7hUoX8XLimOz2cO_x0YqvbMzxGIA
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2023; Nov P2
+- source_id: SOURCE-ORC-APM-2023-068
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 3b. Gr11FS P2 Nov Exam 2023 Memo.pdf
+  year: 2023
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/19X_yxOIJQyQI9MoNVXtCjmDKQKlpHdtW
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2023; Nov P2 memo
+- source_id: SOURCE-ORC-APM-2024-069
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 11 FS Nov Paper 2 2024.pdf
+  year: 2024
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1cuALuCug_sKa__33cbew18BxhiQQKstP
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2024; Nov P2
+- source_id: SOURCE-ORC-APM-2024-070
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 11 FS P1 Exam.pdf
+  year: 2024
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1wTcKencuG8p1rqu8cse1MJPHRf7ckh2l
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2024; Nov P1
+- source_id: SOURCE-ORC-APM-2024-071
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 11 FS Paper 1 Nov 2024 Memo.pdf
+  year: 2024
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/142H2iLzdzq2niU23gHo7XmDQsW6KawVq
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2024; Nov P1 memo
+- source_id: SOURCE-ORC-APM-2024-072
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 11 FS Paper 2 Nov 2024 Memo.pdf
+  year: 2024
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1Tn8wuQyBPyN6RUtoLqpmwgVch-3ERZ-C
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2024; Nov P2 memo
+- source_id: SOURCE-ORC-APM-2024-073
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 11FS July P1 2024 Memo.pdf
+  year: 2024
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1UAMW7Rgv_W5ENdU9EaTxq-wQOd9XGPVQ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2024; July P1 memo
+- source_id: SOURCE-ORC-APM-2024-074
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 11FS July P1 2024.pdf
+  year: 2024
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1YNO44_tBeecae2QqI6g3eHfh5ak-2sN5
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2024; July P1
+- source_id: SOURCE-ORC-APM-2024-075
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 11FS July P2 2024.pdf
+  year: 2024
+  term: 2
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1UvXbX_pMx0byPzar4wFoS1q9NzkzJH6H
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2024; July P2
+- source_id: SOURCE-ORC-APM-2024-076
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 11FS July P2 Memo 2024.pdf
+  year: 2024
+  term: 2
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1P0iMoMtMNMuST9rnsdhLTWSgQJhM1qk2
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2024; July P2 memo
+- source_id: SOURCE-ORC-APM-2025-077
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: FS July P2 memo.pdf
+  year: 2025
+  term: 2
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1aeaLI50neJ7Gi9-eYQZ0Hpo42ATBNjvE
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2025; July P2 memo
+- source_id: SOURCE-ORC-APM-2025-078
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: Gr 11 FS Paper 1 November Exam 2025 memo.pdf
+  year: 2025
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/19TnqAgx6wP6JNft60k04r_slrvpU3cWD
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2025; Nov P1 memo
+- source_id: SOURCE-ORC-APM-2025-079
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: Gr 11 FS Paper 1 November Exam 2025.pdf
+  year: 2025
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1dH3wm_JMeba7loiUH6w4eC-j7NgIxp_s
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2025; Nov P1
+- source_id: SOURCE-ORC-APM-2025-080
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: Gr11FS P2 Memo.pdf
+  year: 2025
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1ypVHkxbOfQwVURaxlwf7syVaJvexRzEi
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2025; Nov P2 memo
+- source_id: SOURCE-ORC-APM-2025-081
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: Gr11FS P2.pdf
+  year: 2025
+  term: 4
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1BhThSrXuR4RGsR-WrquGO48ktLxpMtJD
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2025; Nov P2
+- source_id: SOURCE-ORC-APM-2025-082
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: July Gr11FS P1 - Memo.pdf
+  year: 2025
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1uZGiwDjuhsJH1ykAYuR6sLzXxn10G1yR
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2025; July P1 memo
+- source_id: SOURCE-ORC-APM-2025-083
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: July Gr11FS P1.pdf
+  year: 2025
+  term: 2
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1Qdm8FFoDxq9ReJJ2rgd_vHXdi2U1HvbW
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/2025; July P1
+- source_id: SOURCE-ORC-APM-2009-084
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 1. Adv_pr_Math_Gr_11_St_Ben_June_2009.doc.docx
+  year: 2009
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/13C1FZm71VHLictLZmBFMipE8YcP6LkLp
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/Other; St Benedict's June 2009
+- source_id: SOURCE-ORC-APM-2007-085
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 2a. Ap_math_gr_11_Exemplar.pdf
+  year: 2007
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1qc6gQ7jWFigSwNA5d2yrvzc5H3E6Ahml
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/Other; Gr11 exemplar (undated year in title; folder dated 2020-02-05)
+- source_id: SOURCE-ORC-APM-2007-086
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Ap_math_gr_11_Exemplar_memo.pdf
+  year: 2007
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1f2lD93BkG83ZC7hUDrmLUrj_9AXBiYkn
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/Other; exemplar memo
+- source_id: SOURCE-ORC-APM-2009-087
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 3. AP_Math_Gr_11_HR_May_2009.doc.docx
+  year: 2009
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1NLaZmceCfECWkR-UUMEr1f5m1_2_mEP1
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/Other; Herschel (HR) May 2009
+- source_id: SOURCE-ORC-APM-UNK-088
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 4. AP_Math_Gr11_Kingsmead.pdf
+  year: unknown
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1ubUk5XO9iGPa9o4csJ8dY94QlYp5JsBj
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/Other; Kingsmead AP Maths paper (year not stated)
+- source_id: SOURCE-ORC-APM-2007-089
+  subject: ap_mathematics
+  grade: '11'
+  document_type: past_paper
+  title: 5a. AP_math_Gr11_Nov_Exam_2007.pdf
+  year: 2007
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1_Iz05pAi5C_nflkohra1-UUcKx_kGZE4
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/Other; Nov 2007 exam
+- source_id: SOURCE-ORC-APM-2007-090
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 5b. AP_math_Gr11_Nov_Exam_2007_memo.pdf
+  year: 2007
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Xl6UO8t02T0nDhAryT8YG8Tt5U94K7BQ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/Other; Nov 2007 memo
+- source_id: SOURCE-ORC-APM-2009-091
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 6. Memo_Gr_11_St_Ben_June_2009.doc.docx
+  year: 2009
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1sq1dKaZ6WMPE2guxJclpd9Wvg3c1kpeN
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/Other; St Benedict's June 2009 memo
+- source_id: SOURCE-ORC-APM-2009-092
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 7. Memo_HRS_May_2009.doc.docx
+  year: 2009
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1bzEFO1Y46uDu7OxnOQXq4SOXApOjVSty
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Exams/Other; Herschel (HRS) May 2009 memo
+- source_id: SOURCE-ORC-APM-2015-093
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 1a. Grade 11 AP Test March 2015.pdf
+  year: 2015
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1dVSdqsnGfzUno4EytExrldHlwOcLcNsG
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2015; March test
+- source_id: SOURCE-ORC-APM-2015-094
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Grade 11 AP Test March 2015 Memo.pdf
+  year: 2015
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1vX7FfxL6h5WLJO9vwWrJU2wJYb17exgp
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2015; March test memo
+- source_id: SOURCE-ORC-APM-2016-095
+  subject: ap_mathematics
+  grade: '11'
+  document_type: other
+  title: 1. AP Roots portfolio gr 11.pdf
+  year: 2016
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1kcvrqiZ6ffK1rtJDLJeLGrGm1q1iVkEt
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2016; portfolio document
+- source_id: SOURCE-ORC-APM-2016-096
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 2a.AP Test Stats.pdf
+  year: 2016
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1FkPKPmF_8CzRWwVFyi898X2-Iz_O5u2p
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2016; Statistics test
+- source_id: SOURCE-ORC-APM-2016-097
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b.AP Stats memo.pdf
+  year: 2016
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1DOvX028hHprcdpVJL2cnv8ExlU3nIbYM
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2016; Statistics memo
+- source_id: SOURCE-ORC-APM-2016-098
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 3a. Gr 11 Ap Algebra.pdf
+  year: 2016
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1xgN3rHBLBgDYJfaCcJAnRrx8iO0bTYkl
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2016; Algebra test
+- source_id: SOURCE-ORC-APM-2016-099
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 3b.Gr 11 Ap Test Memo.pdf
+  year: 2016
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Wrbm8XFBD9AaTKa8BR8b8dGyC2yfTVFV
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2016; Algebra memo
+- source_id: SOURCE-ORC-APM-2017-100
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: Algebra Test 2017.pdf
+  year: 2017
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1d9qECV8cD9n4NyqMktgVjnzDUFCq3bwN
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2017; Algebra test (no memo found in folder)
+- source_id: SOURCE-ORC-APM-2019-101
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 1a. April Test 1019 Algebra and Stats Test.pdf
+  year: 2019
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1OQmYm-RQMysTj8Slth4OeAUqHqeJrEiW
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2018 and 2019; April 2019 Algebra & Stats test (title typo 1019)
+- source_id: SOURCE-ORC-APM-2019-102
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. April Test 2019 Memo.pdf
+  year: 2019
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1DC8_ES6LJlpA1DmiKKIS5AvOwY2q0hlO
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2018 and 2019; April 2019 memo
+- source_id: SOURCE-ORC-APM-2020-103
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 1a. Grd 11 AP Limits task 9 June .pdf
+  year: 2020
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1ismAVA-ES7dFxe7AxKK3jSO8CRO-13Kp
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2020; Limits task Jun
+- source_id: SOURCE-ORC-APM-2020-104
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Grade 11 AP Limits Task memo 19 June.pdf
+  year: 2020
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1IbHz49WkM_e50KmIoN2irmZRdh3I9G7X
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2020; Limits task memo
+- source_id: SOURCE-ORC-APM-2020-105
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 2a. Grade 11 AP test Absolute Value Functions and Equations.pdf
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1hqFR0__zfuYKYP_QQ1XtvapOpuFL18N7
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2020; Absolute value test
+- source_id: SOURCE-ORC-APM-2020-106
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Grade 11 AP memo Absolute Values.pdf
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1KkeALb5UQf0MzNlvEHVOdr4B_sHPRX4e
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2020; Absolute values memo
+- source_id: SOURCE-ORC-APM-2021-107
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 22 June- Functions, Limits, Derivatives+Binomial distribution Memo Q6.pdf
+  year: 2021
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1tDTO6XJDoTbwKmB3ksMTHdYLXDH0EKvK
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2021; Jun test Q6 memo only
+- source_id: SOURCE-ORC-APM-2021-108
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 22 June- Functions, Limits, Derivatives+Binomial distribution memo.pdf
+  year: 2021
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1mhs00PLUX3VsZnU2RBYBvhBw-K6zw-od
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2021; Jun full memo
+- source_id: SOURCE-ORC-APM-2021-109
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 22 June- Functions, Limits, Derivatives+Binomial distribution.pdf
+  year: 2021
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1IRTJP9EkJ-J0gA7Ea7LA382yCojztAvu
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2021; Jun test
+- source_id: SOURCE-ORC-APM-2021-110
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 24 Feb - Partial Fractions, Permutations and Combinations .pdf
+  year: 2021
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1_xae8eTVb_LiSyEY9yf0SUfMU8nvY02Q
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2021; Feb test
+- source_id: SOURCE-ORC-APM-2021-111
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 24 Feb - Partial Fractions, Permutations and Combinations memo.pdf
+  year: 2021
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1UyjbWsYY3YvhWSk7kXqOJnvttzmfGsid
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2021; Feb memo
+- source_id: SOURCE-ORC-APM-2021-112
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: Grd 11 AP Test Week Assessment 29 March memo (3).pdf
+  year: 2021
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1lKVRwzVRGQcya8zOw2kUnKGOdSWN8iaF
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2021; March assessment memo
+- source_id: SOURCE-ORC-APM-2021-113
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: Grd 11 AP Test Week Assessment 29 March.pdf
+  year: 2021
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1N-WXwxlyEMcU-Ao1KOvE-JDCeF4YUk7R
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2021; March assessment
+- source_id: SOURCE-ORC-APM-2022-114
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 1a. Partial Fractions and Inequality Test.pdf
+  year: 2022
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/14BIUACfjRK3fbRUybRBlo-tJl0quzkoG
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2022; test
+- source_id: SOURCE-ORC-APM-2022-115
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Partial Fractions and Inequality Test Memo.pdf
+  year: 2022
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1bnaC5dsyXIBwLm7F4xThnmE-0-JTdIAP
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2022; memo
+- source_id: SOURCE-ORC-APM-2023-116
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 1a. Inequalities and Partial Fractions Test.pdf
+  year: 2023
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1bkBPS5HwDKXI5ilKm7nldhHbdR6HOrKM
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2023; test
+- source_id: SOURCE-ORC-APM-2023-117
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Inequalities and Partial Fractions Memo.pdf
+  year: 2023
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1OaOZZl4MIrqy-Zfk5pndsL2DhlWs7I66
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2023; memo
+- source_id: SOURCE-ORC-APM-2023-118
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Absolutes and Complex Numbers Memo.pdf
+  year: 2023
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1mZQz9Rr0m69DPrQ0S2YprbFvljErI8eD
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2023; memo only - matching question paper not present in folder
+- source_id: SOURCE-ORC-APM-2024-119
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 1a. Partial Fractions and Rational Inequalities.pdf
+  year: 2024
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1r9S01EQLHhtCatN1oU1tVKq4uJxeixG5
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2024; test
+- source_id: SOURCE-ORC-APM-2024-120
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Partial Fractions and Rational Inequalities Memo.pdf
+  year: 2024
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1g17SxP7HrO-vpOzwBqAhxwyUfA0ULQVc
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2024; memo
+- source_id: SOURCE-ORC-APM-2024-121
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 2a. Counting methods Apr 2024.pdf
+  year: 2024
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1GoS19XUpaYX1EvBVTNCRfPtSahMUl0-q
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2024; Apr counting methods
+- source_id: SOURCE-ORC-APM-2024-122
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. Counting Methods April 2024 Memo.pdf
+  year: 2024
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/17eaz3re86kynPFc27gN0XN9BV6bnVOSs
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2024; Apr memo
+- source_id: SOURCE-ORC-APM-2024-123
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 3a. Complex numbers and Absolute values Test.pdf
+  year: 2024
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1EwbzCcn6L9fJJKHOhhzozcvc6pZojnQm
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2024; test
+- source_id: SOURCE-ORC-APM-2024-124
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 3b. Complex numbers and Absolute values Test Memo.pdf
+  year: 2024
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1TZs7p62KYRMqa-AhN8NECHKMhhgKXn-3
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2024; memo
+- source_id: SOURCE-ORC-APM-2024-125
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 4a. Calculus Test .pdf
+  year: 2024
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/19R2dGZu8IhujXT6HshZJ_3M7ZUdON3T_
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2024; Calculus test
+- source_id: SOURCE-ORC-APM-2024-126
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 4b. Calculus Test Memo
+  year: 2024
+  term: 2
+  paper_number: null
+  source_url: https://docs.google.com/document/d/1F0LdEf75JGTqqkzYboepCDbOQvReVbJP
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2024; Calculus memo (Google Doc link in Drive listing)
+- source_id: SOURCE-ORC-APM-2025-127
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 1a. 11 FS Partial fractions Rational inequalities.pdf
+  year: 2025
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1N5ddyy3Xp4Fq_lLIfimUtuHTBtkviP_6
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2025; test
+- source_id: SOURCE-ORC-APM-2025-128
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. 11FS Partial fractions Rational inequalities MEMO.pdf
+  year: 2025
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Tcia0rq3Soz3z7Dyom7r2vsLKRQv9OWl
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2025; memo
+- source_id: SOURCE-ORC-APM-2025-129
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 2a. 11FS Complex Numbers Test March.pdf
+  year: 2025
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/11VB1tNmGWge-1uY8qoMLl0h7nyhwbB5-
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2025; March test
+- source_id: SOURCE-ORC-APM-2025-130
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. 11FS Complex Numbers Test March Memo.pdf
+  year: 2025
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1CdpE1lcZ1TVJpqSyV6d1Yd4xLCGmr42X
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2025; March memo
+- source_id: SOURCE-ORC-APM-2025-131
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 3a. Gr11FS Test Functions and Probability.pdf
+  year: 2025
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/16D3lytbaSW-DxwYPg3tQioEIjdoItd-J
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2025; test
+- source_id: SOURCE-ORC-APM-2025-132
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 3b. Gr11FS Test Functions and Probability Memo.pdf
+  year: 2025
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1fmj0SdAfb1nbsSqb60_dvf3bKgFltLlE
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2025; memo
+- source_id: SOURCE-ORC-APM-2025-133
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 4a. Permutations, Combinations, Probability Distributions and Limits test
+    26 June.pdf
+  year: 2025
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1uT7GwHag1Rn8bMTwug8KPBtMML_GO0Pd
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2025; Jun test
+- source_id: SOURCE-ORC-APM-2025-134
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 4b. Permutations, Combinations, Probability Distributions and Limits memo.pdf
+  year: 2025
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1RkMjjjdJqoP1mnrdzAY3-pFwXTEgaO6Z
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2025; Jun memo
+- source_id: SOURCE-ORC-APM-2025-135
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 5a. Grd 11 FS Maths test 10 October.pdf
+  year: 2025
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1t-rBzPzOTfbGA4C2kB5J17gO_HIUMfP1
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2025; Oct test
+- source_id: SOURCE-ORC-APM-2025-136
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 5b. Grd 11 FS Maths test 10 October memo.pdf
+  year: 2025
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1kwuFHmTv8VWyGYWili096yLWgh_l3KG-
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2025; Oct memo
+- source_id: SOURCE-ORC-APM-2026-137
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 1a. Limits and Piecewise Functions.pdf
+  year: 2026
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1mkQIdpXAhee84Thb9b-PHdVfgRJVkgmW
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2026; test
+- source_id: SOURCE-ORC-APM-2026-138
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 1b. Limits and Piecewise Functions Memo.pdf
+  year: 2026
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1IqOYpWGajyiWEETOe6hay54Kr3IkiwX2
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2026; memo
+- source_id: SOURCE-ORC-APM-2026-139
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 2a. First principles and Counting methods.pdf
+  year: 2026
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1-anSauuPEBX_dL5abv_pJEXxw-n_zIau
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2026; test
+- source_id: SOURCE-ORC-APM-2026-140
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 2b. First principles and counting methods MEMO.pdf
+  year: 2026
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1saCt2akUrukYeAbJYHhOIG2GmoogJ7AP
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2026; memo
+- source_id: SOURCE-ORC-APM-2026-141
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 3a. Partial Fractions, Differentiation and Counting Methods.pdf
+  year: 2026
+  term: 3
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1yQyHd8avqga9wefDhixMOS7wsvrgIonv
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2026; test
+- source_id: SOURCE-ORC-APM-2026-142
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 3b. Partial Fractions, Differentiation and Counting Methods Memo.pdf
+  year: 2026
+  term: 3
+  paper_number: null
+  source_url: https://drive.google.com/file/d/11qCj8-TAyvCNxQmmL8b8II69xnjHT6Av
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2026; memo
+- source_id: SOURCE-ORC-APM-2026-143
+  subject: ap_mathematics
+  grade: '11'
+  document_type: assessment_material
+  title: 4a. Inequalities Partial fractions Discrete distributions 2026.pdf
+  year: 2026
+  term: 3
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Af-wuGYhBx1u4Ujrk9aodu6zRGDQo_vq
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2026; test
+- source_id: SOURCE-ORC-APM-2026-144
+  subject: ap_mathematics
+  grade: '11'
+  document_type: memorandum
+  title: 4b. Inequalities Partial fractions Discrete distribution MEMO.pdf
+  year: 2026
+  term: 3
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1dIyI0oUQcjE1vjeul2iFx6PZusr0M4Sz
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: AP Tests/2026; memo
+- source_id: SOURCE-ORC-APM-2019-145
+  subject: ap_mathematics
+  grade: '12'
+  document_type: reference
+  title: Advanced Programme Maths P2 Info Booklet 2019 (6)- NEW.pdf
+  year: 2019
+  term: null
+  paper_number: P2
+  source_url: https://drive.google.com/file/d/1GYS8SG7lIIgNWJDyggq_MTtxp77C6ACz
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC FS Maths root > Grade 12 New Formula Sheet (AP Maths); GRADE 12 - out
+    of scope for Grade 11
+- source_id: SOURCE-ORC-APM-UNK-146
+  subject: ap_mathematics
+  grade: unknown
+  document_type: reference
+  title: AP Formula Sheet
+  year: unknown
+  term: null
+  paper_number: null
+  source_url: https://maths.stithian.com/PreLim%20Exams%2009/IEB%20Papers%202009/Final%20Exam%20Papers/Advanced%20Programme%20Maths%20Formulae.pdf
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: external
+  local_path: null
+  file_hash: null
+  notes: External link on ORC Mathematics page; external source, grade applicability
+    not stated
+run_id: 20260903T090314Z_25ba

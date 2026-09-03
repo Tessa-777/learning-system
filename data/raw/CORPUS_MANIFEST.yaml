@@ -1,0 +1,169 @@
+manifest_version: 1.0.0
+phase: 2
+phase_name: ORC source discovery
+generated_at: '2026-09-03T09:04:28.066534Z'
+primary_source:
+  name: St Benedict's Online Resource Centre (ORC)
+  base_url: https://sites.google.com/stbenedicts.co.za/orc
+  boundary_statement: ORC is the authoritative source boundary for Grade 11 curriculum,
+    past papers, memoranda, rubrics, marking guides and assessment material. External
+    sources appear only where the ORC itself links to them and are marked 'external'.
+grade_scope: '11'
+subjects:
+  biology:
+    inventory: data/raw/biology/SOURCE_INVENTORY.yaml
+    record_count: 52
+    by_access_status:
+      accessible: 52
+    by_document_type:
+      marking_guide: 25
+      assessment_material: 15
+      past_paper: 10
+      reference: 2
+    by_grade:
+      '11': 52
+    out_of_scope_count: 0
+    dedupe:
+      rows: 52
+      unique_fileids: 52
+      duplicates_removed: 0
+  physics:
+    inventory: data/raw/physics/SOURCE_INVENTORY.yaml
+    record_count: 233
+    by_access_status:
+      accessible: 233
+    by_document_type:
+      marking_guide: 93
+      past_paper: 68
+      assessment_material: 37
+      other: 2
+      reference: 19
+      memorandum: 13
+      curriculum: 1
+    by_grade:
+      '11': 233
+    out_of_scope_count: 29
+    dedupe:
+      rows: 238
+      unique_fileids: 237
+      duplicates_removed: 1
+  history:
+    inventory: data/raw/history/SOURCE_INVENTORY.yaml
+    record_count: 18
+    by_access_status:
+      accessible: 18
+    by_document_type:
+      past_paper: 11
+      memorandum: 3
+      reference: 3
+      other: 1
+    by_grade:
+      '11': 18
+    out_of_scope_count: 0
+    dedupe:
+      rows: 18
+      unique_fileids: 18
+      duplicates_removed: 0
+  english:
+    inventory: data/raw/english/SOURCE_INVENTORY.yaml
+    record_count: 100
+    by_access_status:
+      accessible: 100
+    by_document_type:
+      past_paper: 35
+      memorandum: 27
+      reference: 30
+      marking_guide: 3
+      assessment_material: 5
+    by_grade:
+      '11': 94
+      '12': 6
+    out_of_scope_count: 6
+    dedupe:
+      rows: 100
+      unique_fileids: 100
+      duplicates_removed: 0
+  ap_mathematics:
+    inventory: data/raw/ap_mathematics/SOURCE_INVENTORY.yaml
+    record_count: 146
+    by_access_status:
+      accessible: 145
+      external: 1
+    by_document_type:
+      past_paper: 46
+      memorandum: 72
+      assessment_material: 25
+      other: 1
+      reference: 2
+    by_grade:
+      '11': 144
+      '12': 1
+      unknown: 1
+    out_of_scope_count: 1
+    dedupe:
+      rows: 146
+      unique_fileids: 146
+      duplicates_removed: 0
+  mathematics:
+    inventory: data/raw/mathematics/SOURCE_INVENTORY.yaml
+    record_count: 272
+    by_access_status:
+      accessible: 270
+      external: 2
+    by_document_type:
+      reference: 29
+      assessment_material: 83
+      memorandum: 119
+      marking_guide: 1
+      other: 1
+      past_paper: 39
+    by_grade:
+      '11': 270
+      unknown: 2
+    out_of_scope_count: 0
+    dedupe:
+      rows: 272
+      unique_fileids: 272
+      duplicates_removed: 0
+totals:
+  records: 821
+  accessible: 818
+  external: 3
+  inaccessible: 0
+  unknown: 0
+  out_of_scope: 36
+unresolved_sources:
+- source_id: SOURCE-UNRESOLVED-ORC-G11-WORK-001
+  subject: null
+  grade: '11'
+  document_type: other
+  title: legacy 'Grade 11 work' Drive folder
+  year: unknown
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/drive/folders/1-fySqm2KyqUZcGdjElhHbgzhhN5DBA0y
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: inaccessible
+  local_path: null
+  file_hash: null
+  notes: Could not be listed during Phase 2 (embedded folder view returned HTTP 500).
+    Folder discovered in an ORC-linked Drive tree; subject attribution is unconfirmed.
+    Requires human review before Phase 3.
+review_required:
+- 'AP Mathematics: no dedicated ORC page; inventory uses the FS Mathematics Grade
+  11 Drive linked from the ORC Mathematics page. Confirm boundary.'
+- History 'Zipped Past Papers.zip' contents not expanded in Phase 2 (archive is accessible).
+- Physics legacy folder 'ORC Matric 2020 (Current Grade 11)' (1I8vmHbVOMJygFvZu6Ar6IGqtlaNBOVnX)
+  contains Current Notes / Grade 10 tests / Prac Saves - recorded at folder level,
+  children not surveyed.
+- 'External formula sheets (stithian.com) and Mindbourne portal: grade applicability
+  not stated by the ORC.'
+- 'Out-of-scope discovery clusters: Physics chemistry (IeBT P2 / Chem tests / chem
+  data sheets), English Film Contextual Tests (Grade 12), AP Maths P2 Info Booklet
+  (Grade 12).'
+scope_notes:
+- Phase 2 recorded metadata only; no files were downloaded or altered.
+- All Drive file IDs in the inventories were resolved against live Drive folder listings
+  during discovery (2026-09-03).
+- Each subject inventory record is schema-validated against database/schema/source_metadata.schema.json.
+run_id: 20260903T090314Z_25ba

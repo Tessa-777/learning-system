@@ -1,0 +1,3372 @@
+inventory_id: SOURCE-INV-ORC-PHY
+phase: 2
+subject: physics
+grade: '11'
+primary_source: https://sites.google.com/stbenedicts.co.za/orc
+subject_page: https://sites.google.com/stbenedicts.co.za/orc/physical-science
+drive_root: 149dgJBVLXljoqexWD6pNLYCZtadZ4cbm
+generated_at: '2026-09-03T09:04:28.066534Z'
+record_count: 233
+container_record_count: 4
+dedupe:
+  rows: 238
+  unique_fileids: 237
+  duplicates_removed: 1
+additional_tables:
+  physics_iebt.tsv: 35
+container_records:
+- container_id: 1iKWeGqim_xSydAoWUU5ESnddJr4mFUsQ
+  title: IeBT P1-Physics folder (2015-2025)
+  source_url: https://drive.google.com/drive/folders/1iKWeGqim_xSydAoWUU5ESnddJr4mFUsQ
+  access_status: accessible
+  notes: ORC G11 IeBT container; file-level records are listed in this inventory (2015-2025
+    P1-Physics). Two pointer rows in the discovery table referenced the same container
+    ID.
+- container_id: 1RYZbyw89_Ay8cW4YiBNmHXjhHK1QUBYW
+  title: IeBT P2-Chemistry folder
+  source_url: https://drive.google.com/drive/folders/1RYZbyw89_Ay8cW4YiBNmHXjhHK1QUBYW
+  access_status: accessible
+  notes: ORC G11 IeBT container; OUT OF SCOPE (chemistry); contents not drilled in
+    Phase 2.
+- container_id: 11-9G497WwqoBc9x_omQBJYvxrnGGXNAb
+  title: PS11 Past Exams/November Examination/Chemistry folder
+  source_url: https://drive.google.com/drive/folders/11-9G497WwqoBc9x_omQBJYvxrnGGXNAb
+  access_status: accessible
+  notes: OUT OF SCOPE (chemistry); folder-level record only; contents not drilled
+    in Phase 2.
+- container_id: 1I8vmHbVOMJygFvZu6Ar6IGqtlaNBOVnX
+  title: ORC Matric 2020 (Current Grade 11) - legacy folder
+  source_url: https://drive.google.com/drive/folders/1I8vmHbVOMJygFvZu6Ar6IGqtlaNBOVnX
+  access_status: accessible
+  notes: Legacy ORC Physical Science folder; children are 'Current Notes', 'Grade
+    10 current tests' and 'Prac Saves' (verified listing 2026-09-03). Contents not
+    surveyed as Grade 11 Physics; requires review.
+summary:
+  by_document_type:
+    marking_guide: 93
+    past_paper: 68
+    assessment_material: 37
+    other: 2
+    reference: 19
+    memorandum: 13
+    curriculum: 1
+  by_access_status:
+    accessible: 233
+  by_year:
+    '2016': 9
+    '2017': 14
+    '2018': 14
+    '2019': 21
+    '2020': 18
+    '2021': 17
+    '2022': 32
+    '2023': 16
+    '2024': 25
+    '2025': 42
+    '2026': 13
+    '2015': 8
+    unknown: 4
+  by_grade:
+    '11': 233
+  out_of_scope_source_ids:
+  - SOURCE-ORC-PHY-2025-086
+  - SOURCE-ORC-PHY-2025-087
+  - SOURCE-ORC-PHY-2016-096
+  - SOURCE-ORC-PHY-2016-097
+  - SOURCE-ORC-PHY-2017-100
+  - SOURCE-ORC-PHY-2017-101
+  - SOURCE-ORC-PHY-2018-106
+  - SOURCE-ORC-PHY-2018-107
+  - SOURCE-ORC-PHY-2019-108
+  - SOURCE-ORC-PHY-2019-109
+  - SOURCE-ORC-PHY-2019-113
+  - SOURCE-ORC-PHY-2019-114
+  - SOURCE-ORC-PHY-2020-115
+  - SOURCE-ORC-PHY-2020-118
+  - SOURCE-ORC-PHY-2021-119
+  - SOURCE-ORC-PHY-2021-122
+  - SOURCE-ORC-PHY-2022-125
+  - SOURCE-ORC-PHY-2022-126
+  - SOURCE-ORC-PHY-2022-127
+  - SOURCE-ORC-PHY-2023-129
+  - SOURCE-ORC-PHY-2023-130
+  - SOURCE-ORC-PHY-2022-164
+  - SOURCE-ORC-PHY-2022-165
+  - SOURCE-ORC-PHY-2022-166
+  - SOURCE-ORC-PHY-2022-167
+  - SOURCE-ORC-PHY-2026-171
+  - SOURCE-ORC-PHY-2026-172
+  - SOURCE-ORC-PHY-UNK-197
+  - SOURCE-ORC-PHY-UNK-198
+scope_notes:
+- 'INVENTORY SCOPE: Grade 11 material published in the St Benedict''s ORC for physics.'
+- Sources marked OUT OF SCOPE (chemistry / Grade 12 / other subject) are recorded
+  for
+- discovery provenance only and MUST NOT be used by later phases without review.
+- 'External sources (access_status: external) are recorded for discovery provenance
+  only.'
+- No source files were downloaded in Phase 2; local_path / file_hash are null.
+sources:
+- source_id: SOURCE-ORC-PHY-2016-001
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2016_G11_Physics_IeBT-P1_MG.pdf
+  year: 2016
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1cTjPsjiNJ-ImZ4YTuXpw9qsy-S5PlJRB
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2016/IeBT
+- source_id: SOURCE-ORC-PHY-2016-002
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2016_G11_Physics_IeBT-P1_QP.pdf
+  year: 2016
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1-yk5H1AGtAiQKXikJfm7Ri0Tem82HYyD
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2016/IeBT
+- source_id: SOURCE-ORC-PHY-2017-003
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2017_G11_Physics_IeBT-P1_MG.pdf
+  year: 2017
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1UtNwoq1RS5AnfdQA2zLTWDE653k9jEC4
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2017/IeBT
+- source_id: SOURCE-ORC-PHY-2017-004
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2017_G11_Physics_IeBT-P1_QP.pdf
+  year: 2017
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1PKy_NU_8a87CAJLk3ebXmb6_sYgewpMz
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2017/IeBT
+- source_id: SOURCE-ORC-PHY-2017-005
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2017_G11_Physics_Test-Stoichiometry-Vectors-Forces_MG.pdf
+  year: 2017
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1NHwstNq5PzZT3HPT8gb8Iv5sN8-qTzo0
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2017/Tests; contains stoichiometry (chemistry) content
+- source_id: SOURCE-ORC-PHY-2017-006
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2017_G11_Physics_Test-Stoichiometry-Vectors-Forces_QP.pdf
+  year: 2017
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1OJs9lq2fD8a2OZ2ebBaoDRw8wpxK3t13
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2017/Tests; title reconstructed from prefix (QP of Stoichiometry-Vectors-Forces)
+- source_id: SOURCE-ORC-PHY-2018-007
+  subject: physics
+  grade: '11'
+  document_type: other
+  title: 2018_G11_Physics_IeBT-P1_AS.pdf
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1dJKxQfNG7hxLL33ONKYSCnzpt5ZmSj_4
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2018/IeBT; answer sheet
+- source_id: SOURCE-ORC-PHY-2018-008
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: 2018_G11_Physics_IeBT-P1_DS.pdf
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1KP9KIcZkjzQOCuQJdeLMvLvsGQoQ2fZo
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2018/IeBT; data sheet
+- source_id: SOURCE-ORC-PHY-2018-009
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2018_G11_Physics_IeBT-P1_MG.pdf
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1W3d88Yge3M4lvRTwZK99Z8FfH8BoyYKe
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2018/IeBT
+- source_id: SOURCE-ORC-PHY-2018-010
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2018_G11_Physics_IeBT-P1_QP.pdf
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/11FmOjySryJQ1Sy8v71fTaLHKeaXKpkcp
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2018/IeBT
+- source_id: SOURCE-ORC-PHY-2019-011
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2019_G11_Physics_Exam_MG.pdf
+  year: 2019
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1DC3ShcQS5jjNxj4Ikr8JigaukBUsfuzo
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2019/Exams
+- source_id: SOURCE-ORC-PHY-2019-012
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2019_G11_Physics_Exam_QP.pdf
+  year: 2019
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Yaz8McbRnkgPR2qqezxhHbOn8ptHArD-
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2019/Exams
+- source_id: SOURCE-ORC-PHY-2019-013
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: 2019_G11_Physics_IeBT-P1_DiagramBooklet.pdf
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1Yg27gJ7I3ceEgzNqQ4E_PoCNTRmWknDa
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2019/IeBT
+- source_id: SOURCE-ORC-PHY-2019-014
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2019_G11_Physics_IeBT-P1_MG.pdf
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1yJZnVYayWwFFJ5JNaZz76WujxFTN38Yx
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2019/IeBT
+- source_id: SOURCE-ORC-PHY-2019-015
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2019_G11_Physics_IeBT-P1_QP.pdf
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1rfIGSurFbLmHVaO7byEmf4hCE0-6m9Ll
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2019/IeBT
+- source_id: SOURCE-ORC-PHY-2019-016
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2019_G11_Physics_Test4-Vectors_MG.pdf
+  year: 2019
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1WF9WI_VWF-jqNANdiakhYbhv2tKK1gzg
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2019/Tests
+- source_id: SOURCE-ORC-PHY-2019-017
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2019_G11_Physics_Test4-Vectors_QP.pdf
+  year: 2019
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1P3QlKRq0OPCT59xmajh9B8j1SF-GNOVH
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2019/Tests
+- source_id: SOURCE-ORC-PHY-2020-018
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2020_G11_Physics_Exam_MG.pdf
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/13qe82A0JuWwwwUvSp_pVYLrD5OM46kx9
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2020/Exams
+- source_id: SOURCE-ORC-PHY-2020-019
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2020_G11_Physics_Exam_QP.pdf
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Mlr6h5szCmpGIfPtXVivkK2SCJd6B8K5
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2020/Exams
+- source_id: SOURCE-ORC-PHY-2020-020
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2020_G11_Physics_IeBT-P1_MG.pdf
+  year: 2020
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1FUG0CHsoLg7rbjJiaEoi8RF5eiS8fEem
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2020/IeBT
+- source_id: SOURCE-ORC-PHY-2020-021
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2020_G11_Physics_IeBT-P1_QP.pdf
+  year: 2020
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1NOX5bMyQBs2MhhXEYcyQJ4rwr15G38Yz
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2020/IeBT
+- source_id: SOURCE-ORC-PHY-2020-022
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2020_G11_Physics_Test2-Vectors-Forces_MG.pdf
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1HQX7uYzyC2jSnmLjMSy6Xlglobg0wNwY
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2020/Tests
+- source_id: SOURCE-ORC-PHY-2020-023
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2020_G11_Physics_Test2-Vectors-Forces_QP.pdf
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1woRfMpyz_HATjUivP6sWMBBEzk5LNEBZ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2020/Tests
+- source_id: SOURCE-ORC-PHY-2021-024
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2021_G11_Physics_Nov-Exam_MG.pdf
+  year: 2021
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1MtQtupA0xyrFWBLYTsautMIVYKXM9KQO
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2021/Exams
+- source_id: SOURCE-ORC-PHY-2021-025
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2021_G11_Physics_Nov-Exam_QP.pdf
+  year: 2021
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/19ZZmFc2-zHeX3ObQ_V-sPiWRr28mn3fK
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2021/Exams
+- source_id: SOURCE-ORC-PHY-2021-026
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2021_G11_Physics_Sept-Exam_MG.pdf
+  year: 2021
+  term: 3
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1oufTjIXcn_bwjHWSYS-i1U4eJ_XDYAxF
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2021/Exams
+- source_id: SOURCE-ORC-PHY-2021-027
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2021_G11_Physics_Sept-Exam_QP.pdf
+  year: 2021
+  term: 3
+  paper_number: null
+  source_url: https://drive.google.com/file/d/19HHmK1Kpgu2Hhd-F8cnmWOpdVewtTHVi
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2021/Exams
+- source_id: SOURCE-ORC-PHY-2021-028
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2021_G11_Physics_IeBT-P1_MG.pdf
+  year: 2021
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1xQ-G9pUnBVmYd40RkUmLuNszYKyLJwqg
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2021/IeBT
+- source_id: SOURCE-ORC-PHY-2021-029
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2021_G11_Physics_IeBT-P1_QP.pdf
+  year: 2021
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/15k5_kDTl1lunU-02eJ9VJyRHgYG1tvkP
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2021/IeBT
+- source_id: SOURCE-ORC-PHY-2022-030
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2022_G11_Physics_July-Exam_MG.pdf
+  year: 2022
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Tz6a24UtaHnwPlZM-AaPLj6fUOQzRFG6
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/Exams
+- source_id: SOURCE-ORC-PHY-2022-031
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2022_G11_Physics_July-Exam_QP.pdf
+  year: 2022
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1IP2lQgFmhmYr0EySr1UG8mMjtv3RZDap
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/Exams
+- source_id: SOURCE-ORC-PHY-2022-032
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2022_G11_Physics_Nov-Exam_MG.pdf
+  year: 2022
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/119mTpXSxlnZoK1mzbHGHsAiiUCOcml2U
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/Exams
+- source_id: SOURCE-ORC-PHY-2022-033
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2022_G11_Physics_Nov-Exam_QP.pdf
+  year: 2022
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1BLMEfPahfO7b751FXS8oM_ZhtxcIxQcT
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/Exams
+- source_id: SOURCE-ORC-PHY-2022-034
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2022_G11_Physics_IeBT-P1_MG.pdf
+  year: 2022
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1AkD8wb0i1MfRw-0ukVvsfg3tqhlqPA76
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/IeBT
+- source_id: SOURCE-ORC-PHY-2022-035
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2022_G11_Physics_IeBT-P1_QP.pdf
+  year: 2022
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1whSKuB4XkXlVhlO0WcHsk0-WrxTXllty
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/IeBT
+- source_id: SOURCE-ORC-PHY-2022-036
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2022_G11_Physics_Scientific-Skills-KeyDF_MG.pdf
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/13rwL-OV9CkNFgjsyaBnqs8PzLwJ3JxB-
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/Tests
+- source_id: SOURCE-ORC-PHY-2022-037
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2022_G11_Physics_Scientific-Skills-KeyDF_QP.pdf
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1b7DMtP9SqeE6WUuMf9K-Cb_-3DjEWDvb
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/Tests
+- source_id: SOURCE-ORC-PHY-2022-038
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2022_G11_Physics_Scientific-Skills-KeyE_MG.pdf
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1skaTFZsg63TGv0cNo4fAGdnFPHdEF8p6
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/Tests
+- source_id: SOURCE-ORC-PHY-2022-039
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2022_G11_Physics_Scientific-Skills-KeyE_QP.pdf
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1-_jw9e2SM_BOwX5s9JyOhZbssiqdrU5U
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/Tests
+- source_id: SOURCE-ORC-PHY-2022-040
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2022_G11_Physics_Test5-Vectors-Forces_MG.pdf
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1ZFO8GSYJv3ahXHzcwaFCrMCPJSIsfSsY
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2022/Tests; MG only, no QP in folder
+- source_id: SOURCE-ORC-PHY-2023-041
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2023_G11_Physics_MidYear-Exam_MG.pdf
+  year: 2023
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1O1h6HVWyrKv4byw_ICrWorWS15n9WEyG
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2023/Exams
+- source_id: SOURCE-ORC-PHY-2023-042
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2023_G11_Physics_MidYear-Exam_QP.pdf
+  year: 2023
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1XSvr8HMcSCU9mMARIe-SsrhBI5iBXm23
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2023/Exams
+- source_id: SOURCE-ORC-PHY-2023-043
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2023_G11_Physics_Nov-Exam_MG.pdf
+  year: 2023
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1RAybxl3pdEEfESIeyFnekdAKonAEycSD
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2023/Exams
+- source_id: SOURCE-ORC-PHY-2023-044
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2023_G11_Physics_Nov-Exam_QP.pdf
+  year: 2023
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1zfC6h6lesoEDHzy12W6yY7dFgIA2kCMv
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2023/Exams
+- source_id: SOURCE-ORC-PHY-2023-045
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2023_G11_Physics_IeBT-P1_MG.pdf
+  year: 2023
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/12TvWB7g55SA3FloAaUhRUVmvBndoVrml
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2023/IeBT
+- source_id: SOURCE-ORC-PHY-2023-046
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2023_G11_Physics_IeBT-P1_QP.pdf
+  year: 2023
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1tFAP_WwJpDro9-e1N1-hcMa2vgJExTqZ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2023/IeBT
+- source_id: SOURCE-ORC-PHY-2024-047
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2024_G11_Physics_IeBT-MCQ_QP.pdf
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1PzAht7LYTT6qRBBqESX4HtqmRysQrmof
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Exams; IeBT MCQ paper
+- source_id: SOURCE-ORC-PHY-2024-048
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2024_G11_Physics_MidYear-Exam_MG.pdf
+  year: 2024
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1rL5qjtB8-sF93gGyJxq1H9Hr90ZlQyGX
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Exams
+- source_id: SOURCE-ORC-PHY-2024-049
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2024_G11_Physics_MidYear-Exam_QP.pdf
+  year: 2024
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1JDF4HGPszfcOcupGkW85nQ-ruhuwkUyb
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Exams
+- source_id: SOURCE-ORC-PHY-2024-050
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2024_G11_Physics_Nov-Exam_MG.pdf
+  year: 2024
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1tTUG0yc9xF51QpWUYRAhmxeBMLAKPZZy
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Exams
+- source_id: SOURCE-ORC-PHY-2024-051
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2024_G11_Physics_Nov-Exam_QP.pdf
+  year: 2024
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1gzmhFUm1uaxEVRAlbk3Qkk88CYf0oI09
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Exams
+- source_id: SOURCE-ORC-PHY-2024-052
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2024_G11_Physics_Revision-MCQ_MG.pdf
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1xqwdliOEKdzF6VkAd0IS5-Ycl8ERru7w
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Tests
+- source_id: SOURCE-ORC-PHY-2024-053
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2024_G11_Physics_Revision-MCQ_QP.pdf
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Un5XS8R9xPJ3jPuUL4lkak8mXJ2uM3Du
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Tests
+- source_id: SOURCE-ORC-PHY-2024-054
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2024_G11_Physics_Revision-Test_MG.pdf
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/13mKRZph5JRjUDdlpPyswykr2xiZkid1P
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Tests
+- source_id: SOURCE-ORC-PHY-2024-055
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2024_G11_Physics_Revision-Test_QP.pdf
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1O6uSksm0CWMePZ2o7pFUqJ7DCAlwPy8R
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Tests
+- source_id: SOURCE-ORC-PHY-2024-056
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2024_G11_Physics_Test-Vectors-Forces_MG.pdf
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1E_H9hj9-hlxPaVY__82ziksHI6Qa_WTB
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Tests
+- source_id: SOURCE-ORC-PHY-2024-057
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2024_G11_Physics_Test-Vectors-Forces_QP.pdf
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1gUegXSrZ9Nfdh1DXNVU63eiQnlPtQcWN
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2024/Tests
+- source_id: SOURCE-ORC-PHY-2025-058
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2025_G11_Physics_IeBT_MG.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1sQ-YxdVFUEefttM84t8hxgOkGuQNz5-_
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Exams
+- source_id: SOURCE-ORC-PHY-2025-059
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2025_G11_Physics_IeBT_QP.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1xEXNmwcZbOBx8X58ee2k83wkrnkTO5vZ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Exams
+- source_id: SOURCE-ORC-PHY-2025-060
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2025_G11_Physics_MidYear-Exam_MG.pdf
+  year: 2025
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Giv0LldjA_smRyuaPsa_oO0cmvMmKajn
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Exams
+- source_id: SOURCE-ORC-PHY-2025-061
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2025_G11_Physics_MidYear-Exam_QP.pdf
+  year: 2025
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1s0xtKcqwbgoGYx7kPPamSf9R5Xbae-nR
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Exams
+- source_id: SOURCE-ORC-PHY-2025-062
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2025_G11_Physics_Nov-Exam_MG.pdf
+  year: 2025
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1zlBXrqWiA9-MkQChLEyvhBtIALv0Khj6
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Exams
+- source_id: SOURCE-ORC-PHY-2025-063
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2025_G11_Physics_Nov-Exam_QP.pdf
+  year: 2025
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1VmC43SnMFmWnWGbSeuSoSygSXpfsRM_z
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Exams
+- source_id: SOURCE-ORC-PHY-2025-064
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2025_G11_Physics_Task5-Fields-Circuits_MG.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1_aGGI8vzQFU4cs9xjVCLJAxowBGj1o3V
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests
+- source_id: SOURCE-ORC-PHY-2025-065
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2025_G11_Physics_Task5-Fields-Circuits_QP.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/146bc_eR6wNNLVAt2y_Fik2gTCgmeblHI
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests
+- source_id: SOURCE-ORC-PHY-2025-066
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2025_G11_Physics_Task6-WEPpJ_MG.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1WofdzpFRqMu05cIdDFoM6lPlnY1zAy5u
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests
+- source_id: SOURCE-ORC-PHY-2025-067
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2025_G11_Physics_Task6-WEPpJ_QP.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1IfOJ4jyY_ON7kfvQUUuLaZ0KsVI3dVQk
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests
+- source_id: SOURCE-ORC-PHY-2025-068
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2025_G11_Physics_Test1-Kinematics_MG.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1a_KLfneiwMS2YyJaVc1LneBD13z1AiE7
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests
+- source_id: SOURCE-ORC-PHY-2025-069
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2025_G11_Physics_Test1-Kinematics_QP-draft.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1QQeEb2i_pu6m4SRu3HV6lS8e0VUmfiLJ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests; draft QP
+- source_id: SOURCE-ORC-PHY-2025-070
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2025_G11_Physics_Test1-Kinematics_QP.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1dNexsbWtXuNqUuBCvm8shYWLD23ve2C4
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests
+- source_id: SOURCE-ORC-PHY-2025-071
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2025_G11_Physics_Test3-Forces-Vectors_MG.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/17EanIL2REVmL-Dx8mbqWTUNMIQFV-ZTr
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests
+- source_id: SOURCE-ORC-PHY-2025-072
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2025_G11_Physics_Test3-Forces-Vectors_QP.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1kR_VAKxoB5yvoleXx6ejvpoD23Ma4Ac8
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests
+- source_id: SOURCE-ORC-PHY-2025-073
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2025_G11_Physics_Test4-Kinematics-Newton_MG_2025-06-17.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/12jKlO9wOj2l7PYe74Xcwg-BsRvERCV8r
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests
+- source_id: SOURCE-ORC-PHY-2025-074
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2025_G11_Physics_Test4-Kinematics-Newton_QP_2025-06-17.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1-YdJUE5fKTh4GwaM6g4Bj-a7FMhIb6nj
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2025/Tests
+- source_id: SOURCE-ORC-PHY-2026-075
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11_Physics - Exam 1_Physics_MG.pdf
+  year: 2026
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/10he-UoAy4MKdBUfaQ6GwLNID5Dui74JV
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2026/Mid-Year Exams; MG only
+- source_id: SOURCE-ORC-PHY-2026-076
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2026_G11_Physics_Test1-Kinematics_MG.pdf
+  year: 2026
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1WNJ8oJcmqiojcz1_fd21Udl6uWD7W5gq
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2026/Tests
+- source_id: SOURCE-ORC-PHY-2026-077
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2026_G11_Physics_Test1-Kinematics_QP.pdf
+  year: 2026
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/15WUS8-AdVcAGo9yNUmLbeGyczwAJtfV0
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2026/Tests
+- source_id: SOURCE-ORC-PHY-2026-078
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2026_G11_Physics_Test3-Vectors-Forces-Newton_MG_2026-05-18.pdf
+  year: 2026
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1kZcuZIQgxFJa-Xi9oi6h5HxLQNqb3BDG
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2026/Tests
+- source_id: SOURCE-ORC-PHY-2026-079
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 2026_G11_Physics_Test3-Vectors-Forces-Newton_QP_2026-05-18.pdf
+  year: 2026
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1cDNO-ZLKeBhAAG7U3oW95GODwU0n7P8p
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2026/Tests
+- source_id: SOURCE-ORC-PHY-2026-080
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11_IEBT-Physics - MG.pdf
+  year: 2026
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/11P8gkGQ_h_jbiYqY-WpFwkFlYlB6f1_V
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2026/Tests; IeBT MG
+- source_id: SOURCE-ORC-PHY-2026-081
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: G11_IEBT-Physics - QP (12-06-2026)_print.pdf
+  year: 2026
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1vfnBU2GAIESt3zh5-4sWJtM6Fa_VaBXG
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 Physics/2026/Tests; IeBT QP
+- source_id: SOURCE-ORC-PHY-2015-082
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 2015_G11_PhysicalSciences_IeBT-P1+P2_MG.pdf
+  year: 2015
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1m3F6GTs8IJ0iAlJPYLE-zuqkSclKd2sH
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 IeBT/P1 and P2 combined; P2 component is chemistry
+- source_id: SOURCE-ORC-PHY-2015-083
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: 2015_G11_PhysicalSciences_IeBT-P1+P2_QP.pdf
+  year: 2015
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/10iODGtkqgyBgayMa_9u0GqXXiwAHmWEo
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC G11 IeBT/P1 and P2 combined; P2 component is chemistry
+- source_id: SOURCE-ORC-PHY-2025-084
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: Gr11 - PS - Test 4 - MG.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1n08K1UG0KOHzJZ3YflP5R6LUpJ-t1dn_
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/2025
+- source_id: SOURCE-ORC-PHY-2025-085
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: Gr11 - PS - Test 4.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1A6bjTS-r5ucmZjzKYL1ePCi19qRw5IiE
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/2025
+- source_id: SOURCE-ORC-PHY-2025-086
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 - Chemistry- Task 2 - QP - 2025 MG.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1ED5TXSSWeOk98SLUms1T2ScT0_GKIhAQ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/2025; OUT OF SCOPE (chemistry)
+- source_id: SOURCE-ORC-PHY-2025-087
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 - Chemistry- Task 2 - QP - 2025 V2.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1vxTUdQvSPTdalrxUo_SemNOOJy_Ed6LB
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/2025; OUT OF SCOPE (chemistry)
+- source_id: SOURCE-ORC-PHY-2025-088
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 - Physics - Task 1 - Kinematics - QP - 2025(fin).pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/14Bmrcg_tWkjeYLHrCvFvj-wngb8c8s1m
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/2025
+- source_id: SOURCE-ORC-PHY-2025-089
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 - Physics - Test 1 - Kinematics - MG - 2025.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1ilGff9ACuwRBH0pQ1m1sKW20iWHcuWCd
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/2025
+- source_id: SOURCE-ORC-PHY-2025-090
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 - Physics- Test 3 - MG - 2025.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1s04EsSV8pOY2_bmfOnySzSavknhJ9RbE
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/2025
+- source_id: SOURCE-ORC-PHY-2025-091
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 - Physics- Test 3 - QP - 2025.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/12aWBMX7pCKT-KdA-CDdzryjcBV7pSEcP
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/2025
+- source_id: SOURCE-ORC-PHY-2015-092
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: IeBT Paper 1 + 2 (MG) 2015.pdf
+  year: 2015
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/14TzUB0rSeZplQOS58EbMhClmnXP0Teju
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2015
+- source_id: SOURCE-ORC-PHY-2015-093
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT Paper 1 + 2 (QP) 2015.pdf
+  year: 2015
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/15LBJlgfkE5GWx7MAilRcxeVoO1Uxnlr4
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2015
+- source_id: SOURCE-ORC-PHY-2016-094
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: IeBT 2016 P1 (MG)
+  year: 2016
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/14hCqmyAyac3tpWBzniz_JJY_6ShkJhkk
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2016
+- source_id: SOURCE-ORC-PHY-2016-095
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2016 P1 (QP)
+  year: 2016
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/14c_m7Clg70-89TkPeEX0J_cXSKjr8N6m
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2016
+- source_id: SOURCE-ORC-PHY-2016-096
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: IeBT 2016 P2 (MG)
+  year: 2016
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/14jHGBCNHnktxm7t4NT63Gy1sks2swfG7
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2016; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2016-097
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2016 P2 (QP)
+  year: 2016
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/14iw4bsWJQn3e5bGUvEs0P1X3UAe1SPS-
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2016; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2017-098
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: IeBT 2017 P1 (MG)
+  year: 2017
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/14dkCYkQJ4piU_MxVbjtJMXEsfjp2vaHs
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2017
+- source_id: SOURCE-ORC-PHY-2017-099
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2017 P1 (QP)
+  year: 2017
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/14c2kJCCNGC9WqSWv3QCHoAtFaqrisJhE
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2017
+- source_id: SOURCE-ORC-PHY-2017-100
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: IeBT 2017 P2 (MQ)
+  year: 2017
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/15I9icB5u_9n8yk1f64jySRED7G0n0tgy
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2017; OUT OF SCOPE (chemistry P2); MQ typo in Drive
+- source_id: SOURCE-ORC-PHY-2017-101
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2017 P2 (QP)
+  year: 2017
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/155CpgMsK-GV6c5WIhAPbqzTu0jDbG3HH
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2017; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2018-102
+  subject: physics
+  grade: '11'
+  document_type: other
+  title: IeBT 2018 P1 (AS)
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/151m6tCJQIOP61UpehRHE8ARfIfQipjfY
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2018; answer sheet
+- source_id: SOURCE-ORC-PHY-2018-103
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: IeBT 2018 P1 (DS)
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/14wRU5h31Sqy1pwo9VY3ZACHCjYFkjxhB
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2018; data sheet
+- source_id: SOURCE-ORC-PHY-2018-104
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: IeBT 2018 P1 (MG)
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/153Xqp3_Z6jQMbf4GVOnmSCgRvNR5QIn2
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2018
+- source_id: SOURCE-ORC-PHY-2018-105
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2018 P1 (QP)
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/14qvgcPmj9uhveR7qFkDUrfOzIPRgT3Om
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2018
+- source_id: SOURCE-ORC-PHY-2018-106
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: IeBT 2018 P2 (MG)
+  year: 2018
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/14poLg-W_mQIS54hsmM6k1uHdcEMa3g3i
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2018; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2018-107
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2018 P2 (QP)
+  year: 2018
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/14o0l34sRAnT0EjZAjhGw2v6VjlGO2mXR
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2018; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2019-108
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2019 P2 Memo Afr
+  year: 2019
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/10cCYoFVIDEWK2AP8gQ8_WqDMlvdzVOSB
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2); Afrikaans memo
+- source_id: SOURCE-ORC-PHY-2019-109
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2019 P2 Memo
+  year: 2019
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/10dkadxIO5ZuB7xHylq4NNGCQcHo-2eaK
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2019-110
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2019 P1 QP
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/10eNIqbg46Npu5nQRqZV01rPWmMQFlnXB
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2019
+- source_id: SOURCE-ORC-PHY-2019-111
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: IeBT 2019 P1 Diagram Booklet
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/10hqgWeJV0j-JYvxItp_QbB6vMNJ2x4Ot
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2019
+- source_id: SOURCE-ORC-PHY-2019-112
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2019 P1 Memo
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/10rUfvQ7NKKFSMiZ6Kn8YzDcXkpVD-pu5
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2019
+- source_id: SOURCE-ORC-PHY-2019-113
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2019 P2 QP
+  year: 2019
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/10vEs6nu720hKDooaBwxfmDEVIqrm4O9N
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2019-114
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: IeBT 2019 P2 Diagram Booklet
+  year: 2019
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/10yFWZibTslnvZmnTQ_hhWTyOd7D2O4Cq
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2020-115
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2020 P2 Memo
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/115bTrnT3kvJtCm009HrOxDBxun_QHKUx
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2020; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2020-116
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2020 P1 QP
+  year: 2020
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/114CM3IvLsleDhWGv20m0s19zKE1LbpVt
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2020
+- source_id: SOURCE-ORC-PHY-2020-117
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2020 P1 Memo
+  year: 2020
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/11SaZzpri8-N2Q13uj-kA6kUpcNfN-VuN
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2020
+- source_id: SOURCE-ORC-PHY-2020-118
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2020 P2 QP
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1194PtbF_ecM2S_k3qoGAGsSdK0JCLEjF
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2020; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2021-119
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2021 Chemistry P2
+  year: 2021
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/11Vayb6O8LqWdGL0Blj-82MpoGGVNswfJ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2021; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2021-120
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2021 Physics P1
+  year: 2021
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/11oQ4snAITPr-UuUnnqSWAstLlLF0DV4M
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2021
+- source_id: SOURCE-ORC-PHY-2021-121
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2021 Physics P1 Memo
+  year: 2021
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/11fOZH9xGj0KnmA657tM17n0eB1ALogjh
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2021
+- source_id: SOURCE-ORC-PHY-2021-122
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2021 Physical Sciences P2 Memo
+  year: 2021
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/11WnPC-J_IVVnWUHOtW_hlMIIr-M2D8iW
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2021; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2022-123
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2022 Physics P1
+  year: 2022
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/120tCw-3PJDUB1ns8M7XZqbTFmn0M0a0N
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2022
+- source_id: SOURCE-ORC-PHY-2022-124
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2022 Physics P1 Memo
+  year: 2022
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/126n95QRXmwflDrrfBMSw8Im-nw8ONIpu
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2022
+- source_id: SOURCE-ORC-PHY-2022-125
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2022 Physical Sciences P2
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/116ek0QHUdoWCi_sBHW0LFhzaDF9Wy_fM
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2022; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2022-126
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2022 Physical Sciences P2
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/121bCPqBuH0DYH-rzdrPMXPUVv1731MvA
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2022; OUT OF SCOPE (chemistry P2); duplicate naming
+- source_id: SOURCE-ORC-PHY-2022-127
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2022 Physical Sciences P2 Memo
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/123NZb2p4yQ8ipgD5dTEDy6PbKufX0cXJ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2022; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2023-128
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2023 G11 PS P1
+  year: 2023
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/12HtRkUJSdJ_q9-CWcwcUsEFaa8ZyhIz6
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2023
+- source_id: SOURCE-ORC-PHY-2023-129
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: IeBT 2023 P2
+  year: 2023
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/12CcwcJlfUuPtYnFImeFp7vm6AuSo_fqa
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2023; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2023-130
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2023 P2 Memo
+  year: 2023
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/12BjSZBGU32VBpB_bJPiXsk1G1SpfUK5Y
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2023; OUT OF SCOPE (chemistry P2)
+- source_id: SOURCE-ORC-PHY-2023-131
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: IeBT 2023 P1 Memo
+  year: 2023
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/129MgsyAHeMzUWT3Tjwbkz9f-z2mtmYqS
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: old_G11 ORC/IebTs/2023
+- source_id: SOURCE-ORC-PHY-2019-132
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: Grade 11 Paper 1 MG 2019.pdf
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1F6yfdgP4jUH6PbV2Q-uzKlqRaFTn6Pmu
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2019
+- source_id: SOURCE-ORC-PHY-2019-133
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: Grade 11 Paper 1 QP 2019.pdf
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1F9HkxUiLVYJopRkk5XjRbNw3BoGq_qkT
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2019
+- source_id: SOURCE-ORC-PHY-2020-134
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 Physics Exam 2020 MG Final.pdf
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1EyDUKLVUrxqs0Fk8r4ZbFQcjAFIHpjAM
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2020
+- source_id: SOURCE-ORC-PHY-2020-135
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: PS11 Physics Exam 2020 QP (Google Doc)
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://docs.google.com/document/d/1WdXYFL3RMhsdOJ4vaFJ9GR0ePGZyEl1B79p6W79ruAQ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2020; hosted as Google Doc
+- source_id: SOURCE-ORC-PHY-2020-136
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: PS11 Physics Exam 2020 QP.pdf
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1EvoThZIdWvd6vPMbxT83zRlpN9VkzYVO
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2020
+- source_id: SOURCE-ORC-PHY-2021-137
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 Physics November Exam 2021 MG.pdf
+  year: 2021
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Ei7JrXskv6UsZjM0VjI8YRivRG_pj2YU
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2021
+- source_id: SOURCE-ORC-PHY-2021-138
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: PS11 Physics November Exam 2021 QP.pdf
+  year: 2021
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1EfvKuWqyvwSq2JO1aUCpMEHjcI01zI78
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2021
+- source_id: SOURCE-ORC-PHY-2021-139
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 Physics September Exam 2021 MG.pdf
+  year: 2021
+  term: 3
+  paper_number: null
+  source_url: https://drive.google.com/file/d/11rhClXMp82PcDrxB0eZZT_gHXJ1noFMt
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2021
+- source_id: SOURCE-ORC-PHY-2021-140
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: PS11 Physics September Exam 2021 QP.pdf
+  year: 2021
+  term: 3
+  paper_number: null
+  source_url: https://drive.google.com/file/d/11rXZ-RvkOMFgEuHPMdZz3fe6NSG-pWPk
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2021
+- source_id: SOURCE-ORC-PHY-2022-141
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11 July Physics Exam 2022 MG.pdf
+  year: 2022
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/178GWlDGxhPhYhfuz6e7atYzvE0m720Ja
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2022
+- source_id: SOURCE-ORC-PHY-2022-142
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: G11 July Physics Exam 2022 QP.pdf
+  year: 2022
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/17DWH6A481v46JuV2gfS9a-adH7_NxPkA
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2022
+- source_id: SOURCE-ORC-PHY-2022-143
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11 Nov Physics Exam 2022 MG.pdf
+  year: 2022
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/12M31HxX7stA5rGaSg7SA0EESXFIezOMV
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2022
+- source_id: SOURCE-ORC-PHY-2022-144
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: G11 Nov Physics Exam 2022 QP.pdf
+  year: 2022
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/16NXMYVKTVQ4K2zeHjm-0DS-AXUoLF5wD
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2022
+- source_id: SOURCE-ORC-PHY-2023-145
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11- Mid-Year Examination - MG FINAL - 2023.pdf
+  year: 2023
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1k_2_2aPUdiO7o4Dy5RIDbRUDWi1Rp6R6
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2023
+- source_id: SOURCE-ORC-PHY-2023-146
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: G11- Mid-Year Examination - QP - 2023.pdf
+  year: 2023
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1vOnYKlrI04XHSB45_ZhLc4zytgPkJR4p
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2023
+- source_id: SOURCE-ORC-PHY-2023-147
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: Gr 11 - Physics Exam Nov 2023 - MG.pdf
+  year: 2023
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1p3keWNcFiqrVshZ7jvuD2J4EyZ3X0d4u
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2023
+- source_id: SOURCE-ORC-PHY-2023-148
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: Gr 11 - Physics Exam Nov 2023 - QP Draft 2.pdf
+  year: 2023
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1p22zW3JE4KpRIR7tF7Vv1HWU5vPrcXzE
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2023; draft QP
+- source_id: SOURCE-ORC-PHY-2024-149
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11- P1 -Physics - Final Exam - MG - 2024.pdf
+  year: 2024
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1ZiKLz1tf5gOj4pscXoprp4kPiSMGoyUy
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2024/Final
+- source_id: SOURCE-ORC-PHY-2024-150
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: PS11- P1 -Physics - Final Exam - QP - 2024.pdf
+  year: 2024
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1skS3pT6bU5vndKyUlooeUUxwjkXeyZre
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2024/Final
+- source_id: SOURCE-ORC-PHY-2024-151
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: PS11- P1-Physics - IeBT - MCQ - 2024.pdf
+  year: 2024
+  term: 4
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1V3xuAV2yAD16F6LnYA0XIiLibK6cU6Oa
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2024/Final; IeBT MCQ
+- source_id: SOURCE-ORC-PHY-2024-152
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: G11- Mid-Year Examination - QP - 2024.pdf
+  year: 2024
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1PI9puT3xgIdfSHAJ2PjuJmvp1l3jFMyK
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2024/Mid-Year
+- source_id: SOURCE-ORC-PHY-2024-153
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: Gr 11- Mid-Year Examination - MG - 2024.pdf
+  year: 2024
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/19mOjIjyAk2iPnx7wgbmO44zQzXYJEP_P
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2024/Mid-Year
+- source_id: SOURCE-ORC-PHY-2025-154
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11 - MG - Physics Final Exam - Nov - 2025.pdf
+  year: 2025
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1T3r9WG63a6jwqCYt4ni2UCSc6x4udRhd
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2025/Year End
+- source_id: SOURCE-ORC-PHY-2025-155
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: G11 - QP - Physics Final Exam - Nov - 2025.pdf
+  year: 2025
+  term: 4
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1xkhAmpiFYI50MS74u6rCDfHQitTIS4zU
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2025/Year End
+- source_id: SOURCE-ORC-PHY-2025-156
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11- PHYSICS IebT - MG - 2025.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1jDYpiQNL8TUdCcBJ32Slqhu_q2dugOdA
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2025
+- source_id: SOURCE-ORC-PHY-2025-157
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: G11- PHYSICS IeBt - QP - 2025-FINAL.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1RasbByQmKaErtfwMpxsnD-EN8i6r0Vqg
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2025
+- source_id: SOURCE-ORC-PHY-2025-158
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 - Physics- Mid-Year - MG Final- 2025.pdf
+  year: 2025
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1vwUp6H_pReO4Vukz4K2rSIYS_gg8ZRz5
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2025
+- source_id: SOURCE-ORC-PHY-2025-159
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: PS11 - Physics- Mid-Year - QP - 2025.pdf
+  year: 2025
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1nam_4C7a6xpNmRUoWPIayCeYlfFPbqin
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Exams/Physics/2025
+- source_id: SOURCE-ORC-PHY-2022-160
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 Scientific Skills TEST MG KEY D&F.pdf
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1_fbAO9MBESee1hkf1A3wScVVxJ6drktM
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2022/Skills Tests
+- source_id: SOURCE-ORC-PHY-2022-161
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 Scientific Skills MG KEY E.pdf
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1_gBzklKQNhF7q8_6frKCFHh867WjMEjS
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2022/Skills Tests
+- source_id: SOURCE-ORC-PHY-2022-162
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 Scientific Skills QP KEY D&F.pdf
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1__5fRKHwb0Q8uql8HDBs2jk6Xw7P0Y4J
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2022/Skills Tests
+- source_id: SOURCE-ORC-PHY-2022-163
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 Scientific Skills QP KEY E.pdf
+  year: 2022
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1_V9Hl1WGB0_taX9NM2l5gFiFnrI3wsUW
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2022/Skills Tests
+- source_id: SOURCE-ORC-PHY-2022-164
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 11_Chemistry Test-1A_Bonding-ReactionRate_MG_April-2022.pdf
+  year: 2022
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1d628wSwrInNg8jfUbHLg_0YPWJiAIoLz
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry)
+- source_id: SOURCE-ORC-PHY-2022-165
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 11_Chemistry Test-1A_Bonding-ReactionRate_QP_April-2022.pdf
+  year: 2022
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1d0nK1lcP2HxC2T5-LGqUzDcrRBo11tsM
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry)
+- source_id: SOURCE-ORC-PHY-2022-166
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 11_Chemistry Test-1B_Bonding-ReactionRate_MG_April-2022.pdf
+  year: 2022
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1clriAvontOkjUggaGXyreeRSDwF89V0S
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry)
+- source_id: SOURCE-ORC-PHY-2022-167
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 11_Chemistry Test-1B_Bonding-ReactionRate_QP_April-2022.pdf
+  year: 2022
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1d92nVMrGmpYUJL4zx-yXF9CzfbGPkwL6
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry)
+- source_id: SOURCE-ORC-PHY-2022-168
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: Gr11_Test5 - Vectors Forces_MG(a)_Physics_June2022.pdf
+  year: 2022
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/13TwbwaIApWfH6tlL2NjLGHtJ2vPtJCbW
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2022/Test 5; MG only
+- source_id: SOURCE-ORC-PHY-2026-169
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11 - MG - Kinematics Test - Jan - 2026(v1.1)
+  year: 2026
+  term: 1
+  paper_number: null
+  source_url: https://docs.google.com/document/d/1vMbhKOv-tzr5iWxjZCNOp23on-R7nxQKIzSzuyAcXM4
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2026; Google Doc
+- source_id: SOURCE-ORC-PHY-2026-170
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: G11 - QP - Test 1 - Kinematics QP 2026.pdf
+  year: 2026
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/11vnjTW-lU1xbAPooEFpr1WBvgljywPcD
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2026
+- source_id: SOURCE-ORC-PHY-2026-171
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11_Chemistry - Test 2_Quantitative, Chemical Bonding and Rates_MG (19-03-2026).pdf
+  year: 2026
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1HkoSQ-7P10wqBi44RBfxP-sroxWcVdbF
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2026; OUT OF SCOPE (chemistry)
+- source_id: SOURCE-ORC-PHY-2026-172
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: G11_Chemistry - Test 2_Quantitative, Chemical Bonding and Rates_QP1 (19-03-2026)
+  year: 2026
+  term: 1
+  paper_number: null
+  source_url: https://docs.google.com/document/d/1fwur9a75-26sCukDwM0aNzunUrT9xL2wXIS9Gq0K9Uo
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2026; OUT OF SCOPE (chemistry); Google Doc
+- source_id: SOURCE-ORC-PHY-2026-173
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: G11_Physics - Test 3_vectors,Forces & Newton111_QP (18-05-2026).pdf
+  year: 2026
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1Two5XWqOI9iG0i-HeBjfQ0ISPNG3FGpJ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2026
+- source_id: SOURCE-ORC-PHY-2026-174
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11_Science - Test 3_Vectores, forces_MG (18-05-2026).pdf
+  year: 2026
+  term: 2
+  paper_number: null
+  source_url: https://drive.google.com/file/d/16msXMgK9YAjG3VlGPZdtOhHB0PyrE27k
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/2026
+- source_id: SOURCE-ORC-PHY-2025-175
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 - Physics - Task 1 - Kinematics - QP.pdf
+  year: 2025
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1oKZTFB8INJ0frRdyAFDTX9fgoQaaEjrE
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/2025 Task 1 Kinematics
+- source_id: SOURCE-ORC-PHY-2025-176
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 - Physics - Task 1 - Kinematics - MG.pdf
+  year: 2025
+  term: 1
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1YNimjsOEOyDDaShQ9ze0h7jtEIz797n6
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/2025 Task 1 Kinematics
+- source_id: SOURCE-ORC-PHY-2025-177
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 - Physics - Task 5 - Fields and Circuits - MG.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1S-iwTac-EwqUwts0ObK7WWwxMArvWw2s
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/2025 Task 5
+- source_id: SOURCE-ORC-PHY-2025-178
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 - Physics - Task 5 - Fields and Circuits - QP.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1tl8a-2K389sUlXjLAO2_ZGCVQSLJDn4O
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/2025 Task 5
+- source_id: SOURCE-ORC-PHY-2025-179
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 - Physics - Task 6 - WEPpJ - MG(2025).pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1goy1r44EVHwzDGoZafb3lZUMNPAZIBKK
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/2025 Task 6
+- source_id: SOURCE-ORC-PHY-2025-180
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 - Physics - Task 6 - WEPpJ - QP.pdf
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1xcFmfoAOMaRgCXvp8sgBk_nlW0Aqi-N9
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/2025 Task 6
+- source_id: SOURCE-ORC-PHY-2017-181
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 Class Test (Stoichiometry and Vectors) 2017 MG
+  year: 2017
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1QNoaQll6oPJ1_A6-umo1bObruNKbEUl9
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2017
+- source_id: SOURCE-ORC-PHY-2017-182
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 Class Test (Stoichiometry and Vectors) 2017 QP
+  year: 2017
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1m4aH7MgNTsJnmisOKGjzBTP0BHxdNRzI
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2017
+- source_id: SOURCE-ORC-PHY-2019-183
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 Vectors TEST 4 (2019) MG
+  year: 2019
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1oxAipBO95_FYsmaTOV2FaxGJ89AghiC6
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2019
+- source_id: SOURCE-ORC-PHY-2020-184
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 Vectors TEST 4 (2020) QP
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1ovpl1ipN3gNxD0QFeqedsTLfGnDJv2DQ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2019 folder; QP labelled 2020
+- source_id: SOURCE-ORC-PHY-2020-185
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: 11 Physics Test 2 (vectors and forces) MG
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1p7Xe6qnuRnsAIXYtVD8DGNxuan7Tt5Wx
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2020
+- source_id: SOURCE-ORC-PHY-2020-186
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: 11 Physics Test 2 (vectors and forces) QP
+  year: 2020
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1p7VBap8HhnJfEz2YSzbji23b4ufsOdxv
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2020
+- source_id: SOURCE-ORC-PHY-2025-187
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS11 - Physics - Test 3 - Forces and Vectors - MG
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1AbclfoPX7gJaTk3N5MiKt3ed2doGVSmk
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/2025 Test 3
+- source_id: SOURCE-ORC-PHY-2025-188
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: PS11 - Physics - Test 3 - Forces and Vectors - QP
+  year: 2025
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1i6T-iTRm1QkzVkPykzO9FMvDycRtLmFb
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/2025 Test 3
+- source_id: SOURCE-ORC-PHY-2024-189
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: G11 - Physics - MCQ - MG - 2024.pdf
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/10l7c7fTwW6H_lLYXcmdJQNsjVZi-CJfY
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Revision Test (2024)
+- source_id: SOURCE-ORC-PHY-2024-190
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: REVISION Test MG
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1xiXQYOZPNJ4IJlGXm2xtm9y4hVh35C67
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Revision Test (2024)
+- source_id: SOURCE-ORC-PHY-2024-191
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: REVISION Test QP
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/10o6xheOlUzQ34SLDzo_B6OvQ_73qgBYs
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Revision Test (2024)
+- source_id: SOURCE-ORC-PHY-2024-192
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: Test QP
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1PCeckBg9XtjtJy2NrWEojKc725Ae4khW
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Revision Test (2024)
+- source_id: SOURCE-ORC-PHY-2024-193
+  subject: physics
+  grade: '11'
+  document_type: assessment_material
+  title: Vectors and Forces Test QP 2024
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1ZDvR2WcIf_vK5_HH2_pcg-G50UavHbDE
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Vectors and Forces Test
+- source_id: SOURCE-ORC-PHY-2024-194
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: Vectors and Forces Test MG 2024(2)
+  year: 2024
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1yVG0UsCd49O2GvU-uu7D_t0_lrx6kfO-
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: PS11 Past Tests/Physics/Vectors and Forces Test
+- source_id: SOURCE-ORC-PHY-UNK-195
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: IEB Physics - Data Sheet
+  year: unknown
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1bPcvPFoGGQkSafCJK7bu18r8NLEFK40D
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC Physical Science page direct file
+- source_id: SOURCE-ORC-PHY-UNK-196
+  subject: physics
+  grade: '11'
+  document_type: curriculum
+  title: IEB - SAG - PS (Subject Assessment Guidelines)
+  year: unknown
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/12gEedbL2Yaj14pNf-YQDJ_Q9x4QDzt13
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC Physical Science page direct file; official IEB subject assessment guideline
+- source_id: SOURCE-ORC-PHY-UNK-197
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: IEB Chemistry - Data Sheet
+  year: unknown
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/177u7ODd0TckjJfsB2CpSzREM3f1LsN3-
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC Physical Science page direct file; OUT OF SCOPE (chemistry)
+- source_id: SOURCE-ORC-PHY-UNK-198
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: CHEM Data Sheet
+  year: unknown
+  term: null
+  paper_number: null
+  source_url: https://drive.google.com/file/d/1MtnvyI--gqTuKVVR3NGqHHvhU4Gob8CJ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: ORC Physical Science page/CHEM data sheet; OUT OF SCOPE (chemistry)
+- source_id: SOURCE-ORC-PHY-2015-199
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: PS_DS 2015 (Physics data sheet)
+  year: 2015
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1VfDC4VExoeE2giNLrRLj4ccp1kVsZXhQ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2015; data sheet
+- source_id: SOURCE-ORC-PHY-2015-200
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: PS_Memo 2015
+  year: 2015
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1_2fjsABaENtTJyjRI2TrTu2xYQ9R1vcU
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2015
+- source_id: SOURCE-ORC-PHY-2015-201
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: PS_MG 2015
+  year: 2015
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/18IzBSEPyV2uwfEr231snSoMdNUba4NE4
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2015
+- source_id: SOURCE-ORC-PHY-2015-202
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: PS_QP 2015
+  year: 2015
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1YEgVZtuZEpKpETyaQ1ogvkPSeT-Os7jt
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2015
+- source_id: SOURCE-ORC-PHY-2016-203
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: P1_DS 2016
+  year: 2016
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1bRegp72MWrCKHwxnfCQK-BLXbUzaZ5Du
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2016; data sheet
+- source_id: SOURCE-ORC-PHY-2016-204
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: P1_MG 2016
+  year: 2016
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1ep5kXmqBh67XQGrxTs50vDRAq8YUlRAY
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2016
+- source_id: SOURCE-ORC-PHY-2016-205
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: P1_QP 2016
+  year: 2016
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1JPUFOlTEuYqQ6GT4K0hFBkXfK6GNdwiM
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2016
+- source_id: SOURCE-ORC-PHY-2017-206
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: P1_IB 2017
+  year: 2017
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1r8T32u_l-5Yg5O7kvxEVKh8dX4BFjvrd
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2017; information booklet
+- source_id: SOURCE-ORC-PHY-2017-207
+  subject: physics
+  grade: '11'
+  document_type: memorandum
+  title: P1_Memo 2017
+  year: 2017
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1Cm7u4pJcvKLEKaYCie8DZa7T1yi9oVeZ
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2017
+- source_id: SOURCE-ORC-PHY-2017-208
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: P1_MG 2017
+  year: 2017
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1GfvNThD_cBxYSM8T917GLb-cyZ2-diqP
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2017
+- source_id: SOURCE-ORC-PHY-2017-209
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: P1_QP 2017
+  year: 2017
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1F-XfBFv2mWd9Gf5YxjyhYjKE9hTSwXYY
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2017
+- source_id: SOURCE-ORC-PHY-2018-210
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: P1_DS 2018
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1ferX1CbPtuHrpYF0ydiZVffG7F7uxLku
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2018; data sheet
+- source_id: SOURCE-ORC-PHY-2018-211
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: P1_IB 2018
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/11LKJkDkgy7J9cRJBsSuM30jfJQDJlgbP
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2018; information booklet
+- source_id: SOURCE-ORC-PHY-2018-212
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: P1_MG 2018
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1SSTOsYaJUcKB54C0f8dfck-IdSiuw4lq
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2018
+- source_id: SOURCE-ORC-PHY-2018-213
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: P1_QP 2018
+  year: 2018
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1PtDwdS5CdT2NGAWb7liI7Yci3XSO2GW2
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2018
+- source_id: SOURCE-ORC-PHY-2019-214
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: P1_DS 2019
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1Wx2yahzmCyHr1va52OeNm8jJ3WRQkNRw
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2019; data sheet
+- source_id: SOURCE-ORC-PHY-2019-215
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: P1_IB 2019
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1otp64ja6kekDwbzNgYuz3HN4ZVc3VlK8
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2019; information booklet
+- source_id: SOURCE-ORC-PHY-2019-216
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: P1_MG 2019
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/12SWEyBOnoaHTRC1SdROwViEEFxKf7wJ_
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2019
+- source_id: SOURCE-ORC-PHY-2019-217
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: P1_QP 2019
+  year: 2019
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1FIw1x0JIPsiaDUston41Rh8eubbK3Yxh
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2019
+- source_id: SOURCE-ORC-PHY-2020-218
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: P1_MG 2020
+  year: 2020
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1I9xFwAcHy3PzCmxG_U82_t3KO930FSL8
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2020
+- source_id: SOURCE-ORC-PHY-2020-219
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: P1_QP 2020
+  year: 2020
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1N_XFdB8bz8DEFl-oAzHVmy0MuuEl3GNY
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2020
+- source_id: SOURCE-ORC-PHY-2021-220
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: P1_DS 2021
+  year: 2021
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1Dx9ss_-sAPcbVi_QRHm6BruWM_jzpNmg
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2021; data sheet
+- source_id: SOURCE-ORC-PHY-2021-221
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: P1_MG 2021
+  year: 2021
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/15IROrwmMzPJH5OXHT9nuXHRPkPptKUYF
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2021
+- source_id: SOURCE-ORC-PHY-2021-222
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: P1_QP 2021
+  year: 2021
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1On22Z-99Tdwu-LlyDaOUrmzcNtrXuTyI
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2021
+- source_id: SOURCE-ORC-PHY-2022-223
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: P1_DS 2022
+  year: 2022
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1B3iLjmQJsKQ7ZHX8sLNzB_r5EeZ0LDUt
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2022; data sheet
+- source_id: SOURCE-ORC-PHY-2022-224
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: P1_MG 2022
+  year: 2022
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/152WH1VHKVRYYVYnN3jIMDiyEyU-TDFnR
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2022
+- source_id: SOURCE-ORC-PHY-2022-225
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: P1_QP 2022
+  year: 2022
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/18ol_A_24-BSpnh4A8uLNIqA_ItKa-i1f
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2022
+- source_id: SOURCE-ORC-PHY-2023-226
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: P1_MG 2023
+  year: 2023
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/10NhNC24J7yIp7X8p9gQJgEXmKGrFncsO
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2023
+- source_id: SOURCE-ORC-PHY-2023-227
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: P1_QP 2023
+  year: 2023
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/163BkOKFPEiMP2n0A0tGc9nc2oLU9ZcYN
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2023
+- source_id: SOURCE-ORC-PHY-2024-228
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: P1_DS 2024
+  year: 2024
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1QfON6jmMAciYdrTwk7cYQV9NpBcNOC7P
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2024; data sheet
+- source_id: SOURCE-ORC-PHY-2024-229
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: P1_MG 2024
+  year: 2024
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/11vmtpqflvt6PN9hetX1bf3slMjqWlaYP
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2024
+- source_id: SOURCE-ORC-PHY-2024-230
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: P1_QP 2024
+  year: 2024
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/13VYDTkVFKhZuBilqaTBsq9D8RwRKoIk7
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2024
+- source_id: SOURCE-ORC-PHY-2025-231
+  subject: physics
+  grade: '11'
+  document_type: reference
+  title: P1_DS 2025
+  year: 2025
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1cRYiee9O70xAx_UOzXVIq1L2K9wvvuxT
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2025; data sheet
+- source_id: SOURCE-ORC-PHY-2025-232
+  subject: physics
+  grade: '11'
+  document_type: marking_guide
+  title: P1_MG 2025
+  year: 2025
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1DUbRsICu5SKoR_vEr7hH0jbjUoYShYYm
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2025
+- source_id: SOURCE-ORC-PHY-2025-233
+  subject: physics
+  grade: '11'
+  document_type: past_paper
+  title: P1_QP 2025
+  year: 2025
+  term: null
+  paper_number: P1
+  source_url: https://drive.google.com/file/d/1HWPnGoTtUIoSlth6L2PhIp73irznVlkA
+  retrieved_at: '2026-09-03T09:04:28.066534Z'
+  access_status: accessible
+  local_path: null
+  file_hash: null
+  notes: IeBT/P1-Physics 2025
+run_id: 20260903T090314Z_25ba

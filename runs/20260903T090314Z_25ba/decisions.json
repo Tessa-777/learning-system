@@ -1,0 +1,158 @@
+[
+  {
+    "decision_id": "DEC-ORC-001",
+    "timestamp": "2026-09-03T09:04:35.980882Z",
+    "phase": 2,
+    "subject": "all",
+    "decision_type": "source_boundary",
+    "context": "Authoritative source boundary for the Grade 11 corpus",
+    "evidence": [
+      "https://sites.google.com/stbenedicts.co.za/orc"
+    ],
+    "alternatives": [
+      "use ORC only",
+      "use ORC plus generic web curriculum"
+    ],
+    "selected": "use ORC only",
+    "rationale": "IMPLEMENTATION_SPEC \u00a73 hard rule: ORC is the primary source boundary; no silent curriculum substitution.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-ORC-002",
+    "timestamp": "2026-09-03T09:04:35.980892Z",
+    "phase": 2,
+    "subject": "all",
+    "decision_type": "subject_page_selection",
+    "context": "AP Mathematics has no dedicated ORC page",
+    "evidence": [
+      "https://sites.google.com/stbenedicts.co.za/orc/mathematics"
+    ],
+    "alternatives": [
+      "search for another AP ORC page",
+      "use FS Mathematics Grade 11 Drive referenced via ORC"
+    ],
+    "selected": "use FS Mathematics Grade 11 Drive referenced via ORC",
+    "rationale": "The ORC Mathematics page is the closest ORC entry point; AP contents live in the FS Maths Drive.",
+    "confidence": "medium",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-ORC-003",
+    "timestamp": "2026-09-03T09:04:35.980897Z",
+    "phase": 2,
+    "subject": "all",
+    "decision_type": "dedupe_policy",
+    "context": "Physics discovery tables overlap (physics.tsv + physics_iebt.tsv, PS11/old_G11 trees)",
+    "evidence": [
+      "SOURCE-INV-ORC-PHY"
+    ],
+    "alternatives": [
+      "keep both copies",
+      "dedupe by file ID"
+    ],
+    "selected": "dedupe by file ID",
+    "rationale": "The same Drive file can appear in multiple trees; file ID is the stable identity. 238 rows -> 233 unique file records + 4 container records.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-ORC-004",
+    "timestamp": "2026-09-03T09:04:35.980900Z",
+    "phase": 2,
+    "subject": "all",
+    "decision_type": "container_handling",
+    "context": "Folder pointer records inside discovery tables",
+    "evidence": [
+      "SOURCE-INV-ORC-PHY"
+    ],
+    "alternatives": [
+      "record containers as sources",
+      "record containers separately, exclude from sources"
+    ],
+    "selected": "record containers separately",
+    "rationale": "Folders are not files; source records must resolve to real documents. Container records keep discovery provenance without polluting the file inventory.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-ORC-005",
+    "timestamp": "2026-09-03T09:04:35.980904Z",
+    "phase": 2,
+    "subject": "all",
+    "decision_type": "out_of_scope_marking",
+    "context": "Chemistry and Grade 12 material found inside Grade 11 physics/english/ap trees",
+    "evidence": [
+      "SOURCE-INV-ORC-PHY",
+      "SOURCE-INV-ORC-ENG",
+      "SOURCE-INV-ORC-APM"
+    ],
+    "alternatives": [
+      "delete from inventory",
+      "keep and mark OUT OF SCOPE"
+    ],
+    "selected": "keep and mark OUT OF SCOPE",
+    "rationale": "Every discovered source must be recorded; out-of-scope material is flagged in notes and summary so later phases cannot silently use it.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-ORC-006",
+    "timestamp": "2026-09-03T09:04:35.980908Z",
+    "phase": 2,
+    "subject": "all",
+    "decision_type": "external_source_marking",
+    "context": "ORC pages link to stithian.com and Mindbourne",
+    "evidence": [
+      "SOURCE-ORC-MAT-UNK-271",
+      "SOURCE-ORC-MAT-UNK-272",
+      "SOURCE-ORC-APM-UNK-146"
+    ],
+    "alternatives": [
+      "treat as authoritative ORC material",
+      "mark external"
+    ],
+    "selected": "mark external",
+    "rationale": "IMPLEMENTATION_SPEC \u00a73: external sources must be marked as external; grade applicability is not stated.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-ORC-007",
+    "timestamp": "2026-09-03T09:04:35.980912Z",
+    "phase": 2,
+    "subject": "all",
+    "decision_type": "acquisition_scope",
+    "context": "File acquisition in Phase 2",
+    "evidence": [
+      "data/raw/CORPUS_MANIFEST.yaml"
+    ],
+    "alternatives": [
+      "download all sources now",
+      "record metadata only"
+    ],
+    "selected": "record metadata only",
+    "rationale": "User instruction and \u00a73: do not acquire source files beyond what is needed for availability/metadata; acquisition is Phase 3.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-ORC-008",
+    "timestamp": "2026-09-03T09:04:35.980917Z",
+    "phase": 2,
+    "subject": "all",
+    "decision_type": "metadata_only_fields",
+    "context": "local_path and file_hash before acquisition",
+    "evidence": [
+      "data/raw/CORPUS_MANIFEST.yaml"
+    ],
+    "alternatives": [
+      "omit fields",
+      "record null"
+    ],
+    "selected": "record null",
+    "rationale": "Schema requires the fields; Phase 3 will populate them for acquired files.",
+    "confidence": "high",
+    "requires_review": false
+  }
+]

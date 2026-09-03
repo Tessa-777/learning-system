@@ -1,0 +1,88 @@
+{
+  "phase": 2,
+  "subjects": {
+    "biology": {
+      "sources_discovered": 52,
+      "sources_accessible": 52,
+      "sources_external": 0,
+      "sources_inaccessible": 0,
+      "sources_unknown": 0,
+      "out_of_scope": 0,
+      "duplicates_removed": 0,
+      "container_records": 0,
+      "inventory_path": "data/raw/biology/SOURCE_INVENTORY.yaml",
+      "content_sha256": "8c4ae01eccd6f092f0e12dfefa03171f4942a9cf934ede2601e44532d5ff033a"
+    },
+    "physics": {
+      "sources_discovered": 233,
+      "sources_accessible": 233,
+      "sources_external": 0,
+      "sources_inaccessible": 0,
+      "sources_unknown": 0,
+      "out_of_scope": 29,
+      "duplicates_removed": 1,
+      "container_records": 4,
+      "inventory_path": "data/raw/physics/SOURCE_INVENTORY.yaml",
+      "content_sha256": "6e337431e42b42ec7caff8e1965948d41f284b128662556ab8b38ab5807279bd"
+    },
+    "history": {
+      "sources_discovered": 18,
+      "sources_accessible": 18,
+      "sources_external": 0,
+      "sources_inaccessible": 0,
+      "sources_unknown": 0,
+      "out_of_scope": 0,
+      "duplicates_removed": 0,
+      "container_records": 0,
+      "inventory_path": "data/raw/history/SOURCE_INVENTORY.yaml",
+      "content_sha256": "885e9225b6152b29c4093ac17efbea321505c4ac0df84d5442c586789a3dbab5"
+    },
+    "english": {
+      "sources_discovered": 100,
+      "sources_accessible": 100,
+      "sources_external": 0,
+      "sources_inaccessible": 0,
+      "sources_unknown": 0,
+      "out_of_scope": 6,
+      "duplicates_removed": 0,
+      "container_records": 0,
+      "inventory_path": "data/raw/english/SOURCE_INVENTORY.yaml",
+      "content_sha256": "6b1c4d58c5c87d5fde57b834d7ca87ce4d1bd989cfc0df28f3ac62b6c253c49d"
+    },
+    "ap_mathematics": {
+      "sources_discovered": 146,
+      "sources_accessible": 145,
+      "sources_external": 1,
+      "sources_inaccessible": 0,
+      "sources_unknown": 0,
+      "out_of_scope": 1,
+      "duplicates_removed": 0,
+      "container_records": 0,
+      "inventory_path": "data/raw/ap_mathematics/SOURCE_INVENTORY.yaml",
+      "content_sha256": "f5b4be9e629debce4c461f6ac4bc578afc26cd3e311f9939b6414cfbcf6856c9"
+    },
+    "mathematics": {
+      "sources_discovered": 272,
+      "sources_accessible": 270,
+      "sources_external": 2,
+      "sources_inaccessible": 0,
+      "sources_unknown": 0,
+      "out_of_scope": 0,
+      "duplicates_removed": 0,
+      "container_records": 0,
+      "inventory_path": "data/raw/mathematics/SOURCE_INVENTORY.yaml",
+      "content_sha256": "34076d267542a10d9a06c6bed0493cdbd347e707313a8b2e9254a03677a8ff1d"
+    }
+  },
+  "sources_discovered_total": 821,
+  "sources_accessible_total": 818,
+  "sources_external_total": 3,
+  "sources_inaccessible_total": 0,
+  "sources_unknown_total": 0,
+  "out_of_scope_total": 36,
+  "unresolved_items": 6,
+  "duplicates_removed_total": 1,
+  "container_records_total": 4,
+  "validation_failures": 0,
+  "manifests_generated": 7
+}

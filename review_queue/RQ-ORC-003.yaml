@@ -1,0 +1,11 @@
+review_queue_id: RQ-ORC-003
+phase: 2
+subject: history
+issue: Zipped Past Papers.zip contents not expanded
+affected_entity: RQ-ORC-003
+evidence:
+- SOURCE-ORC-HIS-UNK-018
+possible_resolutions:
+- expand archive and record contents
+- treat as single aggregated source
+recommended_review: decide whether Phase 3 acquires and expands the archive

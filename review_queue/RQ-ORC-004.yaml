@@ -1,0 +1,11 @@
+review_queue_id: RQ-ORC-004
+phase: 2
+subject: physics
+issue: Legacy ORC Matric 2020 (Current Grade 11) folder children not surveyed
+affected_entity: RQ-ORC-004
+evidence:
+- SOURCE-ORC-PHY-UNK-233
+possible_resolutions:
+- survey children for Grade 11 material
+- exclude as legacy
+recommended_review: confirm children contain no Grade 11 Physics assessment material
