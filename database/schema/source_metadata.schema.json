@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://learning-system.local/schema/source_metadata.schema.json",
+  "title": "Source Metadata",
+  "description": "Metadata record for a single authoritative assessment or curriculum source. Intended to describe sources discovered during ORC inventory (IMPLEMENTATION_SPEC Phase 2) and fulfilled during acquisition (Phase 3).",
+  "type": "object",
+  "properties": {
+    "source_id": {
+      "type": "string",
+      "pattern": "^SOURCE-",
+      "description": "Stable unique identifier for this source, e.g. SOURCE-ORC-MATH-2025-T2-01."
+    },
+    "subject": {
+      "type": "string",
+      "enum": ["biology", "physics", "history", "english", "ap_mathematics", "mathematics"],
+      "description": "One of the six scope subjects (SYSTEM_SPEC section 6)."
+    },
+    "grade": {
+      "type": "string",
+      "description": "Grade level targeted by the source, e.g. '11'."
+    },
+    "document_type": {
+      "type": "string",
+      "enum": ["curriculum", "syllabus", "past_paper", "memorandum", "rubric", "marking_guide", "assessment_material", "reference", "other"],
+      "description": "Kind of document. Distinguishes authoritative evidence from derived material (SYSTEM_SPEC section 5)."
+    },
+    "title": {
+      "type": "string",
+      "description": "Document title."
+    },
+    "year": {
+      "type": ["string", "integer"],
+      "description": "Academic year of the source, e.g. '2025' or 2025."
+    },
+    "term": {
+      "type": ["string", "integer", "null"],
+      "description": "Term number if applicable."
+    },
+    "paper_number": {
+      "type": ["string", "integer", "null"],
+      "description": "Paper number if applicable, e.g. 'P1' or 1."
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL where the source is located."
+    },
+    "retrieved_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the source record was created/retrieved."
+    },
+    "access_status": {
+      "type": "string",
+      "enum": ["accessible", "inaccessible", "external", "unknown"],
+      "description": "Whether the source was accessible at discovery time. External sources must be marked 'external'."
+    },
+    "local_path": {
+      "type": ["string", "null"],
+      "description": "Path to the preserved original file, set when acquired."
+    },
+    "file_hash": {
+      "type": ["string", "null"],
+      "pattern": "^[0-9a-fA-F]{64}$",
+      "description": "SHA-256 hash of the preserved original file."
+    },
+    "notes": {
+      "type": ["string", "null"],
+      "description": "Free-form notes, e.g. access problems, duplicates, unresolved items."
+    }
+  },
+  "required": ["source_id", "subject", "grade", "document_type", "title", "source_url", "retrieved_at", "access_status"],
+  "additionalProperties": false
+}

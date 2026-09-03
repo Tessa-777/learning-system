@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://learning-system.local/schema/validation.schema.json",
+  "title": "Validation Record",
+  "description": "A record of validation performed over a corpus or knowledge-bank version. Captures the required Phase 13 metrics and the answers to the required validation questions, plus provenance to the artifacts validated. A subject must not be marked validated merely because an extraction pipeline completed.",
+  "type": "object",
+  "properties": {
+    "validation_id": {
+      "type": "string",
+      "pattern": "^VAL-",
+      "description": "Stable identifier for this validation record."
+    },
+    "run_id": {
+      "type": "string",
+      "description": "The run that produced this validation."
+    },
+    "subject": {
+      "type": "string",
+      "enum": ["biology", "physics", "history", "english", "ap_mathematics", "mathematics", "all"]
+    },
+    "grade": {
+      "type": "string"
+    },
+    "knowledge_bank_version": {
+      "type": ["string", "null"],
+      "description": "Version of the knowledge bank being validated, if any."
+    },
+    "validated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["validated", "unvalidated", "partial", "unresolved", "failed"],
+      "description": "The outcome. 'validated' requires positive answers to the validation questions, not merely that the pipeline ran."
+    },
+    "metrics": {
+      "type": "object",
+      "properties": {
+        "sources_discovered": { "type": ["integer", "null"] },
+        "sources_acquired": { "type": ["integer", "null"] },
+        "papers_processed": { "type": ["integer", "null"] },
+        "questions_extracted": { "type": ["integer", "null"] },
+        "questions_classified": { "type": ["integer", "null"] },
+        "questions_unclassified": { "type": ["integer", "null"] },
+        "memo_alignment": { "type": ["number", "integer", "null"] },
+        "curriculum_coverage": { "type": ["number", "null"] },
+        "question_family_coverage": { "type": ["number", "null"] },
+        "understanding_model_coverage": { "type": ["number", "null"] },
+        "breakdown_coverage": { "type": ["number", "null"] },
+        "diagnostic_coverage": { "type": ["number", "null"] },
+        "unresolved_items": { "type": ["integer", "null"] },
+        "validation_failures": { "type": ["integer", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "validation_questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "question": { "type": "string" },
+          "answer": { "type": ["string", "boolean", "null"] },
+          "evidence": { "type": "array", "items": { "type": "string" } }
+        },
+        "required": ["question"],
+        "additionalProperties": false
+      },
+      "description": "Answers to the required validation questions (IMPLEMENTATION_SPEC Phase 13)."
+    },
+    "unresolved_items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "issue": { "type": "string" },
+          "affected_entity": { "type": "string" },
+          "evidence": { "type": "array", "items": { "type": "string" } },
+          "recommended_review": { "type": "string" }
+        },
+        "required": ["issue", "affected_entity"],
+        "additionalProperties": false
+      }
+    },
+    "validated_artifacts": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Paths or IDs of artifacts validated."
+    }
+  },
+  "required": ["validation_id", "run_id", "subject", "validated_at", "status", "metrics"],
+  "additionalProperties": false
+}

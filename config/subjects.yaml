@@ -1,0 +1,46 @@
+# Authoritative subject list for the system.
+#
+# The initial system scope is exactly six subjects (SYSTEM_SPEC §6). Each
+# subject carries its own source corpus, curriculum mapping, taxonomy,
+# understanding models, breakdown models, diagnostic knowledge and validation
+# report. The architecture is shared; the knowledge is subject-specific.
+#
+# Execution order for the knowledge-building phases is prescribed by
+# IMPLEMENTATION_SPEC §23 and recorded here as `execution_order`.
+subjects:
+  biology:
+    slug: biology
+    display_name: "Biology"
+    scope: "Grade 11"
+  physics:
+    slug: physics
+    display_name: "Physics"
+    scope: "Grade 11"
+  history:
+    slug: history
+    display_name: "History"
+    scope: "Grade 11"
+  english:
+    slug: english
+    display_name: "English"
+    scope: "Grade 11"
+  ap_mathematics:
+    slug: ap_mathematics
+    display_name: "AP Mathematics"
+    scope: "Grade 11"
+  mathematics:
+    slug: mathematics
+    display_name: "Mathematics"
+    scope: "Grade 11"
+
+execution_order:
+  - biology
+  - physics
+  - history
+  - english
+  - ap_mathematics
+  - mathematics
+
+primary_source:
+  name: "St Benedict's Online Resource Centre (ORC)"
+  base_url: "https://sites.google.com/stbenedicts.co.za/orc"

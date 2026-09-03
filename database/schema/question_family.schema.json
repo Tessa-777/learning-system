@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://learning-system.local/schema/question_family.schema.json",
+  "title": "Question Family",
+  "description": "A recurring type of assessment question discovered from evidence (IMPLEMENTATION_SPEC Phase 8). Clusters questions that assess essentially the same underlying competence even when wording differs.",
+  "type": "object",
+  "properties": {
+    "question_family_id": {
+      "type": "string",
+      "pattern": "^QUESTION-FAMILY-"
+    },
+    "name": { "type": "string" },
+    "definition": { "type": "string" },
+    "subject": {
+      "type": "string",
+      "enum": ["biology", "physics", "history", "english", "ap_mathematics", "mathematics"]
+    },
+    "grade": { "type": "string" },
+    "topics": { "type": "array", "items": { "type": "string" } },
+    "assessment_operations": { "type": "array", "items": { "type": "string" } },
+    "representative_questions": { "type": "array", "items": { "type": "string" } },
+    "frequency": { "type": ["integer", "null"] },
+    "source_evidence": { "type": "array", "items": { "type": "string" } },
+    "confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    },
+    "validation_status": {
+      "type": "string",
+      "enum": ["unvalidated", "draft", "validated", "unresolved"]
+    }
+  },
+  "required": ["question_family_id", "name", "definition", "subject", "grade", "source_evidence", "confidence", "validation_status"],
+  "additionalProperties": false
+}

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Databases — knowledge.db is a Phase 15 artifact; build it, don't commit it.
+database/*.db
+database/*.db-shm
+database/*.db-wal
+*.sqlite
+*.sqlite3
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Build
+build/
+dist/
+out/
+target/

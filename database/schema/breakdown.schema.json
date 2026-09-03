@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://learning-system.local/schema/breakdown.schema.json",
+  "title": "Breakdown",
+  "description": "A plausible way a student's understanding can fail for a given Understanding Model (IMPLEMENTATION_SPEC Phase 10). A breakdown is NOT a diagnosis of an actual student; it must remain a possible, evidence-based failure mode until interaction evidence exists.",
+  "type": "object",
+  "properties": {
+    "breakdown_id": {
+      "type": "string",
+      "pattern": "^BREAKDOWN-"
+    },
+    "description": { "type": "string" },
+    "parent_understanding_model": {
+      "type": "string",
+      "pattern": "^UNDERSTANDING-",
+      "description": "Link to the Understanding Model this breakdown belongs to."
+    },
+    "stage": {
+      "type": "string",
+      "enum": ["interpretation", "prerequisite", "concept", "strategy", "execution", "reasoning", "explanation", "verification", "other"],
+      "description": "The stage at which understanding may fail (SYSTEM_SPEC section 10)."
+    },
+    "observable_signals": { "type": "array", "items": { "type": "string" } },
+    "possible_confusions": { "type": "array", "items": { "type": "string" } },
+    "distinguishing_questions": { "type": "array", "items": { "type": "string" } },
+    "source_basis": { "type": "array", "items": { "type": "string" } },
+    "confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    }
+  },
+  "required": ["breakdown_id", "description", "parent_understanding_model", "stage", "confidence"],
+  "additionalProperties": false
+}
