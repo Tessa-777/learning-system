@@ -1,0 +1,14 @@
+{
+  "subject": "physics",
+  "phase": 3,
+  "run_id": "20260903T091842Z_c0f7",
+  "sources_discovered": 233,
+  "sources_accessible_before": 233,
+  "sources_acquired": 0,
+  "sources_failed": 233,
+  "sources_external": 0,
+  "sources_inaccessible_after": 233,
+  "duplicate_hashes_detected": 0,
+  "files_downloaded": 0,
+  "unresolved_items": 233
+}

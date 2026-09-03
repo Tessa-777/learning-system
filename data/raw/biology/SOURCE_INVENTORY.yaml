@@ -1,5 +1,5 @@
 inventory_id: SOURCE-INV-ORC-BIO
-phase: 2
+phase: 3
 subject: biology
 grade: '11'
 primary_source: https://sites.google.com/stbenedicts.co.za/orc
@@ -31,6 +31,10 @@ summary:
   by_grade:
     '11': 52
   out_of_scope_source_ids: []
+  by_access_status_after_acquisition:
+    accessible: 0
+    inaccessible: 52
+    external: 0
 scope_notes:
 - 'INVENTORY SCOPE: Grade 11 material published in the St Benedict''s ORC for biology.'
 - Sources marked OUT OF SCOPE (chemistry / Grade 12 / other subject) are recorded
@@ -50,10 +54,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1dfv_jV92DWe7u9hdQ4u-nT36XHkbPpBf
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Class tests; MG
+  notes: '2022 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2022-002
   subject: biology
   grade: '11'
@@ -64,10 +70,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1RFt7iU6qbhCyTG5xOBKwNtUvBNqs_HX0
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Class tests; QP
+  notes: '2022 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2022-003
   subject: biology
   grade: '11'
@@ -78,10 +86,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1khY4DyMyPkIQyWlH-vpjFJ7dmo6qxDnj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Class tests; MG
+  notes: '2022 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2022-004
   subject: biology
   grade: '11'
@@ -92,10 +102,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1fC0viMCiKwPQxQLmgPiSE2XHam_FbB0b
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Class tests; QP
+  notes: '2022 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2022-005
   subject: biology
   grade: '11'
@@ -106,10 +118,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/16AKYup2TsePBtvyhBynPPczPE82lKKkM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Class tests; MG
+  notes: '2022 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2022-006
   subject: biology
   grade: '11'
@@ -120,10 +134,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1gZZPhlu-P7PoFh1_yOFYSa28v3R_gTw1
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Class tests; QP
+  notes: '2022 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2022-007
   subject: biology
   grade: '11'
@@ -134,10 +150,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1_s0QzV0LlNkaaaI-JfFTALGE2CnE2d85
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Class tests; MG
+  notes: '2022 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2022-008
   subject: biology
   grade: '11'
@@ -148,10 +166,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1OQxk_HagFYEIHE0A9-ErRvkmEigc44SP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Class tests; QP
+  notes: '2022 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2022-009
   subject: biology
   grade: '11'
@@ -162,10 +182,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1nu-T4_mC_pHlQjj56CY4XbM3Yf6cQj2G
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Class tests; MG
+  notes: '2022 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2022-010
   subject: biology
   grade: '11'
@@ -176,10 +198,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/130BL2uSPUY1i46x_qBVuUBgTSn9oQnlb
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Class tests; QP
+  notes: '2022 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2022-011
   subject: biology
   grade: '11'
@@ -190,10 +214,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Eub9mhE-rRNAan75CzntbKYC9r_gZTgK
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Exams; MG
+  notes: '2022 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2022-012
   subject: biology
   grade: '11'
@@ -204,10 +230,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ypXeJufcNU3hbhFZfkRXwNVwI6ojMwYv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2022 Exams; P1
+  notes: '2022 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2023-013
   subject: biology
   grade: '11'
@@ -218,10 +246,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/11mChP4JU-UZvcS5gIZmiyfqjw08i5xnh
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Class tests; MG (docx)
+  notes: '2023 Class tests; MG (docx); Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2023-014
   subject: biology
   grade: '11'
@@ -232,10 +262,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1VHmLBojFHi_vBex9mAr2XYloeai-3llm
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Class tests; QP
+  notes: '2023 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2023-015
   subject: biology
   grade: '11'
@@ -246,10 +278,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12_lpvFzjgki2kNQpBKm9Oa-ifeqkQjiZ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Class tests; MG
+  notes: '2023 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2023-016
   subject: biology
   grade: '11'
@@ -260,10 +294,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/19-NdBCakJQX5z7iv5_Tdvevra0raZZI3
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Class tests; QP
+  notes: '2023 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2023-017
   subject: biology
   grade: '11'
@@ -274,10 +310,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1YkTA5VcqpQaVNZYWX2AG82m9JIelAYDw
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Class tests; MG
+  notes: '2023 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2023-018
   subject: biology
   grade: '11'
@@ -288,10 +326,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ULj1giEJUvjTach3dWgC8mCsKR-3tzEB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Class tests; QP
+  notes: '2023 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2023-019
   subject: biology
   grade: '11'
@@ -302,10 +342,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1l3QuXuXegz5tN3jTU8BOJx85SCusK_SI
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Exams; MG
+  notes: '2023 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2023-020
   subject: biology
   grade: '11'
@@ -316,10 +358,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1-lubiGlDqZllHYEZmetnKEne_11s1PXr
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Exams; P1
+  notes: '2023 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2023-021
   subject: biology
   grade: '11'
@@ -330,10 +374,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/18WoehEvG1CWi8m5PSPoOMpoufe80V4XK
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Exams; P1 MG
+  notes: '2023 Exams; P1 MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2023-022
   subject: biology
   grade: '11'
@@ -344,10 +390,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1XZM_AMkv2ivnWINnkcBQR_nH6x2dk6zb
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Exams; P1
+  notes: '2023 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2023-023
   subject: biology
   grade: '11'
@@ -358,10 +406,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1LH_Y7QvKh0MbLR7Jl-f_hkgQSw587GMZ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Exams; P2 MG
+  notes: '2023 Exams; P2 MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2023-024
   subject: biology
   grade: '11'
@@ -372,10 +422,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1XoHjdMs3Fdjiws7I51f06XgU5D6BbjG7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2023 Exams; P2
+  notes: '2023 Exams; P2; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2024-025
   subject: biology
   grade: '11'
@@ -386,10 +438,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Vz9lSrPI72BJkuni0-a741kwC6cjHBZD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Class tests; MG
+  notes: '2024 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2024-026
   subject: biology
   grade: '11'
@@ -400,10 +454,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1hhW_7iq0KonXsPibA7pqySZHSFNALfQv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Class tests; QP
+  notes: '2024 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2024-027
   subject: biology
   grade: '11'
@@ -414,10 +470,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1x02nZbXWlPD9ltFrGJ8k_zxH_tagTXQd
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Class tests; MG
+  notes: '2024 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2024-028
   subject: biology
   grade: '11'
@@ -428,10 +486,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/17D2aWrm-v-lVkVJhHyzpRVJnOqK7r9-j
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Class tests; QP
+  notes: '2024 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2024-029
   subject: biology
   grade: '11'
@@ -442,10 +502,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1bNzXZra3DF0QlI0igBqh12RFj0IyIAm-
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Class tests; MG
+  notes: '2024 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2024-030
   subject: biology
   grade: '11'
@@ -456,10 +518,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1XS0er12o-R2U7__k7oWhGmS3kz5d1PL1
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Class tests; QP
+  notes: '2024 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2024-031
   subject: biology
   grade: '11'
@@ -470,10 +534,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/18KRlQdquP01-15UdbXYPEhxJb06ZQriA
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Exams; MG
+  notes: '2024 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2024-032
   subject: biology
   grade: '11'
@@ -484,10 +550,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1_pRMWFjGj3teFyRuPvLaDEM8Bs7eVZ00
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Exams; P1
+  notes: '2024 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2024-033
   subject: biology
   grade: '11'
@@ -498,10 +566,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1pq9088WNtV7_-VQeVgBNC9Mnj_C9oXrI
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Exams; P1 MG
+  notes: '2024 Exams; P1 MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2024-034
   subject: biology
   grade: '11'
@@ -512,10 +582,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1rfpbuI5YR0pI7M0pU4lCuMjypZX2IZO8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Exams; P1
+  notes: '2024 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2024-035
   subject: biology
   grade: '11'
@@ -526,10 +598,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1HR4cDGPa3FhHBCl2LyIBnGTpbzyBcoCM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Exams; P2 MG
+  notes: '2024 Exams; P2 MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2024-036
   subject: biology
   grade: '11'
@@ -540,10 +614,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Npctat7kKK5In-VnUMtwedNwcEv2pPmM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Exams; P2
+  notes: '2024 Exams; P2; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2024-037
   subject: biology
   grade: '11'
@@ -554,10 +630,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1fIR1IluTVYAQGClXkMJFbWpnTwggkKZx
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2024 Exams; P2 source booklet
+  notes: '2024 Exams; P2 source booklet; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2025-038
   subject: biology
   grade: '11'
@@ -568,10 +646,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1vrqJviyWmrQYZBCYLlEZdeqxj-xRoCUv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Class Tests; MG
+  notes: '2025 Class Tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2025-039
   subject: biology
   grade: '11'
@@ -582,10 +662,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1tPIhTgxkWiSYzJPRjBAiR9yBbfp-BSBM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Class Tests; QP
+  notes: '2025 Class Tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2025-040
   subject: biology
   grade: '11'
@@ -596,10 +678,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ukRN8XIvFy1MkjnaHX0acHToMLQnagq6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Class Tests; MG
+  notes: '2025 Class Tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2025-041
   subject: biology
   grade: '11'
@@ -610,10 +694,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1XYsLhIC9-QJWl3xclZ7vZ1uBCkRojJVg
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Class Tests; QP
+  notes: '2025 Class Tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2025-042
   subject: biology
   grade: '11'
@@ -624,10 +710,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1B2HvA9JfbnPTBgfaA6rGJAOGYxrhCLiQ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Exams; MG
+  notes: '2025 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2025-043
   subject: biology
   grade: '11'
@@ -638,10 +726,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1xIW64qHssbdKKfodqq55rjt8ZjRvsUvK
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Exams; P1
+  notes: '2025 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2025-044
   subject: biology
   grade: '11'
@@ -652,10 +742,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/17nUa51I7VogcAIa224iiHC115SWTeRoi
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Exams; P2 source booklet
+  notes: '2025 Exams; P2 source booklet; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2025-045
   subject: biology
   grade: '11'
@@ -666,10 +758,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1I5AoWXWh3cI90kJDqEqVl5ZLov1ytPWa
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Exams; P1
+  notes: '2025 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2025-046
   subject: biology
   grade: '11'
@@ -680,10 +774,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1z2dKUWTd6EQV60neP2GNKwZXaCO6ZJxs
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Exams; P1 MG
+  notes: '2025 Exams; P1 MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2025-047
   subject: biology
   grade: '11'
@@ -694,10 +790,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/13FnEc_apcoGx3lL8pdxFKF7ef0xR3Nrc
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Exams; P2 MG
+  notes: '2025 Exams; P2 MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2025-048
   subject: biology
   grade: '11'
@@ -708,10 +806,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1bw76ue1bNFT8jfyCN99ihgguYGNWauTU
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2025 Exams; P2
+  notes: '2025 Exams; P2; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-BIO-2026-049
   subject: biology
   grade: '11'
@@ -722,10 +822,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1j5j95VNFu7T1ep9-pDq4uUg0OOEtwRoW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2026 Class tests; QP
+  notes: '2026 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2026-050
   subject: biology
   grade: '11'
@@ -736,10 +838,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1NB6Wr6O0RXaCIXQZr4oyzilw5xR-cuQY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2026 Class tests; MG
+  notes: '2026 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2026-051
   subject: biology
   grade: '11'
@@ -750,10 +854,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1X50Rg1LMR8eMHKdF5XGu8txAnRTQGX9W
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2026 Class tests; MG
+  notes: '2026 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-BIO-2026-052
   subject: biology
   grade: '11'
@@ -764,8 +870,18 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1GIkvTFSMpF2o-GmahCLa-G2OAc8qgvES
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: 2026 Class tests; QP
+  notes: '2026 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 run_id: 20260903T090314Z_25ba
+run_records:
+- run_id: 20260903T091841Z_9448
+  subject: biology
+  phase: 3
+  status: completed_with_review
+  sources_acquired: 0
+  sources_failed: 52
+  notes: All downloads failed due to sandbox TLS restriction to Google services.

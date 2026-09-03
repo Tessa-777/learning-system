@@ -1,0 +1,7 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/english/ACQUISITION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:18:51.116587Z'
+  source_run: 20260903T091848Z_827b
+  content_hash: 83c882402f594e82c4e57b8507d49513754b376e3e01c70287df05c68e96a54b
+  description: Phase 3 acquisition failure report for english

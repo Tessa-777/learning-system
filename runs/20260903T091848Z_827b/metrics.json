@@ -1,0 +1,14 @@
+{
+  "subject": "english",
+  "phase": 3,
+  "run_id": "20260903T091848Z_827b",
+  "sources_discovered": 100,
+  "sources_accessible_before": 100,
+  "sources_acquired": 0,
+  "sources_failed": 100,
+  "sources_external": 0,
+  "sources_inaccessible_after": 100,
+  "duplicate_hashes_detected": 0,
+  "files_downloaded": 0,
+  "unresolved_items": 100
+}

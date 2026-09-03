@@ -1,5 +1,5 @@
 inventory_id: SOURCE-INV-ORC-ENG
-phase: 2
+phase: 3
 subject: english
 grade: '11'
 primary_source: https://sites.google.com/stbenedicts.co.za/orc
@@ -49,6 +49,10 @@ summary:
   - SOURCE-ORC-ENG-2022-098
   - SOURCE-ORC-ENG-2023-099
   - SOURCE-ORC-ENG-2023-100
+  by_access_status_after_acquisition:
+    accessible: 0
+    inaccessible: 100
+    external: 0
 scope_notes:
 - 'INVENTORY SCOPE: Grade 11 material published in the St Benedict''s ORC for english.'
 - Sources marked OUT OF SCOPE (chemistry / Grade 12 / other subject) are recorded
@@ -68,10 +72,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1HgobXjGpcn7_uAvQLAVcbU-7tNb3c-Xp
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2013 Exams; QP
+  notes: 'Past Papers/2013 Exams; QP; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2014-002
   subject: english
   grade: '11'
@@ -82,10 +88,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1EKWHoQEr8NBJa4GQKuQngTE669Uslzm6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2014 Exams
+  notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2014-003
   subject: english
   grade: '11'
@@ -96,10 +104,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1SuRvC7JcVbAlZoDUps1iDFE_lML0mf87
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2014 Exams
+  notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2014-004
   subject: english
   grade: '11'
@@ -110,10 +120,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1t55tyWFb53pA13PzV6CpnJ3Xi0OpPtPf
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2014 Exams
+  notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2014-005
   subject: english
   grade: '11'
@@ -124,10 +136,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1V97dc4JGqV3smirzbBZjq541q0VWTKFY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2014 Exams
+  notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2014-006
   subject: english
   grade: '11'
@@ -138,10 +152,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1UEVw_nGdWw2ZmMUwkQh15yQKMcbtacTU
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2014 Exams
+  notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2014-007
   subject: english
   grade: '11'
@@ -152,10 +168,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/128ckMO6FQTmOXdqRuEWFRb3lK38AAKTk
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2014 Exams
+  notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2015-008
   subject: english
   grade: '11'
@@ -166,10 +184,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1LXseDJTJgyNfgpCtyix8NtMaMigzmfor
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2015 Exams
+  notes: 'Past Papers/2015 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2015-009
   subject: english
   grade: '11'
@@ -180,10 +200,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1MaqiK2098kDCkiFZYPBY37ihBKbRSKmj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2015 Exams
+  notes: 'Past Papers/2015 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2015-010
   subject: english
   grade: '11'
@@ -194,10 +216,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1d0WJs6reJUA2g0R9PO4TpE57kYSa8FPB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2015 Exams
+  notes: 'Past Papers/2015 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2015-011
   subject: english
   grade: '11'
@@ -208,10 +232,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/12E-YVwORFeo-XcZoX9AB8uS6mbHbZr8F
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2015 Exams
+  notes: 'Past Papers/2015 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2015-012
   subject: english
   grade: '11'
@@ -222,10 +248,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1Co0RwDeIjrcjskIyjxCUj6ZbzAte_OCI
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2015 Exams
+  notes: 'Past Papers/2015 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2016-013
   subject: english
   grade: '11'
@@ -236,10 +264,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1XHrTua7h6iShlpepHQOlAktI9nK1JaX7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2016 Exams
+  notes: 'Past Papers/2016 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2016-014
   subject: english
   grade: '11'
@@ -250,10 +280,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1Qf4TyNWXdGm004yAgvJwCBulxOTLnffU
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2016 Exams
+  notes: 'Past Papers/2016 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2016-015
   subject: english
   grade: '11'
@@ -264,10 +296,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1V_RFaeBhwLxiKf0jnN9d2n0kSCqKl2fx
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2016 Exams
+  notes: 'Past Papers/2016 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2016-016
   subject: english
   grade: '11'
@@ -278,10 +312,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1ebhGiCdXRItSJKXHBwCl4iB9Z0m3m5vj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2016 Exams
+  notes: 'Past Papers/2016 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2016-017
   subject: english
   grade: '11'
@@ -292,10 +328,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1FIdf6kGsQ5cQQ6EbEnX7-FVQ8SBl8Z5B
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2016 Exams
+  notes: 'Past Papers/2016 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2017-018
   subject: english
   grade: '11'
@@ -306,10 +344,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1V2GdhXmTXN7iKbxi_tzazSR7nTkERoTv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2017 Exams
+  notes: 'Past Papers/2017 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2017-019
   subject: english
   grade: '11'
@@ -320,10 +360,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1QZ9zrxt6HDyJ848fUbQfuSUDHg1z7kcW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2017 Exams
+  notes: 'Past Papers/2017 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2017-020
   subject: english
   grade: '11'
@@ -334,10 +376,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1-pjsDFX6QBDwNQrvYwBzH4GvdwW2WcPl
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2017 Exams
+  notes: 'Past Papers/2017 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2017-021
   subject: english
   grade: '11'
@@ -348,10 +392,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1q2EK6hXHmZiTV-z4yyAk2sr4XKIenbZD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2017 Exams
+  notes: 'Past Papers/2017 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2017-022
   subject: english
   grade: '11'
@@ -362,10 +408,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1bn-026k8TNx0SQBIQhzitCvPzqSxyL84
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2017 Exams
+  notes: 'Past Papers/2017 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2018-023
   subject: english
   grade: '11'
@@ -376,10 +424,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1JSRSxhsxKaIQBpQ-6u55goJqF42n7aII
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2018 Exams
+  notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2018-024
   subject: english
   grade: '11'
@@ -390,10 +440,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1q5qvYYlavnuAM6MM_n0lQ3dG8l3PncM5
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2018 Exams
+  notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2018-025
   subject: english
   grade: '11'
@@ -404,10 +456,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1arHkAsrhq9WmtAb4LViYdBak9TpoMLnd
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2018 Exams
+  notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2018-026
   subject: english
   grade: '11'
@@ -418,10 +472,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1UGzV0jmN4QYoJA0W5cMJMnzepj2SXU0k
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2018 Exams
+  notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2018-027
   subject: english
   grade: '11'
@@ -432,10 +488,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1n_jBGpLPlPO0UPOwNGPljnekPI6CN52b
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2018 Exams
+  notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2018-028
   subject: english
   grade: '11'
@@ -446,10 +504,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1pZjCvC6qUnGA6blCV0-KzwhDrwkbvLGQ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2018 Exams
+  notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2019-029
   subject: english
   grade: '11'
@@ -460,10 +520,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1GieYx3oS4X23t3NhLrovqWXJyuEbn-Wj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2019 Exams
+  notes: 'Past Papers/2019 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2019-030
   subject: english
   grade: '11'
@@ -474,10 +536,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1IJ0M-MmyJIMyLfUBSQoFvujWGNqmvon1
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2019 Exams
+  notes: 'Past Papers/2019 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2019-031
   subject: english
   grade: '11'
@@ -488,10 +552,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/117StN9G0uQPr4dsKbAPbUet4XRyDHDzB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2019 Exams
+  notes: 'Past Papers/2019 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2019-032
   subject: english
   grade: '11'
@@ -502,10 +568,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1unFnkOrCADxJWhpczYQJrfbfKA7DjWud
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2019 Exams; insert/texts for P1
+  notes: 'Past Papers/2019 Exams; insert/texts for P1; Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2019-033
   subject: english
   grade: '11'
@@ -516,10 +584,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1Qu4BdfXlFjCNGSQHUiSr86iD3t0iNGdb
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2019 Exams
+  notes: 'Past Papers/2019 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2019-034
   subject: english
   grade: '11'
@@ -530,10 +600,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1GenL_S_ZXOPGSl8doIfd64k6LC1TPYm8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2019 Exams
+  notes: 'Past Papers/2019 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2020-035
   subject: english
   grade: '11'
@@ -544,10 +616,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1Jg_Blzx3Dnh-0yLsv5Vr3vckhb-skUoR
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2020 Exam
+  notes: 'Past Papers/2020 Exam; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2020-036
   subject: english
   grade: '11'
@@ -558,10 +632,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1DdO0IpZtF0ZOXklDXGuK6CnK3_6tPrTa
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2020 Exam
+  notes: 'Past Papers/2020 Exam; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2020-037
   subject: english
   grade: '11'
@@ -572,10 +648,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1KfQfw5_P_i1CVfIsy6dbDrDnTOE2eqQt
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2020 Exam; insert
+  notes: 'Past Papers/2020 Exam; insert; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2021-038
   subject: english
   grade: '11'
@@ -586,10 +664,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1SCkl737-dJLIQWj52nNH_0mGPMV5rrC6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2021 Exams
+  notes: 'Past Papers/2021 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2021-039
   subject: english
   grade: '11'
@@ -600,10 +680,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1-_k97hf8fl1l16jKqgSb_f3-jnOX94ld
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2021 Exams; insert
+  notes: 'Past Papers/2021 Exams; insert; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2021-040
   subject: english
   grade: '11'
@@ -614,10 +696,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1FLS-W9R6DhcbsvtB9xHR4V3VtNqGvZqN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2021 Exams
+  notes: 'Past Papers/2021 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2021-041
   subject: english
   grade: '11'
@@ -628,10 +712,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1dPj_ywpI_96wCUf1dFA9fAiuIgSZMzAJ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2021 Exams
+  notes: 'Past Papers/2021 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2021-042
   subject: english
   grade: '11'
@@ -642,10 +728,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1ZIpuAv-U0SQhZ5KIjn_8UkiusW8gLNDw
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2021 Exams; inserts
+  notes: 'Past Papers/2021 Exams; inserts; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2021-043
   subject: english
   grade: '11'
@@ -656,10 +744,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1z9i0qxawEBA2ig7y6_bit81O5gfM3RHj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2021 Exams
+  notes: 'Past Papers/2021 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2022-044
   subject: english
   grade: '11'
@@ -670,10 +760,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/10aZIaJAYBS8lHMvYbUZvDf_trQRLO0hW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2022 Exams
+  notes: 'Past Papers/2022 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2022-045
   subject: english
   grade: '11'
@@ -684,10 +776,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1v0b64oKxU0YEE9o2mrCyNy7z00VCMXG1
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2022 Exams
+  notes: 'Past Papers/2022 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2022-046
   subject: english
   grade: '11'
@@ -698,10 +792,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1tM5VzgtfKuF9dmI7YbFNTL0R8M2ePdGf
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2022 Exams; insert
+  notes: 'Past Papers/2022 Exams; insert; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2022-047
   subject: english
   grade: '11'
@@ -712,10 +808,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1Ik3N4nfHldwa_ok7kDWvtBUZ5WUt38Mi
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2022 Exams
+  notes: 'Past Papers/2022 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2022-048
   subject: english
   grade: '11'
@@ -726,10 +824,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1VdWo3DnRF0Z8JU1gqVgcr2UJa_9VxhvY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2022 Exams
+  notes: 'Past Papers/2022 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2022-049
   subject: english
   grade: '11'
@@ -740,10 +840,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1-92b-wT6_f0cMbXGsX1xeQsFT9TEl7uI
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2022 Exams
+  notes: 'Past Papers/2022 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2022-050
   subject: english
   grade: '11'
@@ -754,10 +856,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/107eSbeot8VFOUI88Q9VaboSFd-oVOTX3
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2022 Exams; passages
+  notes: 'Past Papers/2022 Exams; passages; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2023-051
   subject: english
   grade: '11'
@@ -768,10 +872,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1YIHeYCDHLzeHQZ_0n4I6y9TtgrQwzn71
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2023 Exams
+  notes: 'Past Papers/2023 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2023-052
   subject: english
   grade: '11'
@@ -782,10 +888,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1o-_M7_TZ2Ojt2MLyERykPBFGZKWvyhDA
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2023 Exams
+  notes: 'Past Papers/2023 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2023-053
   subject: english
   grade: '11'
@@ -796,10 +904,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1iPVI8SLzRnJdnFFiy_J5d68q5QCKU2p-
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2023 Exams
+  notes: 'Past Papers/2023 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2023-054
   subject: english
   grade: '11'
@@ -810,10 +920,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1zGwgR5zIatEHgbJ2TfTrs1dT7wHLpLRh
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2023 Exams
+  notes: 'Past Papers/2023 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2023-055
   subject: english
   grade: '11'
@@ -824,10 +936,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1UIjmGembmx5Q9C3NtBNRfNZI_bg39krz
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2023 Exams
+  notes: 'Past Papers/2023 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2023-056
   subject: english
   grade: '11'
@@ -838,10 +952,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/18eRxCMeQFOsbOXal-VJvcoFwkj4k_gzS
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2023 Exams; inserts (July)
+  notes: 'Past Papers/2023 Exams; inserts (July); Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2023-057
   subject: english
   grade: '11'
@@ -852,10 +968,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1oTupJpf6Fll8JpKmmpPXkYMKIepDhiij
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2023 Exams; inserts (Nov)
+  notes: 'Past Papers/2023 Exams; inserts (Nov); Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2024-058
   subject: english
   grade: '11'
@@ -866,10 +984,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/10fYnkAUNgl9zO1AfqqOGgu3RDl9wFWxR
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2024 Exams
+  notes: 'Past Papers/2024 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2024-059
   subject: english
   grade: '11'
@@ -880,10 +1000,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1yNk8gSbz57c6Kuhl10EKe1_zZQESvNe5
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2024 Exams
+  notes: 'Past Papers/2024 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2024-060
   subject: english
   grade: '11'
@@ -894,10 +1016,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/121T8GCJGvy86IalAJd8AoRBSSfVn7FjV
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2024 Exams; inserts
+  notes: 'Past Papers/2024 Exams; inserts; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2024-061
   subject: english
   grade: '11'
@@ -908,10 +1032,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1HdHOMMVXj3v4oArlmMZ6jWahMIo5jTKn
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2024 Exams; insert
+  notes: 'Past Papers/2024 Exams; insert; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2024-062
   subject: english
   grade: '11'
@@ -922,10 +1048,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1s4HMfioT716TmAzcAeBL5MtSU0-oKfBm
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2024 Exams; marking guidelines
+  notes: 'Past Papers/2024 Exams; marking guidelines; Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2024-063
   subject: english
   grade: '11'
@@ -936,10 +1064,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1lnI09koALjBMSKQkkeujyLw1P-zbi4Js
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2024 Exams
+  notes: 'Past Papers/2024 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2024-064
   subject: english
   grade: '11'
@@ -950,10 +1080,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1HIdN6qcVLjfpbO7E-qS_hQay9Aw2Yb8E
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2024 Exams
+  notes: 'Past Papers/2024 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2025-065
   subject: english
   grade: '11'
@@ -964,10 +1096,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1CtJtSmylSh2w0JtKgAZBlFbFv9ukZUzt
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2025 Exams; MG
+  notes: 'Past Papers/2025 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2025-066
   subject: english
   grade: '11'
@@ -978,10 +1112,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1GC1pzTiQzBPm2kQ4JOnucqYMwZyK-XBN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2025 Exams; insert
+  notes: 'Past Papers/2025 Exams; insert; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2025-067
   subject: english
   grade: '11'
@@ -992,10 +1128,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1VTWwLudbky3XDs9xc6qGXq94iNhIH5qN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2025 Exams
+  notes: 'Past Papers/2025 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2025-068
   subject: english
   grade: '11'
@@ -1006,10 +1144,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1k3JO0ofQZ98NVImC-2ef49wFvw4-i8RR
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2025 Exams; final exam insert
+  notes: 'Past Papers/2025 Exams; final exam insert; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2025-069
   subject: english
   grade: '11'
@@ -1020,10 +1160,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1nkCT-WCeydgO9V7ZJgYYwLH_TNWOqtiC
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2025 Exams
+  notes: 'Past Papers/2025 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2025-070
   subject: english
   grade: '11'
@@ -1034,10 +1176,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1Tf1tGqzBHuQGjxEjgNmktw5tNzRl3HhD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2025 Exams
+  notes: 'Past Papers/2025 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2025-071
   subject: english
   grade: '11'
@@ -1048,10 +1192,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1qJXFf5UMYutgMT89QXRnXFxubSAv6adm
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2025 Exams
+  notes: 'Past Papers/2025 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2026-072
   subject: english
   grade: '11'
@@ -1062,10 +1208,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1dFBZwzmNHEMTPVomzFeAIBoUoFfKIMr5
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2026 Exams
+  notes: 'Past Papers/2026 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2026-073
   subject: english
   grade: '11'
@@ -1076,10 +1224,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/16lglq_cDsRyjMjmWSnZxs_f4V3INRdeX
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2026 Exams; MG
+  notes: 'Past Papers/2026 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2026-074
   subject: english
   grade: '11'
@@ -1090,10 +1240,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/14dYLdQlGJw8bEqM8WDL-W6jnQW4aa7eg
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2026 Exams
+  notes: 'Past Papers/2026 Exams; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2026-075
   subject: english
   grade: '11'
@@ -1104,10 +1256,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/12b1lHwXibQgTamjc45kw6EDbuekwcufW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/2026 Exams; insert
+  notes: 'Past Papers/2026 Exams; insert; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2020-076
   subject: english
   grade: '11'
@@ -1118,11 +1272,13 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1sAhbILAR3KWbGGZ-VeMdMaeHumOYGVZl
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/Tests; grade 11 language & comprehension test (undated year;
-    folder 2020-02-04)
+  notes: 'Past Papers/Tests; grade 11 language & comprehension test (undated year;
+    folder 2020-02-04); Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-ENG-2020-077
   subject: english
   grade: '11'
@@ -1133,10 +1289,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1AINh4U_difasE8w6IzaSua78ooYicbRn
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/Tests; language & comprehension paper 1
+  notes: 'Past Papers/Tests; language & comprehension paper 1; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-078
   subject: english
   grade: '11'
@@ -1147,10 +1305,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1NNcuu24bfBsTcdZt-iQafRhYIMI3kwd1
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Language folder; video resource
+  notes: 'Language folder; video resource; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-079
   subject: english
   grade: '11'
@@ -1161,10 +1321,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1y_XIFe94ckSj-HB5ZuhhLVu37TZGZW3D
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Language folder; presentation resource
+  notes: 'Language folder; presentation resource; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-080
   subject: english
   grade: '11'
@@ -1175,10 +1337,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1bKuuL9T-NKwT0IgP24eiS6ZpTLKMGzVN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Language folder; presentation resource
+  notes: 'Language folder; presentation resource; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-081
   subject: english
   grade: '11'
@@ -1189,10 +1353,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1AtVkB4d09m-fp0RYeTZRHFPqbNVPyHce
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Language folder; video resource
+  notes: 'Language folder; video resource; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-082
   subject: english
   grade: '11'
@@ -1203,10 +1369,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1JZ3eY3PWGcJoP3lV18KYz6_y4qJmMf21
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Language folder; resource (modified 2025-11-03)
+  notes: 'Language folder; resource (modified 2025-11-03); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-083
   subject: english
   grade: '11'
@@ -1217,10 +1385,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1xJPegDYbyNcNrETbQhp7lQBfSBnglR_V
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Language folder; resource (original 2020)
+  notes: 'Language folder; resource (original 2020); Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-084
   subject: english
   grade: '11'
@@ -1231,10 +1401,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Q9ecrsO7RfRPtMdLMYViYtgh-TD81DZP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Poetry folder; teaching resource
+  notes: 'Poetry folder; teaching resource; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-085
   subject: english
   grade: '11'
@@ -1245,10 +1417,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1YCdxpObo-G-h2poSA3EuR9hONlmW42TA
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Poetry folder; teaching resource
+  notes: 'Poetry folder; teaching resource; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-086
   subject: english
   grade: '11'
@@ -1259,10 +1433,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1nB-pZ71_IAFa5OPJhpVCJegglVxHf7su
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Poetry folder; presentation resource
+  notes: 'Poetry folder; presentation resource; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-087
   subject: english
   grade: '11'
@@ -1273,10 +1449,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Besp2KsUEQ0nrSMhymiy0ecfynJT7EUz
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Poetry folder; presentation resource
+  notes: 'Poetry folder; presentation resource; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-088
   subject: english
   grade: '11'
@@ -1287,10 +1465,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1sPcwKP9W8-OmjJMdX1DhNDo_MRt9XmOo
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Poetry folder; grade 11 poetry notes
+  notes: 'Poetry folder; grade 11 poetry notes; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-089
   subject: english
   grade: '11'
@@ -1301,10 +1481,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1YNGUc8EDKCQSWv-8AGbyBe7nW_I0Rui0
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Poetry folder; image resource
+  notes: 'Poetry folder; image resource; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-090
   subject: english
   grade: '11'
@@ -1315,10 +1497,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/14_6ijmPf3T2Sga0Aj6w7LOQaJ1VSq56B
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Poetry folder; image resource
+  notes: 'Poetry folder; image resource; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-091
   subject: english
   grade: '11'
@@ -1329,10 +1513,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1vw5KUMkR5c2s0n0CFNWm49VqvZpJPEzg
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Poetry folder; resource
+  notes: 'Poetry folder; resource; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-092
   subject: english
   grade: '11'
@@ -1343,10 +1529,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/16UjNHCdLPa3heSgVjtQkOtCCfo3ss3nx
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Poetry folder; resource
+  notes: 'Poetry folder; resource; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-093
   subject: english
   grade: '11'
@@ -1357,10 +1545,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1l4WhjsYb4ojY8kwfZBdVRPQr22VxmAV6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Poetry folder; presentation resource
+  notes: 'Poetry folder; presentation resource; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-UNK-094
   subject: english
   grade: '11'
@@ -1371,10 +1561,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1oy2EEDCq5jkzzs4qSqwJ5JdrSmvC7Th7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Writing folder; resource
+  notes: 'Writing folder; resource; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2024-095
   subject: english
   grade: '12'
@@ -1385,10 +1577,12 @@ sources:
   paper_number: null
   source_url: https://docs.google.com/document/d/1-znhbxhIt-owGVD2GjwQ2HoI2_SC5JT8rgudRf9gEM8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/Film Contextual Tests; GRADE 12 - out of scope
+  notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2024-096
   subject: english
   grade: '12'
@@ -1399,10 +1593,12 @@ sources:
   paper_number: null
   source_url: https://docs.google.com/document/d/1pzOdVjbg40IvsSK7PqUZO45RrqWjkaCSCfBzp7j18ks
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/Film Contextual Tests; GRADE 12 - out of scope
+  notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2022-097
   subject: english
   grade: '12'
@@ -1413,10 +1609,12 @@ sources:
   paper_number: null
   source_url: https://docs.google.com/document/d/1fcUa3Cb5z-1kLiwP1lqEVB3iDOT_evqtidlaCgDQC34
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/Film Contextual Tests; GRADE 12 - out of scope
+  notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2022-098
   subject: english
   grade: '12'
@@ -1427,10 +1625,12 @@ sources:
   paper_number: null
   source_url: https://docs.google.com/document/d/1O0IIO4FzXesGYysSiPpIDroXtHRvLsw2o-kCyZb5jQE
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/Film Contextual Tests; GRADE 12 - out of scope
+  notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2023-099
   subject: english
   grade: '12'
@@ -1441,10 +1641,12 @@ sources:
   paper_number: null
   source_url: https://docs.google.com/document/d/12l8ttP2bIA5TSSJtAn6qhnJyeDLCfWebYKVYMZ8ZETo
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/Film Contextual Tests; GRADE 12 - out of scope
+  notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-ENG-2023-100
   subject: english
   grade: '12'
@@ -1455,8 +1657,18 @@ sources:
   paper_number: null
   source_url: https://docs.google.com/document/d/1vtU6x2pSR-Gd5-d3GKSRrFxuCw2W4UNYAarE9k9_iIk
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Past Papers/Film Contextual Tests; GRADE 12 - out of scope
+  notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 run_id: 20260903T090314Z_25ba
+run_records:
+- run_id: 20260903T091848Z_827b
+  subject: english
+  phase: 3
+  status: completed_with_review
+  sources_acquired: 0
+  sources_failed: 100
+  notes: All downloads failed due to sandbox TLS restriction to Google services.

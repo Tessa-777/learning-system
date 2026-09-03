@@ -1,0 +1,14 @@
+{
+  "subject": "mathematics",
+  "phase": 3,
+  "run_id": "20260903T091854Z_8c5d",
+  "sources_discovered": 272,
+  "sources_accessible_before": 270,
+  "sources_acquired": 0,
+  "sources_failed": 270,
+  "sources_external": 2,
+  "sources_inaccessible_after": 270,
+  "duplicate_hashes_detected": 0,
+  "files_downloaded": 0,
+  "unresolved_items": 270
+}
