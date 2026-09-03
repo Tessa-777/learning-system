@@ -46,3 +46,4 @@
 {"timestamp": "2026-09-03T07:55:32.427665Z", "event": "TEST_STARTED", "subject": null, "entity_id": null, "message": "Running Phase 1 pytest suite", "metadata": {}}
 {"timestamp": "2026-09-03T07:55:32.704554Z", "event": "TEST_PASSED", "subject": null, "entity_id": null, "message": "Pytest suite passed: 48 passed in 0.09s", "metadata": {}}
 {"timestamp": "2026-09-03T07:55:32.707824Z", "event": "PHASE_COMPLETED", "subject": null, "entity_id": null, "message": "Phase 1 complete (completed)", "metadata": {"run_id": "20260903T075532Z_0796"}}
+{"timestamp": "2026-09-03T07:55:56.374476Z", "event": "GIT_COMMITTED", "subject": null, "entity_id": null, "message": "Phase 1 committed as e7cb8cf", "metadata": {"commit": "e7cb8cf31f7f0a86850bfc1647c864119bad752d", "commit_short": "e7cb8cf", "branch": "arena/01a0663c-learning-system"}}
