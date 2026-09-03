@@ -77,7 +77,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2013 Exams; QP; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2014-002
   subject: english
   grade: '11'
@@ -93,7 +94,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2014-003
   subject: english
   grade: '11'
@@ -109,7 +111,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2014-004
   subject: english
   grade: '11'
@@ -125,7 +128,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2014-005
   subject: english
   grade: '11'
@@ -141,7 +145,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2014-006
   subject: english
   grade: '11'
@@ -157,7 +162,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2014-007
   subject: english
   grade: '11'
@@ -173,7 +179,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2014 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2015-008
   subject: english
   grade: '11'
@@ -189,7 +196,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2015 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2015-009
   subject: english
   grade: '11'
@@ -205,7 +213,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2015 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2015-010
   subject: english
   grade: '11'
@@ -221,7 +230,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2015 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2015-011
   subject: english
   grade: '11'
@@ -237,7 +247,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2015 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2015-012
   subject: english
   grade: '11'
@@ -253,7 +264,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2015 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2016-013
   subject: english
   grade: '11'
@@ -269,7 +281,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2016 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2016-014
   subject: english
   grade: '11'
@@ -285,7 +298,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2016 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2016-015
   subject: english
   grade: '11'
@@ -301,7 +315,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2016 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2016-016
   subject: english
   grade: '11'
@@ -317,7 +332,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2016 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2016-017
   subject: english
   grade: '11'
@@ -333,7 +349,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2016 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2017-018
   subject: english
   grade: '11'
@@ -349,7 +366,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2017 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2017-019
   subject: english
   grade: '11'
@@ -365,7 +383,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2017 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2017-020
   subject: english
   grade: '11'
@@ -381,7 +400,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2017 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2017-021
   subject: english
   grade: '11'
@@ -397,7 +417,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2017 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2017-022
   subject: english
   grade: '11'
@@ -413,7 +434,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2017 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2018-023
   subject: english
   grade: '11'
@@ -429,7 +451,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2018-024
   subject: english
   grade: '11'
@@ -445,7 +468,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2018-025
   subject: english
   grade: '11'
@@ -461,7 +485,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2018-026
   subject: english
   grade: '11'
@@ -477,7 +502,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2018-027
   subject: english
   grade: '11'
@@ -493,7 +519,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2018-028
   subject: english
   grade: '11'
@@ -509,7 +536,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2018 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2019-029
   subject: english
   grade: '11'
@@ -525,7 +553,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2019 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2019-030
   subject: english
   grade: '11'
@@ -541,7 +570,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2019 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2019-031
   subject: english
   grade: '11'
@@ -557,7 +587,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2019 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2019-032
   subject: english
   grade: '11'
@@ -573,7 +604,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2019 Exams; insert/texts for P1; Phase 3 acquisition failed:
     URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
-    (sandbox TLS restriction to Google Drive).'
+    (sandbox TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2019-033
   subject: english
   grade: '11'
@@ -589,7 +621,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2019 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2019-034
   subject: english
   grade: '11'
@@ -605,7 +638,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2019 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2020-035
   subject: english
   grade: '11'
@@ -621,7 +655,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2020 Exam; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2020-036
   subject: english
   grade: '11'
@@ -637,7 +672,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2020 Exam; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2020-037
   subject: english
   grade: '11'
@@ -653,7 +689,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2020 Exam; insert; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2021-038
   subject: english
   grade: '11'
@@ -669,7 +706,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2021 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2021-039
   subject: english
   grade: '11'
@@ -685,7 +723,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2021 Exams; insert; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2021-040
   subject: english
   grade: '11'
@@ -701,7 +740,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2021 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2021-041
   subject: english
   grade: '11'
@@ -717,7 +757,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2021 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2021-042
   subject: english
   grade: '11'
@@ -733,7 +774,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2021 Exams; inserts; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2021-043
   subject: english
   grade: '11'
@@ -749,7 +791,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2021 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2022-044
   subject: english
   grade: '11'
@@ -765,7 +808,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2022 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2022-045
   subject: english
   grade: '11'
@@ -781,7 +825,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2022 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2022-046
   subject: english
   grade: '11'
@@ -797,7 +842,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2022 Exams; insert; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2022-047
   subject: english
   grade: '11'
@@ -813,7 +859,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2022 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2022-048
   subject: english
   grade: '11'
@@ -829,7 +876,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2022 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2022-049
   subject: english
   grade: '11'
@@ -845,7 +893,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2022 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2022-050
   subject: english
   grade: '11'
@@ -861,7 +910,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2022 Exams; passages; Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2023-051
   subject: english
   grade: '11'
@@ -877,7 +927,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2023 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2023-052
   subject: english
   grade: '11'
@@ -893,7 +944,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2023 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2023-053
   subject: english
   grade: '11'
@@ -909,7 +961,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2023 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2023-054
   subject: english
   grade: '11'
@@ -925,7 +978,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2023 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2023-055
   subject: english
   grade: '11'
@@ -941,7 +995,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2023 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2023-056
   subject: english
   grade: '11'
@@ -957,7 +1012,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2023 Exams; inserts (July); Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2023-057
   subject: english
   grade: '11'
@@ -973,7 +1029,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2023 Exams; inserts (Nov); Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2024-058
   subject: english
   grade: '11'
@@ -989,7 +1046,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2024 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2024-059
   subject: english
   grade: '11'
@@ -1005,7 +1063,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2024 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2024-060
   subject: english
   grade: '11'
@@ -1021,7 +1080,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2024 Exams; inserts; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2024-061
   subject: english
   grade: '11'
@@ -1037,7 +1097,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2024 Exams; insert; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2024-062
   subject: english
   grade: '11'
@@ -1053,7 +1114,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2024 Exams; marking guidelines; Phase 3 acquisition failed:
     URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
-    (sandbox TLS restriction to Google Drive).'
+    (sandbox TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2024-063
   subject: english
   grade: '11'
@@ -1069,7 +1131,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2024 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2024-064
   subject: english
   grade: '11'
@@ -1085,7 +1148,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2024 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2025-065
   subject: english
   grade: '11'
@@ -1101,7 +1165,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2025 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2025-066
   subject: english
   grade: '11'
@@ -1117,7 +1182,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2025 Exams; insert; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2025-067
   subject: english
   grade: '11'
@@ -1133,7 +1199,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2025 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2025-068
   subject: english
   grade: '11'
@@ -1149,7 +1216,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2025 Exams; final exam insert; Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2025-069
   subject: english
   grade: '11'
@@ -1165,7 +1233,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2025 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2025-070
   subject: english
   grade: '11'
@@ -1181,7 +1250,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2025 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2025-071
   subject: english
   grade: '11'
@@ -1197,7 +1267,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2025 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2026-072
   subject: english
   grade: '11'
@@ -1213,7 +1284,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2026 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2026-073
   subject: english
   grade: '11'
@@ -1229,7 +1301,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2026 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2026-074
   subject: english
   grade: '11'
@@ -1245,7 +1318,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2026 Exams; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2026-075
   subject: english
   grade: '11'
@@ -1261,7 +1335,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/2026 Exams; insert; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2020-076
   subject: english
   grade: '11'
@@ -1278,7 +1353,8 @@ sources:
   notes: 'Past Papers/Tests; grade 11 language & comprehension test (undated year;
     folder 2020-02-04); Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2020-077
   subject: english
   grade: '11'
@@ -1294,7 +1370,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/Tests; language & comprehension paper 1; Phase 3 acquisition
     failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
-    (sandbox TLS restriction to Google Drive).'
+    (sandbox TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-078
   subject: english
   grade: '11'
@@ -1310,7 +1387,8 @@ sources:
   file_hash: null
   notes: 'Language folder; video resource; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-079
   subject: english
   grade: '11'
@@ -1326,7 +1404,8 @@ sources:
   file_hash: null
   notes: 'Language folder; presentation resource; Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-080
   subject: english
   grade: '11'
@@ -1342,7 +1421,8 @@ sources:
   file_hash: null
   notes: 'Language folder; presentation resource; Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-081
   subject: english
   grade: '11'
@@ -1358,7 +1438,8 @@ sources:
   file_hash: null
   notes: 'Language folder; video resource; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-082
   subject: english
   grade: '11'
@@ -1374,7 +1455,8 @@ sources:
   file_hash: null
   notes: 'Language folder; resource (modified 2025-11-03); Phase 3 acquisition failed:
     URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
-    (sandbox TLS restriction to Google Drive).'
+    (sandbox TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-083
   subject: english
   grade: '11'
@@ -1390,7 +1472,8 @@ sources:
   file_hash: null
   notes: 'Language folder; resource (original 2020); Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-084
   subject: english
   grade: '11'
@@ -1406,7 +1489,8 @@ sources:
   file_hash: null
   notes: 'Poetry folder; teaching resource; Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-085
   subject: english
   grade: '11'
@@ -1422,7 +1506,8 @@ sources:
   file_hash: null
   notes: 'Poetry folder; teaching resource; Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-086
   subject: english
   grade: '11'
@@ -1438,7 +1523,8 @@ sources:
   file_hash: null
   notes: 'Poetry folder; presentation resource; Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-087
   subject: english
   grade: '11'
@@ -1454,7 +1540,8 @@ sources:
   file_hash: null
   notes: 'Poetry folder; presentation resource; Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-088
   subject: english
   grade: '11'
@@ -1470,7 +1557,8 @@ sources:
   file_hash: null
   notes: 'Poetry folder; grade 11 poetry notes; Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-089
   subject: english
   grade: '11'
@@ -1486,7 +1574,8 @@ sources:
   file_hash: null
   notes: 'Poetry folder; image resource; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-090
   subject: english
   grade: '11'
@@ -1502,7 +1591,8 @@ sources:
   file_hash: null
   notes: 'Poetry folder; image resource; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-091
   subject: english
   grade: '11'
@@ -1518,7 +1608,8 @@ sources:
   file_hash: null
   notes: 'Poetry folder; resource; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-092
   subject: english
   grade: '11'
@@ -1534,7 +1625,8 @@ sources:
   file_hash: null
   notes: 'Poetry folder; resource; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-093
   subject: english
   grade: '11'
@@ -1550,7 +1642,8 @@ sources:
   file_hash: null
   notes: 'Poetry folder; presentation resource; Phase 3 acquisition failed: URLError:
     <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
-    TLS restriction to Google Drive).'
+    TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-UNK-094
   subject: english
   grade: '11'
@@ -1566,7 +1659,8 @@ sources:
   file_hash: null
   notes: 'Writing folder; resource; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2024-095
   subject: english
   grade: '12'
@@ -1582,7 +1676,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
     failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
-    (sandbox TLS restriction to Google Drive).'
+    (sandbox TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2024-096
   subject: english
   grade: '12'
@@ -1598,7 +1693,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
     failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
-    (sandbox TLS restriction to Google Drive).'
+    (sandbox TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2022-097
   subject: english
   grade: '12'
@@ -1614,7 +1710,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
     failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
-    (sandbox TLS restriction to Google Drive).'
+    (sandbox TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2022-098
   subject: english
   grade: '12'
@@ -1630,7 +1727,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
     failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
-    (sandbox TLS restriction to Google Drive).'
+    (sandbox TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2023-099
   subject: english
   grade: '12'
@@ -1646,7 +1744,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
     failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
-    (sandbox TLS restriction to Google Drive).'
+    (sandbox TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-ENG-2023-100
   subject: english
   grade: '12'
@@ -1662,7 +1761,8 @@ sources:
   file_hash: null
   notes: 'Past Papers/Film Contextual Tests; GRADE 12 - out of scope; Phase 3 acquisition
     failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
-    (sandbox TLS restriction to Google Drive).'
+    (sandbox TLS restriction to Google Drive).; Phase 3 retry run 20260903T095752Z_c30a
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 run_id: 20260903T090314Z_25ba
 run_records:
 - run_id: 20260903T091848Z_827b
@@ -1672,3 +1772,29 @@ run_records:
   sources_acquired: 0
   sources_failed: 100
   notes: All downloads failed due to sandbox TLS restriction to Google services.
+- run_id: 20260903T094154Z_0671
+  subject: english
+  phase: 4
+  status: blocked
+  sources_requiring_extraction: 100
+  sources_with_preserved_original: 0
+  notes: 'Phase 4 extraction blocked: no acquired corpus (0 preserved originals).
+    See PHASE4_EXTRACTION_REPORT.yaml.'
+- run_id: 20260903T095752Z_c30a
+  subject: english
+  phase: 3
+  status: completed_with_review
+  retry: true
+  sources_attempted: 100
+  sources_acquired: 0
+  sources_failed: 100
+  notes: 'Phase 3 retry: all non-external sources re-attempted. 0 acquired, 100 failed
+    (sandbox TLS restriction to Google services).'
+- run_id: 20260903T095816Z_980e
+  subject: english
+  phase: 4
+  status: blocked
+  sources_requiring_extraction: 100
+  sources_with_preserved_original: 0
+  notes: 'Phase 4 extraction blocked: no acquired corpus (0 preserved originals).
+    See PHASE4_EXTRACTION_REPORT.yaml.'

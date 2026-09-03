@@ -1,0 +1,21 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/biology/ACQUISITION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:57:43.760611Z'
+  source_run: 20260903T095742Z_7898
+  content_hash: f0f51dc19239ff85d36c460322da82bff40b58b1f65989e7eedf0c6fbd89659c
+  description: Phase 3 acquisition retry report for biology
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P3-BIO-ACQUISITION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:57:43.760856Z'
+  source_run: 20260903T095742Z_7898
+  content_hash: efd5941c4c5eff47bafa3978acca11ba10258122ca3f167d86eca5ea02ac2d06
+  description: Phase 3 review-queue item for biology (retry)
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/biology/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:57:43.760903Z'
+  source_run: 20260903T095742Z_7898
+  content_hash: 49a62f27f7ea963628177882e9c950f36261d7129ba1ef329199456296267946
+  description: Source inventory for biology (Phase 3 retry run record appended)

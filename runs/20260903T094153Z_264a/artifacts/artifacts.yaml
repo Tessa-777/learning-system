@@ -1,0 +1,28 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/biology/PHASE4_EXTRACTION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:41:53.787074Z'
+  source_run: 20260903T094153Z_264a
+  content_hash: 35613f6c061a37a10a31adc1056750f7e6d5d111c122b9e5f14726e9e3a8cc60
+  description: Phase 4 blocked-state extraction report for biology
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P4-BIO-EXTRACTION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:41:53.787277Z'
+  source_run: 20260903T094153Z_264a
+  content_hash: 34c9611dc76fe5f877fc2235a97e2d7237d10a6d330944cd0bbb2cebc13e7155
+  description: Phase 4 review-queue item for biology
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/biology/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:41:53.787321Z'
+  source_run: 20260903T094153Z_264a
+  content_hash: df66091471fa8426271bdbb08ea4490a1eef7e383a0a3420e91b427a07889ace
+  description: Source inventory for biology (Phase 4 run record appended)
+- artifact_id: ART-0004
+  path: /home/user/learning-system/data/extracted/biology/.gitkeep
+  type: file
+  created_or_modified: '2026-09-03T09:41:53.787433Z'
+  source_run: 20260903T094153Z_264a
+  content_hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  description: "Structural placeholder only \u2014 no extraction artifacts for biology"

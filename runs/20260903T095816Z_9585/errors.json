@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2026-09-03T09:58:16.775464Z",
+    "phase": 4,
+    "subject": "ap_mathematics",
+    "error_type": "phase4_extraction_blocked_no_corpus",
+    "message": "Phase 4 extraction blocked for ap_mathematics: 145 of 145 sources have no preserved original file (access_status=inaccessible, local_path=null, file_hash=null after Phase 3). No pages could be extracted, so no visual-verification pages could be identified.",
+    "affected_artifact": "data/extracted/ap_mathematics",
+    "retry_attempts": 0,
+    "resolution": "Re-run Phase 3 acquisition with working Google Drive access or provide preserved originals manually; then re-run Phase 4 for this subject.",
+    "status": "unresolved"
+  }
+]

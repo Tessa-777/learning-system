@@ -1,0 +1,21 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/ap_mathematics/ACQUISITION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:58:00.301551Z'
+  source_run: 20260903T095755Z_e18a
+  content_hash: f80189b576ab0d0bf3a52de14de7adfe3b9b8296de526dd0d987b350482bd99c
+  description: Phase 3 acquisition retry report for ap_mathematics
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P3-APM-ACQUISITION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:58:00.301685Z'
+  source_run: 20260903T095755Z_e18a
+  content_hash: 583c20ba0da3d28536b62de826225a52e7a217b082755dc45de706aeb40412e2
+  description: Phase 3 review-queue item for ap_mathematics (retry)
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/ap_mathematics/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:58:00.301723Z'
+  source_run: 20260903T095755Z_e18a
+  content_hash: 55a7beda8d0d3e865a7986cdcaba67cf417985af9e77602dbc7da1875fab1ba0
+  description: Source inventory for ap_mathematics (Phase 3 retry run record appended)

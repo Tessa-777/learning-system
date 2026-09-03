@@ -1,0 +1,28 @@
+[
+  {
+    "decision_id": "DEC-P4-history-001",
+    "timestamp": "2026-09-03T09:41:54.458758Z",
+    "phase": 4,
+    "subject": "history",
+    "decision_type": "phase4_execution_strategy",
+    "context": "Phase 4 extraction requested for history. Extraction requires preserved originals (local_path + verified file_hash) from Phase 3; the gate in STATUS.md forbids starting Phase 4 before Phase 3 is resolved, and AGENTS.md rules 4/5/7 forbid inventing or substituting source material.",
+    "evidence": [
+      "/home/user/learning-system/data/raw/history/SOURCE_INVENTORY.yaml",
+      "sources_requiring_extraction=18",
+      "sources_with_preserved_original=0",
+      "phase3_run=20260903T091848Z_81f2",
+      "STATUS.md (Next Phase gate)",
+      "reachability_probe=URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>"
+    ],
+    "alternatives": [
+      "block_and_record_run",
+      "fabricate_extracted_text",
+      "extract_without_preserved_originals",
+      "substitute_external_corpus"
+    ],
+    "selected": "block_and_record_run",
+    "rationale": "Zero preserved originals exist for this subject, so there is no machine-readable content to extract and no pages to visually verify. Fabricating extracted text or substituting non-ORC material violates IMPLEMENTATION_SPEC \u00a75 hard rules ('Do not invent missing text', 'Do not silently correct source wording', 'Do not discard diagrams that may carry meaning') and AGENTS.md rules 4-5. The only compliant execution is a fully logged blocked run that keeps the corpus boundary intact.",
+    "confidence": "high",
+    "requires_review": false
+  }
+]

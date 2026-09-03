@@ -1,0 +1,60 @@
+subject: biology
+phase: 4
+phase_letter: A
+run_id: 20260903T095815Z_961e
+report_type: phase4_extraction_report
+status: blocked
+generated_at: '2026-09-03T09:58:15.348177Z'
+executed_scope: Phase 4 only. No question segmentation (Phase 5), no educational content
+  analysis/classification, no other subjects processed.
+gate_check:
+  phase3_requirement: 'STATUS.md (Next Phase): every source must have a preserved
+    original file (local_path) and a verified SHA-256 hash (file_hash) before extraction
+    can proceed responsibly.'
+  acquired_corpus_present: false
+  sources_requiring_extraction: 52
+  sources_with_preserved_original: 0
+  sources_without_preserved_original: 52
+  unexpected_files_in_raw_dir: []
+  prior_extraction_artifacts: []
+  google_drive_reachability_probe: 'URLError: <urlopen error TLS/SSL connection has
+    been closed (EOF) (_ssl.c:992)>'
+work_performed: None. With 0 preserved originals there are no pages, tables, figures,
+  diagrams, headers/footers, question numbers, mark allocations or scans to extract,
+  retain, identify or verify. No text was invented and no content was substituted.
+tasks_blocked:
+- extract_text
+- retain_page_numbers
+- preserve_tables
+- identify_figures_and_diagrams
+- detect_headers_footers
+- preserve_question_numbering
+- preserve_mark_allocations
+- record_extraction_confidence
+- identify_pages_requiring_visual_verification
+metrics:
+  sources_total: 52
+  sources_external: 0
+  sources_requiring_extraction: 52
+  sources_with_preserved_original: 0
+  documents_extracted: 0
+  pages_extracted: 0
+  tables_preserved: 0
+  figures_or_diagrams_identified: 0
+  headers_footers_detected: 0
+  question_numbering_preserved: 0
+  mark_allocations_preserved: 0
+  extraction_uncertainty_records: 0
+  pages_requiring_visual_verification: 0
+  original_files_modified: 0
+  new_unresolved_items: 0
+  unresolved_items_carried_from_phase3: 52
+originals_preservation:
+  original_files_touched: false
+  note: No original source files exist in the repository; none were created, modified,
+    replaced or deleted.
+  extracted_output_dir: data/extracted/biology
+  extracted_output_content: Structural placeholders only (.gitkeep); no extraction
+    artifacts written.
+next_action: Resolve Phase 3 for this subject (retry acquisition with working Google
+  Drive access, or provide preserved originals manually), then re-run Phase 4.

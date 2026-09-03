@@ -1,0 +1,28 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/history/PHASE4_EXTRACTION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:58:16.134915Z'
+  source_run: 20260903T095816Z_8955
+  content_hash: 96ac727f79786716ff931409cecd8d48f544739084d16cc4cddb60173caf15b6
+  description: Phase 4 blocked-state extraction report for history
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P4-HIS-EXTRACTION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:58:16.135089Z'
+  source_run: 20260903T095816Z_8955
+  content_hash: efd41b3197123c2789ffb123805cd759677e6b295735da7ea9f2d3cb82af8ba5
+  description: Phase 4 review-queue item for history
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/history/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:58:16.135139Z'
+  source_run: 20260903T095816Z_8955
+  content_hash: 9f602a7320062e44ac4b43c75227a1ee8d62a790a737c39c15b36938f4deedc2
+  description: Source inventory for history (Phase 4 run record appended)
+- artifact_id: ART-0004
+  path: /home/user/learning-system/data/extracted/history/.gitkeep
+  type: file
+  created_or_modified: '2026-09-03T09:58:16.135185Z'
+  source_run: 20260903T095816Z_8955
+  content_hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  description: "Structural placeholder only \u2014 no extraction artifacts for history"

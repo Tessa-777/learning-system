@@ -59,7 +59,8 @@ sources:
   file_hash: null
   notes: '2022 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-002
   subject: biology
   grade: '11'
@@ -75,7 +76,8 @@ sources:
   file_hash: null
   notes: '2022 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-003
   subject: biology
   grade: '11'
@@ -91,7 +93,8 @@ sources:
   file_hash: null
   notes: '2022 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-004
   subject: biology
   grade: '11'
@@ -107,7 +110,8 @@ sources:
   file_hash: null
   notes: '2022 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-005
   subject: biology
   grade: '11'
@@ -123,7 +127,8 @@ sources:
   file_hash: null
   notes: '2022 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-006
   subject: biology
   grade: '11'
@@ -139,7 +144,8 @@ sources:
   file_hash: null
   notes: '2022 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-007
   subject: biology
   grade: '11'
@@ -155,7 +161,8 @@ sources:
   file_hash: null
   notes: '2022 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-008
   subject: biology
   grade: '11'
@@ -171,7 +178,8 @@ sources:
   file_hash: null
   notes: '2022 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-009
   subject: biology
   grade: '11'
@@ -187,7 +195,8 @@ sources:
   file_hash: null
   notes: '2022 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-010
   subject: biology
   grade: '11'
@@ -203,7 +212,8 @@ sources:
   file_hash: null
   notes: '2022 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-011
   subject: biology
   grade: '11'
@@ -219,7 +229,8 @@ sources:
   file_hash: null
   notes: '2022 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2022-012
   subject: biology
   grade: '11'
@@ -235,7 +246,8 @@ sources:
   file_hash: null
   notes: '2022 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-013
   subject: biology
   grade: '11'
@@ -251,7 +263,8 @@ sources:
   file_hash: null
   notes: '2023 Class tests; MG (docx); Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-014
   subject: biology
   grade: '11'
@@ -267,7 +280,8 @@ sources:
   file_hash: null
   notes: '2023 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-015
   subject: biology
   grade: '11'
@@ -283,7 +297,8 @@ sources:
   file_hash: null
   notes: '2023 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-016
   subject: biology
   grade: '11'
@@ -299,7 +314,8 @@ sources:
   file_hash: null
   notes: '2023 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-017
   subject: biology
   grade: '11'
@@ -315,7 +331,8 @@ sources:
   file_hash: null
   notes: '2023 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-018
   subject: biology
   grade: '11'
@@ -331,7 +348,8 @@ sources:
   file_hash: null
   notes: '2023 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-019
   subject: biology
   grade: '11'
@@ -347,7 +365,8 @@ sources:
   file_hash: null
   notes: '2023 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-020
   subject: biology
   grade: '11'
@@ -363,7 +382,8 @@ sources:
   file_hash: null
   notes: '2023 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-021
   subject: biology
   grade: '11'
@@ -379,7 +399,8 @@ sources:
   file_hash: null
   notes: '2023 Exams; P1 MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-022
   subject: biology
   grade: '11'
@@ -395,7 +416,8 @@ sources:
   file_hash: null
   notes: '2023 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-023
   subject: biology
   grade: '11'
@@ -411,7 +433,8 @@ sources:
   file_hash: null
   notes: '2023 Exams; P2 MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2023-024
   subject: biology
   grade: '11'
@@ -427,7 +450,8 @@ sources:
   file_hash: null
   notes: '2023 Exams; P2; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-025
   subject: biology
   grade: '11'
@@ -443,7 +467,8 @@ sources:
   file_hash: null
   notes: '2024 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-026
   subject: biology
   grade: '11'
@@ -459,7 +484,8 @@ sources:
   file_hash: null
   notes: '2024 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-027
   subject: biology
   grade: '11'
@@ -475,7 +501,8 @@ sources:
   file_hash: null
   notes: '2024 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-028
   subject: biology
   grade: '11'
@@ -491,7 +518,8 @@ sources:
   file_hash: null
   notes: '2024 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-029
   subject: biology
   grade: '11'
@@ -507,7 +535,8 @@ sources:
   file_hash: null
   notes: '2024 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-030
   subject: biology
   grade: '11'
@@ -523,7 +552,8 @@ sources:
   file_hash: null
   notes: '2024 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-031
   subject: biology
   grade: '11'
@@ -539,7 +569,8 @@ sources:
   file_hash: null
   notes: '2024 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-032
   subject: biology
   grade: '11'
@@ -555,7 +586,8 @@ sources:
   file_hash: null
   notes: '2024 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-033
   subject: biology
   grade: '11'
@@ -571,7 +603,8 @@ sources:
   file_hash: null
   notes: '2024 Exams; P1 MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-034
   subject: biology
   grade: '11'
@@ -587,7 +620,8 @@ sources:
   file_hash: null
   notes: '2024 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-035
   subject: biology
   grade: '11'
@@ -603,7 +637,8 @@ sources:
   file_hash: null
   notes: '2024 Exams; P2 MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-036
   subject: biology
   grade: '11'
@@ -619,7 +654,8 @@ sources:
   file_hash: null
   notes: '2024 Exams; P2; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2024-037
   subject: biology
   grade: '11'
@@ -635,7 +671,8 @@ sources:
   file_hash: null
   notes: '2024 Exams; P2 source booklet; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-038
   subject: biology
   grade: '11'
@@ -651,7 +688,8 @@ sources:
   file_hash: null
   notes: '2025 Class Tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-039
   subject: biology
   grade: '11'
@@ -667,7 +705,8 @@ sources:
   file_hash: null
   notes: '2025 Class Tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-040
   subject: biology
   grade: '11'
@@ -683,7 +722,8 @@ sources:
   file_hash: null
   notes: '2025 Class Tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-041
   subject: biology
   grade: '11'
@@ -699,7 +739,8 @@ sources:
   file_hash: null
   notes: '2025 Class Tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-042
   subject: biology
   grade: '11'
@@ -715,7 +756,8 @@ sources:
   file_hash: null
   notes: '2025 Exams; MG; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-043
   subject: biology
   grade: '11'
@@ -731,7 +773,8 @@ sources:
   file_hash: null
   notes: '2025 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-044
   subject: biology
   grade: '11'
@@ -747,7 +790,8 @@ sources:
   file_hash: null
   notes: '2025 Exams; P2 source booklet; Phase 3 acquisition failed: URLError: <urlopen
     error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-045
   subject: biology
   grade: '11'
@@ -763,7 +807,8 @@ sources:
   file_hash: null
   notes: '2025 Exams; P1; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-046
   subject: biology
   grade: '11'
@@ -779,7 +824,8 @@ sources:
   file_hash: null
   notes: '2025 Exams; P1 MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-047
   subject: biology
   grade: '11'
@@ -795,7 +841,8 @@ sources:
   file_hash: null
   notes: '2025 Exams; P2 MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2025-048
   subject: biology
   grade: '11'
@@ -811,7 +858,8 @@ sources:
   file_hash: null
   notes: '2025 Exams; P2; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
     connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
-    Drive).'
+    Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2026-049
   subject: biology
   grade: '11'
@@ -827,7 +875,8 @@ sources:
   file_hash: null
   notes: '2026 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2026-050
   subject: biology
   grade: '11'
@@ -843,7 +892,8 @@ sources:
   file_hash: null
   notes: '2026 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2026-051
   subject: biology
   grade: '11'
@@ -859,7 +909,8 @@ sources:
   file_hash: null
   notes: '2026 Class tests; MG; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 - source_id: SOURCE-ORC-BIO-2026-052
   subject: biology
   grade: '11'
@@ -875,7 +926,8 @@ sources:
   file_hash: null
   notes: '2026 Class tests; QP; Phase 3 acquisition failed: URLError: <urlopen error
     TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
-    to Google Drive).'
+    to Google Drive).; Phase 3 retry run 20260903T095742Z_7898 failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>'
 run_id: 20260903T090314Z_25ba
 run_records:
 - run_id: 20260903T091841Z_9448
@@ -885,3 +937,29 @@ run_records:
   sources_acquired: 0
   sources_failed: 52
   notes: All downloads failed due to sandbox TLS restriction to Google services.
+- run_id: 20260903T094153Z_264a
+  subject: biology
+  phase: 4
+  status: blocked
+  sources_requiring_extraction: 52
+  sources_with_preserved_original: 0
+  notes: 'Phase 4 extraction blocked: no acquired corpus (0 preserved originals).
+    See PHASE4_EXTRACTION_REPORT.yaml.'
+- run_id: 20260903T095742Z_7898
+  subject: biology
+  phase: 3
+  status: completed_with_review
+  retry: true
+  sources_attempted: 52
+  sources_acquired: 0
+  sources_failed: 52
+  notes: 'Phase 3 retry: all non-external sources re-attempted. 0 acquired, 52 failed
+    (sandbox TLS restriction to Google services).'
+- run_id: 20260903T095815Z_961e
+  subject: biology
+  phase: 4
+  status: blocked
+  sources_requiring_extraction: 52
+  sources_with_preserved_original: 0
+  notes: 'Phase 4 extraction blocked: no acquired corpus (0 preserved originals).
+    See PHASE4_EXTRACTION_REPORT.yaml.'

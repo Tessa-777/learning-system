@@ -1,15 +1,23 @@
-issue: Phase 3 acquisition failed for all accessible AP Mathematics sources due to sandbox TLS/SSL restriction to Google Drive (1 external source excluded)
-affected_entity: SOURCE-ORC-APM-2013-001 through SOURCE-ORC-APM-2025-??? (145 accessible, 1 external)
-evidence:
-  - inventory: data/raw/ap_mathematics/SOURCE_INVENTORY.yaml (146 total; 145 accessible before Phase 3)
-  - run: runs/20260903T091851Z_b250
-  - errors: 145 acquisition_failed errors in errors.json
-  - external: 1 source (stithian.com formula sheet) remains external and unverified
-possible_resolutions:
-  - Retry Phase 3 in an environment with working Google Drive access
-  - Confirm AP Mathematics boundary (FS Maths Grade 11 Drive) with school before Phase 4
-  - Verify external formula sheet grade applicability
-recommended_review: Human review required; confirm AP Mathematics source boundary and external source applicability; do not proceed to Phase 4 without resolving
-subject: ap_mathematics
+review_queue_id: RQ-P3-APM-ACQUISITION
 phase: 3
-created_at: '2026-09-03T09:19:00Z'
+subject: ap_mathematics
+retry: true
+issue: 'Phase 3 acquisition (retry) failed for 145 of 145 attempted ap_mathematics
+  sources: sandbox TLS/SSL restriction to Google services.'
+affected_entity: SOURCE-INV-ORC-APM (146 source records) -> data/raw/ap_mathematics/
+evidence:
+- 'inventory: data/raw/ap_mathematics/SOURCE_INVENTORY.yaml'
+- 'prior phase3 runs: [''20260903T091851Z_b250'']'
+- 'this retry run: runs/20260903T095755Z_e18a (status completed_with_review, acquired=0,
+  failed=145)'
+- 'report: /home/user/learning-system/data/raw/ap_mathematics/ACQUISITION_REPORT.yaml'
+possible_resolutions:
+- Retry Phase 3 in an environment with working Google Drive access
+- Manually download source files from the recorded Google Drive URLs and preserve
+  them under data/raw/<subject>/ with local_path + SHA-256 file_hash recorded in the
+  inventory
+- Provide source files through an alternative storage mechanism
+recommended_review: Human review required to confirm whether source files can be obtained
+  from the ORC. Do not treat sources as acquired without a preserved local file and
+  verified hash.
+created_at: '2026-09-03T09:58:00.199806Z'

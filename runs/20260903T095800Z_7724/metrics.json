@@ -1,0 +1,24 @@
+{
+  "subject": "mathematics",
+  "phase": 3,
+  "phase_letter": "F",
+  "run_id": "20260903T095800Z_7724",
+  "status": "completed_with_review",
+  "retry": true,
+  "prior_phase3_run_ids": [
+    "20260903T091854Z_8c5d"
+  ],
+  "sources_discovered": 272,
+  "sources_accessible_before": 0,
+  "sources_external": 2,
+  "sources_attempted": 270,
+  "sources_acquired": 0,
+  "sources_failed": 270,
+  "sources_skipped": 2,
+  "sources_inaccessible_after": 270,
+  "duplicate_hashes_detected": 0,
+  "files_downloaded": 0,
+  "schema_validation_failures": 0,
+  "unresolved_items": 270,
+  "test_suite_pass": true
+}

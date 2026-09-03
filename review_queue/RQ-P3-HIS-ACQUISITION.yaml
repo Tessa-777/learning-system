@@ -1,14 +1,23 @@
-issue: Phase 3 acquisition failed for all accessible History sources due to sandbox TLS/SSL restriction to Google Drive
-affected_entity: SOURCE-ORC-HIS-2009-001 through SOURCE-ORC-HIS-2017-??? (18 sources)
-evidence:
-  - inventory: data/raw/history/SOURCE_INVENTORY.yaml (18 accessible sources before Phase 3)
-  - run: runs/20260903T091848Z_81f2
-  - errors: 18 acquisition_failed errors in errors.json
-  - note: includes Zipped Past Papers.zip not expanded in Phase 2
-possible_resolutions:
-  - Retry Phase 3 in an environment with working Google Drive access
-  - Manually download source files; expand zip contents for review
-recommended_review: Human review required; zip contents must be expanded and inspected before Phase 4
-subject: history
+review_queue_id: RQ-P3-HIS-ACQUISITION
 phase: 3
-created_at: '2026-09-03T09:19:00Z'
+subject: history
+retry: true
+issue: 'Phase 3 acquisition (retry) failed for 18 of 18 attempted history sources:
+  sandbox TLS/SSL restriction to Google services.'
+affected_entity: SOURCE-INV-ORC-HIS (18 source records) -> data/raw/history/
+evidence:
+- 'inventory: data/raw/history/SOURCE_INVENTORY.yaml'
+- 'prior phase3 runs: [''20260903T091848Z_81f2'']'
+- 'this retry run: runs/20260903T095751Z_4aeb (status completed_with_review, acquired=0,
+  failed=18)'
+- 'report: /home/user/learning-system/data/raw/history/ACQUISITION_REPORT.yaml'
+possible_resolutions:
+- Retry Phase 3 in an environment with working Google Drive access
+- Manually download source files from the recorded Google Drive URLs and preserve
+  them under data/raw/<subject>/ with local_path + SHA-256 file_hash recorded in the
+  inventory
+- Provide source files through an alternative storage mechanism
+recommended_review: Human review required to confirm whether source files can be obtained
+  from the ORC. Do not treat sources as acquired without a preserved local file and
+  verified hash.
+created_at: '2026-09-03T09:57:52.159198Z'

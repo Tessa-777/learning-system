@@ -1,0 +1,35 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/mathematics/ACQUISITION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:58:09.167407Z'
+  source_run: 20260903T095800Z_7724
+  content_hash: 7cdd77b7c104b0541844fcee46e9c8e93fe95781cb82e7b620aa2ddf4930b138
+  description: Phase 3 acquisition retry report for mathematics
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P3-MAT-ACQUISITION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:58:09.167548Z'
+  source_run: 20260903T095800Z_7724
+  content_hash: 230e01b8d6755acb2c96f94fe83e2c4330fbed5af7b9123f6a40e5ed41951017
+  description: Phase 3 review-queue item for mathematics (retry)
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/mathematics/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:58:09.167588Z'
+  source_run: 20260903T095800Z_7724
+  content_hash: 33f433bbd5dd136d9952d6c2037ee432d62a5defae12721ca13666bffd8ebd04
+  description: Source inventory for mathematics (Phase 3 retry run record appended)
+- artifact_id: ART-0004
+  path: /home/user/learning-system/data/raw/PHASE3_AGGREGATE_SUMMARY.yaml
+  type: yaml
+  created_or_modified: '2026-09-03T09:58:09.953835Z'
+  source_run: 20260903T095800Z_7724
+  content_hash: f1c91861a090cdd773b4dc25d2dda2a9dcad42455f075afeff184147a25f34cd
+  description: Phase 3 aggregate retry summary (all subjects)
+- artifact_id: ART-0005
+  path: /home/user/learning-system/STATUS.md
+  type: markdown
+  created_or_modified: '2026-09-03T09:58:09.953903Z'
+  source_run: 20260903T095800Z_7724
+  content_hash: 70ff006a97294c256f8754da50848c2cacddf2c860a0e4386576e50f4bb3affb
+  description: STATUS.md updated with Phase 3 retry status

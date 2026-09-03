@@ -1,0 +1,48 @@
+[
+  {
+    "decision_id": "DEC-P3-mathematics-001",
+    "timestamp": "2026-09-03T09:58:00.544731Z",
+    "phase": 3,
+    "subject": "mathematics",
+    "decision_type": "acquisition_retry_strategy",
+    "context": "Phase 3 retry for mathematics: re-attempt download of every non-external source regardless of the access_status left by the earlier Phase 3 run(s), because a retry must re-test previously inaccessible sources.",
+    "evidence": [
+      "/home/user/learning-system/data/raw/mathematics/SOURCE_INVENTORY.yaml",
+      "total_sources=272",
+      "prior_phase3_run_ids=['20260903T091854Z_8c5d']"
+    ],
+    "alternatives": [
+      "skip_previously_inaccessible_sources",
+      "simulate_downloads",
+      "attempt_all_non_external_sources"
+    ],
+    "selected": "attempt_all_non_external_sources",
+    "rationale": "The earlier Phase 3 runs failed for every source (sandbox TLS restriction to Google services). Skipping them would make the retry vacuous; simulating success would violate AGENTS.md rules 4-5. Re-attempting every non-external source is the only honest retry.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-P3-mathematics-002",
+    "timestamp": "2026-09-03T09:58:08.980004Z",
+    "phase": 3,
+    "subject": "mathematics",
+    "decision_type": "acquisition_completion",
+    "context": "Phase 3 acquisition retry completed for mathematics.",
+    "evidence": [
+      "sources_total=272",
+      "sources_attempted=270",
+      "sources_acquired=0",
+      "sources_failed=270"
+    ],
+    "alternatives": [
+      "completed",
+      "completed_with_review",
+      "blocked",
+      "failed"
+    ],
+    "selected": "completed_with_review",
+    "rationale": "Every non-external source was re-attempted with a real download request. Where downloads failed the failure was recorded per source and the source kept/marked inaccessible; no file was fabricated. Completion therefore reflects that the phase procedure ran to completion with explicitly recorded unresolved items where any source failed.",
+    "confidence": "high",
+    "requires_review": true
+  }
+]

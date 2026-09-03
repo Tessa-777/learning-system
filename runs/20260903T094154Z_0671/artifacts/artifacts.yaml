@@ -1,0 +1,28 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/english/PHASE4_EXTRACTION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:41:54.779633Z'
+  source_run: 20260903T094154Z_0671
+  content_hash: 1ae8d02c63377e93ab90fa3087a1b78f292cd05f452ee566408435076773304c
+  description: Phase 4 blocked-state extraction report for english
+- artifact_id: ART-0002
+  path: /home/user/learning-system/review_queue/RQ-P4-ENG-EXTRACTION.yaml
+  type: review_queue
+  created_or_modified: '2026-09-03T09:41:54.779831Z'
+  source_run: 20260903T094154Z_0671
+  content_hash: 6d7c6e19b61b638fd9db20dae85439f960b128120bea46dc1b8748bb341f3cbd
+  description: Phase 4 review-queue item for english
+- artifact_id: ART-0003
+  path: /home/user/learning-system/data/raw/english/SOURCE_INVENTORY.yaml
+  type: inventory
+  created_or_modified: '2026-09-03T09:41:54.779880Z'
+  source_run: 20260903T094154Z_0671
+  content_hash: 4f93591c33b8a00fb40f13a7f0219d7deb8bf70b9932a287cb304df98df4d367
+  description: Source inventory for english (Phase 4 run record appended)
+- artifact_id: ART-0004
+  path: /home/user/learning-system/data/extracted/english/.gitkeep
+  type: file
+  created_or_modified: '2026-09-03T09:41:54.779963Z'
+  source_run: 20260903T094154Z_0671
+  content_hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  description: "Structural placeholder only \u2014 no extraction artifacts for english"

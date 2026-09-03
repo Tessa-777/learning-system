@@ -1,49 +1,83 @@
 phase: 3
+phase_name: source_acquisition
+retry: true
+prior_phase3_runs:
+- 20260903T091841Z_9448
+- 20260903T095742Z_7898
+- 20260903T091842Z_c0f7
+- 20260903T095743Z_9daa
+- 20260903T091848Z_81f2
+- 20260903T095751Z_4aeb
+- 20260903T091848Z_827b
+- 20260903T095752Z_c30a
+- 20260903T091851Z_b250
+- 20260903T095755Z_e18a
+- 20260903T091854Z_8c5d
+- 20260903T095800Z_7724
+aggregate_status: completed_with_review
+generated_at: '2026-09-03T09:58:09.949027Z'
 execution_order:
-- - biology
-  - 3
-  - A
-- - physics
-  - 3
-  - B
-- - history
-  - 3
-  - C
-- - english
-  - 3
-  - D
-- - ap_mathematics
-  - 3
-  - E
-- - mathematics
-  - 3
-  - F
+- A:biology
+- B:physics
+- C:history
+- D:english
+- E:ap_mathematics
+- F:mathematics
 summary:
 - subject: biology
+  phase_letter: A
   status: completed_with_review
-  details: failed=52, acquired=0
-  run_id: 20260903T091841Z_9448
+  run_id: 20260903T095742Z_7898
+  sources_attempted: 52
+  sources_acquired: 0
+  sources_failed: 52
+  sources_skipped: 0
 - subject: physics
+  phase_letter: B
   status: completed_with_review
-  details: failed=233, acquired=0
-  run_id: 20260903T091842Z_c0f7
+  run_id: 20260903T095743Z_9daa
+  sources_attempted: 233
+  sources_acquired: 0
+  sources_failed: 233
+  sources_skipped: 0
 - subject: history
+  phase_letter: C
   status: completed_with_review
-  details: failed=18, acquired=0
-  run_id: 20260903T091848Z_81f2
+  run_id: 20260903T095751Z_4aeb
+  sources_attempted: 18
+  sources_acquired: 0
+  sources_failed: 18
+  sources_skipped: 0
 - subject: english
+  phase_letter: D
   status: completed_with_review
-  details: failed=100, acquired=0
-  run_id: 20260903T091848Z_827b
+  run_id: 20260903T095752Z_c30a
+  sources_attempted: 100
+  sources_acquired: 0
+  sources_failed: 100
+  sources_skipped: 0
 - subject: ap_mathematics
+  phase_letter: E
   status: completed_with_review
-  details: failed=145, acquired=0
-  run_id: 20260903T091851Z_b250
+  run_id: 20260903T095755Z_e18a
+  sources_attempted: 145
+  sources_acquired: 0
+  sources_failed: 145
+  sources_skipped: 1
 - subject: mathematics
+  phase_letter: F
   status: completed_with_review
-  details: failed=270, acquired=0
-  run_id: 20260903T091854Z_8c5d
-aggregate_notes: No source files were downloaded due to sandbox TLS restriction to
-  Google Drive. All sources recorded as inaccessible with failure details. No original
-  files modified. No Phase 4 work performed.
-unresolved_items_total: 16
+  run_id: 20260903T095800Z_7724
+  sources_attempted: 270
+  sources_acquired: 0
+  sources_failed: 270
+  sources_skipped: 2
+aggregate_notes: Phase 3 was re-executed for all six subjects (retry). Every non-external
+  source was re-attempted with a real download request. The sandbox still terminates
+  TLS connections to Google services, so every attempt failed and no files were acquired.
+  No files were fabricated, modified or substituted. Failures are recorded per source
+  in each run's errors.json and in the source record notes.
+unresolved_items_total: 818
+next_action: Retry acquisition in an environment with working Google Drive access,
+  or provide preserved originals manually and record them in the inventories (local_path
+  + file_hash) before Phase 4.
