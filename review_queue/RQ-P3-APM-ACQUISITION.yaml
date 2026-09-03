@@ -1,0 +1,15 @@
+issue: Phase 3 acquisition failed for all accessible AP Mathematics sources due to sandbox TLS/SSL restriction to Google Drive (1 external source excluded)
+affected_entity: SOURCE-ORC-APM-2013-001 through SOURCE-ORC-APM-2025-??? (145 accessible, 1 external)
+evidence:
+  - inventory: data/raw/ap_mathematics/SOURCE_INVENTORY.yaml (146 total; 145 accessible before Phase 3)
+  - run: runs/20260903T091851Z_b250
+  - errors: 145 acquisition_failed errors in errors.json
+  - external: 1 source (stithian.com formula sheet) remains external and unverified
+possible_resolutions:
+  - Retry Phase 3 in an environment with working Google Drive access
+  - Confirm AP Mathematics boundary (FS Maths Grade 11 Drive) with school before Phase 4
+  - Verify external formula sheet grade applicability
+recommended_review: Human review required; confirm AP Mathematics source boundary and external source applicability; do not proceed to Phase 4 without resolving
+subject: ap_mathematics
+phase: 3
+created_at: '2026-09-03T09:19:00Z'

@@ -1,5 +1,5 @@
 inventory_id: SOURCE-INV-ORC-PHY
-phase: 2
+phase: 3
 subject: physics
 grade: '11'
 primary_source: https://sites.google.com/stbenedicts.co.za/orc
@@ -98,6 +98,10 @@ summary:
   - SOURCE-ORC-PHY-2026-172
   - SOURCE-ORC-PHY-UNK-197
   - SOURCE-ORC-PHY-UNK-198
+  by_access_status_after_acquisition:
+    accessible: 0
+    inaccessible: 233
+    external: 0
 scope_notes:
 - 'INVENTORY SCOPE: Grade 11 material published in the St Benedict''s ORC for physics.'
 - Sources marked OUT OF SCOPE (chemistry / Grade 12 / other subject) are recorded
@@ -117,10 +121,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1cTjPsjiNJ-ImZ4YTuXpw9qsy-S5PlJRB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2016/IeBT
+  notes: 'ORC G11 Physics/2016/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2016-002
   subject: physics
   grade: '11'
@@ -131,10 +137,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1-yk5H1AGtAiQKXikJfm7Ri0Tem82HYyD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2016/IeBT
+  notes: 'ORC G11 Physics/2016/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-003
   subject: physics
   grade: '11'
@@ -145,10 +153,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1UtNwoq1RS5AnfdQA2zLTWDE653k9jEC4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2017/IeBT
+  notes: 'ORC G11 Physics/2017/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-004
   subject: physics
   grade: '11'
@@ -159,10 +169,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1PKy_NU_8a87CAJLk3ebXmb6_sYgewpMz
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2017/IeBT
+  notes: 'ORC G11 Physics/2017/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-005
   subject: physics
   grade: '11'
@@ -173,10 +185,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1NHwstNq5PzZT3HPT8gb8Iv5sN8-qTzo0
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2017/Tests; contains stoichiometry (chemistry) content
+  notes: 'ORC G11 Physics/2017/Tests; contains stoichiometry (chemistry) content;
+    Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL connection has been
+    closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-006
   subject: physics
   grade: '11'
@@ -187,10 +201,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1OJs9lq2fD8a2OZ2ebBaoDRw8wpxK3t13
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2017/Tests; title reconstructed from prefix (QP of Stoichiometry-Vectors-Forces)
+  notes: 'ORC G11 Physics/2017/Tests; title reconstructed from prefix (QP of Stoichiometry-Vectors-Forces);
+    Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL connection has been
+    closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-007
   subject: physics
   grade: '11'
@@ -201,10 +217,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1dJKxQfNG7hxLL33ONKYSCnzpt5ZmSj_4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2018/IeBT; answer sheet
+  notes: 'ORC G11 Physics/2018/IeBT; answer sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-008
   subject: physics
   grade: '11'
@@ -215,10 +233,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1KP9KIcZkjzQOCuQJdeLMvLvsGQoQ2fZo
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2018/IeBT; data sheet
+  notes: 'ORC G11 Physics/2018/IeBT; data sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-009
   subject: physics
   grade: '11'
@@ -229,10 +249,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1W3d88Yge3M4lvRTwZK99Z8FfH8BoyYKe
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2018/IeBT
+  notes: 'ORC G11 Physics/2018/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-010
   subject: physics
   grade: '11'
@@ -243,10 +265,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/11FmOjySryJQ1Sy8v71fTaLHKeaXKpkcp
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2018/IeBT
+  notes: 'ORC G11 Physics/2018/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-011
   subject: physics
   grade: '11'
@@ -257,10 +281,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1DC3ShcQS5jjNxj4Ikr8JigaukBUsfuzo
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2019/Exams
+  notes: 'ORC G11 Physics/2019/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-012
   subject: physics
   grade: '11'
@@ -271,10 +297,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Yaz8McbRnkgPR2qqezxhHbOn8ptHArD-
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2019/Exams
+  notes: 'ORC G11 Physics/2019/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-013
   subject: physics
   grade: '11'
@@ -285,10 +313,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1Yg27gJ7I3ceEgzNqQ4E_PoCNTRmWknDa
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2019/IeBT
+  notes: 'ORC G11 Physics/2019/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-014
   subject: physics
   grade: '11'
@@ -299,10 +329,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1yJZnVYayWwFFJ5JNaZz76WujxFTN38Yx
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2019/IeBT
+  notes: 'ORC G11 Physics/2019/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-015
   subject: physics
   grade: '11'
@@ -313,10 +345,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1rfIGSurFbLmHVaO7byEmf4hCE0-6m9Ll
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2019/IeBT
+  notes: 'ORC G11 Physics/2019/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-016
   subject: physics
   grade: '11'
@@ -327,10 +361,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1WF9WI_VWF-jqNANdiakhYbhv2tKK1gzg
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2019/Tests
+  notes: 'ORC G11 Physics/2019/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-017
   subject: physics
   grade: '11'
@@ -341,10 +377,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1P3QlKRq0OPCT59xmajh9B8j1SF-GNOVH
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2019/Tests
+  notes: 'ORC G11 Physics/2019/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-018
   subject: physics
   grade: '11'
@@ -355,10 +393,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/13qe82A0JuWwwwUvSp_pVYLrD5OM46kx9
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2020/Exams
+  notes: 'ORC G11 Physics/2020/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-019
   subject: physics
   grade: '11'
@@ -369,10 +409,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Mlr6h5szCmpGIfPtXVivkK2SCJd6B8K5
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2020/Exams
+  notes: 'ORC G11 Physics/2020/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-020
   subject: physics
   grade: '11'
@@ -383,10 +425,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1FUG0CHsoLg7rbjJiaEoi8RF5eiS8fEem
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2020/IeBT
+  notes: 'ORC G11 Physics/2020/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-021
   subject: physics
   grade: '11'
@@ -397,10 +441,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1NOX5bMyQBs2MhhXEYcyQJ4rwr15G38Yz
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2020/IeBT
+  notes: 'ORC G11 Physics/2020/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-022
   subject: physics
   grade: '11'
@@ -411,10 +457,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1HQX7uYzyC2jSnmLjMSy6Xlglobg0wNwY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2020/Tests
+  notes: 'ORC G11 Physics/2020/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-023
   subject: physics
   grade: '11'
@@ -425,10 +473,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1woRfMpyz_HATjUivP6sWMBBEzk5LNEBZ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2020/Tests
+  notes: 'ORC G11 Physics/2020/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-024
   subject: physics
   grade: '11'
@@ -439,10 +489,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1MtQtupA0xyrFWBLYTsautMIVYKXM9KQO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2021/Exams
+  notes: 'ORC G11 Physics/2021/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-025
   subject: physics
   grade: '11'
@@ -453,10 +505,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/19ZZmFc2-zHeX3ObQ_V-sPiWRr28mn3fK
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2021/Exams
+  notes: 'ORC G11 Physics/2021/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-026
   subject: physics
   grade: '11'
@@ -467,10 +521,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1oufTjIXcn_bwjHWSYS-i1U4eJ_XDYAxF
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2021/Exams
+  notes: 'ORC G11 Physics/2021/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-027
   subject: physics
   grade: '11'
@@ -481,10 +537,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/19HHmK1Kpgu2Hhd-F8cnmWOpdVewtTHVi
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2021/Exams
+  notes: 'ORC G11 Physics/2021/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-028
   subject: physics
   grade: '11'
@@ -495,10 +553,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1xQ-G9pUnBVmYd40RkUmLuNszYKyLJwqg
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2021/IeBT
+  notes: 'ORC G11 Physics/2021/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-029
   subject: physics
   grade: '11'
@@ -509,10 +569,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/15k5_kDTl1lunU-02eJ9VJyRHgYG1tvkP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2021/IeBT
+  notes: 'ORC G11 Physics/2021/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-030
   subject: physics
   grade: '11'
@@ -523,10 +585,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Tz6a24UtaHnwPlZM-AaPLj6fUOQzRFG6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/Exams
+  notes: 'ORC G11 Physics/2022/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-031
   subject: physics
   grade: '11'
@@ -537,10 +601,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1IP2lQgFmhmYr0EySr1UG8mMjtv3RZDap
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/Exams
+  notes: 'ORC G11 Physics/2022/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-032
   subject: physics
   grade: '11'
@@ -551,10 +617,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/119mTpXSxlnZoK1mzbHGHsAiiUCOcml2U
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/Exams
+  notes: 'ORC G11 Physics/2022/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-033
   subject: physics
   grade: '11'
@@ -565,10 +633,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1BLMEfPahfO7b751FXS8oM_ZhtxcIxQcT
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/Exams
+  notes: 'ORC G11 Physics/2022/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-034
   subject: physics
   grade: '11'
@@ -579,10 +649,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1AkD8wb0i1MfRw-0ukVvsfg3tqhlqPA76
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/IeBT
+  notes: 'ORC G11 Physics/2022/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-035
   subject: physics
   grade: '11'
@@ -593,10 +665,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1whSKuB4XkXlVhlO0WcHsk0-WrxTXllty
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/IeBT
+  notes: 'ORC G11 Physics/2022/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-036
   subject: physics
   grade: '11'
@@ -607,10 +681,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/13rwL-OV9CkNFgjsyaBnqs8PzLwJ3JxB-
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/Tests
+  notes: 'ORC G11 Physics/2022/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-037
   subject: physics
   grade: '11'
@@ -621,10 +697,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1b7DMtP9SqeE6WUuMf9K-Cb_-3DjEWDvb
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/Tests
+  notes: 'ORC G11 Physics/2022/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-038
   subject: physics
   grade: '11'
@@ -635,10 +713,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1skaTFZsg63TGv0cNo4fAGdnFPHdEF8p6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/Tests
+  notes: 'ORC G11 Physics/2022/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-039
   subject: physics
   grade: '11'
@@ -649,10 +729,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1-_jw9e2SM_BOwX5s9JyOhZbssiqdrU5U
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/Tests
+  notes: 'ORC G11 Physics/2022/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-040
   subject: physics
   grade: '11'
@@ -663,10 +745,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ZFO8GSYJv3ahXHzcwaFCrMCPJSIsfSsY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2022/Tests; MG only, no QP in folder
+  notes: 'ORC G11 Physics/2022/Tests; MG only, no QP in folder; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-041
   subject: physics
   grade: '11'
@@ -677,10 +761,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1O1h6HVWyrKv4byw_ICrWorWS15n9WEyG
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2023/Exams
+  notes: 'ORC G11 Physics/2023/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-042
   subject: physics
   grade: '11'
@@ -691,10 +777,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1XSvr8HMcSCU9mMARIe-SsrhBI5iBXm23
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2023/Exams
+  notes: 'ORC G11 Physics/2023/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-043
   subject: physics
   grade: '11'
@@ -705,10 +793,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1RAybxl3pdEEfESIeyFnekdAKonAEycSD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2023/Exams
+  notes: 'ORC G11 Physics/2023/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-044
   subject: physics
   grade: '11'
@@ -719,10 +809,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1zfC6h6lesoEDHzy12W6yY7dFgIA2kCMv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2023/Exams
+  notes: 'ORC G11 Physics/2023/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-045
   subject: physics
   grade: '11'
@@ -733,10 +825,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/12TvWB7g55SA3FloAaUhRUVmvBndoVrml
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2023/IeBT
+  notes: 'ORC G11 Physics/2023/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-046
   subject: physics
   grade: '11'
@@ -747,10 +841,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1tFAP_WwJpDro9-e1N1-hcMa2vgJExTqZ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2023/IeBT
+  notes: 'ORC G11 Physics/2023/IeBT; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-047
   subject: physics
   grade: '11'
@@ -761,10 +857,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1PzAht7LYTT6qRBBqESX4HtqmRysQrmof
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Exams; IeBT MCQ paper
+  notes: 'ORC G11 Physics/2024/Exams; IeBT MCQ paper; Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-048
   subject: physics
   grade: '11'
@@ -775,10 +873,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1rL5qjtB8-sF93gGyJxq1H9Hr90ZlQyGX
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Exams
+  notes: 'ORC G11 Physics/2024/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-049
   subject: physics
   grade: '11'
@@ -789,10 +889,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1JDF4HGPszfcOcupGkW85nQ-ruhuwkUyb
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Exams
+  notes: 'ORC G11 Physics/2024/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-050
   subject: physics
   grade: '11'
@@ -803,10 +905,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1tTUG0yc9xF51QpWUYRAhmxeBMLAKPZZy
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Exams
+  notes: 'ORC G11 Physics/2024/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-051
   subject: physics
   grade: '11'
@@ -817,10 +921,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1gzmhFUm1uaxEVRAlbk3Qkk88CYf0oI09
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Exams
+  notes: 'ORC G11 Physics/2024/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-052
   subject: physics
   grade: '11'
@@ -831,10 +937,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1xqwdliOEKdzF6VkAd0IS5-Ycl8ERru7w
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Tests
+  notes: 'ORC G11 Physics/2024/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-053
   subject: physics
   grade: '11'
@@ -845,10 +953,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Un5XS8R9xPJ3jPuUL4lkak8mXJ2uM3Du
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Tests
+  notes: 'ORC G11 Physics/2024/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-054
   subject: physics
   grade: '11'
@@ -859,10 +969,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/13mKRZph5JRjUDdlpPyswykr2xiZkid1P
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Tests
+  notes: 'ORC G11 Physics/2024/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-055
   subject: physics
   grade: '11'
@@ -873,10 +985,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1O6uSksm0CWMePZ2o7pFUqJ7DCAlwPy8R
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Tests
+  notes: 'ORC G11 Physics/2024/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-056
   subject: physics
   grade: '11'
@@ -887,10 +1001,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1E_H9hj9-hlxPaVY__82ziksHI6Qa_WTB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Tests
+  notes: 'ORC G11 Physics/2024/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-057
   subject: physics
   grade: '11'
@@ -901,10 +1017,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1gUegXSrZ9Nfdh1DXNVU63eiQnlPtQcWN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2024/Tests
+  notes: 'ORC G11 Physics/2024/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-058
   subject: physics
   grade: '11'
@@ -915,10 +1033,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1sQ-YxdVFUEefttM84t8hxgOkGuQNz5-_
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Exams
+  notes: 'ORC G11 Physics/2025/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-059
   subject: physics
   grade: '11'
@@ -929,10 +1049,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1xEXNmwcZbOBx8X58ee2k83wkrnkTO5vZ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Exams
+  notes: 'ORC G11 Physics/2025/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-060
   subject: physics
   grade: '11'
@@ -943,10 +1065,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Giv0LldjA_smRyuaPsa_oO0cmvMmKajn
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Exams
+  notes: 'ORC G11 Physics/2025/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-061
   subject: physics
   grade: '11'
@@ -957,10 +1081,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1s0xtKcqwbgoGYx7kPPamSf9R5Xbae-nR
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Exams
+  notes: 'ORC G11 Physics/2025/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-062
   subject: physics
   grade: '11'
@@ -971,10 +1097,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1zlBXrqWiA9-MkQChLEyvhBtIALv0Khj6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Exams
+  notes: 'ORC G11 Physics/2025/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-063
   subject: physics
   grade: '11'
@@ -985,10 +1113,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1VmC43SnMFmWnWGbSeuSoSygSXpfsRM_z
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Exams
+  notes: 'ORC G11 Physics/2025/Exams; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-064
   subject: physics
   grade: '11'
@@ -999,10 +1129,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1_aGGI8vzQFU4cs9xjVCLJAxowBGj1o3V
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests
+  notes: 'ORC G11 Physics/2025/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-065
   subject: physics
   grade: '11'
@@ -1013,10 +1145,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/146bc_eR6wNNLVAt2y_Fik2gTCgmeblHI
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests
+  notes: 'ORC G11 Physics/2025/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-066
   subject: physics
   grade: '11'
@@ -1027,10 +1161,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1WofdzpFRqMu05cIdDFoM6lPlnY1zAy5u
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests
+  notes: 'ORC G11 Physics/2025/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-067
   subject: physics
   grade: '11'
@@ -1041,10 +1177,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1IfOJ4jyY_ON7kfvQUUuLaZ0KsVI3dVQk
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests
+  notes: 'ORC G11 Physics/2025/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-068
   subject: physics
   grade: '11'
@@ -1055,10 +1193,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1a_KLfneiwMS2YyJaVc1LneBD13z1AiE7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests
+  notes: 'ORC G11 Physics/2025/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-069
   subject: physics
   grade: '11'
@@ -1069,10 +1209,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1QQeEb2i_pu6m4SRu3HV6lS8e0VUmfiLJ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests; draft QP
+  notes: 'ORC G11 Physics/2025/Tests; draft QP; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-070
   subject: physics
   grade: '11'
@@ -1083,10 +1225,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1dNexsbWtXuNqUuBCvm8shYWLD23ve2C4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests
+  notes: 'ORC G11 Physics/2025/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-071
   subject: physics
   grade: '11'
@@ -1097,10 +1241,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/17EanIL2REVmL-Dx8mbqWTUNMIQFV-ZTr
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests
+  notes: 'ORC G11 Physics/2025/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-072
   subject: physics
   grade: '11'
@@ -1111,10 +1257,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1kR_VAKxoB5yvoleXx6ejvpoD23Ma4Ac8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests
+  notes: 'ORC G11 Physics/2025/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-073
   subject: physics
   grade: '11'
@@ -1125,10 +1273,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12jKlO9wOj2l7PYe74Xcwg-BsRvERCV8r
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests
+  notes: 'ORC G11 Physics/2025/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-074
   subject: physics
   grade: '11'
@@ -1139,10 +1289,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1-YdJUE5fKTh4GwaM6g4Bj-a7FMhIb6nj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2025/Tests
+  notes: 'ORC G11 Physics/2025/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-075
   subject: physics
   grade: '11'
@@ -1153,10 +1305,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/10he-UoAy4MKdBUfaQ6GwLNID5Dui74JV
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2026/Mid-Year Exams; MG only
+  notes: 'ORC G11 Physics/2026/Mid-Year Exams; MG only; Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-076
   subject: physics
   grade: '11'
@@ -1167,10 +1321,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1WNJ8oJcmqiojcz1_fd21Udl6uWD7W5gq
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2026/Tests
+  notes: 'ORC G11 Physics/2026/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-077
   subject: physics
   grade: '11'
@@ -1181,10 +1337,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/15WUS8-AdVcAGo9yNUmLbeGyczwAJtfV0
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2026/Tests
+  notes: 'ORC G11 Physics/2026/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-078
   subject: physics
   grade: '11'
@@ -1195,10 +1353,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1kZcuZIQgxFJa-Xi9oi6h5HxLQNqb3BDG
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2026/Tests
+  notes: 'ORC G11 Physics/2026/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-079
   subject: physics
   grade: '11'
@@ -1209,10 +1369,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1cDNO-ZLKeBhAAG7U3oW95GODwU0n7P8p
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2026/Tests
+  notes: 'ORC G11 Physics/2026/Tests; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-080
   subject: physics
   grade: '11'
@@ -1223,10 +1385,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/11P8gkGQ_h_jbiYqY-WpFwkFlYlB6f1_V
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2026/Tests; IeBT MG
+  notes: 'ORC G11 Physics/2026/Tests; IeBT MG; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-081
   subject: physics
   grade: '11'
@@ -1237,10 +1401,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1vfnBU2GAIESt3zh5-4sWJtM6Fa_VaBXG
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 Physics/2026/Tests; IeBT QP
+  notes: 'ORC G11 Physics/2026/Tests; IeBT QP; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2015-082
   subject: physics
   grade: '11'
@@ -1251,10 +1417,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1m3F6GTs8IJ0iAlJPYLE-zuqkSclKd2sH
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 IeBT/P1 and P2 combined; P2 component is chemistry
+  notes: 'ORC G11 IeBT/P1 and P2 combined; P2 component is chemistry; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2015-083
   subject: physics
   grade: '11'
@@ -1265,10 +1433,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/10iODGtkqgyBgayMa_9u0GqXXiwAHmWEo
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC G11 IeBT/P1 and P2 combined; P2 component is chemistry
+  notes: 'ORC G11 IeBT/P1 and P2 combined; P2 component is chemistry; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-084
   subject: physics
   grade: '11'
@@ -1279,10 +1449,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1n08K1UG0KOHzJZ3YflP5R6LUpJ-t1dn_
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/2025
+  notes: 'old_G11 ORC/2025; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-PHY-2025-085
   subject: physics
   grade: '11'
@@ -1293,10 +1465,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1A6bjTS-r5ucmZjzKYL1ePCi19qRw5IiE
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/2025
+  notes: 'old_G11 ORC/2025; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-PHY-2025-086
   subject: physics
   grade: '11'
@@ -1307,10 +1481,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ED5TXSSWeOk98SLUms1T2ScT0_GKIhAQ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/2025; OUT OF SCOPE (chemistry)
+  notes: 'old_G11 ORC/2025; OUT OF SCOPE (chemistry); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-087
   subject: physics
   grade: '11'
@@ -1321,10 +1497,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1vxTUdQvSPTdalrxUo_SemNOOJy_Ed6LB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/2025; OUT OF SCOPE (chemistry)
+  notes: 'old_G11 ORC/2025; OUT OF SCOPE (chemistry); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-088
   subject: physics
   grade: '11'
@@ -1335,10 +1513,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/14Bmrcg_tWkjeYLHrCvFvj-wngb8c8s1m
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/2025
+  notes: 'old_G11 ORC/2025; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-PHY-2025-089
   subject: physics
   grade: '11'
@@ -1349,10 +1529,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ilGff9ACuwRBH0pQ1m1sKW20iWHcuWCd
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/2025
+  notes: 'old_G11 ORC/2025; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-PHY-2025-090
   subject: physics
   grade: '11'
@@ -1363,10 +1545,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1s04EsSV8pOY2_bmfOnySzSavknhJ9RbE
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/2025
+  notes: 'old_G11 ORC/2025; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-PHY-2025-091
   subject: physics
   grade: '11'
@@ -1377,10 +1561,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12aWBMX7pCKT-KdA-CDdzryjcBV7pSEcP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/2025
+  notes: 'old_G11 ORC/2025; Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL
+    connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google
+    Drive).'
 - source_id: SOURCE-ORC-PHY-2015-092
   subject: physics
   grade: '11'
@@ -1391,10 +1577,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/14TzUB0rSeZplQOS58EbMhClmnXP0Teju
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2015
+  notes: 'old_G11 ORC/IebTs/2015; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2015-093
   subject: physics
   grade: '11'
@@ -1405,10 +1593,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/15LBJlgfkE5GWx7MAilRcxeVoO1Uxnlr4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2015
+  notes: 'old_G11 ORC/IebTs/2015; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2016-094
   subject: physics
   grade: '11'
@@ -1419,10 +1609,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/14hCqmyAyac3tpWBzniz_JJY_6ShkJhkk
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2016
+  notes: 'old_G11 ORC/IebTs/2016; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2016-095
   subject: physics
   grade: '11'
@@ -1433,10 +1625,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/14c_m7Clg70-89TkPeEX0J_cXSKjr8N6m
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2016
+  notes: 'old_G11 ORC/IebTs/2016; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2016-096
   subject: physics
   grade: '11'
@@ -1447,10 +1641,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/14jHGBCNHnktxm7t4NT63Gy1sks2swfG7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2016; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2016; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2016-097
   subject: physics
   grade: '11'
@@ -1461,10 +1657,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/14iw4bsWJQn3e5bGUvEs0P1X3UAe1SPS-
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2016; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2016; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-098
   subject: physics
   grade: '11'
@@ -1475,10 +1673,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/14dkCYkQJ4piU_MxVbjtJMXEsfjp2vaHs
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2017
+  notes: 'old_G11 ORC/IebTs/2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-099
   subject: physics
   grade: '11'
@@ -1489,10 +1689,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/14c2kJCCNGC9WqSWv3QCHoAtFaqrisJhE
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2017
+  notes: 'old_G11 ORC/IebTs/2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-100
   subject: physics
   grade: '11'
@@ -1503,10 +1705,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/15I9icB5u_9n8yk1f64jySRED7G0n0tgy
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2017; OUT OF SCOPE (chemistry P2); MQ typo in Drive
+  notes: 'old_G11 ORC/IebTs/2017; OUT OF SCOPE (chemistry P2); MQ typo in Drive; Phase
+    3 acquisition failed: URLError: <urlopen error TLS/SSL connection has been closed
+    (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-101
   subject: physics
   grade: '11'
@@ -1517,10 +1721,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/155CpgMsK-GV6c5WIhAPbqzTu0jDbG3HH
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2017; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2017; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-102
   subject: physics
   grade: '11'
@@ -1531,10 +1737,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/151m6tCJQIOP61UpehRHE8ARfIfQipjfY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2018; answer sheet
+  notes: 'old_G11 ORC/IebTs/2018; answer sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-103
   subject: physics
   grade: '11'
@@ -1545,10 +1753,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/14wRU5h31Sqy1pwo9VY3ZACHCjYFkjxhB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2018; data sheet
+  notes: 'old_G11 ORC/IebTs/2018; data sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-104
   subject: physics
   grade: '11'
@@ -1559,10 +1769,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/153Xqp3_Z6jQMbf4GVOnmSCgRvNR5QIn2
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2018
+  notes: 'old_G11 ORC/IebTs/2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-105
   subject: physics
   grade: '11'
@@ -1573,10 +1785,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/14qvgcPmj9uhveR7qFkDUrfOzIPRgT3Om
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2018
+  notes: 'old_G11 ORC/IebTs/2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-106
   subject: physics
   grade: '11'
@@ -1587,10 +1801,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/14poLg-W_mQIS54hsmM6k1uHdcEMa3g3i
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2018; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2018; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-107
   subject: physics
   grade: '11'
@@ -1601,10 +1817,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/14o0l34sRAnT0EjZAjhGw2v6VjlGO2mXR
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2018; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2018; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-108
   subject: physics
   grade: '11'
@@ -1615,10 +1833,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/10cCYoFVIDEWK2AP8gQ8_WqDMlvdzVOSB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2); Afrikaans memo
+  notes: 'old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2); Afrikaans memo; Phase
+    3 acquisition failed: URLError: <urlopen error TLS/SSL connection has been closed
+    (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-109
   subject: physics
   grade: '11'
@@ -1629,10 +1849,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/10dkadxIO5ZuB7xHylq4NNGCQcHo-2eaK
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-110
   subject: physics
   grade: '11'
@@ -1643,10 +1865,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/10eNIqbg46Npu5nQRqZV01rPWmMQFlnXB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2019
+  notes: 'old_G11 ORC/IebTs/2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-111
   subject: physics
   grade: '11'
@@ -1657,10 +1881,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/10hqgWeJV0j-JYvxItp_QbB6vMNJ2x4Ot
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2019
+  notes: 'old_G11 ORC/IebTs/2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-112
   subject: physics
   grade: '11'
@@ -1671,10 +1897,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/10rUfvQ7NKKFSMiZ6Kn8YzDcXkpVD-pu5
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2019
+  notes: 'old_G11 ORC/IebTs/2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-113
   subject: physics
   grade: '11'
@@ -1685,10 +1913,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/10vEs6nu720hKDooaBwxfmDEVIqrm4O9N
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-114
   subject: physics
   grade: '11'
@@ -1699,10 +1929,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/10yFWZibTslnvZmnTQ_hhWTyOd7D2O4Cq
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2019; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-115
   subject: physics
   grade: '11'
@@ -1713,10 +1945,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/115bTrnT3kvJtCm009HrOxDBxun_QHKUx
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2020; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2020; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-116
   subject: physics
   grade: '11'
@@ -1727,10 +1961,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/114CM3IvLsleDhWGv20m0s19zKE1LbpVt
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2020
+  notes: 'old_G11 ORC/IebTs/2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-117
   subject: physics
   grade: '11'
@@ -1741,10 +1977,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/11SaZzpri8-N2Q13uj-kA6kUpcNfN-VuN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2020
+  notes: 'old_G11 ORC/IebTs/2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-118
   subject: physics
   grade: '11'
@@ -1755,10 +1993,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1194PtbF_ecM2S_k3qoGAGsSdK0JCLEjF
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2020; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2020; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-119
   subject: physics
   grade: '11'
@@ -1769,10 +2009,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/11Vayb6O8LqWdGL0Blj-82MpoGGVNswfJ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2021; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2021; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-120
   subject: physics
   grade: '11'
@@ -1783,10 +2025,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/11oQ4snAITPr-UuUnnqSWAstLlLF0DV4M
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2021
+  notes: 'old_G11 ORC/IebTs/2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-121
   subject: physics
   grade: '11'
@@ -1797,10 +2041,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/11fOZH9xGj0KnmA657tM17n0eB1ALogjh
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2021
+  notes: 'old_G11 ORC/IebTs/2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-122
   subject: physics
   grade: '11'
@@ -1811,10 +2057,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/11WnPC-J_IVVnWUHOtW_hlMIIr-M2D8iW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2021; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2021; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-123
   subject: physics
   grade: '11'
@@ -1825,10 +2073,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/120tCw-3PJDUB1ns8M7XZqbTFmn0M0a0N
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2022
+  notes: 'old_G11 ORC/IebTs/2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-124
   subject: physics
   grade: '11'
@@ -1839,10 +2089,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/126n95QRXmwflDrrfBMSw8Im-nw8ONIpu
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2022
+  notes: 'old_G11 ORC/IebTs/2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-125
   subject: physics
   grade: '11'
@@ -1853,10 +2105,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/116ek0QHUdoWCi_sBHW0LFhzaDF9Wy_fM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2022; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2022; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-126
   subject: physics
   grade: '11'
@@ -1867,10 +2121,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/121bCPqBuH0DYH-rzdrPMXPUVv1731MvA
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2022; OUT OF SCOPE (chemistry P2); duplicate naming
+  notes: 'old_G11 ORC/IebTs/2022; OUT OF SCOPE (chemistry P2); duplicate naming; Phase
+    3 acquisition failed: URLError: <urlopen error TLS/SSL connection has been closed
+    (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-127
   subject: physics
   grade: '11'
@@ -1881,10 +2137,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/123NZb2p4yQ8ipgD5dTEDy6PbKufX0cXJ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2022; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2022; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-128
   subject: physics
   grade: '11'
@@ -1895,10 +2153,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/12HtRkUJSdJ_q9-CWcwcUsEFaa8ZyhIz6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2023
+  notes: 'old_G11 ORC/IebTs/2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-129
   subject: physics
   grade: '11'
@@ -1909,10 +2169,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12CcwcJlfUuPtYnFImeFp7vm6AuSo_fqa
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2023; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2023; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-130
   subject: physics
   grade: '11'
@@ -1923,10 +2185,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12BjSZBGU32VBpB_bJPiXsk1G1SpfUK5Y
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2023; OUT OF SCOPE (chemistry P2)
+  notes: 'old_G11 ORC/IebTs/2023; OUT OF SCOPE (chemistry P2); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-131
   subject: physics
   grade: '11'
@@ -1937,10 +2201,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/129MgsyAHeMzUWT3Tjwbkz9f-z2mtmYqS
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: old_G11 ORC/IebTs/2023
+  notes: 'old_G11 ORC/IebTs/2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-132
   subject: physics
   grade: '11'
@@ -1951,10 +2217,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1F6yfdgP4jUH6PbV2Q-uzKlqRaFTn6Pmu
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2019
+  notes: 'PS11 Past Exams/Physics/2019; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-133
   subject: physics
   grade: '11'
@@ -1965,10 +2233,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1F9HkxUiLVYJopRkk5XjRbNw3BoGq_qkT
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2019
+  notes: 'PS11 Past Exams/Physics/2019; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-134
   subject: physics
   grade: '11'
@@ -1979,10 +2249,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1EyDUKLVUrxqs0Fk8r4ZbFQcjAFIHpjAM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2020
+  notes: 'PS11 Past Exams/Physics/2020; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-135
   subject: physics
   grade: '11'
@@ -1993,10 +2265,12 @@ sources:
   paper_number: null
   source_url: https://docs.google.com/document/d/1WdXYFL3RMhsdOJ4vaFJ9GR0ePGZyEl1B79p6W79ruAQ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2020; hosted as Google Doc
+  notes: 'PS11 Past Exams/Physics/2020; hosted as Google Doc; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-136
   subject: physics
   grade: '11'
@@ -2007,10 +2281,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1EvoThZIdWvd6vPMbxT83zRlpN9VkzYVO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2020
+  notes: 'PS11 Past Exams/Physics/2020; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-137
   subject: physics
   grade: '11'
@@ -2021,10 +2297,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Ei7JrXskv6UsZjM0VjI8YRivRG_pj2YU
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2021
+  notes: 'PS11 Past Exams/Physics/2021; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-138
   subject: physics
   grade: '11'
@@ -2035,10 +2313,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1EfvKuWqyvwSq2JO1aUCpMEHjcI01zI78
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2021
+  notes: 'PS11 Past Exams/Physics/2021; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-139
   subject: physics
   grade: '11'
@@ -2049,10 +2329,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/11rhClXMp82PcDrxB0eZZT_gHXJ1noFMt
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2021
+  notes: 'PS11 Past Exams/Physics/2021; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-140
   subject: physics
   grade: '11'
@@ -2063,10 +2345,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/11rXZ-RvkOMFgEuHPMdZz3fe6NSG-pWPk
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2021
+  notes: 'PS11 Past Exams/Physics/2021; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-141
   subject: physics
   grade: '11'
@@ -2077,10 +2361,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/178GWlDGxhPhYhfuz6e7atYzvE0m720Ja
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2022
+  notes: 'PS11 Past Exams/Physics/2022; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-142
   subject: physics
   grade: '11'
@@ -2091,10 +2377,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/17DWH6A481v46JuV2gfS9a-adH7_NxPkA
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2022
+  notes: 'PS11 Past Exams/Physics/2022; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-143
   subject: physics
   grade: '11'
@@ -2105,10 +2393,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12M31HxX7stA5rGaSg7SA0EESXFIezOMV
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2022
+  notes: 'PS11 Past Exams/Physics/2022; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-144
   subject: physics
   grade: '11'
@@ -2119,10 +2409,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/16NXMYVKTVQ4K2zeHjm-0DS-AXUoLF5wD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2022
+  notes: 'PS11 Past Exams/Physics/2022; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-145
   subject: physics
   grade: '11'
@@ -2133,10 +2425,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1k_2_2aPUdiO7o4Dy5RIDbRUDWi1Rp6R6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2023
+  notes: 'PS11 Past Exams/Physics/2023; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-146
   subject: physics
   grade: '11'
@@ -2147,10 +2441,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1vOnYKlrI04XHSB45_ZhLc4zytgPkJR4p
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2023
+  notes: 'PS11 Past Exams/Physics/2023; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-147
   subject: physics
   grade: '11'
@@ -2161,10 +2457,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1p3keWNcFiqrVshZ7jvuD2J4EyZ3X0d4u
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2023
+  notes: 'PS11 Past Exams/Physics/2023; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-148
   subject: physics
   grade: '11'
@@ -2175,10 +2473,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1p22zW3JE4KpRIR7tF7Vv1HWU5vPrcXzE
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2023; draft QP
+  notes: 'PS11 Past Exams/Physics/2023; draft QP; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-149
   subject: physics
   grade: '11'
@@ -2189,10 +2489,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1ZiKLz1tf5gOj4pscXoprp4kPiSMGoyUy
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2024/Final
+  notes: 'PS11 Past Exams/Physics/2024/Final; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-150
   subject: physics
   grade: '11'
@@ -2203,10 +2505,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1skS3pT6bU5vndKyUlooeUUxwjkXeyZre
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2024/Final
+  notes: 'PS11 Past Exams/Physics/2024/Final; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-151
   subject: physics
   grade: '11'
@@ -2217,10 +2521,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1V3xuAV2yAD16F6LnYA0XIiLibK6cU6Oa
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2024/Final; IeBT MCQ
+  notes: 'PS11 Past Exams/Physics/2024/Final; IeBT MCQ; Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-152
   subject: physics
   grade: '11'
@@ -2231,10 +2537,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1PI9puT3xgIdfSHAJ2PjuJmvp1l3jFMyK
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2024/Mid-Year
+  notes: 'PS11 Past Exams/Physics/2024/Mid-Year; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-153
   subject: physics
   grade: '11'
@@ -2245,10 +2553,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/19mOjIjyAk2iPnx7wgbmO44zQzXYJEP_P
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2024/Mid-Year
+  notes: 'PS11 Past Exams/Physics/2024/Mid-Year; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-154
   subject: physics
   grade: '11'
@@ -2259,10 +2569,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1T3r9WG63a6jwqCYt4ni2UCSc6x4udRhd
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2025/Year End
+  notes: 'PS11 Past Exams/Physics/2025/Year End; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-155
   subject: physics
   grade: '11'
@@ -2273,10 +2585,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1xkhAmpiFYI50MS74u6rCDfHQitTIS4zU
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2025/Year End
+  notes: 'PS11 Past Exams/Physics/2025/Year End; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-156
   subject: physics
   grade: '11'
@@ -2287,10 +2601,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1jDYpiQNL8TUdCcBJ32Slqhu_q2dugOdA
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2025
+  notes: 'PS11 Past Exams/Physics/2025; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-157
   subject: physics
   grade: '11'
@@ -2301,10 +2617,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1RasbByQmKaErtfwMpxsnD-EN8i6r0Vqg
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2025
+  notes: 'PS11 Past Exams/Physics/2025; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-158
   subject: physics
   grade: '11'
@@ -2315,10 +2633,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1vwUp6H_pReO4Vukz4K2rSIYS_gg8ZRz5
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2025
+  notes: 'PS11 Past Exams/Physics/2025; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-159
   subject: physics
   grade: '11'
@@ -2329,10 +2649,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1nam_4C7a6xpNmRUoWPIayCeYlfFPbqin
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Exams/Physics/2025
+  notes: 'PS11 Past Exams/Physics/2025; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-160
   subject: physics
   grade: '11'
@@ -2343,10 +2665,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1_fbAO9MBESee1hkf1A3wScVVxJ6drktM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2022/Skills Tests
+  notes: 'PS11 Past Tests/2022/Skills Tests; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-161
   subject: physics
   grade: '11'
@@ -2357,10 +2681,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1_gBzklKQNhF7q8_6frKCFHh867WjMEjS
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2022/Skills Tests
+  notes: 'PS11 Past Tests/2022/Skills Tests; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-162
   subject: physics
   grade: '11'
@@ -2371,10 +2697,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1__5fRKHwb0Q8uql8HDBs2jk6Xw7P0Y4J
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2022/Skills Tests
+  notes: 'PS11 Past Tests/2022/Skills Tests; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-163
   subject: physics
   grade: '11'
@@ -2385,10 +2713,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1_V9Hl1WGB0_taX9NM2l5gFiFnrI3wsUW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2022/Skills Tests
+  notes: 'PS11 Past Tests/2022/Skills Tests; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-164
   subject: physics
   grade: '11'
@@ -2399,10 +2729,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1d628wSwrInNg8jfUbHLg_0YPWJiAIoLz
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry)
+  notes: 'PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-165
   subject: physics
   grade: '11'
@@ -2413,10 +2745,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1d0nK1lcP2HxC2T5-LGqUzDcrRBo11tsM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry)
+  notes: 'PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-166
   subject: physics
   grade: '11'
@@ -2427,10 +2761,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1clriAvontOkjUggaGXyreeRSDwF89V0S
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry)
+  notes: 'PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-167
   subject: physics
   grade: '11'
@@ -2441,10 +2777,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1d92nVMrGmpYUJL4zx-yXF9CzfbGPkwL6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry)
+  notes: 'PS11 Past Tests/2022/Chem 1; OUT OF SCOPE (chemistry); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-168
   subject: physics
   grade: '11'
@@ -2455,10 +2793,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/13TwbwaIApWfH6tlL2NjLGHtJ2vPtJCbW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2022/Test 5; MG only
+  notes: 'PS11 Past Tests/2022/Test 5; MG only; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-169
   subject: physics
   grade: '11'
@@ -2469,10 +2809,12 @@ sources:
   paper_number: null
   source_url: https://docs.google.com/document/d/1vMbhKOv-tzr5iWxjZCNOp23on-R7nxQKIzSzuyAcXM4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2026; Google Doc
+  notes: 'PS11 Past Tests/2026; Google Doc; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-170
   subject: physics
   grade: '11'
@@ -2483,10 +2825,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/11vnjTW-lU1xbAPooEFpr1WBvgljywPcD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2026
+  notes: 'PS11 Past Tests/2026; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-171
   subject: physics
   grade: '11'
@@ -2497,10 +2841,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1HkoSQ-7P10wqBi44RBfxP-sroxWcVdbF
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2026; OUT OF SCOPE (chemistry)
+  notes: 'PS11 Past Tests/2026; OUT OF SCOPE (chemistry); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-172
   subject: physics
   grade: '11'
@@ -2511,10 +2857,12 @@ sources:
   paper_number: null
   source_url: https://docs.google.com/document/d/1fwur9a75-26sCukDwM0aNzunUrT9xL2wXIS9Gq0K9Uo
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2026; OUT OF SCOPE (chemistry); Google Doc
+  notes: 'PS11 Past Tests/2026; OUT OF SCOPE (chemistry); Google Doc; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-173
   subject: physics
   grade: '11'
@@ -2525,10 +2873,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Two5XWqOI9iG0i-HeBjfQ0ISPNG3FGpJ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2026
+  notes: 'PS11 Past Tests/2026; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2026-174
   subject: physics
   grade: '11'
@@ -2539,10 +2889,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/16msXMgK9YAjG3VlGPZdtOhHB0PyrE27k
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/2026
+  notes: 'PS11 Past Tests/2026; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-175
   subject: physics
   grade: '11'
@@ -2553,10 +2905,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1oKZTFB8INJ0frRdyAFDTX9fgoQaaEjrE
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/2025 Task 1 Kinematics
+  notes: 'PS11 Past Tests/Physics/2025 Task 1 Kinematics; Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-176
   subject: physics
   grade: '11'
@@ -2567,10 +2921,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1YNimjsOEOyDDaShQ9ze0h7jtEIz797n6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/2025 Task 1 Kinematics
+  notes: 'PS11 Past Tests/Physics/2025 Task 1 Kinematics; Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-177
   subject: physics
   grade: '11'
@@ -2581,10 +2937,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1S-iwTac-EwqUwts0ObK7WWwxMArvWw2s
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/2025 Task 5
+  notes: 'PS11 Past Tests/Physics/2025 Task 5; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-178
   subject: physics
   grade: '11'
@@ -2595,10 +2953,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1tl8a-2K389sUlXjLAO2_ZGCVQSLJDn4O
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/2025 Task 5
+  notes: 'PS11 Past Tests/Physics/2025 Task 5; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-179
   subject: physics
   grade: '11'
@@ -2609,10 +2969,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1goy1r44EVHwzDGoZafb3lZUMNPAZIBKK
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/2025 Task 6
+  notes: 'PS11 Past Tests/Physics/2025 Task 6; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-180
   subject: physics
   grade: '11'
@@ -2623,10 +2985,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1xcFmfoAOMaRgCXvp8sgBk_nlW0Aqi-N9
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/2025 Task 6
+  notes: 'PS11 Past Tests/Physics/2025 Task 6; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-181
   subject: physics
   grade: '11'
@@ -2637,10 +3001,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1QNoaQll6oPJ1_A6-umo1bObruNKbEUl9
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2017
+  notes: 'PS11 Past Tests/Physics/Forces-Vectors-Newton/2017; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-182
   subject: physics
   grade: '11'
@@ -2651,10 +3017,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1m4aH7MgNTsJnmisOKGjzBTP0BHxdNRzI
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2017
+  notes: 'PS11 Past Tests/Physics/Forces-Vectors-Newton/2017; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-183
   subject: physics
   grade: '11'
@@ -2665,10 +3033,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1oxAipBO95_FYsmaTOV2FaxGJ89AghiC6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2019
+  notes: 'PS11 Past Tests/Physics/Forces-Vectors-Newton/2019; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-184
   subject: physics
   grade: '11'
@@ -2679,10 +3049,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ovpl1ipN3gNxD0QFeqedsTLfGnDJv2DQ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2019 folder; QP labelled 2020
+  notes: 'PS11 Past Tests/Physics/Forces-Vectors-Newton/2019 folder; QP labelled 2020;
+    Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL connection has been
+    closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-185
   subject: physics
   grade: '11'
@@ -2693,10 +3065,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1p7Xe6qnuRnsAIXYtVD8DGNxuan7Tt5Wx
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2020
+  notes: 'PS11 Past Tests/Physics/Forces-Vectors-Newton/2020; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-186
   subject: physics
   grade: '11'
@@ -2707,10 +3081,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1p7VBap8HhnJfEz2YSzbji23b4ufsOdxv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Forces-Vectors-Newton/2020
+  notes: 'PS11 Past Tests/Physics/Forces-Vectors-Newton/2020; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-187
   subject: physics
   grade: '11'
@@ -2721,10 +3097,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1AbclfoPX7gJaTk3N5MiKt3ed2doGVSmk
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/2025 Test 3
+  notes: 'PS11 Past Tests/Physics/2025 Test 3; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-188
   subject: physics
   grade: '11'
@@ -2735,10 +3113,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1i6T-iTRm1QkzVkPykzO9FMvDycRtLmFb
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/2025 Test 3
+  notes: 'PS11 Past Tests/Physics/2025 Test 3; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-189
   subject: physics
   grade: '11'
@@ -2749,10 +3129,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/10l7c7fTwW6H_lLYXcmdJQNsjVZi-CJfY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Revision Test (2024)
+  notes: 'PS11 Past Tests/Physics/Revision Test (2024); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-190
   subject: physics
   grade: '11'
@@ -2763,10 +3145,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1xiXQYOZPNJ4IJlGXm2xtm9y4hVh35C67
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Revision Test (2024)
+  notes: 'PS11 Past Tests/Physics/Revision Test (2024); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-191
   subject: physics
   grade: '11'
@@ -2777,10 +3161,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/10o6xheOlUzQ34SLDzo_B6OvQ_73qgBYs
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Revision Test (2024)
+  notes: 'PS11 Past Tests/Physics/Revision Test (2024); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-192
   subject: physics
   grade: '11'
@@ -2791,10 +3177,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1PCeckBg9XtjtJy2NrWEojKc725Ae4khW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Revision Test (2024)
+  notes: 'PS11 Past Tests/Physics/Revision Test (2024); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-193
   subject: physics
   grade: '11'
@@ -2805,10 +3193,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ZDvR2WcIf_vK5_HH2_pcg-G50UavHbDE
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Vectors and Forces Test
+  notes: 'PS11 Past Tests/Physics/Vectors and Forces Test; Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-194
   subject: physics
   grade: '11'
@@ -2819,10 +3209,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1yVG0UsCd49O2GvU-uu7D_t0_lrx6kfO-
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: PS11 Past Tests/Physics/Vectors and Forces Test
+  notes: 'PS11 Past Tests/Physics/Vectors and Forces Test; Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-UNK-195
   subject: physics
   grade: '11'
@@ -2833,10 +3225,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1bPcvPFoGGQkSafCJK7bu18r8NLEFK40D
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC Physical Science page direct file
+  notes: 'ORC Physical Science page direct file; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-UNK-196
   subject: physics
   grade: '11'
@@ -2847,10 +3241,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12gEedbL2Yaj14pNf-YQDJ_Q9x4QDzt13
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC Physical Science page direct file; official IEB subject assessment guideline
+  notes: 'ORC Physical Science page direct file; official IEB subject assessment guideline;
+    Phase 3 acquisition failed: URLError: <urlopen error TLS/SSL connection has been
+    closed (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-UNK-197
   subject: physics
   grade: '11'
@@ -2861,10 +3257,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/177u7ODd0TckjJfsB2CpSzREM3f1LsN3-
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC Physical Science page direct file; OUT OF SCOPE (chemistry)
+  notes: 'ORC Physical Science page direct file; OUT OF SCOPE (chemistry); Phase 3
+    acquisition failed: URLError: <urlopen error TLS/SSL connection has been closed
+    (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-UNK-198
   subject: physics
   grade: '11'
@@ -2875,10 +3273,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1MtnvyI--gqTuKVVR3NGqHHvhU4Gob8CJ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: ORC Physical Science page/CHEM data sheet; OUT OF SCOPE (chemistry)
+  notes: 'ORC Physical Science page/CHEM data sheet; OUT OF SCOPE (chemistry); Phase
+    3 acquisition failed: URLError: <urlopen error TLS/SSL connection has been closed
+    (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2015-199
   subject: physics
   grade: '11'
@@ -2889,10 +3289,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1VfDC4VExoeE2giNLrRLj4ccp1kVsZXhQ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2015; data sheet
+  notes: 'IeBT/P1-Physics 2015; data sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2015-200
   subject: physics
   grade: '11'
@@ -2903,10 +3305,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1_2fjsABaENtTJyjRI2TrTu2xYQ9R1vcU
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2015
+  notes: 'IeBT/P1-Physics 2015; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2015-201
   subject: physics
   grade: '11'
@@ -2917,10 +3321,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/18IzBSEPyV2uwfEr231snSoMdNUba4NE4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2015
+  notes: 'IeBT/P1-Physics 2015; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2015-202
   subject: physics
   grade: '11'
@@ -2931,10 +3337,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1YEgVZtuZEpKpETyaQ1ogvkPSeT-Os7jt
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2015
+  notes: 'IeBT/P1-Physics 2015; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2016-203
   subject: physics
   grade: '11'
@@ -2945,10 +3353,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1bRegp72MWrCKHwxnfCQK-BLXbUzaZ5Du
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2016; data sheet
+  notes: 'IeBT/P1-Physics 2016; data sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2016-204
   subject: physics
   grade: '11'
@@ -2959,10 +3369,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1ep5kXmqBh67XQGrxTs50vDRAq8YUlRAY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2016
+  notes: 'IeBT/P1-Physics 2016; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2016-205
   subject: physics
   grade: '11'
@@ -2973,10 +3385,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1JPUFOlTEuYqQ6GT4K0hFBkXfK6GNdwiM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2016
+  notes: 'IeBT/P1-Physics 2016; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-206
   subject: physics
   grade: '11'
@@ -2987,10 +3401,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1r8T32u_l-5Yg5O7kvxEVKh8dX4BFjvrd
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2017; information booklet
+  notes: 'IeBT/P1-Physics 2017; information booklet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-207
   subject: physics
   grade: '11'
@@ -3001,10 +3417,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1Cm7u4pJcvKLEKaYCie8DZa7T1yi9oVeZ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2017
+  notes: 'IeBT/P1-Physics 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-208
   subject: physics
   grade: '11'
@@ -3015,10 +3433,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1GfvNThD_cBxYSM8T917GLb-cyZ2-diqP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2017
+  notes: 'IeBT/P1-Physics 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2017-209
   subject: physics
   grade: '11'
@@ -3029,10 +3449,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1F-XfBFv2mWd9Gf5YxjyhYjKE9hTSwXYY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2017
+  notes: 'IeBT/P1-Physics 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-210
   subject: physics
   grade: '11'
@@ -3043,10 +3465,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1ferX1CbPtuHrpYF0ydiZVffG7F7uxLku
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2018; data sheet
+  notes: 'IeBT/P1-Physics 2018; data sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-211
   subject: physics
   grade: '11'
@@ -3057,10 +3481,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/11LKJkDkgy7J9cRJBsSuM30jfJQDJlgbP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2018; information booklet
+  notes: 'IeBT/P1-Physics 2018; information booklet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-212
   subject: physics
   grade: '11'
@@ -3071,10 +3497,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1SSTOsYaJUcKB54C0f8dfck-IdSiuw4lq
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2018
+  notes: 'IeBT/P1-Physics 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2018-213
   subject: physics
   grade: '11'
@@ -3085,10 +3513,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1PtDwdS5CdT2NGAWb7liI7Yci3XSO2GW2
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2018
+  notes: 'IeBT/P1-Physics 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-214
   subject: physics
   grade: '11'
@@ -3099,10 +3529,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1Wx2yahzmCyHr1va52OeNm8jJ3WRQkNRw
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2019; data sheet
+  notes: 'IeBT/P1-Physics 2019; data sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-215
   subject: physics
   grade: '11'
@@ -3113,10 +3545,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1otp64ja6kekDwbzNgYuz3HN4ZVc3VlK8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2019; information booklet
+  notes: 'IeBT/P1-Physics 2019; information booklet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-216
   subject: physics
   grade: '11'
@@ -3127,10 +3561,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/12SWEyBOnoaHTRC1SdROwViEEFxKf7wJ_
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2019
+  notes: 'IeBT/P1-Physics 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2019-217
   subject: physics
   grade: '11'
@@ -3141,10 +3577,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1FIw1x0JIPsiaDUston41Rh8eubbK3Yxh
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2019
+  notes: 'IeBT/P1-Physics 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-218
   subject: physics
   grade: '11'
@@ -3155,10 +3593,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1I9xFwAcHy3PzCmxG_U82_t3KO930FSL8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2020
+  notes: 'IeBT/P1-Physics 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2020-219
   subject: physics
   grade: '11'
@@ -3169,10 +3609,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1N_XFdB8bz8DEFl-oAzHVmy0MuuEl3GNY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2020
+  notes: 'IeBT/P1-Physics 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-220
   subject: physics
   grade: '11'
@@ -3183,10 +3625,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1Dx9ss_-sAPcbVi_QRHm6BruWM_jzpNmg
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2021; data sheet
+  notes: 'IeBT/P1-Physics 2021; data sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-221
   subject: physics
   grade: '11'
@@ -3197,10 +3641,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/15IROrwmMzPJH5OXHT9nuXHRPkPptKUYF
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2021
+  notes: 'IeBT/P1-Physics 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2021-222
   subject: physics
   grade: '11'
@@ -3211,10 +3657,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1On22Z-99Tdwu-LlyDaOUrmzcNtrXuTyI
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2021
+  notes: 'IeBT/P1-Physics 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-223
   subject: physics
   grade: '11'
@@ -3225,10 +3673,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1B3iLjmQJsKQ7ZHX8sLNzB_r5EeZ0LDUt
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2022; data sheet
+  notes: 'IeBT/P1-Physics 2022; data sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-224
   subject: physics
   grade: '11'
@@ -3239,10 +3689,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/152WH1VHKVRYYVYnN3jIMDiyEyU-TDFnR
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2022
+  notes: 'IeBT/P1-Physics 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2022-225
   subject: physics
   grade: '11'
@@ -3253,10 +3705,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/18ol_A_24-BSpnh4A8uLNIqA_ItKa-i1f
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2022
+  notes: 'IeBT/P1-Physics 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-226
   subject: physics
   grade: '11'
@@ -3267,10 +3721,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/10NhNC24J7yIp7X8p9gQJgEXmKGrFncsO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2023
+  notes: 'IeBT/P1-Physics 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2023-227
   subject: physics
   grade: '11'
@@ -3281,10 +3737,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/163BkOKFPEiMP2n0A0tGc9nc2oLU9ZcYN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2023
+  notes: 'IeBT/P1-Physics 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-228
   subject: physics
   grade: '11'
@@ -3295,10 +3753,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1QfON6jmMAciYdrTwk7cYQV9NpBcNOC7P
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2024; data sheet
+  notes: 'IeBT/P1-Physics 2024; data sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-229
   subject: physics
   grade: '11'
@@ -3309,10 +3769,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/11vmtpqflvt6PN9hetX1bf3slMjqWlaYP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2024
+  notes: 'IeBT/P1-Physics 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2024-230
   subject: physics
   grade: '11'
@@ -3323,10 +3785,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/13VYDTkVFKhZuBilqaTBsq9D8RwRKoIk7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2024
+  notes: 'IeBT/P1-Physics 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-231
   subject: physics
   grade: '11'
@@ -3337,10 +3801,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1cRYiee9O70xAx_UOzXVIq1L2K9wvvuxT
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2025; data sheet
+  notes: 'IeBT/P1-Physics 2025; data sheet; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-232
   subject: physics
   grade: '11'
@@ -3351,10 +3817,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1DUbRsICu5SKoR_vEr7hH0jbjUoYShYYm
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2025
+  notes: 'IeBT/P1-Physics 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-PHY-2025-233
   subject: physics
   grade: '11'
@@ -3365,8 +3833,18 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1HWPnGoTtUIoSlth6L2PhIp73irznVlkA
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: IeBT/P1-Physics 2025
+  notes: 'IeBT/P1-Physics 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 run_id: 20260903T090314Z_25ba
+run_records:
+- run_id: 20260903T091842Z_c0f7
+  subject: physics
+  phase: 3
+  status: completed_with_review
+  sources_acquired: 0
+  sources_failed: 233
+  notes: All downloads failed due to sandbox TLS restriction to Google services.

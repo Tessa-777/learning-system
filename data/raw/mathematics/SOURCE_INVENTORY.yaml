@@ -1,5 +1,5 @@
 inventory_id: SOURCE-INV-ORC-MAT
-phase: 2
+phase: 3
 subject: mathematics
 grade: '11'
 primary_source: https://sites.google.com/stbenedicts.co.za/orc
@@ -42,6 +42,10 @@ summary:
     '11': 270
     unknown: 2
   out_of_scope_source_ids: []
+  by_access_status_after_acquisition:
+    accessible: 0
+    inaccessible: 270
+    external: 2
 scope_notes:
 - 'INVENTORY SCOPE: Grade 11 material published in the St Benedict''s ORC for mathematics.'
 - Sources marked OUT OF SCOPE (chemistry / Grade 12 / other subject) are recorded
@@ -61,10 +65,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1uUG-nIiJ9AJe_R6EoSuvLyJ45fT3Vh_B
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-002
   subject: mathematics
   grade: '11'
@@ -75,10 +81,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1UXOcNJtz9yFUHFexyll6ajbCIGMoDXJA
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-003
   subject: mathematics
   grade: '11'
@@ -89,10 +97,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1vgqy_RQ4oH68U88Fjhw-5oI1qlUgMkyL
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-004
   subject: mathematics
   grade: '11'
@@ -103,10 +113,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1PsD9Usq7_E4BEqgxjlI6Zxzqg6KVPbbU
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-005
   subject: mathematics
   grade: '11'
@@ -117,10 +129,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1vpaPlfbGMMhJT_kh4p5E1DZtxQL0YTsT
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-006
   subject: mathematics
   grade: '11'
@@ -131,10 +145,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1CqzvK-IRWffM_IyLv_5gBMkAKCHnmB01
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-007
   subject: mathematics
   grade: '11'
@@ -145,10 +161,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Krcp6ruA-SDQvMuyS57zCvmFV-LqVa81
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-008
   subject: mathematics
   grade: '11'
@@ -159,10 +177,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/197pNrX4Q1lUYjPrrvxOxZC7oUKe0wUtK
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-009
   subject: mathematics
   grade: '11'
@@ -173,10 +193,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Ov3K24ksztfRj69g7XCGyXZicu8cOQHp
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-010
   subject: mathematics
   grade: '11'
@@ -187,10 +209,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1qzuSUNYqghkkbQ9J_UDCTVGgIGE4kjUn
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-011
   subject: mathematics
   grade: '11'
@@ -201,10 +225,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1AGlsDseW9gOM-A1Sh4XJhFuAnzekDU9F
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-012
   subject: mathematics
   grade: '11'
@@ -215,10 +241,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/198ySvao5o1Qwz04tjok4-0EE7eSI9glC
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes (Gr 11 and 12)
+  notes: 'Maths G11/NOTES; teaching notes (Gr 11 and 12); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-013
   subject: mathematics
   grade: '11'
@@ -229,10 +257,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1xhq0ks1yWUzBHKg5KqPd8h5e8ecES9wp
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes (Gr 11 and 12)
+  notes: 'Maths G11/NOTES; teaching notes (Gr 11 and 12); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-014
   subject: mathematics
   grade: '11'
@@ -243,10 +273,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/13FC-Nb7FFAtDdWomccJm_5hKWOB_HQwm
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; teaching notes
+  notes: 'Maths G11/NOTES; teaching notes; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-015
   subject: mathematics
   grade: '11'
@@ -257,10 +289,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1gbwIV_DCAW2WAtpImdjFXfYAO6LpevJO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; workshop questions
+  notes: 'Maths G11/NOTES; workshop questions; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-016
   subject: mathematics
   grade: '11'
@@ -271,10 +305,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Nwf9gYA_NzrkQkTXaDbYZVopVomL0KjO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/NOTES; workshop memo
+  notes: 'Maths G11/NOTES; workshop memo; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-017
   subject: mathematics
   grade: '11'
@@ -285,10 +321,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1erBnOf-f-HS3aGbUABo0Hqs3hNf2J8II
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/OTHER; formula sheet
+  notes: 'Maths G11/OTHER; formula sheet; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-018
   subject: mathematics
   grade: '11'
@@ -299,10 +337,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1jHB4hiV7b2kNCShfXkBT9b_CMB6z18wv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/OTHER; resource
+  notes: 'Maths G11/OTHER; resource; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-019
   subject: mathematics
   grade: '11'
@@ -313,10 +353,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1sLNSMBznKMZO3KVX7rgeV_YoyXuTKT6G
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/OTHER; resource
+  notes: 'Maths G11/OTHER; resource; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-020
   subject: mathematics
   grade: '11'
@@ -327,10 +369,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1EjRWNQZmZe0_w7QBb3USGWLW2a9hkmrR
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/OTHER; revision workshop memo
+  notes: 'Maths G11/OTHER; revision workshop memo; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-021
   subject: mathematics
   grade: '11'
@@ -341,10 +385,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1sdAWZ9cBuJmAbsjwgTjHRP3V4Juo_0TI
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-022
   subject: mathematics
   grade: '11'
@@ -355,10 +401,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1xZu0udWQZozuI8Ef3GMGadpLaWn6CwIk
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-023
   subject: mathematics
   grade: '11'
@@ -369,10 +417,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1VCHyg92oWvP01-rn6q3I3Sb7WG5I8m9A
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-024
   subject: mathematics
   grade: '11'
@@ -383,10 +433,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ZBCE6Ic5_tnU6wYczF6zIqIGwLEQuAUQ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-025
   subject: mathematics
   grade: '11'
@@ -397,10 +449,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1bpqeUD6vCOJzVIYnenGGFXzpynMoiGmj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-026
   subject: mathematics
   grade: '11'
@@ -411,10 +465,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1zsojndWVmUcF-oHOk-WVIXROAUVv5Gql
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-027
   subject: mathematics
   grade: '11'
@@ -425,10 +481,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1TI3zJW3IsCF1us_4Z9B0d5TZGDx_Qea3
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-028
   subject: mathematics
   grade: '11'
@@ -439,10 +497,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1lTBO_VvaSi7xchIVxK6T6C6IyNjtWggV
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-029
   subject: mathematics
   grade: '11'
@@ -453,10 +513,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1DKeyjel71GnTgoinyEc2Qy1nlXbTkdbB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-030
   subject: mathematics
   grade: '11'
@@ -467,10 +529,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1EG6rnsiU0BgVnnxg96VOpqDj9gRuew6d
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-031
   subject: mathematics
   grade: '11'
@@ -481,10 +545,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1U97o-2x_Sy23iIU4ugNqAVM85Z6wAK4H
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-032
   subject: mathematics
   grade: '11'
@@ -495,10 +561,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1e1_2rGAa-v7xMYU5g0xEAe4Spk1SM1h-
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2017
+  notes: 'Maths G11/Tests 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-033
   subject: mathematics
   grade: '11'
@@ -509,10 +577,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1YaPjqkk_phbkh_arzsxnH-XNLuX7w0iB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-034
   subject: mathematics
   grade: '11'
@@ -523,10 +593,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1QgK2yYzJK44bRyRyfm7Tf_5g04UdtXkR
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-035
   subject: mathematics
   grade: '11'
@@ -537,10 +609,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1GofmZMnWWrb13uT2GlMWef2GvsEnpDLa
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-036
   subject: mathematics
   grade: '11'
@@ -551,10 +625,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1wNwg6ytz8q8NDsHslfZp_ojXOtYSKUBv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-037
   subject: mathematics
   grade: '11'
@@ -565,10 +641,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Loqs5NRJCkTKK9YyicR3q46ylg3YJAeN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-038
   subject: mathematics
   grade: '11'
@@ -579,10 +657,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1LM2jq6hn2WIJLfUJHf_1PM5zI1uR71jV
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-039
   subject: mathematics
   grade: '11'
@@ -593,10 +673,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/16ZzGXcMVsjCeaSeujqkfgaPTiuZJ8ok_
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018; error-correction memo
+  notes: 'Maths G11/Tests 2018; error-correction memo; Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-040
   subject: mathematics
   grade: '11'
@@ -607,10 +689,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1SoZZB09uERJGTZor2wSby0-STV-eUj3q
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-041
   subject: mathematics
   grade: '11'
@@ -621,10 +705,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1iUGVq_kooVwEcj1vsGnuzRqghTzsH8o-
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-042
   subject: mathematics
   grade: '11'
@@ -635,10 +721,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1VpSxvLbrZL4baryCjiaJ2UsXADCjIMxQ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018; project task
+  notes: 'Maths G11/Tests 2018; project task; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-043
   subject: mathematics
   grade: '11'
@@ -649,10 +737,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1D_1YUVbuy8XMoBeXgvWFRqeCFYDc2mbj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-044
   subject: mathematics
   grade: '11'
@@ -663,10 +753,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1TUCHsPb28dSCI7vZcl7uCHgO_IlDk0UH
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-045
   subject: mathematics
   grade: '11'
@@ -677,10 +769,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Sp7ZLijCBZ812A4G9mbWI5hY7dszzT9t
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-046
   subject: mathematics
   grade: '11'
@@ -691,10 +785,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1-esGPVxdAcOtKyxkESNGf0Xlr6GbbyjM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-047
   subject: mathematics
   grade: '11'
@@ -705,10 +801,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1GM5BheuCMB5H6M72X3LRx-aeuyLfSzqY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-048
   subject: mathematics
   grade: '11'
@@ -719,10 +817,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Y-H584dd6uUfslojYXOB0ql1zl0h0Rl4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-049
   subject: mathematics
   grade: '11'
@@ -733,10 +833,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1aMdjgxp7Jpm8KfHXlMDOy29pxNH30Z9m
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2018
+  notes: 'Maths G11/Tests 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-050
   subject: mathematics
   grade: '11'
@@ -747,10 +849,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1NC1eexxGR2YwL1ueT412pHeQYmG8gHrB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-051
   subject: mathematics
   grade: '11'
@@ -761,10 +865,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/17YS3lsLl74YK1Y2Iwpx6hTneJXwDA6Nw
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-052
   subject: mathematics
   grade: '11'
@@ -775,10 +881,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1i0KqiMt9kBjb_RG3ti_3bmWY0hrVcUXx
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-053
   subject: mathematics
   grade: '11'
@@ -789,10 +897,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1kgJ7s1BoKqc3GCcPBRTwlpFsCB2udI-V
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-054
   subject: mathematics
   grade: '11'
@@ -803,10 +913,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1-c0AiKnUg6QQQXs0SZ2EEqfOV8X6D8TH
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-055
   subject: mathematics
   grade: '11'
@@ -817,10 +929,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1g53oaGJJvZ47DHVl_G_nPRiQzjn40NB1
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-056
   subject: mathematics
   grade: '11'
@@ -831,10 +945,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1sii4XktI53rkBZY1FCAwxDuEawGokWOy
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019; homework assignment
+  notes: 'Maths G11/Tests 2019; homework assignment; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-057
   subject: mathematics
   grade: '11'
@@ -845,10 +961,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1L5IAyIvmRs9t6I_5sfZOa-Lt8-uQRG-b
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-058
   subject: mathematics
   grade: '11'
@@ -859,10 +977,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1eqL0rWVdonA-qvZUdYCV3f_90vV7x9Dt
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-059
   subject: mathematics
   grade: '11'
@@ -873,10 +993,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1dJF__CrVQqpzLW8VJ4CXuL_PzcI6GLkN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-060
   subject: mathematics
   grade: '11'
@@ -887,10 +1009,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/10p2SG7n4Re5K_g-eL06zRTz7TvdZyWO8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-061
   subject: mathematics
   grade: '11'
@@ -901,10 +1025,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1KECxHjeAi3FA0e0VkHTyqiq46oMR0ZZ7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-062
   subject: mathematics
   grade: '11'
@@ -915,10 +1041,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1f2GKpEreXw5D-4xrusPyYeE_wev02f7r
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-063
   subject: mathematics
   grade: '11'
@@ -929,10 +1057,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1jRX4m1ucj5qeKpsYfOi0z11eZgMqb307
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-064
   subject: mathematics
   grade: '11'
@@ -943,10 +1073,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1quGhY8x2CoQkH0bOMMbZn8fAoA6docFD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019; project task
+  notes: 'Maths G11/Tests 2019; project task; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-065
   subject: mathematics
   grade: '11'
@@ -957,10 +1089,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12wBhDsJ8KE-Gb6kz6rW-RTV1csO63dbd
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-066
   subject: mathematics
   grade: '11'
@@ -971,10 +1105,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1OWh3NwW0Q3j13b8WRG-4cixaS9dQzTLo
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-067
   subject: mathematics
   grade: '11'
@@ -985,10 +1121,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1JTTHbpdIYH0yNOLdGff4X3hDftcgdVn8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-068
   subject: mathematics
   grade: '11'
@@ -999,10 +1137,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1YrwY-iU8Topq21RQlST_dnt7kZhab6dW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-069
   subject: mathematics
   grade: '11'
@@ -1013,10 +1153,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1bMEfiYdmZXnCx-Z4ukGaQ9rb_1WYDMGq
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-070
   subject: mathematics
   grade: '11'
@@ -1027,10 +1169,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1e9qNc5hNuSn6ORqxNcVqDP4oqHU-yupj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019; workbook
+  notes: 'Maths G11/Tests 2019; workbook; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-071
   subject: mathematics
   grade: '11'
@@ -1041,10 +1185,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1HAyNu9g7x2HpCa9A4oah6YoHVm2ARcOK
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019; workbook
+  notes: 'Maths G11/Tests 2019; workbook; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-072
   subject: mathematics
   grade: '11'
@@ -1055,10 +1201,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1vbJVZh7Z6acktgxW95GGVkLgbZbDIe_o
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019; solutions
+  notes: 'Maths G11/Tests 2019; solutions; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-073
   subject: mathematics
   grade: '11'
@@ -1069,10 +1217,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1BvWGTSZPUOFbHtJcVmvuLmrC71z0utfO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019; workshop material
+  notes: 'Maths G11/Tests 2019; workshop material; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-074
   subject: mathematics
   grade: '11'
@@ -1083,10 +1233,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1449S8qnCuZ2qwlL_BTkd6XOAdDB2S-Z5
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019; worksheet memo
+  notes: 'Maths G11/Tests 2019; worksheet memo; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-075
   subject: mathematics
   grade: '11'
@@ -1097,10 +1249,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ZozvlJ-NA7krVcUzoA8856NFY62k8SSm
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-076
   subject: mathematics
   grade: '11'
@@ -1111,10 +1265,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1lYPYhMLIM54u8tlI0gck1brWiknNFbAD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2019
+  notes: 'Maths G11/Tests 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-077
   subject: mathematics
   grade: '11'
@@ -1125,10 +1281,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1gynDmt89wwyK9hk12pcQjEY8x-Cz167u
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-078
   subject: mathematics
   grade: '11'
@@ -1139,10 +1297,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/16ZiiqbeulbR2ZWeSuzOY8HlRlH6zyxOg
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-079
   subject: mathematics
   grade: '11'
@@ -1153,10 +1313,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/16Mg3kbUHoTjgy75j0uB7n7Jl7W7A8e6l
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-080
   subject: mathematics
   grade: '11'
@@ -1167,10 +1329,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/176_tZabyDmr9IATjO8haEfgCFF_b9pTC
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-081
   subject: mathematics
   grade: '11'
@@ -1181,10 +1345,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1223eOPeSH-UkDGQg31CHG_kgiYpGuQjP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-082
   subject: mathematics
   grade: '11'
@@ -1195,10 +1361,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1JUzFQMKiftb7sxQ4kiD-BZIaZEffb4Oy
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-083
   subject: mathematics
   grade: '11'
@@ -1209,10 +1377,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1JckzfhbUXaV6VDba2nNKsbz2Bi-4xguv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-084
   subject: mathematics
   grade: '11'
@@ -1223,10 +1393,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1uE7LRJnLzA8Je4Xn_yXqaOw-6h3-ddXr
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-085
   subject: mathematics
   grade: '11'
@@ -1237,10 +1409,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1vxZe5CJxgSHec2rN7AIAlIp8KH_6mtey
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-086
   subject: mathematics
   grade: '11'
@@ -1251,10 +1425,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1b3Xy0nWuQMk0ruXAb24mSTlLEEkX1W6t
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-087
   subject: mathematics
   grade: '11'
@@ -1265,10 +1441,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1b3vriNKxP-NGLM8xjyk5eOKYK9Bg322-
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-088
   subject: mathematics
   grade: '11'
@@ -1279,10 +1457,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1_-Wg1QNY2izWo0dolU13rwW-RFXA9lWC
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-089
   subject: mathematics
   grade: '11'
@@ -1293,10 +1473,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1QC8l7NniyKKGHz7pDWLFr58T1UQAWZIv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-090
   subject: mathematics
   grade: '11'
@@ -1307,10 +1489,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12vkwmZGnfwjhcQ1TbLhU2ZxDBB4eAdjY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-091
   subject: mathematics
   grade: '11'
@@ -1321,10 +1505,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1FuYutd-nrj7OhGyX0tI2InQxSezM3S0d
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-092
   subject: mathematics
   grade: '11'
@@ -1335,10 +1521,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/13x3-hHaXTIDD28ya8uXYT9SMgY9fEM2p
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-093
   subject: mathematics
   grade: '11'
@@ -1349,10 +1537,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1TNdY2GpbKzFYznpIziY6IiLE6_s-3YW7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-094
   subject: mathematics
   grade: '11'
@@ -1363,10 +1553,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1kY4WYac6woWFbIPp1jjayV59C3SydRNs
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-095
   subject: mathematics
   grade: '11'
@@ -1377,10 +1569,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1NYUY0EzubKvQwuzksqcbyP3MdcDkxi3H
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-096
   subject: mathematics
   grade: '11'
@@ -1391,10 +1585,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/11GplkYXnZvWCs-xg9Y03eDTezzmiVzXN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-097
   subject: mathematics
   grade: '11'
@@ -1405,10 +1601,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1a5aqPZBaOP3mPVWKfZ7Co61EZImnkshu
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-098
   subject: mathematics
   grade: '11'
@@ -1419,10 +1617,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1IGPmLVhPgak5LeP817e9RA_uzaMm7Jix
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-099
   subject: mathematics
   grade: '11'
@@ -1433,10 +1633,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1_4khEjwrPaprkchCJWauLreVaw5YwPnx
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-100
   subject: mathematics
   grade: '11'
@@ -1447,10 +1649,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Of90F4iNIvUxYtZBft29GV9gCJamcqTL
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-101
   subject: mathematics
   grade: '11'
@@ -1461,10 +1665,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1I3AriXvh3m81rEWn5woW2rAxtzHZTU1V
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-102
   subject: mathematics
   grade: '11'
@@ -1475,10 +1681,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/17Oh3H0KvIhm9E744_5syppaGyIpZesNP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-103
   subject: mathematics
   grade: '11'
@@ -1489,10 +1697,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1I_LZfmqBNb4btuBIGDsv12OR4pEcIq8o
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-104
   subject: mathematics
   grade: '11'
@@ -1503,10 +1713,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/14F9jHAA4Yf8Aw0_Y1MT8zroI2bZoz19D
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2020
+  notes: 'Maths G11/Tests 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-105
   subject: mathematics
   grade: '11'
@@ -1517,10 +1729,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1u0V0t81yyspZ3cyHvH0lod6H-jE3uPvO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-106
   subject: mathematics
   grade: '11'
@@ -1531,10 +1745,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/135GOx_wGua0_JqXBGr4AO2wkMTmo_6O9
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-107
   subject: mathematics
   grade: '11'
@@ -1545,10 +1761,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1lCItzMFON4uM7n1xA2XDWdshBG0p0757
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-108
   subject: mathematics
   grade: '11'
@@ -1559,10 +1777,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12YZT0EHNlieYr9q5iY-iQCaqFfl52eCW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-109
   subject: mathematics
   grade: '11'
@@ -1573,10 +1793,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1mY0nCtpdH2C39eXWmYrm7o0jBgdIzePd
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-110
   subject: mathematics
   grade: '11'
@@ -1587,10 +1809,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Tobr91ZtWngBxDmMXmI9-q_0hzUL1oJZ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-111
   subject: mathematics
   grade: '11'
@@ -1601,10 +1825,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Pw8LrYxTG9CvIDmHzRqeaBD-WQ-Hkhmk
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-112
   subject: mathematics
   grade: '11'
@@ -1615,10 +1841,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/16LUpSzpTlb1cX4OP0XwxgS4k5_18M4d1
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-113
   subject: mathematics
   grade: '11'
@@ -1629,10 +1857,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1GTKBdSmj7ZP8ep3Gy3SS3lNpgT6UqedO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-114
   subject: mathematics
   grade: '11'
@@ -1643,10 +1873,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1DV83z6fnY_9AWWauLSZIRgDHMG48nrVS
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-115
   subject: mathematics
   grade: '11'
@@ -1657,10 +1889,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/15tNHKX2BWPTtQTYdCJQfoOAGuKCF8r1Y
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-116
   subject: mathematics
   grade: '11'
@@ -1671,10 +1905,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1j6PeIOWpQiVOZJ-1UNDiWmkYKK6ZUumJ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-117
   subject: mathematics
   grade: '11'
@@ -1685,10 +1921,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1rnN9RtDViCU1IJke1y7uSKDxNE6NmgoW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-118
   subject: mathematics
   grade: '11'
@@ -1699,10 +1937,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1v4R0rdfTYR7i37ujpwmVQ59PNsFz_kH_
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021; video recording of test review
+  notes: 'Maths G11/Tests 2021; video recording of test review; Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-119
   subject: mathematics
   grade: '11'
@@ -1713,10 +1953,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1iixTtD_PaVkFS4_nnp_dhP7xbsDIz3yf
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-120
   subject: mathematics
   grade: '11'
@@ -1727,10 +1969,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1UqeoSWtIdqANgPSFJJ-NDvdlVTyPN8s7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2021
+  notes: 'Maths G11/Tests 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-121
   subject: mathematics
   grade: '11'
@@ -1741,10 +1985,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1i16UwCqS9kiIyvHVdSldinhfBP47Wx_8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-122
   subject: mathematics
   grade: '11'
@@ -1755,10 +2001,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/17SByO1otvTiQml__88RNzI7whojPEVe7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-123
   subject: mathematics
   grade: '11'
@@ -1769,10 +2017,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1KccbwQhWONGqWtUxzHsCqUmutb7yhBpM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-124
   subject: mathematics
   grade: '11'
@@ -1783,10 +2033,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1lxdr3xCcEz6ViQ7PatKvHPTwzC5IjARo
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-125
   subject: mathematics
   grade: '11'
@@ -1797,10 +2049,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1n1XbtwNw1hKlMB_5NmnUsQ67cQ2G8Y8k
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-126
   subject: mathematics
   grade: '11'
@@ -1811,10 +2065,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1kt5y_lYoQk_5YxA7P9l1Zz3vwb76cnm3
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-127
   subject: mathematics
   grade: '11'
@@ -1825,10 +2081,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12WdB7Pre6_cgeYfoRjLv9w_13ZzzbgUU
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-128
   subject: mathematics
   grade: '11'
@@ -1839,10 +2097,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1gSc-RQqLI6V2x3JrcfsQT5-DBtHqOgTs
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-129
   subject: mathematics
   grade: '11'
@@ -1853,10 +2113,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1xHiABhy8c3-nICwBDw_YZtlCD7tEn3ub
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-130
   subject: mathematics
   grade: '11'
@@ -1867,10 +2129,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1h8G-DlJExN_nFmnLkmR1ZKIkHd19eYui
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-131
   subject: mathematics
   grade: '11'
@@ -1881,10 +2145,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1NgZV27Peezxra2ZIK8mLp46MBZunCUso
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-132
   subject: mathematics
   grade: '11'
@@ -1895,10 +2161,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1nSg_k9TzIbnUYks_nbkMI6E0zOF_zMyh
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-133
   subject: mathematics
   grade: '11'
@@ -1909,10 +2177,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1i9uEgFF9uRz8BNIQAGUf9dIqKmP9Y65A
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-134
   subject: mathematics
   grade: '11'
@@ -1923,10 +2193,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1868nyXl8LifYoHe3k9SZ_Kx4XMtavNOB
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-135
   subject: mathematics
   grade: '11'
@@ -1937,10 +2209,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1U33oInq52PXSMDEwb5O4SBEofa0pb0GT
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-136
   subject: mathematics
   grade: '11'
@@ -1951,10 +2225,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1aexG9FK0yP15jt9HJkh0dKVrSu8eT-mv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2022
+  notes: 'Maths G11/Tests 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-137
   subject: mathematics
   grade: '11'
@@ -1965,10 +2241,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/12aVJXqH2DR7YR4yw35VADjY8te_O_AuW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-138
   subject: mathematics
   grade: '11'
@@ -1979,10 +2257,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1hpQ4mokividKUTEEHFAxeH1TArajKDj4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-139
   subject: mathematics
   grade: '11'
@@ -1993,10 +2273,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1qmtjRjR-yZ4BAuW2IxV3HrPENB0xqtYf
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-140
   subject: mathematics
   grade: '11'
@@ -2007,10 +2289,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1lrmJA7D6_l_bE8SCVfqrkF8N5zt1-bhE
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-141
   subject: mathematics
   grade: '11'
@@ -2021,10 +2305,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/17I0r3wsMPixxdf-9YJDon4mCKAF-pVS9
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-142
   subject: mathematics
   grade: '11'
@@ -2035,10 +2321,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/15UVZisiq6v412DpvZ6nqD_6qad_hFA8E
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-143
   subject: mathematics
   grade: '11'
@@ -2049,10 +2337,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1kEsJBdkActg471LR95Mzbhd44RAu2XC3
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-144
   subject: mathematics
   grade: '11'
@@ -2063,10 +2353,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Vtk0ePf11VsiFNmBgDB1J6H4SZ5v7Dec
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023; memo (same filename as QP; listed after 2a)
+  notes: 'Maths G11/Tests 2023; memo (same filename as QP; listed after 2a); Phase
+    3 acquisition failed: URLError: <urlopen error TLS/SSL connection has been closed
+    (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-145
   subject: mathematics
   grade: '11'
@@ -2077,10 +2369,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1cftd_wMGKATWiqyaxmY7oQCXlQUhGEui
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-146
   subject: mathematics
   grade: '11'
@@ -2091,10 +2385,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1OSxxEcWk9RvisMdwHestOSYXkDZh3eHq
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-147
   subject: mathematics
   grade: '11'
@@ -2105,10 +2401,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ylry0cfS-vkdYMYMfXcenCd0gq_Cb6FY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-148
   subject: mathematics
   grade: '11'
@@ -2119,10 +2417,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/19wFgcxXDgQD-8GQ1bmm4qp798V5fLsfW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023; memo (same filename as QP)
+  notes: 'Maths G11/Tests 2023; memo (same filename as QP); Phase 3 acquisition failed:
+    URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-149
   subject: mathematics
   grade: '11'
@@ -2133,10 +2433,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1bnJfU8KRFPiMJEf7j3368CnAMre8MdQq
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-150
   subject: mathematics
   grade: '11'
@@ -2147,10 +2449,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1atfANysu8v5UHLcFNOEwdauikA3mmQoM
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-151
   subject: mathematics
   grade: '11'
@@ -2161,10 +2465,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1eIRRzihHBMXVk-qKpSELfngdnr-5ReDm
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-152
   subject: mathematics
   grade: '11'
@@ -2175,10 +2481,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1GDR4DzfNgFJAryV1tm76TClOuKxV6G8T
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-153
   subject: mathematics
   grade: '11'
@@ -2189,10 +2497,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1s0KEMavif5ojhup9DbO-C97hDYtqpmvF
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-154
   subject: mathematics
   grade: '11'
@@ -2203,10 +2513,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1SmlKIImHIhvWVUpwQlHWJDyeDM-xDHgb
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-155
   subject: mathematics
   grade: '11'
@@ -2217,10 +2529,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1stRPSILJG3a5O-IgTUoVZw4f6a_NrOC8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023; worksheet
+  notes: 'Maths G11/Tests 2023; worksheet; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-156
   subject: mathematics
   grade: '11'
@@ -2231,10 +2545,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1eNNL2uzt9jFWAXgHnFksRBYsaXrit6ic
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023; worksheet memo
+  notes: 'Maths G11/Tests 2023; worksheet memo; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-157
   subject: mathematics
   grade: '11'
@@ -2245,10 +2561,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ERv5gAHbN3b8G1tM4AatG8tK4gtFMDeT
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-158
   subject: mathematics
   grade: '11'
@@ -2259,10 +2577,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Cf2dqSrCaSXlLK5EBkoIvp_VPpoqJAKc
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-159
   subject: mathematics
   grade: '11'
@@ -2273,10 +2593,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1NdSfz852iDcdalurCRi7P8FEfV-2c1PT
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-160
   subject: mathematics
   grade: '11'
@@ -2287,10 +2609,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1yV5PEfVDI97BWudIP5bZWelBNtiUpgJw
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2023
+  notes: 'Maths G11/Tests 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-161
   subject: mathematics
   grade: '11'
@@ -2301,10 +2625,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/18CxH0FMoCliyRjeGdWMNXE7Vv9NXowF_
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-162
   subject: mathematics
   grade: '11'
@@ -2315,10 +2641,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1_fmOHaeMYOJY2-kPUN-EqO-w5qKKR8T7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-163
   subject: mathematics
   grade: '11'
@@ -2329,10 +2657,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1JekcgqFrinQQdYf4sTm2VTTIxIP6DW29
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-164
   subject: mathematics
   grade: '11'
@@ -2343,10 +2673,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1fZff29cBeaZRVCL1Cm_TcUXRek8Sk-xz
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-165
   subject: mathematics
   grade: '11'
@@ -2357,10 +2689,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1IQpw3AoTceU-2CpGwPmFg6KTNxcd1Gh6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-166
   subject: mathematics
   grade: '11'
@@ -2371,10 +2705,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1JinL2MHAIJ1YW-uL0O8XR2SiSthuZ6J2
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-167
   subject: mathematics
   grade: '11'
@@ -2385,10 +2721,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Z0L_cBc15N6VcF27nCDp0uv-Gzn1FGpj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-168
   subject: mathematics
   grade: '11'
@@ -2399,10 +2737,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1uW2OXphR_yuAAphgNzD91DVIRZDlaHkq
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-169
   subject: mathematics
   grade: '11'
@@ -2413,10 +2753,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1T6JbSFuvu7QJv4U0qcs1Quab3lPm9Ohn
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-170
   subject: mathematics
   grade: '11'
@@ -2427,10 +2769,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1_TXzt24OE2P5ZpfaqPM06GnqpOYzvFR9
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-171
   subject: mathematics
   grade: '11'
@@ -2441,10 +2785,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1FG64ZHPBXgTyK8LYVo1zTwAtTo4KLln9
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-172
   subject: mathematics
   grade: '11'
@@ -2455,10 +2801,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1kWcW1wNpYycyV1I-lrnVIZIysK6YXfV6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-173
   subject: mathematics
   grade: '11'
@@ -2469,10 +2817,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1H5nMxro_JPliA2O-3AdKNZmh-jnuxesh
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-174
   subject: mathematics
   grade: '11'
@@ -2483,10 +2833,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Gp_68EzxMpigj_POpFLm5bbT9lR6Qw5E
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2024
+  notes: 'Maths G11/Tests 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-175
   subject: mathematics
   grade: '11'
@@ -2497,10 +2849,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1FHVrsiPeZ1-V6vCd8StUYIE2X2DXaavQ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-176
   subject: mathematics
   grade: '11'
@@ -2511,10 +2865,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/17Xkp4jSWs5-cdd7gRQ5GOLuuGwFitAtu
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-177
   subject: mathematics
   grade: '11'
@@ -2525,10 +2881,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/15NE8l73jRtsTvvHiESW9csiqQJt4CqVe
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-178
   subject: mathematics
   grade: '11'
@@ -2539,10 +2897,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1XkkuxkUF0zJK1UDj1sEF6T5UuM1hN2Xx
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-179
   subject: mathematics
   grade: '11'
@@ -2553,10 +2913,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1KN9SqI-Qj706M39XUTCXbHCGIYV9WLOd
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-180
   subject: mathematics
   grade: '11'
@@ -2567,10 +2929,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1TOWqhnN-MYgdD141OQMdn0llbEMN0JhH
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-181
   subject: mathematics
   grade: '11'
@@ -2581,10 +2945,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1di5ePaAXYm_fHpVpVfyp5b7lbrCf0O5E
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-182
   subject: mathematics
   grade: '11'
@@ -2595,10 +2961,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1wD0OeZ1uTypQHl_BiQrGY_jxVPgDm5yV
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-183
   subject: mathematics
   grade: '11'
@@ -2609,10 +2977,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1IB8w43aJ4gnORfTJrqCQesHK4FlVgFbt
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-184
   subject: mathematics
   grade: '11'
@@ -2623,10 +2993,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1OAoP-jfxh_e7bpXx-x8xSDNM39SmeYdD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-185
   subject: mathematics
   grade: '11'
@@ -2637,10 +3009,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1ma3jaanlk80HTx2RzxImUktoNRrS1KPs
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-186
   subject: mathematics
   grade: '11'
@@ -2651,10 +3025,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1UZs8-H3pn8kI0uO8TDq_LtJcKTfftz3S
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-187
   subject: mathematics
   grade: '11'
@@ -2665,10 +3041,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1Y3SOQMrc_H_oRZGNttDy91aNgDUSW97X
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-188
   subject: mathematics
   grade: '11'
@@ -2679,10 +3057,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1byv2LyIKxakm04HvrOYzH-j6RMv35ipK
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2025
+  notes: 'Maths G11/Tests 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2026-189
   subject: mathematics
   grade: '11'
@@ -2693,10 +3073,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1WPIMu9lJoZj1RCUMg6CnrQhHUnEiQkT5
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2026
+  notes: 'Maths G11/Tests 2026; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2026-190
   subject: mathematics
   grade: '11'
@@ -2707,10 +3089,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1VR8IJ1BUiiPvPQloaWaE-dcp97VMAItb
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2026
+  notes: 'Maths G11/Tests 2026; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2026-191
   subject: mathematics
   grade: '11'
@@ -2721,10 +3105,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1fsZfdvlEV_m7ApUHgz6Z5zyirHLqhazn
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2026
+  notes: 'Maths G11/Tests 2026; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2026-192
   subject: mathematics
   grade: '11'
@@ -2735,10 +3121,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1aXSK6JWo8NNQV76XUcQ-CTr7pDCxe_oZ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2026
+  notes: 'Maths G11/Tests 2026; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2026-193
   subject: mathematics
   grade: '11'
@@ -2749,10 +3137,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1pRYPQQtx8K_oKNrpnPXhlB0JFoPNQVLj
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2026
+  notes: 'Maths G11/Tests 2026; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2026-194
   subject: mathematics
   grade: '11'
@@ -2763,10 +3153,12 @@ sources:
   paper_number: null
   source_url: https://drive.google.com/file/d/1UmLmONuj6OYiOcd9iYAHuXulvzZOwZW7
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Tests 2026
+  notes: 'Maths G11/Tests 2026; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2016-195
   subject: mathematics
   grade: '11'
@@ -2777,10 +3169,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/15-bm2s03200GpxDcrTJdTY6a84ryT-t8
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2016/P1; mid-year
+  notes: 'Maths G11/Exams 2016/P1; mid-year; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2016-196
   subject: mathematics
   grade: '11'
@@ -2791,10 +3185,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1iUKuOEzwAFefJTsI8cFO9-kwKczcblQt
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2016/P1; mid-year memo
+  notes: 'Maths G11/Exams 2016/P1; mid-year memo; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2016-197
   subject: mathematics
   grade: '11'
@@ -2805,10 +3201,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1TTuwJjlJNbpjlxwI4QzOf7AJXT05Y67N
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2016/P1; Nov
+  notes: 'Maths G11/Exams 2016/P1; Nov; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2016-198
   subject: mathematics
   grade: '11'
@@ -2819,10 +3217,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1_eu2zf3AALPHIljYCUWYrEO0NFRPO-w1
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2016/P1; Nov memo
+  notes: 'Maths G11/Exams 2016/P1; Nov memo; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2016-199
   subject: mathematics
   grade: '11'
@@ -2833,10 +3233,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1JPoQVz85ccDt6bquoe5ffu9ezOPtui9j
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2016/P2; mid-year
+  notes: 'Maths G11/Exams 2016/P2; mid-year; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2016-200
   subject: mathematics
   grade: '11'
@@ -2847,10 +3249,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/15N5LjE8Pgx6NFWnvV-hqAITQK1RPfz0o
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2016/P2; mid-year memo
+  notes: 'Maths G11/Exams 2016/P2; mid-year memo; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2016-201
   subject: mathematics
   grade: '11'
@@ -2861,10 +3265,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1obclnP_3kH_l3ETh7y96zrDV_WcFaRjS
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2016/P2; Nov
+  notes: 'Maths G11/Exams 2016/P2; Nov; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2016-202
   subject: mathematics
   grade: '11'
@@ -2875,10 +3281,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1goWdOA79PdjXK3PqsMqwRMzeVescvdHo
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2016/P2; Nov memo
+  notes: 'Maths G11/Exams 2016/P2; Nov memo; Phase 3 acquisition failed: URLError:
+    <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox
+    TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-203
   subject: mathematics
   grade: '11'
@@ -2889,10 +3297,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1z0tRktcJx8xyjlIzDqhL21hBwZPzNijf
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2017
+  notes: 'Maths G11/Exams 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-204
   subject: mathematics
   grade: '11'
@@ -2903,10 +3313,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1M5WIcvuVzpjS3v0lXNvHQkWxAirqJ7pz
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2017
+  notes: 'Maths G11/Exams 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-205
   subject: mathematics
   grade: '11'
@@ -2917,10 +3329,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1uUqOuy-JzkSThX-kAWafIAC5aQ7VE9Cw
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2017
+  notes: 'Maths G11/Exams 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-206
   subject: mathematics
   grade: '11'
@@ -2931,10 +3345,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1tavXLSz25jXA7uTEKbEZwXHYrsFE86CV
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2017
+  notes: 'Maths G11/Exams 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-207
   subject: mathematics
   grade: '11'
@@ -2945,10 +3361,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1-l-rBo_seUk5F02N0XQ5GCmbKhaBLUBW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2017
+  notes: 'Maths G11/Exams 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-208
   subject: mathematics
   grade: '11'
@@ -2959,10 +3377,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1hXHto0aI8PtolNvhpm3C4Vvz68Jja5v4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2017
+  notes: 'Maths G11/Exams 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-209
   subject: mathematics
   grade: '11'
@@ -2973,10 +3393,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1cPC2hhuPj3uUQDLFNOW7cTk-obNRiMV2
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2017
+  notes: 'Maths G11/Exams 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2017-210
   subject: mathematics
   grade: '11'
@@ -2987,10 +3409,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1fxAP5b2aELCDyp45IHVABpoqC33fTiDl
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2017
+  notes: 'Maths G11/Exams 2017; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-211
   subject: mathematics
   grade: '11'
@@ -3001,10 +3425,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1f8acGtyR5LyG1maDW0crpgG8ps82Uqq0
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2018
+  notes: 'Maths G11/Exams 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-212
   subject: mathematics
   grade: '11'
@@ -3015,10 +3441,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1GK5j2Kevd9itM1KlZT6-Ff8MYSyfEUXI
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2018
+  notes: 'Maths G11/Exams 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-213
   subject: mathematics
   grade: '11'
@@ -3029,10 +3457,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/11ayCOvBG789OqtFdyGki_w4a3OMLoVr2
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2018
+  notes: 'Maths G11/Exams 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-214
   subject: mathematics
   grade: '11'
@@ -3043,10 +3473,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1iOHhmHhDzTrx0xqHqax54tbzD4SKgESu
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2018
+  notes: 'Maths G11/Exams 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-215
   subject: mathematics
   grade: '11'
@@ -3057,10 +3489,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1PMyGCzGEIWrXyj3mw4gIAlSY52lQV_ih
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2018
+  notes: 'Maths G11/Exams 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-216
   subject: mathematics
   grade: '11'
@@ -3071,10 +3505,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1_-XoAsfxhlWxgDpLJsrcJar3H3_602jc
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2018
+  notes: 'Maths G11/Exams 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-217
   subject: mathematics
   grade: '11'
@@ -3085,10 +3521,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1fHy1EB4cUiI-fOc0esF2yssXMwOXGlbL
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2018
+  notes: 'Maths G11/Exams 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2018-218
   subject: mathematics
   grade: '11'
@@ -3099,10 +3537,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1SUojT_y1vBMcTG1-GFzhO_Vm4OlOTbAD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2018
+  notes: 'Maths G11/Exams 2018; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-219
   subject: mathematics
   grade: '11'
@@ -3113,10 +3553,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1rtJcWfDRaBI67zlFlvSmIJL6ZlTyxTVz
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2019
+  notes: 'Maths G11/Exams 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-220
   subject: mathematics
   grade: '11'
@@ -3127,10 +3569,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1XHDEvRDPmUlP151AMhXVUPDtpC9MZwbX
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2019
+  notes: 'Maths G11/Exams 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-221
   subject: mathematics
   grade: '11'
@@ -3141,10 +3585,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1n8XY0uejxbKsUsLg-3FKCfHLL9ncFtJw
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2019; duplicate of 1a? listed separately in folder
+  notes: 'Maths G11/Exams 2019; duplicate of 1a? listed separately in folder; Phase
+    3 acquisition failed: URLError: <urlopen error TLS/SSL connection has been closed
+    (EOF) (_ssl.c:992)> (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-222
   subject: mathematics
   grade: '11'
@@ -3155,10 +3601,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1NaBEn2LGopbZj2tvttxJNPr1nmx4nJi9
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2019
+  notes: 'Maths G11/Exams 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-223
   subject: mathematics
   grade: '11'
@@ -3169,10 +3617,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1Yozb2vn1yF0TcYguOTlJpbIygVySNgt4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2019
+  notes: 'Maths G11/Exams 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-224
   subject: mathematics
   grade: '11'
@@ -3183,10 +3633,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1blpSJLsh1ehKo_mveQDfwuspoH0ZhGSZ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2019
+  notes: 'Maths G11/Exams 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-225
   subject: mathematics
   grade: '11'
@@ -3197,10 +3649,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1M511iD-uCnFUD9mFy_X1jDvuG_GhG7ot
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2019
+  notes: 'Maths G11/Exams 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2019-226
   subject: mathematics
   grade: '11'
@@ -3211,10 +3665,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/12kC_A4KvimpYs-kLg3n6bNwzp_HERWsS
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2019
+  notes: 'Maths G11/Exams 2019; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-227
   subject: mathematics
   grade: '11'
@@ -3225,10 +3681,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1hZ8szs8zZYeJTocubYY9c-VlWnd06qmO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2020
+  notes: 'Maths G11/Exams 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-228
   subject: mathematics
   grade: '11'
@@ -3239,10 +3697,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1n2qPlaJmutLEMUy5XKE90xLKTn26VVtD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2020; partial memo (pages 3-5, 7-22)
+  notes: 'Maths G11/Exams 2020; partial memo (pages 3-5, 7-22); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-229
   subject: mathematics
   grade: '11'
@@ -3253,10 +3713,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1bBjfRLQbh4bsmAx3gPh7DfcgAFRjbXf5
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2020; partial memo (pages 6, 17, 18)
+  notes: 'Maths G11/Exams 2020; partial memo (pages 6, 17, 18); Phase 3 acquisition
+    failed: URLError: <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:992)>
+    (sandbox TLS restriction to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-230
   subject: mathematics
   grade: '11'
@@ -3267,10 +3729,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1gc6xSJSobL4oYGhtuuTZ-8YRR4twq3RN
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2020
+  notes: 'Maths G11/Exams 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2020-231
   subject: mathematics
   grade: '11'
@@ -3281,10 +3745,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1lR2E-Ept94PJYb2dSHOKRA1nx8idFMhw
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2020
+  notes: 'Maths G11/Exams 2020; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-232
   subject: mathematics
   grade: '11'
@@ -3295,10 +3761,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1OxVqxjslQwOvkGEuXaYGFLPrzc1bR8qT
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2021; September
+  notes: 'Maths G11/Exams 2021; September; Phase 3 acquisition failed: URLError: <urlopen
+    error TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-233
   subject: mathematics
   grade: '11'
@@ -3309,10 +3777,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/17b7CosTMp5uFJWA1jU-HDH23vBd3WPcs
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2021
+  notes: 'Maths G11/Exams 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-234
   subject: mathematics
   grade: '11'
@@ -3323,10 +3793,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1MwCgtCgVLBOG14ST_-EW3dfNGw0QF3TO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2021
+  notes: 'Maths G11/Exams 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-235
   subject: mathematics
   grade: '11'
@@ -3337,10 +3809,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1o7eQEtd4Of8hbEJBFVmw86kIkcxnB9Lw
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2021
+  notes: 'Maths G11/Exams 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-236
   subject: mathematics
   grade: '11'
@@ -3351,10 +3825,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1n7G4omJEVlY1begP0mMaOQQlc9fd3tim
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2021
+  notes: 'Maths G11/Exams 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-237
   subject: mathematics
   grade: '11'
@@ -3365,10 +3841,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1lXsXEm1U6kd_tNap5XhrQlmcDFZ-OUe0
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2021
+  notes: 'Maths G11/Exams 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2021-238
   subject: mathematics
   grade: '11'
@@ -3379,10 +3857,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1o99y9dL6nvISGIEnLUimXHCWa_P0o_84
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2021
+  notes: 'Maths G11/Exams 2021; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-239
   subject: mathematics
   grade: '11'
@@ -3393,10 +3873,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1D-gQuG92mGNXQ0Q_ouMrzzBxOAnJDZxY
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2022
+  notes: 'Maths G11/Exams 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-240
   subject: mathematics
   grade: '11'
@@ -3407,10 +3889,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1pboqLpsTTI16cG8zME9bfDZC3p01THsP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2022
+  notes: 'Maths G11/Exams 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-241
   subject: mathematics
   grade: '11'
@@ -3421,10 +3905,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1Zjyi7jUgYGPCPgA3n5FJ1FsyDK7BIkqf
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2022
+  notes: 'Maths G11/Exams 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-242
   subject: mathematics
   grade: '11'
@@ -3435,10 +3921,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1a9zqD5V7tYqQm18VfR6-FuvhQiF7ChRJ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2022
+  notes: 'Maths G11/Exams 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-243
   subject: mathematics
   grade: '11'
@@ -3449,10 +3937,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1oKi0GAd-P_xRUSTg_41vKB9pGyeUnqPq
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2022
+  notes: 'Maths G11/Exams 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-244
   subject: mathematics
   grade: '11'
@@ -3463,10 +3953,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/13qlNV0rWdG5ny7FieN6e6_xuCu2esxXW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2022
+  notes: 'Maths G11/Exams 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-245
   subject: mathematics
   grade: '11'
@@ -3477,10 +3969,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1idB96wnchkzA7YcilnpNMpD4RUsm0Okv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2022
+  notes: 'Maths G11/Exams 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2022-246
   subject: mathematics
   grade: '11'
@@ -3491,10 +3985,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1YoQOATF7kAIPB9j-0K1ANqDupcg2uSrO
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2022
+  notes: 'Maths G11/Exams 2022; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-247
   subject: mathematics
   grade: '11'
@@ -3505,10 +4001,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1UXP7QmYu-hW4Afw7m58-KWSpaNNoZdx9
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2023
+  notes: 'Maths G11/Exams 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-248
   subject: mathematics
   grade: '11'
@@ -3519,10 +4017,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1e9Uk6dcgCM19xFdvU58rpbxJ3WHT44ZS
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2023
+  notes: 'Maths G11/Exams 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-249
   subject: mathematics
   grade: '11'
@@ -3533,10 +4033,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/16YrDezuRB2AVJ14i5LmOGhiA4eXVD6NP
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2023
+  notes: 'Maths G11/Exams 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-250
   subject: mathematics
   grade: '11'
@@ -3547,10 +4049,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1k_a9cmJB6MyHdRgbs5i4WM5DDnrQOwR4
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2023
+  notes: 'Maths G11/Exams 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-251
   subject: mathematics
   grade: '11'
@@ -3561,10 +4065,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1bHMKxgT9H0jfJ6UOwlrMDB_rHyQ41la6
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2023
+  notes: 'Maths G11/Exams 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-252
   subject: mathematics
   grade: '11'
@@ -3575,10 +4081,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/18rZ02PRXCwNhK6aKYTzfhBOtYNyooPYb
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2023
+  notes: 'Maths G11/Exams 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-253
   subject: mathematics
   grade: '11'
@@ -3589,10 +4097,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/11R5OqPPcp-r7aigadOX_IKGylacUP198
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2023
+  notes: 'Maths G11/Exams 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2023-254
   subject: mathematics
   grade: '11'
@@ -3603,10 +4113,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1CogXssn55CniKM8I3wuRrMddBES3s3HW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2023
+  notes: 'Maths G11/Exams 2023; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-255
   subject: mathematics
   grade: '11'
@@ -3617,10 +4129,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1Bnvqvcq6XgO96jvfHxrGVsH8ULV1XVNQ
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2024
+  notes: 'Maths G11/Exams 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-256
   subject: mathematics
   grade: '11'
@@ -3631,10 +4145,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1cPjRnnHTQ3QMSdrb7JQN-qWwHxcFuNWl
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2024
+  notes: 'Maths G11/Exams 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-257
   subject: mathematics
   grade: '11'
@@ -3645,10 +4161,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1vlOLtvPmPrLxEWlSF3oYxPLpjact2h-C
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2024
+  notes: 'Maths G11/Exams 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-258
   subject: mathematics
   grade: '11'
@@ -3659,10 +4177,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1pW2oc2zmCW0nYAnBwa2a9hpsaWDQG1A_
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2024
+  notes: 'Maths G11/Exams 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-259
   subject: mathematics
   grade: '11'
@@ -3673,10 +4193,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/13YCwgnBkkgMDgYkoB32-Aklcw0h_cdCv
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2024
+  notes: 'Maths G11/Exams 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-260
   subject: mathematics
   grade: '11'
@@ -3687,10 +4209,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/15qP6xw6yIgYf7U5xwP_MrgusNMx7f6KT
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2024
+  notes: 'Maths G11/Exams 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-261
   subject: mathematics
   grade: '11'
@@ -3701,10 +4225,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1pPJngqAkcGEj7wm7kJTVnRPbeGGwonif
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2024
+  notes: 'Maths G11/Exams 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2024-262
   subject: mathematics
   grade: '11'
@@ -3715,10 +4241,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/14iRmdMC8JwwUYsK6VhcFrmQo7LDinYIA
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2024
+  notes: 'Maths G11/Exams 2024; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-263
   subject: mathematics
   grade: '11'
@@ -3729,10 +4257,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1jgddhWifTJyEl0UY2esKZYp5c4gGYXzy
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2025
+  notes: 'Maths G11/Exams 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-264
   subject: mathematics
   grade: '11'
@@ -3743,10 +4273,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1kLviwSXvvgL99czk_ifbujaQEsFIcmzo
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2025
+  notes: 'Maths G11/Exams 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-265
   subject: mathematics
   grade: '11'
@@ -3757,10 +4289,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1_DW-m07-KMNbLgxqv5kuwN-Mz3F4W1iW
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2025
+  notes: 'Maths G11/Exams 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-266
   subject: mathematics
   grade: '11'
@@ -3771,10 +4305,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1NUEi1DKgBxztEHV6d6n0JNQUWwzC2evE
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2025
+  notes: 'Maths G11/Exams 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-267
   subject: mathematics
   grade: '11'
@@ -3785,10 +4321,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/11w34udet-txDaaiw3T9a9RtgrX_zPc8E
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2025
+  notes: 'Maths G11/Exams 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-268
   subject: mathematics
   grade: '11'
@@ -3799,10 +4337,12 @@ sources:
   paper_number: P2
   source_url: https://drive.google.com/file/d/1D_ClZbNvxfNmSFxKCGMB-dzer_Q9-XBp
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2025
+  notes: 'Maths G11/Exams 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-269
   subject: mathematics
   grade: '11'
@@ -3813,10 +4353,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1tnEaZ-CjMd1IoVjMQUdbYUJXnfAKPb4U
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2025
+  notes: 'Maths G11/Exams 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-2025-270
   subject: mathematics
   grade: '11'
@@ -3827,10 +4369,12 @@ sources:
   paper_number: P1
   source_url: https://drive.google.com/file/d/1iI_kVDZX2OiCc0R8kr8QKVbaeOL39pmD
   retrieved_at: '2026-09-03T09:04:28.066534Z'
-  access_status: accessible
+  access_status: inaccessible
   local_path: null
   file_hash: null
-  notes: Maths G11/Exams 2025
+  notes: 'Maths G11/Exams 2025; Phase 3 acquisition failed: URLError: <urlopen error
+    TLS/SSL connection has been closed (EOF) (_ssl.c:992)> (sandbox TLS restriction
+    to Google Drive).'
 - source_id: SOURCE-ORC-MAT-UNK-271
   subject: mathematics
   grade: unknown
@@ -3862,3 +4406,11 @@ sources:
   notes: External link on ORC Mathematics page; external source, grade applicability
     not stated
 run_id: 20260903T090314Z_25ba
+run_records:
+- run_id: 20260903T091854Z_8c5d
+  subject: mathematics
+  phase: 3
+  status: completed_with_review
+  sources_acquired: 0
+  sources_failed: 270
+  notes: All downloads failed due to sandbox TLS restriction to Google services.

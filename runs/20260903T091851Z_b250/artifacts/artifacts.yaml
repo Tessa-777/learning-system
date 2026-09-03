@@ -1,0 +1,7 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/ap_mathematics/ACQUISITION_REPORT.yaml
+  type: report
+  created_or_modified: '2026-09-03T09:18:54.675822Z'
+  source_run: 20260903T091851Z_b250
+  content_hash: 3b0258d70d38543ec9449e7d93508fb5b478ee7d689d41e01dbdd8ecd7d77c79
+  description: Phase 3 acquisition failure report for ap_mathematics

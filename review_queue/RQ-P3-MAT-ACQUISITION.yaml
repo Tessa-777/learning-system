@@ -1,0 +1,15 @@
+issue: Phase 3 acquisition failed for all accessible Mathematics sources due to sandbox TLS/SSL restriction to Google Drive (2 external sources excluded)
+affected_entity: SOURCE-ORC-MAT-2016-??? through SOURCE-ORC-MAT-2026-??? (270 accessible, 2 external)
+evidence:
+  - inventory: data/raw/mathematics/SOURCE_INVENTORY.yaml (272 total; 270 accessible before Phase 3)
+  - run: runs/20260903T091854Z_8c5d
+  - errors: 270 acquisition_failed errors in errors.json
+  - external: 2 sources (stithian.com, Mindbourne portal) remain external
+possible_resolutions:
+  - Retry Phase 3 in an environment with working Google Drive access
+  - Verify external sources' grade applicability
+  - Confirm Mathematics inventory completeness (some file IDs may need re-verification)
+recommended_review: Human review required; verify Mathematics source completeness and external sources; do not proceed to Phase 4 without resolving
+subject: mathematics
+phase: 3
+created_at: '2026-09-03T09:19:00Z'
