@@ -30,12 +30,18 @@ from typing import Any, Iterable, Mapping
 
 from . import ids
 
-try:
+try:  # prefer the complete implementation when it is installed
     import yaml
-except ImportError as exc:  # pragma: no cover - defensive
-    raise RuntimeError(
-        "PyYAML is required. Install dependencies with `pip install -r requirements.txt`."
-    ) from exc
+
+    YAML_BACKEND = "pyyaml"
+except ImportError:  # pragma: no cover - restricted/offline environments
+    # PyYAML cannot be installed where pip has no network. Fall back to the
+    # bundled standard-library subset writer so run logs stay writable.
+    # See core/yamllite.py for the supported subset and its limits.
+    from . import yamllite as _yamllite
+
+    yaml = None
+    YAML_BACKEND = "yamllite"
 
 
 def _utcnow_iso() -> str:
@@ -329,7 +335,10 @@ class RunLogger:
     def _write_artifacts(self) -> None:
         path = self.run_dir / "artifacts" / "artifacts.yaml"
         with path.open("w", encoding="utf-8") as fh:
-            yaml.safe_dump(list(self._artifacts), fh, sort_keys=False)
+            if YAML_BACKEND == "pyyaml":
+                yaml.safe_dump(list(self._artifacts), fh, sort_keys=False)
+            else:
+                fh.write(_yamllite.dumps(list(self._artifacts)))
         self._artifacts_manifest_path = path
 
 

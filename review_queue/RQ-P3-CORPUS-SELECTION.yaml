@@ -1,0 +1,32 @@
+review_id: RQ-P3-CORPUS-SELECTION
+phase: 3-selection
+raised_at: 2026-09-04T16:58:15.364826Z
+severity: high
+status: open
+title: Corpus scope reduced from 821 records to a saturation sample
+summary: Phase 3 no longer acquires every discovered source. The selection is 60 documents chosen by assessment form. This requires human sign-off because it changes what the knowledge bank can claim to cover.
+requires_human_decision:
+- approve the per-subject paper budget (5)
+- approve the strata left unrepresented (see per-subject notes)
+- accept that 4 of 6 subjects have no curriculum anchor document, so Phase 7 topic hierarchies will be `derived`
+- accept that history has effectively no memoranda, so Phase 6 cannot align most history questions
+- confirm whether byte-exact originals will be supplied, or whether proxy transcriptions are acceptable as Tier-1 derivative evidence
+papers_without_memorandum:
+- subject: physics
+  title: 2024_G11_Physics_IeBT-MCQ_QP.pdf
+- subject: history
+  title: GRADE 11 Nov Exam P1.docx
+- subject: history
+  title: GR 11 JULY EXAM 2013 P1.docx
+- subject: history
+  title: GRADE 11 Nov Exam P2 2013.docx
+- subject: history
+  title: GR 11 JULY EXAM 2013.docx
+- subject: mathematics
+  title: 2a. Grade 11 Paper 2.pdf
+affected_artifacts:
+- data/raw/CORPUS_SELECTION.yaml
+- data/raw/DOWNLOAD_CHECKLIST.md
+- CORPUS_SUFFICIENCY_POLICY.md
+- SYSTEM_SPEC.md
+- IMPLEMENTATION_SPEC.md

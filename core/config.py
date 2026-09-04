@@ -10,12 +10,18 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Any, Mapping
 
-try:
+try:  # prefer the complete implementation when it is installed
     import yaml
-except ImportError as exc:  # pragma: no cover - defensive
-    raise RuntimeError(
-        "PyYAML is required. Install dependencies with `pip install -r requirements.txt`."
-    ) from exc
+
+    YAML_BACKEND = "pyyaml"
+except ImportError:  # pragma: no cover - restricted/offline environments
+    # PyYAML cannot be installed where pip has no network. Fall back to the
+    # bundled standard-library subset parser so the repository stays runnable.
+    # See core/yamllite.py for the exact supported subset and its limits.
+    from . import yamllite as _yamllite
+
+    yaml = None
+    YAML_BACKEND = "yamllite"
 
 # Repo root is the directory that contains this package's parent.
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -112,7 +118,10 @@ class Config:
 
 def _read_yaml(path: Path) -> Mapping[str, Any]:
     with path.open("r", encoding="utf-8") as fh:
-        data = yaml.safe_load(fh)
+        if YAML_BACKEND == "pyyaml":
+            data = yaml.safe_load(fh)
+        else:
+            data = _yamllite.loads(fh.read())
     if data is None:
         raise ConfigError(f"Config file is empty: {path}")
     if not isinstance(data, dict):

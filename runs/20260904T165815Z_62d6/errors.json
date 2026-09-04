@@ -1,0 +1,189 @@
+[
+  {
+    "timestamp": "2026-09-04T16:58:15.364580Z",
+    "phase": "3-selection",
+    "subject": "biology",
+    "error_type": "corpus_gap",
+    "message": "NO authoritative curriculum document (SAG / syllabus / examination guideline) exists for this subject in the ORC inventory. Phase 7 must therefore derive the topic hierarchy from Tier-1 evidence inside the papers themselves - several carry their own mark-allocation tables naming the topic of every question - and must mark that hierarchy `derived`, not `curriculum`.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364588Z",
+    "phase": "3-selection",
+    "subject": "physics",
+    "error_type": "corpus_gap",
+    "message": "1 past-paper record(s) excluded as out of scope (see `excluded`); these remain in the Phase 2 inventory for provenance.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364591Z",
+    "phase": "3-selection",
+    "subject": "physics",
+    "error_type": "corpus_gap",
+    "message": "budget of 5 papers exhausted before stratum physics|ieb_external|unknown|trial (3 candidates) could be sampled; stratum left unrepresented and flagged for review.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364594Z",
+    "phase": "3-selection",
+    "subject": "physics",
+    "error_type": "corpus_gap",
+    "message": "budget of 5 papers exhausted before stratum physics|school_internal|unknown|mid_year (8 candidates) could be sampled; stratum left unrepresented and flagged for review.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364598Z",
+    "phase": "3-selection",
+    "subject": "physics",
+    "error_type": "corpus_gap",
+    "message": "budget of 5 papers exhausted before stratum physics|school_internal|unknown|unknown (5 candidates) could be sampled; stratum left unrepresented and flagged for review.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364600Z",
+    "phase": "3-selection",
+    "subject": "physics",
+    "error_type": "corpus_gap",
+    "message": "budget of 5 papers exhausted before stratum physics|school_internal|P1|final (1 candidates) could be sampled; stratum left unrepresented and flagged for review.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364603Z",
+    "phase": "3-selection",
+    "subject": "physics",
+    "error_type": "corpus_gap",
+    "message": "1 of 5 selected papers have no memorandum or marking guide in the ORC inventory. Phase 6 (question-to-memo alignment) cannot be completed for these; they remain unresolved rather than being inferred (AGENTS.md rule 4).",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364606Z",
+    "phase": "3-selection",
+    "subject": "history",
+    "error_type": "corpus_gap",
+    "message": "budget of 5 papers exhausted before stratum history|school_internal|P2|mid_year (1 candidates) could be sampled; stratum left unrepresented and flagged for review.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364609Z",
+    "phase": "3-selection",
+    "subject": "history",
+    "error_type": "corpus_gap",
+    "message": "4 of 5 selected papers have no memorandum or marking guide in the ORC inventory. Phase 6 (question-to-memo alignment) cannot be completed for these; they remain unresolved rather than being inferred (AGENTS.md rule 4).",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364612Z",
+    "phase": "3-selection",
+    "subject": "english",
+    "error_type": "corpus_gap",
+    "message": "NO authoritative curriculum document (SAG / syllabus / examination guideline) exists for this subject in the ORC inventory. Phase 7 must therefore derive the topic hierarchy from Tier-1 evidence inside the papers themselves - several carry their own mark-allocation tables naming the topic of every question - and must mark that hierarchy `derived`, not `curriculum`.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364615Z",
+    "phase": "3-selection",
+    "subject": "ap_mathematics",
+    "error_type": "corpus_gap",
+    "message": "budget of 5 papers exhausted before stratum ap_mathematics|school_internal|P2|mid_year (5 candidates) could be sampled; stratum left unrepresented and flagged for review.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364617Z",
+    "phase": "3-selection",
+    "subject": "ap_mathematics",
+    "error_type": "corpus_gap",
+    "message": "budget of 5 papers exhausted before stratum ap_mathematics|school_internal|P2|unknown (2 candidates) could be sampled; stratum left unrepresented and flagged for review.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364619Z",
+    "phase": "3-selection",
+    "subject": "ap_mathematics",
+    "error_type": "corpus_gap",
+    "message": "budget of 5 papers exhausted before stratum ap_mathematics|school_internal|unknown|unknown (3 candidates) could be sampled; stratum left unrepresented and flagged for review.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364622Z",
+    "phase": "3-selection",
+    "subject": "ap_mathematics",
+    "error_type": "corpus_gap",
+    "message": "budget of 5 papers exhausted before stratum ap_mathematics|school_internal|unknown|final (2 candidates) could be sampled; stratum left unrepresented and flagged for review.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364624Z",
+    "phase": "3-selection",
+    "subject": "ap_mathematics",
+    "error_type": "corpus_gap",
+    "message": "NO authoritative curriculum document (SAG / syllabus / examination guideline) exists for this subject in the ORC inventory. Phase 7 must therefore derive the topic hierarchy from Tier-1 evidence inside the papers themselves - several carry their own mark-allocation tables naming the topic of every question - and must mark that hierarchy `derived`, not `curriculum`.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364627Z",
+    "phase": "3-selection",
+    "subject": "mathematics",
+    "error_type": "corpus_gap",
+    "message": "NO authoritative curriculum document (SAG / syllabus / examination guideline) exists for this subject in the ORC inventory. Phase 7 must therefore derive the topic hierarchy from Tier-1 evidence inside the papers themselves - several carry their own mark-allocation tables naming the topic of every question - and must mark that hierarchy `derived`, not `curriculum`.",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-04T16:58:15.364629Z",
+    "phase": "3-selection",
+    "subject": "mathematics",
+    "error_type": "corpus_gap",
+    "message": "1 of 5 selected papers have no memorandum or marking guide in the ORC inventory. Phase 6 (question-to-memo alignment) cannot be completed for these; they remain unresolved rather than being inferred (AGENTS.md rule 4).",
+    "affected_artifact": null,
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  }
+]

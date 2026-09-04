@@ -1,0 +1,860 @@
+selection_id: CORPUS-SEL-V1
+phase: 3-selection
+generated_at: 2026-09-04T16:58:15.360038Z
+policy_document: CORPUS_SUFFICIENCY_POLICY.md
+spec_version: 1.1.0
+primary_source: https://sites.google.com/stbenedicts.co.za/orc
+objective: Select the minimum authoritative corpus that saturates the question taxonomy and the Understanding Models, rather than the maximum corpus that covers the syllabus.
+sampling_method:
+  stratification: assessment form = setter x paper_form x session
+  pass_1: coverage - one exemplar per stratum
+  pass_2: depth - a second, older exemplar for the largest strata
+  papers_per_subject_budget: 5
+  min_year_gap_between_exemplars: 3
+  memo_pairing_strategies:
+  - stratum_year_unique
+  - order_prefix
+  - qp_mg_suffix
+  - title_similarity
+  memo_availability_is_a_selection_criterion: true
+  stopping_rule: empirical saturation at Phase 8/13, not a fixed document count; see CORPUS_SUFFICIENCY_POLICY.md
+discovered_records_total: 821
+totals:
+  papers: 30
+  memoranda: 24
+  companions: 4
+  curriculum_anchors: 2
+  documents_to_acquire: 60
+subjects:
+  biology:
+    subject: biology
+    candidate_past_papers: 10
+    strata_found: 3
+    strata_sampled: 3
+    papers_selected: 5
+    papers:
+    - source_id: SOURCE-ORC-BIO-2025-045
+      title: Year-end exam paper 1 2025.pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/1I5AoWXWh3cI90kJDqEqVl5ZLov1ytPWa
+      drive_file_id: 1I5AoWXWh3cI90kJDqEqVl5ZLov1ytPWa
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: final
+      stratum_key: biology|school_internal|P1|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum biology|school_internal|P1|final (4 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-BIO-2025-046
+        title: Year-end exam paper 1 MG 2025.pdf
+        source_url: https://drive.google.com/file/d/1z2dKUWTd6EQV60neP2GNKwZXaCO6ZJxs
+        document_type: marking_guide
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 1.00 (runner-up 0.60)
+      companions: []
+      expected_path: data/raw/biology/papers/Year-end_exam_paper_1_2025.pdf
+      flags: []
+    - source_id: SOURCE-ORC-BIO-2022-012
+      title: Year-end exam P1.pdf
+      year: 2022
+      source_url: https://drive.google.com/file/d/1ypXeJufcNU3hbhFZfkRXwNVwI6ojMwYv
+      drive_file_id: 1ypXeJufcNU3hbhFZfkRXwNVwI6ojMwYv
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: final
+      stratum_key: biology|school_internal|P1|final
+      exemplar_role: secondary
+      selection_reason: "depth pass: second exemplar of stratum biology|school_internal|P1|final, 2022 vs newest 2025; two exemplars are the minimum needed to show a question family recurs rather than being a one-off"
+      memo:
+        source_id: SOURCE-ORC-BIO-2022-011
+        title: Year-end exam P1 MG.pdf
+        source_url: https://drive.google.com/file/d/1Eub9mhE-rRNAan75CzntbKYC9r_gZTgK
+        document_type: marking_guide
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 1.00 (runner-up 0.00)
+      companions: []
+      expected_path: data/raw/biology/papers/Year-end_exam_P1.pdf
+      flags: []
+    - source_id: SOURCE-ORC-BIO-2025-043
+      title: Mid-year exam Paper 1.pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/1xIW64qHssbdKKfodqq55rjt8ZjRvsUvK
+      drive_file_id: 1xIW64qHssbdKKfodqq55rjt8ZjRvsUvK
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: mid_year
+      stratum_key: biology|school_internal|P1|mid_year
+      exemplar_role: primary
+      selection_reason: "coverage pass (sitting diversity): exemplar of stratum biology|school_internal|P1|mid_year (3 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-BIO-2025-042
+        title: Mid-year exam Paper 1 MG.pdf
+        source_url: https://drive.google.com/file/d/1B2HvA9JfbnPTBgfaA6rGJAOGYxrhCLiQ
+        document_type: marking_guide
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 1.00 (runner-up 0.60)
+      companions: []
+      expected_path: data/raw/biology/papers/Mid-year_exam_Paper_1.pdf
+      flags: []
+    - source_id: SOURCE-ORC-BIO-2025-048
+      title: Year-end exam paper 2 2025.pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/1bw76ue1bNFT8jfyCN99ihgguYGNWauTU
+      drive_file_id: 1bw76ue1bNFT8jfyCN99ihgguYGNWauTU
+      stratum:
+        setter: school_internal
+        paper_form: P2
+        session: final
+      stratum_key: biology|school_internal|P2|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum biology|school_internal|P2|final (3 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-BIO-2025-047
+        title: Year-end exam paper 2 2025 MG.pdf
+        source_url: https://drive.google.com/file/d/13FnEc_apcoGx3lL8pdxFKF7ef0xR3Nrc
+        document_type: marking_guide
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 1.00 (runner-up 0.00)
+      companions:
+      - source_id: SOURCE-ORC-BIO-2025-044
+        title: NOVEMBER P2 SOURCE BOOKLET.pdf
+        year: 2025
+        document_type: reference
+        source_url: https://drive.google.com/file/d/17nUa51I7VogcAIa224iiHC115SWTeRoi
+        drive_file_id: 17nUa51I7VogcAIa224iiHC115SWTeRoi
+        role: companion_document
+        reason: the question paper cannot be answered without it (source booklet / data sheet / diagram booklet / answer sheet)
+      expected_path: data/raw/biology/papers/Year-end_exam_paper_2_2025.pdf
+      flags: []
+    - source_id: SOURCE-ORC-BIO-2023-024
+      title: November exam paper 2.pdf
+      year: 2023
+      source_url: https://drive.google.com/file/d/1XoHjdMs3Fdjiws7I51f06XgU5D6BbjG7
+      drive_file_id: 1XoHjdMs3Fdjiws7I51f06XgU5D6BbjG7
+      stratum:
+        setter: school_internal
+        paper_form: P2
+        session: final
+      stratum_key: biology|school_internal|P2|final
+      exemplar_role: secondary
+      selection_reason: "depth pass: second exemplar of stratum biology|school_internal|P2|final, 2023 vs newest 2025; two exemplars are the minimum needed to show a question family recurs rather than being a one-off"
+      memo:
+        source_id: SOURCE-ORC-BIO-2023-023
+        title: November exam paper 2 MG.pdf
+        source_url: https://drive.google.com/file/d/1LH_Y7QvKh0MbLR7Jl-f_hkgQSw587GMZ
+        document_type: marking_guide
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 1.00 (runner-up 0.00)
+      companions: []
+      expected_path: data/raw/biology/papers/November_exam_paper_2.pdf
+      flags: []
+    curriculum_anchors: []
+    excluded: []
+    notes:
+    - NO authoritative curriculum document (SAG / syllabus / examination guideline) exists for this subject in the ORC inventory. Phase 7 must therefore derive the topic hierarchy from Tier-1 evidence inside the papers themselves - several carry their own mark-allocation tables naming the topic of every question - and must mark that hierarchy `derived`, not `curriculum`.
+  physics:
+    subject: physics
+    candidate_past_papers: 67
+    strata_found: 9
+    strata_sampled: 5
+    papers_selected: 5
+    papers:
+    - source_id: SOURCE-ORC-PHY-2024-047
+      title: 2024_G11_Physics_IeBT-MCQ_QP.pdf
+      year: 2024
+      source_url: https://drive.google.com/file/d/1PzAht7LYTT6qRBBqESX4HtqmRysQrmof
+      drive_file_id: 1PzAht7LYTT6qRBBqESX4HtqmRysQrmof
+      stratum:
+        setter: ieb_external
+        paper_form: MCQ
+        session: trial
+      stratum_key: physics|ieb_external|MCQ|trial
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum physics|ieb_external|MCQ|trial (2 candidate papers in this form) [no memorandum paired]"
+      memo:
+        source_id: null
+        title: null
+        source_url: null
+        document_type: null
+        pair_method: none
+        pair_confidence: none
+        note: no memorandum or marking guide could be paired from metadata; requires human pairing
+      companions: []
+      expected_path: data/raw/physics/papers/2024_G11_Physics_IeBT-MCQ_QP.pdf
+      flags:
+      - no_memorandum_in_corpus
+    - source_id: SOURCE-ORC-PHY-2023-046
+      title: 2023_G11_Physics_IeBT-P1_QP.pdf
+      year: 2023
+      source_url: https://drive.google.com/file/d/1tFAP_WwJpDro9-e1N1-hcMa2vgJExTqZ
+      drive_file_id: 1tFAP_WwJpDro9-e1N1-hcMa2vgJExTqZ
+      stratum:
+        setter: ieb_external
+        paper_form: P1
+        session: trial
+      stratum_key: physics|ieb_external|P1|trial
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum physics|ieb_external|P1|trial (17 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-PHY-2023-045
+        title: 2023_G11_Physics_IeBT-P1_MG.pdf
+        source_url: https://drive.google.com/file/d/12TvWB7g55SA3FloAaUhRUVmvBndoVrml
+        document_type: marking_guide
+        pair_method: qp_mg_suffix
+        pair_confidence: high
+        note: null
+      companions: []
+      expected_path: data/raw/physics/papers/2023_G11_Physics_IeBT-P1_QP.pdf
+      flags: []
+    - source_id: SOURCE-ORC-PHY-2023-129
+      title: IeBT 2023 P2
+      year: 2023
+      source_url: https://drive.google.com/file/d/12CcwcJlfUuPtYnFImeFp7vm6AuSo_fqa
+      drive_file_id: 12CcwcJlfUuPtYnFImeFp7vm6AuSo_fqa
+      stratum:
+        setter: ieb_external
+        paper_form: P2
+        session: trial
+      stratum_key: physics|ieb_external|P2|trial
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum physics|ieb_external|P2|trial (9 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-PHY-2023-130
+        title: IeBT 2023 P2 Memo
+        source_url: https://drive.google.com/file/d/12BjSZBGU32VBpB_bJPiXsk1G1SpfUK5Y
+        document_type: memorandum
+        pair_method: stratum_year_unique
+        pair_confidence: high
+        note: only memorandum in 2023 matching form ieb_external P2 (trial)
+      companions: []
+      expected_path: data/raw/physics/papers/IeBT_2023_P2
+      flags: []
+    - source_id: SOURCE-ORC-PHY-2025-233
+      title: P1_QP 2025
+      year: 2025
+      source_url: https://drive.google.com/file/d/1HWPnGoTtUIoSlth6L2PhIp73irznVlkA
+      drive_file_id: 1HWPnGoTtUIoSlth6L2PhIp73irznVlkA
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: unknown
+      stratum_key: physics|school_internal|P1|unknown
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum physics|school_internal|P1|unknown (11 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-PHY-2025-232
+        title: P1_MG 2025
+        source_url: https://drive.google.com/file/d/1DUbRsICu5SKoR_vEr7hH0jbjUoYShYYm
+        document_type: marking_guide
+        pair_method: qp_mg_suffix
+        pair_confidence: high
+        note: null
+      companions:
+      - source_id: SOURCE-ORC-PHY-2025-231
+        title: P1_DS 2025
+        year: 2025
+        document_type: reference
+        source_url: https://drive.google.com/file/d/1cRYiee9O70xAx_UOzXVIq1L2K9wvvuxT
+        drive_file_id: 1cRYiee9O70xAx_UOzXVIq1L2K9wvvuxT
+        role: companion_document
+        reason: the question paper cannot be answered without it (source booklet / data sheet / diagram booklet / answer sheet)
+      expected_path: data/raw/physics/papers/P1_QP_2025
+      flags:
+      - stratum_partially_unknown
+    - source_id: SOURCE-ORC-PHY-2025-063
+      title: 2025_G11_Physics_Nov-Exam_QP.pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/1VmC43SnMFmWnWGbSeuSoSygSXpfsRM_z
+      drive_file_id: 1VmC43SnMFmWnWGbSeuSoSygSXpfsRM_z
+      stratum:
+        setter: school_internal
+        paper_form: unknown
+        session: final
+      stratum_key: physics|school_internal|unknown|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum physics|school_internal|unknown|final (11 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-PHY-2025-062
+        title: 2025_G11_Physics_Nov-Exam_MG.pdf
+        source_url: https://drive.google.com/file/d/1zlBXrqWiA9-MkQChLEyvhBtIALv0Khj6
+        document_type: marking_guide
+        pair_method: qp_mg_suffix
+        pair_confidence: high
+        note: null
+      companions:
+      - source_id: SOURCE-ORC-PHY-2025-231
+        title: P1_DS 2025
+        year: 2025
+        document_type: reference
+        source_url: https://drive.google.com/file/d/1cRYiee9O70xAx_UOzXVIq1L2K9wvvuxT
+        drive_file_id: 1cRYiee9O70xAx_UOzXVIq1L2K9wvvuxT
+        role: companion_document
+        reason: the question paper cannot be answered without it (source booklet / data sheet / diagram booklet / answer sheet)
+      expected_path: data/raw/physics/papers/2025_G11_Physics_Nov-Exam_QP.pdf
+      flags:
+      - stratum_partially_unknown
+    curriculum_anchors:
+    - source_id: SOURCE-ORC-PHY-UNK-196
+      title: IEB - SAG - PS (Subject Assessment Guidelines)
+      year: unknown
+      document_type: curriculum
+      source_url: https://drive.google.com/file/d/12gEedbL2Yaj14pNf-YQDJ_Q9x4QDzt13
+      drive_file_id: 12gEedbL2Yaj14pNf-YQDJ_Q9x4QDzt13
+      role: curriculum_anchor
+      reason: authoritative curriculum/assessment-guideline document required by Phase 7 (curriculum hierarchy must come from authoritative source material)
+    excluded:
+    - source_id: SOURCE-ORC-PHY-2021-119
+      title: IeBT 2021 Chemistry P2
+      reason: chemistry material held in the Physical Sciences folder; not in scope (SYSTEM_SPEC §6)
+    notes:
+    - 1 past-paper record(s) excluded as out of scope (see `excluded`); these remain in the Phase 2 inventory for provenance.
+    - budget of 5 papers exhausted before stratum physics|ieb_external|unknown|trial (3 candidates) could be sampled; stratum left unrepresented and flagged for review.
+    - budget of 5 papers exhausted before stratum physics|school_internal|unknown|mid_year (8 candidates) could be sampled; stratum left unrepresented and flagged for review.
+    - budget of 5 papers exhausted before stratum physics|school_internal|unknown|unknown (5 candidates) could be sampled; stratum left unrepresented and flagged for review.
+    - budget of 5 papers exhausted before stratum physics|school_internal|P1|final (1 candidates) could be sampled; stratum left unrepresented and flagged for review.
+    - 1 of 5 selected papers have no memorandum or marking guide in the ORC inventory. Phase 6 (question-to-memo alignment) cannot be completed for these; they remain unresolved rather than being inferred (AGENTS.md rule 4).
+  history:
+    subject: history
+    candidate_past_papers: 11
+    strata_found: 6
+    strata_sampled: 5
+    papers_selected: 5
+    papers:
+    - source_id: SOURCE-ORC-HIS-UNK-014
+      title: GRADE 11 Nov Exam P1.docx
+      year: unknown
+      source_url: https://drive.google.com/file/d/1S04Ao5SY0sLBY5tZQiR3vrRAXqkFZW2W
+      drive_file_id: 1S04Ao5SY0sLBY5tZQiR3vrRAXqkFZW2W
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: final
+      stratum_key: history|school_internal|P1|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum history|school_internal|P1|final (1 candidate papers in this form) [no memorandum paired]"
+      memo:
+        source_id: null
+        title: null
+        source_url: null
+        document_type: null
+        pair_method: none
+        pair_confidence: none
+        note: no memorandum or marking guide could be paired from metadata; requires human pairing
+      companions: []
+      expected_path: data/raw/history/papers/GRADE_11_Nov_Exam_P1.docx
+      flags:
+      - no_memorandum_in_corpus
+    - source_id: SOURCE-ORC-HIS-2013-007
+      title: GR 11 JULY EXAM 2013 P1.docx
+      year: 2013
+      source_url: https://drive.google.com/file/d/1CC4AXPcoJbWK2VfoTOGam_JI34EgsM6x
+      drive_file_id: 1CC4AXPcoJbWK2VfoTOGam_JI34EgsM6x
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: mid_year
+      stratum_key: history|school_internal|P1|mid_year
+      exemplar_role: primary
+      selection_reason: "coverage pass (sitting diversity): exemplar of stratum history|school_internal|P1|mid_year (1 candidate papers in this form) [no memorandum paired]"
+      memo:
+        source_id: null
+        title: null
+        source_url: null
+        document_type: null
+        pair_method: none
+        pair_confidence: none
+        note: no memorandum or marking guide could be paired from metadata; requires human pairing
+      companions: []
+      expected_path: data/raw/history/papers/GR_11_JULY_EXAM_2013_P1.docx
+      flags:
+      - no_memorandum_in_corpus
+    - source_id: SOURCE-ORC-HIS-2013-015
+      title: GRADE 11 Nov Exam P2 2013.docx
+      year: 2013
+      source_url: https://drive.google.com/file/d/1NCjO2UsL3ZkCZ1PQNlhwQ04vlnfNurhw
+      drive_file_id: 1NCjO2UsL3ZkCZ1PQNlhwQ04vlnfNurhw
+      stratum:
+        setter: school_internal
+        paper_form: P2
+        session: final
+      stratum_key: history|school_internal|P2|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum history|school_internal|P2|final (1 candidate papers in this form) [no memorandum paired]"
+      memo:
+        source_id: null
+        title: null
+        source_url: null
+        document_type: null
+        pair_method: none
+        pair_confidence: none
+        note: no memorandum or marking guide could be paired from metadata; requires human pairing
+      companions: []
+      expected_path: data/raw/history/papers/GRADE_11_Nov_Exam_P2_2013.docx
+      flags:
+      - no_memorandum_in_corpus
+    - source_id: SOURCE-ORC-HIS-2017-002
+      title: Copy of Gr 11- Exam - Cold War - Exam - Oct 2017.docx
+      year: 2017
+      source_url: https://drive.google.com/file/d/1BLZ7PDd7ixujROZZ219TJj5OPCUCpFg6
+      drive_file_id: 1BLZ7PDd7ixujROZZ219TJj5OPCUCpFg6
+      stratum:
+        setter: school_internal
+        paper_form: unknown
+        session: final
+      stratum_key: history|school_internal|unknown|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum history|school_internal|unknown|final (1 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-HIS-2017-003
+        title: Copy of Gr 11- Exam - Cold War - Exam MEMO - Oct 2017.docx
+        source_url: https://drive.google.com/file/d/1NWJ15t-mBmyECZclqn_J0nzhEFLqDWaJ
+        document_type: memorandum
+        pair_method: stratum_year_unique
+        pair_confidence: high
+        note: only memorandum in 2017 matching form school_internal unknown (final)
+      companions:
+      - source_id: SOURCE-ORC-HIS-2017-004
+        title: Copy of Gr 11- Exam Source Booklet - Cold War - Exam - Oct 2017.docx
+        year: 2017
+        document_type: reference
+        source_url: https://drive.google.com/file/d/1GHl4VuFEe_DnGNSk0ht2bFfehzJS7XI5
+        drive_file_id: 1GHl4VuFEe_DnGNSk0ht2bFfehzJS7XI5
+        role: companion_document
+        reason: the question paper cannot be answered without it (source booklet / data sheet / diagram booklet / answer sheet)
+      expected_path: data/raw/history/papers/Copy_of_Gr_11-_Exam_-_Cold_War_-_Exam_-_Oct_2017.docx
+      flags:
+      - stratum_partially_unknown
+    - source_id: SOURCE-ORC-HIS-2013-008
+      title: GR 11 JULY EXAM 2013.docx
+      year: 2013
+      source_url: https://drive.google.com/file/d/1jdN6MfF4hHdhjRszPKOaRopHQCNBNRuF
+      drive_file_id: 1jdN6MfF4hHdhjRszPKOaRopHQCNBNRuF
+      stratum:
+        setter: school_internal
+        paper_form: unknown
+        session: mid_year
+      stratum_key: history|school_internal|unknown|mid_year
+      exemplar_role: primary
+      selection_reason: "coverage pass (sitting diversity): exemplar of stratum history|school_internal|unknown|mid_year (6 candidate papers in this form) [no memorandum paired]"
+      memo:
+        source_id: null
+        title: null
+        source_url: null
+        document_type: null
+        pair_method: none
+        pair_confidence: none
+        note: no memorandum or marking guide could be paired from metadata; requires human pairing
+      companions: []
+      expected_path: data/raw/history/papers/GR_11_JULY_EXAM_2013.docx
+      flags:
+      - no_memorandum_in_corpus
+      - stratum_partially_unknown
+    curriculum_anchors:
+    - source_id: SOURCE-ORC-HIS-2015-016
+      title: July 2015 Exam Requirements for 10,11 and 12 (1).docx
+      year: 2015
+      document_type: reference
+      source_url: https://drive.google.com/file/d/13FfbIeCNuZ1JLtEvwslYWqnHrADxtemy
+      drive_file_id: 13FfbIeCNuZ1JLtEvwslYWqnHrADxtemy
+      role: curriculum_anchor
+      reason: authoritative curriculum/assessment-guideline document required by Phase 7 (curriculum hierarchy must come from authoritative source material)
+    excluded: []
+    notes:
+    - budget of 5 papers exhausted before stratum history|school_internal|P2|mid_year (1 candidates) could be sampled; stratum left unrepresented and flagged for review.
+    - 4 of 5 selected papers have no memorandum or marking guide in the ORC inventory. Phase 6 (question-to-memo alignment) cannot be completed for these; they remain unresolved rather than being inferred (AGENTS.md rule 4).
+  english:
+    subject: english
+    candidate_past_papers: 35
+    strata_found: 4
+    strata_sampled: 4
+    papers_selected: 5
+    papers:
+    - source_id: SOURCE-ORC-ENG-2025-069
+      title: Grade 11 FINAL EXAM P1 2025.pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/1nkCT-WCeydgO9V7ZJgYYwLH_TNWOqtiC
+      drive_file_id: 1nkCT-WCeydgO9V7ZJgYYwLH_TNWOqtiC
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: final
+      stratum_key: english|school_internal|P1|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum english|school_internal|P1|final (12 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-ENG-2025-065
+        title: Grade 11 EXAM P1 2025- Final version MG.pdf
+        source_url: https://drive.google.com/file/d/1CtJtSmylSh2w0JtKgAZBlFbFv9ukZUzt
+        document_type: marking_guide
+        pair_method: stratum_year_unique
+        pair_confidence: high
+        note: only memorandum in 2025 matching form school_internal P1 (final)
+      companions: []
+      expected_path: data/raw/english/papers/Grade_11_FINAL_EXAM_P1_2025.pdf
+      flags: []
+    - source_id: SOURCE-ORC-ENG-2014-005
+      title: Grade 11 Paper 1 Nov 2014.docx
+      year: 2014
+      source_url: https://drive.google.com/file/d/1V97dc4JGqV3smirzbBZjq541q0VWTKFY
+      drive_file_id: 1V97dc4JGqV3smirzbBZjq541q0VWTKFY
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: final
+      stratum_key: english|school_internal|P1|final
+      exemplar_role: secondary
+      selection_reason: "depth pass: second exemplar of stratum english|school_internal|P1|final, 2014 vs newest 2025; two exemplars are the minimum needed to show a question family recurs rather than being a one-off"
+      memo:
+        source_id: SOURCE-ORC-ENG-2014-004
+        title: Grade 11 Paper 1 Nov 2014 Memo.docx
+        source_url: https://drive.google.com/file/d/1t55tyWFb53pA13PzV6CpnJ3Xi0OpPtPf
+        document_type: memorandum
+        pair_method: stratum_year_unique
+        pair_confidence: high
+        note: only memorandum in 2014 matching form school_internal P1 (final)
+      companions: []
+      expected_path: data/raw/english/papers/Grade_11_Paper_1_Nov_2014.docx
+      flags: []
+    - source_id: SOURCE-ORC-ENG-2026-074
+      title: Grade 11 English Paper 1 July 2026 .pdf
+      year: 2026
+      source_url: https://drive.google.com/file/d/14dYLdQlGJw8bEqM8WDL-W6jnQW4aa7eg
+      drive_file_id: 14dYLdQlGJw8bEqM8WDL-W6jnQW4aa7eg
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: mid_year
+      stratum_key: english|school_internal|P1|mid_year
+      exemplar_role: primary
+      selection_reason: "coverage pass (sitting diversity): exemplar of stratum english|school_internal|P1|mid_year (12 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-ENG-2026-072
+        title: Final of Grade 11 English Paper 1 July 2026 Memo.pdf
+        source_url: https://drive.google.com/file/d/1dFBZwzmNHEMTPVomzFeAIBoUoFfKIMr5
+        document_type: memorandum
+        pair_method: stratum_year_unique
+        pair_confidence: high
+        note: only memorandum in 2026 matching form school_internal P1 (mid_year)
+      companions: []
+      expected_path: data/raw/english/papers/Grade_11_English_Paper_1_July_2026_.pdf
+      flags: []
+    - source_id: SOURCE-ORC-ENG-2020-036
+      title: Grade 11 Paper 1 2020.docx.pdf
+      year: 2020
+      source_url: https://drive.google.com/file/d/1DdO0IpZtF0ZOXklDXGuK6CnK3_6tPrTa
+      drive_file_id: 1DdO0IpZtF0ZOXklDXGuK6CnK3_6tPrTa
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: unknown
+      stratum_key: english|school_internal|P1|unknown
+      exemplar_role: primary
+      selection_reason: "coverage pass (sitting diversity): exemplar of stratum english|school_internal|P1|unknown (1 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-ENG-2020-035
+        title: Grade 11 Paper 1 2020 memo.docx.pdf
+        source_url: https://drive.google.com/file/d/1Jg_Blzx3Dnh-0yLsv5Vr3vckhb-skUoR
+        document_type: memorandum
+        pair_method: stratum_year_unique
+        pair_confidence: high
+        note: only memorandum in 2020 matching form school_internal P1 (unknown)
+      companions: []
+      expected_path: data/raw/english/papers/Grade_11_Paper_1_2020.docx.pdf
+      flags:
+      - stratum_partially_unknown
+    - source_id: SOURCE-ORC-ENG-2018-027
+      title: Grade 11 Paper 2 July 2018 .pdf
+      year: 2018
+      source_url: https://drive.google.com/file/d/1n_jBGpLPlPO0UPOwNGPljnekPI6CN52b
+      drive_file_id: 1n_jBGpLPlPO0UPOwNGPljnekPI6CN52b
+      stratum:
+        setter: school_internal
+        paper_form: P2
+        session: mid_year
+      stratum_key: english|school_internal|P2|mid_year
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum english|school_internal|P2|mid_year (10 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-ENG-2018-028
+        title: Grade 11 Paper 2 July 2018 Memo.pdf
+        source_url: https://drive.google.com/file/d/1pZjCvC6qUnGA6blCV0-KzwhDrwkbvLGQ
+        document_type: memorandum
+        pair_method: stratum_year_unique
+        pair_confidence: high
+        note: only memorandum in 2018 matching form school_internal P2 (mid_year)
+      companions: []
+      expected_path: data/raw/english/papers/Grade_11_Paper_2_July_2018_.pdf
+      flags: []
+    curriculum_anchors: []
+    excluded: []
+    notes:
+    - NO authoritative curriculum document (SAG / syllabus / examination guideline) exists for this subject in the ORC inventory. Phase 7 must therefore derive the topic hierarchy from Tier-1 evidence inside the papers themselves - several carry their own mark-allocation tables naming the topic of every question - and must mark that hierarchy `derived`, not `curriculum`.
+  ap_mathematics:
+    subject: ap_mathematics
+    candidate_past_papers: 46
+    strata_found: 9
+    strata_sampled: 5
+    papers_selected: 5
+    papers:
+    - source_id: SOURCE-ORC-APM-2025-079
+      title: Gr 11 FS Paper 1 November Exam 2025.pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/1dH3wm_JMeba7loiUH6w4eC-j7NgIxp_s
+      drive_file_id: 1dH3wm_JMeba7loiUH6w4eC-j7NgIxp_s
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: final
+      stratum_key: ap_mathematics|school_internal|P1|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum ap_mathematics|school_internal|P1|final (10 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-APM-2025-078
+        title: Gr 11 FS Paper 1 November Exam 2025 memo.pdf
+        source_url: https://drive.google.com/file/d/19TnqAgx6wP6JNft60k04r_slrvpU3cWD
+        document_type: memorandum
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 1.00 (runner-up 0.20)
+      companions: []
+      expected_path: data/raw/ap_mathematics/papers/Gr_11_FS_Paper_1_November_Exam_2025.pdf
+      flags: []
+    - source_id: SOURCE-ORC-APM-2025-083
+      title: July Gr11FS P1.pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/1Qdm8FFoDxq9ReJJ2rgd_vHXdi2U1HvbW
+      drive_file_id: 1Qdm8FFoDxq9ReJJ2rgd_vHXdi2U1HvbW
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: mid_year
+      stratum_key: ap_mathematics|school_internal|P1|mid_year
+      exemplar_role: primary
+      selection_reason: "coverage pass (sitting diversity): exemplar of stratum ap_mathematics|school_internal|P1|mid_year (7 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-APM-2025-082
+        title: July Gr11FS P1 - Memo.pdf
+        source_url: https://drive.google.com/file/d/1uZGiwDjuhsJH1ykAYuR6sLzXxn10G1yR
+        document_type: memorandum
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 1.00 (runner-up 0.20)
+      companions: []
+      expected_path: data/raw/ap_mathematics/papers/July_Gr11FS_P1.pdf
+      flags: []
+    - source_id: SOURCE-ORC-APM-2013-001
+      title: 1a.SBC G11 AP 2013 CALCULUS AND ALGEBRA 2013.pdf
+      year: 2013
+      source_url: https://drive.google.com/file/d/1-MDiQsUvCOOJgBuLTiV8nGEf1UsYqPq-
+      drive_file_id: 1-MDiQsUvCOOJgBuLTiV8nGEf1UsYqPq-
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: unknown
+      stratum_key: ap_mathematics|school_internal|P1|unknown
+      exemplar_role: primary
+      selection_reason: "coverage pass (sitting diversity): exemplar of stratum ap_mathematics|school_internal|P1|unknown (2 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-APM-2013-002
+        title: 1b. SBC G11 AP 2013 Algebra and Calculus Memo.pdf
+        source_url: https://drive.google.com/file/d/1rKhRKnzovEneh8tvbvC0-aahrdLcwIxt
+        document_type: memorandum
+        pair_method: stratum_year_unique
+        pair_confidence: high
+        note: only memorandum in 2013 matching form school_internal P1 (unknown)
+      companions: []
+      expected_path: data/raw/ap_mathematics/papers/1a.SBC_G11_AP_2013_CALCULUS_AND_ALGEBRA_2013.pdf
+      flags:
+      - stratum_partially_unknown
+    - source_id: SOURCE-ORC-APM-2024-069
+      title: 11 FS Nov Paper 2 2024.pdf
+      year: 2024
+      source_url: https://drive.google.com/file/d/1cuALuCug_sKa__33cbew18BxhiQQKstP
+      drive_file_id: 1cuALuCug_sKa__33cbew18BxhiQQKstP
+      stratum:
+        setter: school_internal
+        paper_form: P2
+        session: final
+      stratum_key: ap_mathematics|school_internal|P2|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum ap_mathematics|school_internal|P2|final (10 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-APM-2024-072
+        title: 11 FS Paper 2 Nov 2024 Memo.pdf
+        source_url: https://drive.google.com/file/d/1Tn8wuQyBPyN6RUtoLqpmwgVch-3ERZ-C
+        document_type: memorandum
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 1.00 (runner-up 0.25)
+      companions: []
+      expected_path: data/raw/ap_mathematics/papers/11_FS_Nov_Paper_2_2024.pdf
+      flags: []
+    - source_id: SOURCE-ORC-APM-2014-005
+      title: 1a. Grade 11 AP Exam - July 2014 (1).docx
+      year: 2014
+      source_url: https://drive.google.com/file/d/1uohinJO66tU2XuDXORKRiaJwU2FOJ9da
+      drive_file_id: 1uohinJO66tU2XuDXORKRiaJwU2FOJ9da
+      stratum:
+        setter: school_internal
+        paper_form: unknown
+        session: mid_year
+      stratum_key: ap_mathematics|school_internal|unknown|mid_year
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum ap_mathematics|school_internal|unknown|mid_year (5 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-APM-2014-006
+        title: 1b. Grade 11 AP Exam - July 2014 - Memorandum (1).docx
+        source_url: https://drive.google.com/file/d/1j0g_T9C36lbPvp56k850qLOmG2NkWDO0
+        document_type: memorandum
+        pair_method: stratum_year_unique
+        pair_confidence: high
+        note: only memorandum in 2014 matching form school_internal unknown (mid_year)
+      companions: []
+      expected_path: data/raw/ap_mathematics/papers/1a._Grade_11_AP_Exam_-_July_2014_1_.docx
+      flags:
+      - stratum_partially_unknown
+    curriculum_anchors: []
+    excluded: []
+    notes:
+    - budget of 5 papers exhausted before stratum ap_mathematics|school_internal|P2|mid_year (5 candidates) could be sampled; stratum left unrepresented and flagged for review.
+    - budget of 5 papers exhausted before stratum ap_mathematics|school_internal|P2|unknown (2 candidates) could be sampled; stratum left unrepresented and flagged for review.
+    - budget of 5 papers exhausted before stratum ap_mathematics|school_internal|unknown|unknown (3 candidates) could be sampled; stratum left unrepresented and flagged for review.
+    - budget of 5 papers exhausted before stratum ap_mathematics|school_internal|unknown|final (2 candidates) could be sampled; stratum left unrepresented and flagged for review.
+    - NO authoritative curriculum document (SAG / syllabus / examination guideline) exists for this subject in the ORC inventory. Phase 7 must therefore derive the topic hierarchy from Tier-1 evidence inside the papers themselves - several carry their own mark-allocation tables naming the topic of every question - and must mark that hierarchy `derived`, not `curriculum`.
+  mathematics:
+    subject: mathematics
+    candidate_past_papers: 39
+    strata_found: 5
+    strata_sampled: 5
+    papers_selected: 5
+    papers:
+    - source_id: SOURCE-ORC-MAT-2025-270
+      title: Gr11 P1 Nov Exam.pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/1iI_kVDZX2OiCc0R8kr8QKVbaeOL39pmD
+      drive_file_id: 1iI_kVDZX2OiCc0R8kr8QKVbaeOL39pmD
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: final
+      stratum_key: mathematics|school_internal|P1|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum mathematics|school_internal|P1|final (11 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-MAT-2025-269
+        title: Gr11 P1 Nov Exam Memo.pdf
+        source_url: https://drive.google.com/file/d/1tnEaZ-CjMd1IoVjMQUdbYUJXnfAKPb4U
+        document_type: memorandum
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 1.00 (runner-up 0.25)
+      companions: []
+      expected_path: data/raw/mathematics/papers/Gr11_P1_Nov_Exam.pdf
+      flags: []
+    - source_id: SOURCE-ORC-MAT-2025-267
+      title: 2025 July paper 1 .pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/11w34udet-txDaaiw3T9a9RtgrX_zPc8E
+      drive_file_id: 11w34udet-txDaaiw3T9a9RtgrX_zPc8E
+      stratum:
+        setter: school_internal
+        paper_form: P1
+        session: mid_year
+      stratum_key: mathematics|school_internal|P1|mid_year
+      exemplar_role: primary
+      selection_reason: "coverage pass (sitting diversity): exemplar of stratum mathematics|school_internal|P1|mid_year (8 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-MAT-2025-265
+        title: 11 Paper 1 July 2025 MEMO.pdf
+        source_url: https://drive.google.com/file/d/1_DW-m07-KMNbLgxqv5kuwN-Mz3F4W1iW
+        document_type: memorandum
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 1.00 (runner-up 0.25)
+      companions: []
+      expected_path: data/raw/mathematics/papers/2025_July_paper_1_.pdf
+      flags: []
+    - source_id: SOURCE-ORC-MAT-2025-263
+      title: 11 Nov Paper 2 2025 FINAL.pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/1jgddhWifTJyEl0UY2esKZYp5c4gGYXzy
+      drive_file_id: 1jgddhWifTJyEl0UY2esKZYp5c4gGYXzy
+      stratum:
+        setter: school_internal
+        paper_form: P2
+        session: final
+      stratum_key: mathematics|school_internal|P2|final
+      exemplar_role: primary
+      selection_reason: "coverage pass (form diversity): exemplar of stratum mathematics|school_internal|P2|final (10 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-MAT-2025-264
+        title: 11 Nov Paper 2 2025 MEMO.pdf
+        source_url: https://drive.google.com/file/d/1kLviwSXvvgL99czk_ifbujaQEsFIcmzo
+        document_type: memorandum
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 0.67 (runner-up 0.25)
+      companions: []
+      expected_path: data/raw/mathematics/papers/11_Nov_Paper_2_2025_FINAL.pdf
+      flags: []
+    - source_id: SOURCE-ORC-MAT-2025-268
+      title: Gr11 Exam P2 July 2025.pdf
+      year: 2025
+      source_url: https://drive.google.com/file/d/1D_ClZbNvxfNmSFxKCGMB-dzer_Q9-XBp
+      drive_file_id: 1D_ClZbNvxfNmSFxKCGMB-dzer_Q9-XBp
+      stratum:
+        setter: school_internal
+        paper_form: P2
+        session: mid_year
+      stratum_key: mathematics|school_internal|P2|mid_year
+      exemplar_role: primary
+      selection_reason: "coverage pass (sitting diversity): exemplar of stratum mathematics|school_internal|P2|mid_year (9 candidate papers in this form); chosen because a memorandum exists for it"
+      memo:
+        source_id: SOURCE-ORC-MAT-2025-266
+        title: 11 Paper 2 July 2025 MEMO.pdf
+        source_url: https://drive.google.com/file/d/1NUEi1DKgBxztEHV6d6n0JNQUWwzC2evE
+        document_type: memorandum
+        pair_method: title_similarity
+        pair_confidence: medium
+        note: token Jaccard 0.67 (runner-up 0.25)
+      companions: []
+      expected_path: data/raw/mathematics/papers/Gr11_Exam_P2_July_2025.pdf
+      flags: []
+    - source_id: SOURCE-ORC-MAT-2020-230
+      title: 2a. Grade 11 Paper 2.pdf
+      year: 2020
+      source_url: https://drive.google.com/file/d/1gc6xSJSobL4oYGhtuuTZ-8YRR4twq3RN
+      drive_file_id: 1gc6xSJSobL4oYGhtuuTZ-8YRR4twq3RN
+      stratum:
+        setter: school_internal
+        paper_form: P2
+        session: unknown
+      stratum_key: mathematics|school_internal|P2|unknown
+      exemplar_role: primary
+      selection_reason: "coverage pass (sitting diversity): exemplar of stratum mathematics|school_internal|P2|unknown (1 candidate papers in this form) [no memorandum paired]"
+      memo:
+        source_id: null
+        title: null
+        source_url: null
+        document_type: null
+        pair_method: order_prefix
+        pair_confidence: low
+        note: prefix 2 matched 2 memo candidates; needs human pairing
+      companions: []
+      expected_path: data/raw/mathematics/papers/2a._Grade_11_Paper_2.pdf
+      flags:
+      - no_memorandum_in_corpus
+      - stratum_partially_unknown
+    curriculum_anchors: []
+    excluded: []
+    notes:
+    - NO authoritative curriculum document (SAG / syllabus / examination guideline) exists for this subject in the ORC inventory. Phase 7 must therefore derive the topic hierarchy from Tier-1 evidence inside the papers themselves - several carry their own mark-allocation tables naming the topic of every question - and must mark that hierarchy `derived`, not `curriculum`.
+    - 1 of 5 selected papers have no memorandum or marking guide in the ORC inventory. Phase 6 (question-to-memo alignment) cannot be completed for these; they remain unresolved rather than being inferred (AGENTS.md rule 4).

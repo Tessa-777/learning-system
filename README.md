@@ -22,8 +22,9 @@ built on top of it.
 
 | Document | Purpose |
 |---|---|
-| [`SYSTEM_SPEC.md`](SYSTEM_SPEC.md) | Authoritative system definition and architecture. |
-| [`IMPLEMENTATION_SPEC.md`](IMPLEMENTATION_SPEC.md) | Phased implementation plan (one phase at a time). |
+| [`SYSTEM_SPEC.md`](SYSTEM_SPEC.md) | Authoritative system definition and architecture (v1.1.0). |
+| [`IMPLEMENTATION_SPEC.md`](IMPLEMENTATION_SPEC.md) | Phased implementation plan, one phase at a time (v1.1.0). |
+| [`CORPUS_SUFFICIENCY_POLICY.md`](CORPUS_SUFFICIENCY_POLICY.md) | How much source material is *enough*, and why. Authoritative for Phases 3-4. |
 | [`AGENTS.md`](AGENTS.md) | Absolute rules every execution must follow. |
 | [`RUN_LOG_SPEC.md`](RUN_LOG_SPEC.md) | Run, decision and error logging requirements. |
 
@@ -85,6 +86,50 @@ source .venv/bin/activate
 python -m pytest
 ```
 
+The Phase 3 corpus-selection suite is written against the standard library so it
+also runs where pytest cannot be installed:
+
+```bash
+python3 -m unittest tests.test_corpus_selection
+```
+
+## Run the Phase 3 corpus selection
+
+Phase 3 is split in two (see [`CORPUS_SUFFICIENCY_POLICY.md`](CORPUS_SUFFICIENCY_POLICY.md)).
+
+**3a — select.** Deterministic; reads the Phase 2 inventories and writes the
+sample. Requires no network.
+
+```bash
+python3 scripts/phase3_select.py                      # default budget of 5 papers/subject
+python3 scripts/phase3_select.py --papers-per-subject 6
+```
+
+Outputs `data/raw/CORPUS_SELECTION.yaml` (machine) and
+`data/raw/DOWNLOAD_CHECKLIST.md` (human).
+
+**3b — acquire.** Sandbox code has no outbound TLS, so the selected documents are
+supplied by a human and ingested from a local drop directory.
+
+```bash
+mkdir -p data/incoming          # put the downloaded ORC files here
+python3 scripts/phase3_ingest_drop.py --dry-run
+python3 scripts/phase3_ingest_drop.py
+```
+
+## Offline environments
+
+`PyYAML`, `jsonschema` and `pytest` cannot be installed where pip has no network.
+The repository degrades rather than failing:
+
+| dependency | fallback |
+|---|---|
+| PyYAML | `core/yamllite.py` — YAML subset reader/writer |
+| jsonschema | `core/schema.py` mini-validator (`JSONSCHEMA_BACKEND == "mini"`) |
+| PDF/DOCX text extraction | `ingestion/acquisition/content_probe.py` (zipfile + zlib) |
+
+PyYAML and jsonschema are still preferred when installed.
+
 ## Phase model
 
 The implementation is executed one phase at a time. Do **not** continue into a
@@ -93,7 +138,8 @@ later phase automatically. The exact next phase is recorded in
 
 * Phase 1 — Repository bootstrap
 * Phase 2 — ORC source discovery
-* Phase 3 — Acquire and preserve the source corpus
+* Phase 3a — Select the corpus (form-stratified saturation sample)
+* Phase 3b — Acquire and preserve the selected corpus
 * Phase 4 — Extract source content
 * Phase 5 — Segment assessment questions
 * Phase 6 — Align questions with memoranda

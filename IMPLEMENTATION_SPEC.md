@@ -2,9 +2,16 @@
 
 ## Implementation Specification
 
-**Version:** 1.0.0
+**Version:** 1.1.0
 **Execution model:** One phase at a time
-**Required reading:** `SYSTEM_SPEC.md`, `AGENTS.md`, `RUN_LOG_SPEC.md`
+**Required reading:** `SYSTEM_SPEC.md`, `AGENTS.md`, `RUN_LOG_SPEC.md`, `CORPUS_SUFFICIENCY_POLICY.md`
+
+> **v1.1.0 revision.** §4 (Phase 3) is rewritten: acquisition is now a
+> **form-stratified saturation sample** rather than blanket collection of every
+> discovered source, and it is split into *selection* (3a) and *acquisition*
+> (3b). §23 records that all six subjects may be processed in one run when
+> explicitly requested. The authoritative rationale, evidence and known gaps are
+> in [`CORPUS_SUFFICIENCY_POLICY.md`](CORPUS_SUFFICIENCY_POLICY.md).
 
 ---
 
@@ -241,42 +248,121 @@ notes:
 
 ---
 
-# 4. Phase 3 — Acquire and preserve the source corpus
+# 4. Phase 3 — Select, acquire and preserve the source corpus
 
-## Objective
+Governed by [`CORPUS_SUFFICIENCY_POLICY.md`](CORPUS_SUFFICIENCY_POLICY.md), which
+is authoritative for this phase and for Phase 4.
 
-Download/copy every accessible authoritative source identified in Phase 2.
+## Objective (v1.1.0)
 
-## Tasks
+Acquire the **minimum authoritative corpus that saturates the question taxonomy
+and the Understanding Models** — not the maximum corpus that covers the syllabus.
 
-For each source:
+This replaces the v1.0.0 objective ("download/copy every accessible
+authoritative source identified in Phase 2", 821 records). The change is
+recorded as decision `DEC-P3-SEL-001` and requires human sign-off via
+`review_queue/RQ-P3-CORPUS-SELECTION.yaml`.
 
-1. acquire the original file
-2. preserve the original filename where practical
-3. calculate a cryptographic hash
-4. store the file in the appropriate subject directory
-5. record metadata
-6. detect duplicates
-7. identify unreadable/corrupt files
-8. identify files requiring visual inspection
+Phase 3 is split in two.
 
-## Deliverable
+## Phase 3a — Select the corpus
+
+Determine *which* documents to acquire, before acquiring any.
+
+### Tasks
+
+1. read the six Phase 2 inventories (read-only; they are discovery provenance)
+2. classify every past paper into an assessment-form stratum
+   `setter × paper_form × session`, deriving `paper_form` per
+   *(subject, setter)* pair from the corpus rather than assuming it
+3. exclude out-of-scope records (other subjects, other grades, Chemistry held in
+   the Physical Sciences folder)
+4. allocate the per-subject budget in two passes — coverage (one exemplar per
+   stratum), then depth (a second, older exemplar for the largest strata)
+5. pair every selected paper with its memorandum / marking guide, treating memo
+   availability as a *ranking* criterion
+6. attach companion documents without which the paper cannot be answered
+   (source booklets, data sheets, diagram booklets, answer sheets)
+7. attach authoritative curriculum anchors where the ORC holds any
+8. record every stratum left unsampled, with justification
+
+### Deliverables
 
 ```text
-data/raw/<subject>/*
+data/raw/CORPUS_SELECTION.yaml
+data/raw/DOWNLOAD_CHECKLIST.md
+review_queue/RQ-P3-CORPUS-SELECTION.yaml
 ```
 
-plus updated source manifests.
+### Driver
+
+```bash
+python3 scripts/phase3_select.py
+```
+
+Deterministic: the same inventories and budget always produce the same sample.
+
+## Phase 3b — Acquire and preserve
+
+### Tasks
+
+For each document in the selection:
+
+1. acquire the file, recording which **fidelity rung** it occupies
+   (`SYSTEM_SPEC.md` §17.2: A = original bytes, B = faithful transcription,
+   C = metadata only)
+2. preserve the original filename
+3. calculate a cryptographic hash — of the original bytes at Rung A, of the
+   transcription at Rung B, and record which
+4. store it under the appropriate subject directory
+5. record metadata against the existing `source_id`
+6. detect duplicates **by content hash, not by file ID** — Phase 2 deduplicated
+   on Drive file ID only, and the same paper is demonstrably present under
+   multiple IDs and multiple naming schemes
+7. verify `document_type` **from content**, not from Phase 2 metadata — at least
+   one record labelled `past_paper` is in fact a memorandum
+8. identify unreadable or corrupt files
+9. flag every diagram-, graph- or figure-bearing question as
+   `requires_visual_verification` when held only at Rung B
+
+### Deliverable
+
+```text
+data/raw/<subject>/papers/
+data/raw/<subject>/memoranda/
+data/raw/<subject>/companions/
+data/raw/<subject>/curriculum/
+data/raw/<subject>/ACQUISITION_REPORT.yaml
+```
+
+plus updated source manifests for the selected `source_id`s only.
+
+### Driver
+
+```bash
+python3 scripts/phase3_ingest_drop.py            # ingest locally supplied files
+python3 scripts/phase3_ingest_drop.py --dry-run  # report what would be matched
+```
 
 ## Hard rules
 
 * Never modify the original source files.
 * Never replace an original with extracted text.
 * Never silently overwrite a source.
-* Preserve hashes.
+* Preserve hashes, and state what was hashed.
 * Preserve source URLs.
 * Record failures.
-* If a source cannot be acquired, mark it unresolved rather than pretending it was acquired.
+* If a source cannot be acquired, mark it unresolved rather than pretending it
+  was acquired.
+* **New (v1.1.0):** never represent a Rung B transcription as a preserved
+  original, and never let a Rung C record support a question family or a marking
+  requirement.
+* **New (v1.1.0):** never widen the selection silently. Adding papers beyond the
+  approved selection requires a new decision record and an updated
+  `CORPUS_SELECTION.yaml`.
+* **New (v1.1.0):** the sample size is a budget, not a claim of sufficiency.
+  Sufficiency is decided by the saturation test at Phase 8 and Phase 13
+  (`SYSTEM_SPEC.md` §17.3).
 
 ---
 
@@ -1103,6 +1189,11 @@ When executing the knowledge-building phases, use this order:
 Do not attempt to process all six subjects in one phase run unless explicitly requested.
 
 Each subject should reach validation before moving to the next.
+
+> **v1.1.0 note.** Phase 3a (corpus selection) is executed for all six subjects
+> in a single run, because the selection must be balanced across subjects before
+> any acquisition budget is committed. The all-six selection was explicitly
+> requested. Phases 5 onward still follow the per-subject order above.
 
 ---
 

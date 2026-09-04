@@ -1,0 +1,15 @@
+{
+  "run_id": "20260904T164135Z_757e",
+  "started_at": "2026-09-04T16:41:35.598251Z",
+  "completed_at": "2026-09-04T16:41:35.601466Z",
+  "phase": "3-selection",
+  "subject": "all",
+  "spec_version": "1.0.0",
+  "implementation_spec_version": "1.0.0",
+  "agent_version": "1.0.0",
+  "model": "unknown",
+  "model_provider": "unknown",
+  "git_commit_before": "215f1bd",
+  "git_commit_after": "215f1bd",
+  "status": "completed_with_review"
+}

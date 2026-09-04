@@ -1,0 +1,1 @@
+{"timestamp": "2026-09-04T16:58:15.364554Z", "event": "corpus_selection_built", "subject": "all", "entity_id": null, "message": "form-stratified saturation sample built for all six subjects", "metadata": {"totals": {"papers": 30, "memoranda": 24, "companions": 4, "curriculum_anchors": 2, "documents_to_acquire": 60}}}

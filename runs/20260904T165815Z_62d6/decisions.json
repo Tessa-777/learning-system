@@ -1,0 +1,49 @@
+[
+  {
+    "decision_id": "DEC-P3-SEL-001",
+    "timestamp": "2026-09-04T16:58:15.364569Z",
+    "phase": "3-selection",
+    "subject": "all",
+    "decision_type": "corpus_scope",
+    "context": "IMPLEMENTATION_SPEC \u00a74 (v1.0.0) required acquiring every accessible source (821 records). Phase 3 failed for all of them because sandbox code has no outbound TLS, and the objective was later revised.",
+    "evidence": [
+      "821 records = 209 past papers + 237 memoranda + 122 marking guides + 165 assessment items + 85 reference docs + 1 curriculum + 7 other",
+      "verified duplicate content: physics Nov-2022 exam exists under two distinct Drive IDs (1BLMEfPahfO7b751FXS8oM_ZhtxcIxQcT and 16NXMYVKTVQ4K2zeHjm-0DS-AXUoLF5wD) with identical extracted text",
+      "physics 2022 IEB Trial P1 appears under three Drive IDs and three naming schemes",
+      "SYSTEM_SPEC \u00a79: an Understanding Model describes 'the underlying competence being assessed', not topic content",
+      "IMPLEMENTATION_SPEC \u00a79 hard rule: 'Do not create one family for every individual question'",
+      "question families track assessment form, not year or topic: the Nov 2018 Mathematics P2 declares its own topic/mark table and the Nov 2022 Physics paper labels its own question families"
+    ],
+    "alternatives": [
+      "acquire all 821 records (original plan; infeasible offline and mismatched to a compression objective)",
+      "acquire all 209 past papers",
+      "form-stratified saturation sample with an empirical stopping rule",
+      "arbitrary fixed sample with no stratification"
+    ],
+    "selected": "form-stratified saturation sample with an empirical stopping rule",
+    "rationale": "Stratifying on assessment form guarantees every distinct kind of paper the school sits is represented, which is what determines which question families can appear. Two exemplars per form is the minimum that can show a family recurs rather than being a one-off. Sufficiency is then decided empirically by the Phase 8/13 saturation test rather than asserted up front.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-P3-SEL-002",
+    "timestamp": "2026-09-04T16:58:15.364575Z",
+    "phase": "3-selection",
+    "subject": "all",
+    "decision_type": "memo_pairing",
+    "context": "A question paper without its memorandum cannot support Phase 6 alignment or a defensible Understanding Model (AGENTS.md rule 8).",
+    "evidence": [
+      "four pairing strategies implemented, strongest first: stratum_year_unique, order_prefix, qp_mg_suffix, title_similarity",
+      "memo pool is scope-filtered: without it, English P2 2023 was structurally matched to 'MEMO Contextual Test Film Grade 12'",
+      "history holds only 3 memoranda for 11 past papers, and 2 of the 3 are class tests, so 4 of 5 selected history papers have no memo"
+    ],
+    "alternatives": [
+      "select papers without regard to memo availability",
+      "prefer papers that have a memorandum"
+    ],
+    "selected": "prefer papers that have a memorandum",
+    "rationale": "Memo availability is treated as a selection criterion, not just an output, so the limited budget is spent on papers that can actually carry marking evidence.",
+    "confidence": "high",
+    "requires_review": false
+  }
+]

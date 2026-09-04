@@ -1,0 +1,21 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/raw/CORPUS_SELECTION.yaml
+  type: yaml
+  created_or_modified: 2026-09-04T16:41:35.600975Z
+  source_run: 20260904T164135Z_757e
+  content_hash: 336f2973e6ce59a25a72d4af3521464caff84c51535dea10af9cdab61bd94cf1
+  description: form-stratified corpus selection
+- artifact_id: ART-0002
+  path: /home/user/learning-system/data/raw/DOWNLOAD_CHECKLIST.md
+  type: markdown
+  created_or_modified: 2026-09-04T16:41:35.601143Z
+  source_run: 20260904T164135Z_757e
+  content_hash: 56210071696eb4a6f725f06f253cdfd8ab23766c2ab1651790653963b03f5810
+  description: human download checklist
+- artifact_id: ART-0003
+  path: /home/user/learning-system/review_queue/RQ-P3-CORPUS-SELECTION.yaml
+  type: yaml
+  created_or_modified: 2026-09-04T16:41:35.601426Z
+  source_run: 20260904T164135Z_757e
+  content_hash: 4720dfd778239e347697435bcbf3ede8197eb3bf86c12b8e30e3d5cb0546392b
+  description: review item for the scope change

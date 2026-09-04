@@ -3,14 +3,23 @@
 This file is auto-written by `scripts/phase1_bootstrap.py` and should be updated after each run (IMPLEMENTATION_SPEC §25). The current phase is recorded under `runs/`.
 
 ```yaml
-current_phase: 4
+current_phase: 3
 current_subject: all
-status: blocked
+status: awaiting_source_drop
 knowledge_bank_version: null
-unresolved_items: 818
-last_run_id: 20260903T095817Z_d51c
-next_allowed_phase: 4
+unresolved_items: 60
+last_run_id: 20260904T165815Z_62d6
+next_allowed_phase: 3b
+spec_version: 1.1.0
 ```
+
+> **Scope revision (2026-09-04).** `SYSTEM_SPEC.md` and `IMPLEMENTATION_SPEC.md`
+> were revised to **v1.1.0**. Phase 3 no longer acquires all 821 discovered
+> records; it acquires a **form-stratified saturation sample of 60 documents**.
+> See [`CORPUS_SUFFICIENCY_POLICY.md`](CORPUS_SUFFICIENCY_POLICY.md) and the new
+> Phase 3a section below. The Phase 3 retry and Phase 4 blocked sections further
+> down this file are retained as the audit trail of the v1.0.0 attempt; they are
+> **superseded** and their 818 unresolved items are no longer the working set.
 
 ---
 
@@ -67,7 +76,105 @@ No source files were downloaded or altered. No educational content was analysed.
 
 ---
 
+## Phase 3a — Corpus Selection (scope revision)
+
+**Status:** completed_with_review
+
+**Run IDs:** `20260904T164135Z_757e` (initial), `20260904T165815Z_62d6` (authoritative — after classifier and pairing fixes)
+
+**Spec version:** 1.1.0
+
+### Outcome
+
+Phase 3 was re-scoped and re-run as **selection**, not acquisition. Two findings drove this.
+
+**1. The TLS diagnosis was correct but incomplete.** Sandbox-level HTTP has no
+outbound TLS at all — `curl https://example.com` fails with `SSL_ERROR_SYSCALL`,
+so the restriction is not specific to Google. However the platform's *proxied*
+page fetcher reaches the ORC normally. During this run four real documents were
+retrieved from Drive to verify it: the History July 2009 memorandum, the History
+November 2017 question paper, the Mathematics November 2018 Paper 2, and the
+Physics November 2022 final exam. Question wording, numbering, mark allocations,
+section structure, tables and LaTeX all survive. **Original bytes do not** — the
+proxy returns a transcription — so it satisfies fidelity Rung B, not Rung A
+(`SYSTEM_SPEC.md` §17.2).
+
+**2. The 821-record corpus was the wrong target.** It was never 821 papers: 209
+past papers, 237 memoranda, 122 marking guides, 165 assessment items, 85
+reference documents, 1 curriculum document, 7 other. Phase 2 deduplicated on
+Drive *file ID* only and removed one record, so it never detected content
+duplication — which is present and was verified:
+`2022_G11_Physics_Nov-Exam_QP.pdf` and `G11 Nov Physics Exam 2022 QP.pdf` are
+distinct Drive IDs with identical content (same examiner, moderator, date,
+200-mark table and MCQ items), and the 2022 IEB Trial Physics P1 is present under
+three IDs and three naming schemes.
+
+Question families track **assessment form** — setter × paper number × sitting —
+not topic and not year. The corpus proves it: the November 2018 Mathematics
+Paper 2 prints its own topic/mark table, the November 2022 Physics paper labels
+its own question families (`KINEMATICS GRAPH`, `HORIZONTAL MOTION`,
+`PROJECTILE MOTION`), and the November 2017 History paper declares its own
+three-section structure. `SYSTEM_SPEC.md` §9 already defines an Understanding
+Model as the "underlying competence being assessed", and
+`IMPLEMENTATION_SPEC.md` §9 already forbids one family per question. The taxonomy
+is a compression, so acquiring 821 documents to feed it was a mismatch.
+
+### Deliverables
+
+- `CORPUS_SUFFICIENCY_POLICY.md` — authoritative policy: stratum definition, two-pass allocation, memo-pairing rules, saturation stopping rule, known gaps
+- `data/raw/CORPUS_SELECTION.yaml` — machine-readable selection (60 documents, with per-document rationale, stratum, pairing method and flags)
+- `data/raw/DOWNLOAD_CHECKLIST.md` — human download checklist with Drive links and target paths
+- `review_queue/RQ-P3-CORPUS-SELECTION.yaml` — scope-change sign-off item
+- `ingestion/acquisition/` — `inventory.py`, `forms.py`, `selection.py`, `content_probe.py`
+- `core/yamllite.py` — stdlib YAML subset, so the repository runs where PyYAML cannot be installed
+- `scripts/phase3_select.py`, `scripts/phase3_ingest_drop.py`
+- `tests/test_corpus_selection.py` — 48 tests
+- `SYSTEM_SPEC.md` §17 + §16 amendment, `IMPLEMENTATION_SPEC.md` §4 rewrite, `config/settings.yaml` → 1.1.0
+
+### Selection metrics
+
+| subject | candidate papers | forms present | papers selected | memoranda paired | companions | anchors |
+|---|---|---|---|---|---|---|
+| biology | 10 | 3 | 5 | 5 | 1 | 0 |
+| physics | 67 | 9 | 5 | 4 | 2 | 1 |
+| history | 11 | 6 | 5 | 1 | 1 | 1 |
+| english | 35 | 4 | 5 | 5 | 0 | 0 |
+| ap_mathematics | 46 | 9 | 5 | 5 | 0 | 0 |
+| mathematics | 39 | 6 | 5 | 4 | 0 | 0 |
+| **total** | **208** | **37** | **30** | **24** | **4** | **2** |
+
+**60 documents to acquire.** Every subject's distinct `(setter, paper_form)`
+pairs are represented, including the Physics IEB MCQ paper — a form sat once,
+whose question families appear nowhere else in that subject.
+
+### Validation
+
+- 48 tests pass under `python3 -m unittest tests.test_corpus_selection`.
+- `core/yamllite.py` round-trips `config/settings.yaml` and `config/subjects.yaml` exactly, and re-parses the generated `CORPUS_SELECTION.yaml`.
+- The Phase 2 inventories were **not modified** by selection; they remain discovery provenance.
+- No source content was fabricated. Four documents were retrieved through the proxy to verify access and to gather the evidence cited above; those retrievals were **not** written into `data/raw/` because they are Rung B transcriptions and the approved acquisition mode is Rung A (human-supplied originals).
+- Selection is deterministic: identical inventories and budget always produce the identical sample.
+
+### Unresolved / review items
+
+1. **60 documents await acquisition.** Nothing has been downloaded yet. See `data/raw/DOWNLOAD_CHECKLIST.md`; then run `python3 scripts/phase3_ingest_drop.py`.
+2. **6 selected papers have no memorandum in the ORC** (4 History, 1 Physics MCQ, 1 Mathematics 2020). Per policy §4.2.1 these may support question families but must never support marking requirements.
+3. **History memo coverage is structural, not a sampling artefact.** The ORC holds 3 memoranda for 11 History papers and 2 of the 3 are class tests. Acquiring all 11 papers would yield no additional memorandum. Phase 6 for History is effectively limited to the October 2017 Cold War exam.
+4. **History `document_type` labels are wrong for at least one record.** `2009_July_exam_Gr_11.doc.docx` is filed as `past_paper` but its content is the July 2009 memorandum. `phase3_ingest_drop.py` re-verifies document type from content and reports contradictions rather than trusting Phase 2.
+5. **4 of 6 subjects have no curriculum anchor document.** Only Physics (`IEB - SAG - PS`) and History (`July 2015 Exam Requirements`) have one. Phase 7 must derive the topic hierarchy from the papers' own front-matter tables and mark it `derived`, never `curriculum`.
+6. **Chemistry material is present in the Physics folder** and is excluded from the selection but retained for provenance.
+7. **Strata left unsampled** are itemised per subject in `data/raw/CORPUS_SELECTION.yaml` notes. Physics is the worst case: 9 strata, 5 sampled. Several unsampled `unknown` strata are likely the same exam filed under different names; only content-hash dedupe at Phase 3b can settle it.
+8. **Mathematics 2020 `2a. Grade 11 Paper 2.pdf`** could not be paired to a memorandum — the filing prefix matched two candidates. Needs human pairing.
+9. **Phase 2 unresolved items remain open** (ORC legacy folder HTTP 500, AP boundary, History `Zipped Past Papers.zip`, Physics legacy folder, external formula sheets, out-of-scope clusters).
+10. **`jsonschema` and `PyYAML` cannot be installed offline.** `core/schema.py` falls back to a bundled mini-validator covering the keyword set the schemas actually use, and `core/config.py` / `core/runlog.py` fall back to `core/yamllite.py`. The existing pytest suite under `tests/` still requires pytest and could not be executed here.
+
+---
+
 ## Phase 3A — Biology Source Acquisition (Retry)
+
+> **SUPERSEDED** by the v1.1.0 scope revision above. Retained as the audit trail
+> of the v1.0.0 blanket-acquisition attempt. Its unresolved counts are no longer
+> the working set.
 
 **Status:** completed_with_review
 
@@ -613,10 +720,35 @@ Phase 4 was executed for all six subjects in the prescribed order (IMPLEMENTATIO
 
 ## Next Phase
 
-**Phase 4 — Extract source content (BLOCKED).** Do NOT re-run Phase 4
-until Phase 3 acquisition is resolved: every source must have a preserved
-original file (`local_path`) and a verified SHA-256 hash (`file_hash`)
-before extraction can proceed. Extraction must not invent, substitute or
-simulate source text. Once originals are preserved, re-run Phase 4 per
-subject; do not proceed to Phase 5 until extraction is unblocked and
-validated.
+**Phase 3b — Acquire and preserve the selected corpus.**
+
+The corpus has been selected but not acquired. The next action is human, not
+automated:
+
+1. Open [`data/raw/DOWNLOAD_CHECKLIST.md`](data/raw/DOWNLOAD_CHECKLIST.md).
+2. Download the 60 listed documents from their Drive links into
+   `data/incoming/` (or any directory passed as `--drop-dir`). Keep the original
+   filenames; do not convert, re-save or edit the files.
+3. Run:
+
+   ```bash
+   python3 scripts/phase3_ingest_drop.py --dry-run   # check matching first
+   python3 scripts/phase3_ingest_drop.py             # ingest for real
+   ```
+
+The runner copies each file into `data/raw/<subject>/{papers,memoranda,companions,curriculum}/`,
+computes SHA-256 over the **original bytes** (fidelity Rung A), verifies
+`document_type` from content, detects duplicates by content hash, updates only
+the four mutable fields on the matching Phase 2 source records, validates them
+against `source_metadata.schema.json`, and writes per-subject
+`ACQUISITION_REPORT.yaml` plus a full run log.
+
+**Do not run Phase 4 until every selected document has a preserved original
+(`local_path`) and a verified hash (`file_hash`).** Extraction must not invent,
+substitute or simulate source text.
+
+Phase 4 will also change shape under v1.1.0: because the selection is 60
+documents rather than 821, extraction runs once per subject over a small,
+fully-hashed corpus, and every diagram-, graph- or figure-bearing question must
+be flagged `requires_visual_verification` where the document is held only at
+Rung B.

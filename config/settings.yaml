@@ -10,8 +10,11 @@ project:
 
 specs:
   # Matches the version headers in each spec file.
-  system_spec_version: "1.0.0"
-  implementation_spec_version: "1.0.0"
+  # SYSTEM_SPEC and IMPLEMENTATION_SPEC were revised to 1.1.0 when Phase 3
+  # changed from blanket acquisition to a form-stratified saturation sample
+  # (see CORPUS_SUFFICIENCY_POLICY.md). RUN_LOG_SPEC is unchanged.
+  system_spec_version: "1.1.0"
+  implementation_spec_version: "1.1.0"
   run_log_spec_version: "1.0.0"
 
 agents:

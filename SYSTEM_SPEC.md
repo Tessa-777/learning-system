@@ -2,9 +2,18 @@
 
 ## System Specification
 
-**Version:** 1.0.0
+**Version:** 1.1.0
 **Status:** Authoritative system definition
 **Scope:** Grade 11 Biology, Physics, History, English, AP Mathematics, and Mathematics
+
+> **v1.1.0 revision.** §16 (completion definition) and new §17 (corpus
+> sufficiency and the fidelity ladder) replace the v1.0.0 assumption that the
+> source corpus must be acquired exhaustively. The corpus is now a
+> **form-stratified saturation sample** governed by
+> [`CORPUS_SUFFICIENCY_POLICY.md`](CORPUS_SUFFICIENCY_POLICY.md). Nothing else
+> in this specification changed: the two-layer separation (§2), the source-of-truth
+> hierarchy (§5), provenance (§14) and immutability (§13) all still apply
+> unchanged to the smaller corpus.
 
 ---
 
@@ -584,7 +593,8 @@ The purpose is to make the entire build reproducible and inspectable.
 The overall system is complete only when:
 
 1. all six subjects have been processed
-2. each subject has a validated source corpus
+2. each subject has a validated source corpus, where *validated* means the
+   corpus has passed the saturation test in §17.3 — not that it is exhaustive
 3. each subject has a question taxonomy
 4. each subject has Understanding Models
 5. each subject has breakdown models
@@ -597,3 +607,91 @@ The overall system is complete only when:
 12. all runs and decisions are traceable
 
 The system is not considered complete merely because an LLM can answer the student's homework questions.
+
+---
+
+# 17. Corpus sufficiency and the fidelity ladder
+
+## 17.1 Why the corpus is sampled, not exhaustive
+
+The knowledge bank's primary objects are question families (§8, Phase 8) and
+Understanding Models (§9). §9 states that an Understanding Model describes *"the
+underlying competence being assessed"* — not topic content. A taxonomy is
+therefore a **compression** of a corpus, and acquiring every discovered document
+to feed a compression step spends effort on exactly the redundancy the
+compression removes.
+
+What determines which question families a paper can contain is its **assessment
+form** — who set it, which paper number it is, and which sitting it belongs to —
+not its topics and not its year. The corpus itself demonstrates this: the
+November 2018 Mathematics Paper 2 prints its own topic/mark table, the November
+2022 Physics paper labels its own question families in its question headings, and
+the November 2017 History paper declares its own three-section structure.
+
+Sampling is therefore stratified on form. The full design, the evidence, the
+memorandum-pairing rules and the known gaps are in
+[`CORPUS_SUFFICIENCY_POLICY.md`](CORPUS_SUFFICIENCY_POLICY.md), which is
+authoritative for Phases 3 and 4.
+
+## 17.2 Fidelity ladder for acquired evidence
+
+Not every acquired document arrives at the same fidelity. Each must record which
+rung it occupies, and no document may be represented as occupying a higher rung
+than it does.
+
+```text
+Rung A — original bytes preserved
+    The file itself is stored under data/raw/<subject>/ with a SHA-256 hash of
+    the original. Fully satisfies Phase 3. Diagrams, graphs and layout survive.
+
+Rung B — faithful transcription, original not held
+    Text obtained through a proxy or converter, with the original URL and
+    source_id recorded and a hash of the transcription. Question wording,
+    numbering and mark allocations survive; diagrams, graphs and geometric
+    figures degrade or are lost.
+
+Rung C — metadata only
+    The source is known to exist but its content was never obtained. May be
+    cited for provenance. May NOT be used as evidence for any question family,
+    marking requirement or Understanding Model.
+```
+
+Rung B is acceptable for building question families and Understanding Models
+because those depend on wording, command verbs, mark allocation and answer
+structure — all of which survive transcription.
+
+Rung B is **not** acceptable, on its own, for any question whose meaning depends
+on a diagram, graph, geometric figure, circuit, table image or source-booklet
+visual. Such questions must carry `requires_visual_verification: true` and must
+not be used to assert marking requirements until either the original is supplied
+(Rung A) or a human has verified the visual. This discharges the Phase 4 rule
+*"Do not discard diagrams that may carry meaning."*
+
+## 17.3 Saturation test
+
+Sufficiency is decided empirically, not asserted:
+
+> Order a subject's acquired papers by acquisition sequence. If the final third
+> yields no question family, no assessment operation and no marking structure
+> that the first two thirds did not already contain, the corpus is saturated for
+> taxonomy purposes. If it does yield new families, acquisition continues —
+> targeted at the strata that produced them, never by reverting to blanket
+> acquisition.
+
+Each Phase 13 validation report must state, per subject: `papers_in_sample`,
+`question_families_identified`, `families_first_observed_in_final_third`,
+`strata_left_unsampled`, and `families_supported_by_single_exemplar`. A subject
+may not be marked validated while `families_first_observed_in_final_third > 0`.
+
+## 17.4 What sampling does not license
+
+* It does not make the sample a coverage of the Grade 11 syllabus. Work-Through
+  Mode (§4.2) will encounter questions on topics no selected paper touches.
+  Those must be recorded as knowledge-bank gaps, never answered as though they
+  were grounded in the bank.
+* It does not weaken provenance (§14). Every selected document keeps its
+  `source_id`, source URL and ORC subject page.
+* It does not permit substituting external material for missing ORC sources
+  (`AGENTS.md` rule 3).
+* It does not permit inferring marking criteria for a paper whose memorandum was
+  never acquired (`AGENTS.md` rule 8). Such papers stay unresolved.

@@ -25,3 +25,8 @@ build/
 dist/
 out/
 target/
+
+# Phase 3b human drop directory — transient staging for files downloaded from
+# the ORC. phase3_ingest_drop.py copies matched files into data/raw/<subject>/,
+# so nothing here needs to be versioned.
+data/incoming/
