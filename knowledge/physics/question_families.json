@@ -1,0 +1,703 @@
+[
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-001",
+    "name": "State a physics term to the memo's two-part definition",
+    "definition": "The student must reproduce a definition or law in the exact elements the marking guidelines reward, not merely a synonym. Across the batch these items are worth 1-2 marks and the memo consistently splits the definition into two separately marked elements (e.g. 'opposes motion' + 'parallel to the contact surface').",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Electric Circuits",
+      "Mechanics-Forces",
+      "Mechanics-Gravitation",
+      "Mechanics-Momentum",
+      "Mechanics-Motion",
+      "Mechanics-Vectors",
+      "Work Energy Power"
+    ],
+    "assessment_operations": [
+      "recall a definition",
+      "state a law",
+      "explain a term"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q2.1.1",
+      "PHY-2019-MY-Q3.1.1",
+      "PHY-2019-MY-Q4.1.1",
+      "PHY-2019-MY-Q4.2.1",
+      "PHY-2019-MY-Q5.1",
+      "PHY-2019-MY-Q5.2"
+    ],
+    "frequency": 37,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q2.1.1",
+      "physics_2019_internal_paper1_june_q3.1.1",
+      "physics_2019_internal_paper1_june_q4.1.1",
+      "physics_2019_internal_paper1_june_q4.2.1",
+      "physics_2019_internal_paper1_june_q5.1",
+      "physics_2019_internal_paper1_june_q5.2",
+      "physics_2019_internal_paper1_june_q7.1",
+      "physics_2019_internal_paper1_june_q7.3",
+      "physics_2021_internal_paper1_nov_q2.1.2",
+      "physics_2021_internal_paper1_nov_q3.1",
+      "physics_2021_internal_paper1_nov_q4.3.1",
+      "physics_2021_internal_paper1_nov_q5.2",
+      "physics_2021_internal_paper1_nov_q5.4",
+      "physics_2021_internal_paper1_nov_q6.1.1",
+      "physics_2021_internal_paper1_nov_q6.2.3",
+      "physics_2021_internal_paper1_nov_q7.1.1",
+      "physics_2021_internal_paper1_nov_q7.2.1",
+      "physics_2023_internal_paper1_june_q2.1",
+      "physics_2023_internal_paper1_june_q3.1",
+      "physics_2023_internal_paper1_june_q5.1",
+      "physics_2023_internal_paper1_june_q6.1",
+      "physics_2023_internal_paper1_june_q7.1.2",
+      "physics_2023_internal_paper1_june_q7.2.1",
+      "physics_2023_internal_paper1_june_q8.1",
+      "physics_2023_internal_paper1_june_q8.3",
+      "physics_2023_internal_paper1_june_q8.5",
+      "physics_2023_internal_paper1_june_q9.1",
+      "physics_2023_internal_paper1_june_q9.2",
+      "physics_2023_internal_paper1_june_q4.1",
+      "physics_2025_internal_paper1_nov_q1.1.1",
+      "physics_2025_internal_paper1_nov_q2.1",
+      "physics_2025_internal_paper1_nov_q3.2",
+      "physics_2025_internal_paper1_nov_q4.5",
+      "physics_2025_internal_paper1_nov_q5.1",
+      "physics_2025_internal_paper1_nov_q5.4",
+      "physics_2025_internal_paper1_nov_q6.1.1",
+      "physics_2025_internal_paper1_nov_q9.1"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-002",
+    "name": "Substitute into a data-sheet equation and carry the answer through",
+    "definition": "A mechanics/energy calculation in which the competence is choosing the correct equation, substituting with a consistent sign convention and units, and reporting the final value. The memos mark the equation, the substitution and the answer as separate marks, and frequently mark a sign or unit separately.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Mechanics-Forces",
+      "Mechanics-Momentum",
+      "Mechanics-Motion",
+      "Mechanics-Vectors",
+      "Work Energy Power"
+    ],
+    "assessment_operations": [
+      "select an equation",
+      "substitute",
+      "calculate",
+      "state a value with units"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q2.1.3",
+      "PHY-2019-MY-Q2.1.4",
+      "PHY-2019-MY-Q2.1.5",
+      "PHY-2019-MY-Q2.2.2",
+      "PHY-2019-MY-Q2.2.3",
+      "PHY-2019-MY-Q2.2.4"
+    ],
+    "frequency": 37,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q2.1.3",
+      "physics_2019_internal_paper1_june_q2.1.4",
+      "physics_2019_internal_paper1_june_q2.1.5",
+      "physics_2019_internal_paper1_june_q2.2.2",
+      "physics_2019_internal_paper1_june_q2.2.3",
+      "physics_2019_internal_paper1_june_q2.2.4",
+      "physics_2019_internal_paper1_june_q3.1.3",
+      "physics_2019_internal_paper1_june_q3.2.1",
+      "physics_2021_internal_paper1_nov_q2.1.3",
+      "physics_2021_internal_paper1_nov_q2.1.5",
+      "physics_2021_internal_paper1_nov_q2.2.1",
+      "physics_2021_internal_paper1_nov_q2.2.2",
+      "physics_2021_internal_paper1_nov_q3.4",
+      "physics_2021_internal_paper1_nov_q3.5",
+      "physics_2021_internal_paper1_nov_q3.6",
+      "physics_2021_internal_paper1_nov_q3.10",
+      "physics_2021_internal_paper1_nov_q4.3.2",
+      "physics_2021_internal_paper1_nov_q4.3.3",
+      "physics_2021_internal_paper1_nov_q5.3",
+      "physics_2021_internal_paper1_nov_q6.2.2",
+      "physics_2023_internal_paper1_june_q2.2",
+      "physics_2023_internal_paper1_june_q2.3",
+      "physics_2023_internal_paper1_june_q2.4",
+      "physics_2023_internal_paper1_june_q2.6.1",
+      "physics_2023_internal_paper1_june_q2.6.2",
+      "physics_2023_internal_paper1_june_q2.6.3",
+      "physics_2023_internal_paper1_june_q3.2",
+      "physics_2023_internal_paper1_june_q3.3",
+      "physics_2023_internal_paper1_june_q4.5",
+      "physics_2023_internal_paper1_june_q4.6",
+      "physics_2023_internal_paper1_june_q5.3",
+      "physics_2023_internal_paper1_june_q6.4",
+      "physics_2023_internal_paper1_june_q6.5",
+      "physics_2025_internal_paper1_nov_q1.2",
+      "physics_2025_internal_paper1_nov_q2.2",
+      "physics_2025_internal_paper1_nov_q2.3",
+      "physics_2025_internal_paper1_nov_q3.3"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-003",
+    "name": "Read and interpret a motion graph (value, interval, gradient, area)",
+    "definition": "The student must extract information from a given velocity-time or position-time graph: read a value or interval, identify where the sign changes, compare gradients, or describe the motion a section represents. No new graph is drawn.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Mechanics-Motion",
+      "Mechanics-Motion graphs",
+      "Work Energy Power"
+    ],
+    "assessment_operations": [
+      "read a graph",
+      "interpret a gradient",
+      "interpret an area",
+      "describe motion"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q2.1.2",
+      "PHY-2019-MY-Q3.1.2",
+      "PHY-2019-MY-Q3.1.6",
+      "PHY-2021-NOV-Q3.2",
+      "PHY-2021-NOV-Q3.3",
+      "PHY-2021-NOV-Q3.7"
+    ],
+    "frequency": 13,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q2.1.2",
+      "physics_2019_internal_paper1_june_q3.1.2",
+      "physics_2019_internal_paper1_june_q3.1.6",
+      "physics_2021_internal_paper1_nov_q3.2",
+      "physics_2021_internal_paper1_nov_q3.3",
+      "physics_2021_internal_paper1_nov_q3.7",
+      "physics_2023_internal_paper1_june_q4.2",
+      "physics_2023_internal_paper1_june_q4.3",
+      "physics_2023_internal_paper1_june_q4.4",
+      "physics_2023_internal_paper1_june_q4.8",
+      "physics_2025_internal_paper1_nov_q1.1.2",
+      "physics_2025_internal_paper1_nov_q1.1.3",
+      "physics_2025_internal_paper1_nov_q1.1.4"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-004",
+    "name": "Construct a graph representation from a description or another graph",
+    "definition": "The student must produce a sketch graph (a-t from v-t, x-t from v-t, v-t from a description, or a circuit quantity against a changing resistance) with the correct shape, sign, labelled points and relative steepness.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Electric Circuits",
+      "Mechanics-Motion graphs"
+    ],
+    "assessment_operations": [
+      "sketch a graph",
+      "label axes and key values",
+      "translate between representations"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q2.2.5",
+      "PHY-2019-MY-Q3.1.7",
+      "PHY-2019-MY-Q3.1.8",
+      "PHY-2019-MY-Q7.6",
+      "PHY-2021-NOV-Q3.8",
+      "PHY-2021-NOV-Q6.1.5"
+    ],
+    "frequency": 9,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q2.2.5",
+      "physics_2019_internal_paper1_june_q3.1.7",
+      "physics_2019_internal_paper1_june_q3.1.8",
+      "physics_2019_internal_paper1_june_q7.6",
+      "physics_2021_internal_paper1_nov_q3.8",
+      "physics_2021_internal_paper1_nov_q6.1.5",
+      "physics_2023_internal_paper1_june_q4.7",
+      "physics_2025_internal_paper1_nov_q1.1.5",
+      "physics_2025_internal_paper1_nov_q2.7"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-005",
+    "name": "Draw a labelled force diagram (free-body or vector addition)",
+    "definition": "The student must draw the forces on a stated object as arrows with correct direction, correct relative length and correct labels, or close a vector triangle for forces in equilibrium.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Mechanics-Forces",
+      "Mechanics-Vectors"
+    ],
+    "assessment_operations": [
+      "identify the forces on an object",
+      "draw and label arrows",
+      "show relative magnitude"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q3.1.4",
+      "PHY-2019-MY-Q4.2.4",
+      "PHY-2019-MY-Q5.4",
+      "PHY-2021-NOV-Q2.1.4",
+      "PHY-2021-NOV-Q3.9",
+      "PHY-2021-NOV-Q4.1"
+    ],
+    "frequency": 11,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q3.1.4",
+      "physics_2019_internal_paper1_june_q4.2.4",
+      "physics_2019_internal_paper1_june_q5.4",
+      "physics_2021_internal_paper1_nov_q2.1.4",
+      "physics_2021_internal_paper1_nov_q3.9",
+      "physics_2021_internal_paper1_nov_q4.1",
+      "physics_2021_internal_paper1_nov_q5.1",
+      "physics_2023_internal_paper1_june_q5.2",
+      "physics_2023_internal_paper1_june_q6.2",
+      "physics_2025_internal_paper1_nov_q2.5",
+      "physics_2025_internal_paper1_nov_q3.1"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-006",
+    "name": "Apply Newton's second law to a system of connected bodies",
+    "definition": "Two or more bodies are linked (string over a pulley, or a pulled crate and its load). The student must write Fnet = ma for each body or for the whole system, keep one consistent direction convention, and solve the simultaneous equations for acceleration and tension.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Mechanics-Forces"
+    ],
+    "assessment_operations": [
+      "isolate each body",
+      "write Fnet = ma per body",
+      "solve simultaneously",
+      "interpret the sign"
+    ],
+    "representative_questions": [
+      "PHY-2021-NOV-Q5.5",
+      "PHY-2021-NOV-Q5.6",
+      "PHY-2023-MY-Q6.6",
+      "PHY-2023-MY-Q7.1.1",
+      "PHY-2025-NOV-Q4.3"
+    ],
+    "frequency": 5,
+    "source_evidence": [
+      "physics_2021_internal_paper1_nov_q5.5",
+      "physics_2021_internal_paper1_nov_q5.6",
+      "physics_2023_internal_paper1_june_q6.6",
+      "physics_2023_internal_paper1_june_q7.1.1",
+      "physics_2025_internal_paper1_nov_q4.3"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-007",
+    "name": "Resolve a force acting at an angle into components",
+    "definition": "A force is applied at a stated angle to the horizontal (or two forces act at angles). The student must resolve into perpendicular components, use the correct trigonometric ratio for the required direction, and combine components to get a magnitude and a direction.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Mechanics-Forces",
+      "Mechanics-Vectors",
+      "Work Energy Power"
+    ],
+    "assessment_operations": [
+      "resolve a vector",
+      "choose sin or cos correctly",
+      "combine components",
+      "give a direction or bearing"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q4.1.2",
+      "PHY-2019-MY-Q4.2.2",
+      "PHY-2023-MY-Q6.3",
+      "PHY-2025-NOV-Q3.4",
+      "PHY-2025-NOV-Q4.7"
+    ],
+    "frequency": 5,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q4.1.2",
+      "physics_2019_internal_paper1_june_q4.2.2",
+      "physics_2023_internal_paper1_june_q6.3",
+      "physics_2025_internal_paper1_nov_q3.4",
+      "physics_2025_internal_paper1_nov_q4.7"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-008",
+    "name": "Predict a qualitative change, then justify it with a named relationship",
+    "definition": "The student must choose INCREASE / DECREASE / REMAIN THE SAME (or YES / NO, or the sign of a quantity) and then justify the choice by naming a relationship and carrying a causal chain through it. The prediction alone never earns full marks.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Electric Circuits",
+      "Electrostatics",
+      "Mechanics-Forces",
+      "Mechanics-Motion"
+    ],
+    "assessment_operations": [
+      "predict a direction of change",
+      "quote a relationship",
+      "reason causally",
+      "evaluate a stated claim"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q5.3.2",
+      "PHY-2019-MY-Q7.7.1",
+      "PHY-2019-MY-Q7.7.2",
+      "PHY-2021-NOV-Q5.7",
+      "PHY-2021-NOV-Q6.1.4",
+      "PHY-2021-NOV-Q7.1.6"
+    ],
+    "frequency": 22,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q5.3.2",
+      "physics_2019_internal_paper1_june_q7.7.1",
+      "physics_2019_internal_paper1_june_q7.7.2",
+      "physics_2021_internal_paper1_nov_q5.7",
+      "physics_2021_internal_paper1_nov_q6.1.4",
+      "physics_2021_internal_paper1_nov_q7.1.6",
+      "physics_2021_internal_paper1_nov_q7.1.7",
+      "physics_2021_internal_paper1_nov_q7.2.2",
+      "physics_2023_internal_paper1_june_q2.5",
+      "physics_2023_internal_paper1_june_q6.7",
+      "physics_2023_internal_paper1_june_q8.7",
+      "physics_2023_internal_paper1_june_q8.8",
+      "physics_2023_internal_paper1_june_q9.3",
+      "physics_2023_internal_paper1_june_q9.4",
+      "physics_2025_internal_paper1_nov_q4.1",
+      "physics_2025_internal_paper1_nov_q4.2",
+      "physics_2025_internal_paper1_nov_q4.4",
+      "physics_2025_internal_paper1_nov_q6.2.1",
+      "physics_2025_internal_paper1_nov_q6.2.2",
+      "physics_2025_internal_paper1_nov_q8.2",
+      "physics_2025_internal_paper1_nov_q8.3",
+      "physics_2025_internal_paper1_nov_q9.5"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-009",
+    "name": "Analyse a resistor network (reduce, then apply Ohm / power / emf)",
+    "definition": "A circuit with series and/or parallel resistors, meters and sometimes internal resistance. The student must reduce the network to an equivalent resistance, then apply V = IR, P = VI / P = I2R / P = V2/R or emf = I(Rext + r) in the right order, carrying intermediate values forward.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Electric Circuits"
+    ],
+    "assessment_operations": [
+      "identify series and parallel groupings",
+      "reduce to an equivalent resistance",
+      "apply Ohm's law / power / emf equations",
+      "carry intermediate values forward"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q7.2",
+      "PHY-2019-MY-Q7.4.1",
+      "PHY-2019-MY-Q7.4.2",
+      "PHY-2019-MY-Q7.5.1",
+      "PHY-2019-MY-Q7.5.2",
+      "PHY-2021-NOV-Q7.1.2"
+    ],
+    "frequency": 17,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q7.2",
+      "physics_2019_internal_paper1_june_q7.4.1",
+      "physics_2019_internal_paper1_june_q7.4.2",
+      "physics_2019_internal_paper1_june_q7.5.1",
+      "physics_2019_internal_paper1_june_q7.5.2",
+      "physics_2021_internal_paper1_nov_q7.1.2",
+      "physics_2021_internal_paper1_nov_q7.1.3",
+      "physics_2021_internal_paper1_nov_q7.1.4",
+      "physics_2021_internal_paper1_nov_q7.1.5",
+      "physics_2023_internal_paper1_june_q8.2",
+      "physics_2023_internal_paper1_june_q8.4",
+      "physics_2023_internal_paper1_june_q8.6",
+      "physics_2023_internal_paper1_june_q9.5",
+      "physics_2025_internal_paper1_nov_q8.1",
+      "physics_2025_internal_paper1_nov_q9.2",
+      "physics_2025_internal_paper1_nov_q9.3",
+      "physics_2025_internal_paper1_nov_q9.4"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-010",
+    "name": "Investigation: hypothesise, plot data, find the gradient and its physical meaning",
+    "definition": "A practical or simulated investigation. The student must state a hypothesis in the correct variable order, complete a data table, plot a graph to the memo's marking criteria (heading, labels/units, scale, plotting, line of best fit), determine the gradient with a unit, identify the physical quantity the gradient represents, and use it to find an unknown.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Experimental Investigation",
+      "Mechanics-Gravitation"
+    ],
+    "assessment_operations": [
+      "state a hypothesis",
+      "complete a table",
+      "plot a graph",
+      "calculate a gradient",
+      "interpret the gradient physically"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q6.1",
+      "PHY-2019-MY-Q6.2",
+      "PHY-2019-MY-Q6.3",
+      "PHY-2019-MY-Q6.4",
+      "PHY-2019-MY-Q6.5",
+      "PHY-2021-NOV-Q8.1.1"
+    ],
+    "frequency": 15,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q6.1",
+      "physics_2019_internal_paper1_june_q6.2",
+      "physics_2019_internal_paper1_june_q6.3",
+      "physics_2019_internal_paper1_june_q6.4",
+      "physics_2019_internal_paper1_june_q6.5",
+      "physics_2021_internal_paper1_nov_q8.1.1",
+      "physics_2021_internal_paper1_nov_q8.1.2",
+      "physics_2021_internal_paper1_nov_q8.2",
+      "physics_2021_internal_paper1_nov_q8.3",
+      "physics_2021_internal_paper1_nov_q8.4",
+      "physics_2021_internal_paper1_nov_q8.5",
+      "physics_2021_internal_paper1_nov_q8.6",
+      "physics_2021_internal_paper1_nov_q8.7",
+      "physics_2025_internal_paper1_nov_q6.1.2",
+      "physics_2025_internal_paper1_nov_q6.1.3"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-011",
+    "name": "Photon and energy-level quantisation calculations",
+    "definition": "Using a hydrogen energy-level diagram or a stated wavelength, the student must use E = hf and E = hc/lambda, take energy differences between levels, and convert between joules and electron volts.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Waves Sound Light"
+    ],
+    "assessment_operations": [
+      "count possible transitions",
+      "take an energy difference between levels",
+      "apply E = hf or E = hc/lambda",
+      "convert J to eV"
+    ],
+    "representative_questions": [
+      "PHY-2021-NOV-Q9.1",
+      "PHY-2021-NOV-Q9.2",
+      "PHY-2021-NOV-Q9.3",
+      "PHY-2021-NOV-Q9.4",
+      "PHY-2021-NOV-Q9.5",
+      "PHY-2023-MY-Q10.1"
+    ],
+    "frequency": 10,
+    "source_evidence": [
+      "physics_2021_internal_paper1_nov_q9.1",
+      "physics_2021_internal_paper1_nov_q9.2",
+      "physics_2021_internal_paper1_nov_q9.3",
+      "physics_2021_internal_paper1_nov_q9.4",
+      "physics_2021_internal_paper1_nov_q9.5",
+      "physics_2023_internal_paper1_june_q10.1",
+      "physics_2023_internal_paper1_june_q10.2",
+      "physics_2023_internal_paper1_june_q10.3",
+      "physics_2025_internal_paper1_nov_q7.1",
+      "physics_2025_internal_paper1_nov_q7.2"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-012",
+    "name": "Multiple-choice single-step concept application",
+    "definition": "A four-option multiple-choice item worth 2 marks in which one physics idea must be applied once (vector addition limits, sign of acceleration, Newton's third law partner, elevator scale reading, brightness in series vs parallel). No working is required and the memo gives only the correct letter.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Electric Circuits",
+      "Mechanics-Forces",
+      "Mechanics-Gravitation",
+      "Mechanics-Motion",
+      "Mechanics-Motion graphs",
+      "Mechanics-Vectors",
+      "Waves Sound Light",
+      "Work Energy Power"
+    ],
+    "assessment_operations": [
+      "apply one concept",
+      "eliminate distractors",
+      "select an option"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q1.1",
+      "PHY-2019-MY-Q1.2",
+      "PHY-2019-MY-Q1.3",
+      "PHY-2019-MY-Q1.4",
+      "PHY-2019-MY-Q1.5",
+      "PHY-2019-MY-Q1.6"
+    ],
+    "frequency": 25,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q1.1",
+      "physics_2019_internal_paper1_june_q1.2",
+      "physics_2019_internal_paper1_june_q1.3",
+      "physics_2019_internal_paper1_june_q1.4",
+      "physics_2019_internal_paper1_june_q1.5",
+      "physics_2019_internal_paper1_june_q1.6",
+      "physics_2019_internal_paper1_june_q1.7",
+      "physics_2019_internal_paper1_june_q1.8",
+      "physics_2021_internal_paper1_nov_q1.1",
+      "physics_2021_internal_paper1_nov_q1.2",
+      "physics_2021_internal_paper1_nov_q1.3",
+      "physics_2021_internal_paper1_nov_q1.4",
+      "physics_2021_internal_paper1_nov_q1.5",
+      "physics_2021_internal_paper1_nov_q1.6",
+      "physics_2021_internal_paper1_nov_q1.7",
+      "physics_2021_internal_paper1_nov_q1.8",
+      "physics_2021_internal_paper1_nov_q1.9",
+      "physics_2021_internal_paper1_nov_q1.10",
+      "physics_2023_internal_paper1_june_q1.1",
+      "physics_2023_internal_paper1_june_q1.2",
+      "physics_2023_internal_paper1_june_q1.3",
+      "physics_2023_internal_paper1_june_q1.4",
+      "physics_2023_internal_paper1_june_q1.5",
+      "physics_2023_internal_paper1_june_q1.6",
+      "physics_2023_internal_paper1_june_q1.7"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-013",
+    "name": "Identify the Newton's-third-law partner of a named force",
+    "definition": "Given a specific force (usually the weight of an object), the student must name the reaction force with both the interacting bodies reversed and the direction, or state that two interacting bodies experience equal magnitudes of force.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Mechanics-Forces",
+      "Mechanics-Momentum"
+    ],
+    "assessment_operations": [
+      "identify the interacting pair",
+      "reverse the bodies",
+      "state the direction",
+      "state equal magnitude"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q5.5",
+      "PHY-2023-MY-Q7.1.3",
+      "PHY-2025-NOV-Q5.3"
+    ],
+    "frequency": 3,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q5.5",
+      "physics_2023_internal_paper1_june_q7.1.3",
+      "physics_2025_internal_paper1_nov_q5.3"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-014",
+    "name": "Conservation of momentum and impulse-momentum in a collision",
+    "definition": "For a collision between two bodies the student must state conservation of linear momentum for an isolated system, set up the momentum equation with a sign convention, use the elastic-collision condition, solve for both final velocities with directions, and use dp = F dt to find the force during contact.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Mechanics-Momentum"
+    ],
+    "assessment_operations": [
+      "state a conservation principle",
+      "set a sign convention",
+      "solve simultaneous conservation equations",
+      "apply impulse = change in momentum"
+    ],
+    "representative_questions": [
+      "PHY-2025-NOV-Q5.2",
+      "PHY-2025-NOV-Q5.5",
+      "PHY-2025-NOV-Q5.6"
+    ],
+    "frequency": 3,
+    "source_evidence": [
+      "physics_2025_internal_paper1_nov_q5.2",
+      "physics_2025_internal_paper1_nov_q5.5",
+      "physics_2025_internal_paper1_nov_q5.6"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-015",
+    "name": "Explain a physical situation in words using a named principle",
+    "definition": "A written explanation, usually 2-4 marks, in which the student must account for an observation or justify a proposal by naming a physics principle and carrying it through the specific situation. No calculation is required, but the memo ticks each reasoning link separately.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Mechanics-Forces",
+      "Work Energy Power"
+    ],
+    "assessment_operations": [
+      "explain a phenomenon",
+      "justify a proposal",
+      "link a principle to a situation"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q3.1.5",
+      "PHY-2019-MY-Q4.2.3",
+      "PHY-2019-MY-Q4.2.5",
+      "PHY-2019-MY-Q5.3.1",
+      "PHY-2021-NOV-Q4.2",
+      "PHY-2021-NOV-Q4.3.4"
+    ],
+    "frequency": 9,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q3.1.5",
+      "physics_2019_internal_paper1_june_q4.2.3",
+      "physics_2019_internal_paper1_june_q4.2.5",
+      "physics_2019_internal_paper1_june_q5.3.1",
+      "physics_2021_internal_paper1_nov_q4.2",
+      "physics_2021_internal_paper1_nov_q4.3.4",
+      "physics_2021_internal_paper1_nov_q6.1.2",
+      "physics_2021_internal_paper1_nov_q6.1.3",
+      "physics_2025_internal_paper1_nov_q3.5"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-PHY-016",
+    "name": "Distinguish scalar from vector descriptions of the same motion",
+    "definition": "Given one described motion, the student must separate the scalar account (distance, speed) from the vector account (displacement, velocity), illustrate both with the positions given, and report a velocity with its direction.",
+    "subject": "physics",
+    "grade": "11",
+    "topics": [
+      "Mechanics-Motion"
+    ],
+    "assessment_operations": [
+      "distinguish scalar and vector quantities",
+      "apply both to one motion",
+      "state a direction"
+    ],
+    "representative_questions": [
+      "PHY-2019-MY-Q3.2.2",
+      "PHY-2019-MY-Q3.2.3",
+      "PHY-2021-NOV-Q2.1.1"
+    ],
+    "frequency": 3,
+    "source_evidence": [
+      "physics_2019_internal_paper1_june_q3.2.2",
+      "physics_2019_internal_paper1_june_q3.2.3",
+      "physics_2021_internal_paper1_nov_q2.1.1"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  }
+]

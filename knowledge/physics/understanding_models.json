@@ -1,0 +1,1392 @@
+[
+  {
+    "identity": "UNDERSTANDING-PHY-001",
+    "definition": "Understanding a physics term well enough to state it in the elements the marking guidelines reward - the quantity being related, the relation, and the qualifying condition - rather than as a loose synonym.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Physics terminology and laws (cross-topic)",
+    "question_family": "QUESTION-FAMILY-PHY-001",
+    "assessment_operations": [
+      "recall a definition",
+      "state a law",
+      "explain a term"
+    ],
+    "required_knowledge": [
+      "the exact definitional elements for the recurring terms: velocity, acceleration, displacement, speed, friction, normal force, resultant force, work, power, potential difference, emf, resistance, ohmic conductor, diode, knee voltage, gravitational field, impulse",
+      "the three Newton's laws as statements, including 'net or resultant force' in the first law and 'at constant temperature' in Ohm's law",
+      "the work-energy theorem and conservation of linear momentum as worded statements"
+    ],
+    "prerequisites": [
+      "scalar vs vector distinction (needed for velocity, displacement and resultant force)",
+      "the idea of a 'net' force as distinct from any single force"
+    ],
+    "required_reasoning": [
+      "identify which two elements the question's term decomposes into",
+      "recognise that a definition of a rate must name both the quantity and what it is per (rate of change of position, work per unit charge, force per unit mass)"
+    ],
+    "required_procedure": null,
+    "evidence_of_understanding": [
+      "states both required elements without prompting (e.g. friction: opposes motion AND parallel to the contact surface)",
+      "includes the qualifying condition where the memo requires it (Ohm's law 'at constant temperature'; conservation of momentum 'of an isolated system'; maximum static friction 'of a stationary object')",
+      "can distinguish the term from a neighbouring one (speed vs velocity, distance vs displacement, mass vs weight)"
+    ],
+    "marking_requirements": [
+      "the memo splits every definition into two separately ticked elements; one correct idea alone earns 1 of 2 marks",
+      "several memos annotate 'AON' (any other correct wording accepted), so paraphrase is acceptable if both elements are present",
+      "Newton's first law is marked as 'state of rest or uniform velocity' + 'unless acted on by a net or resultant force'",
+      "the work-energy theorem is marked as 'work done by a net force' + 'equals change in kinetic energy' - omitting 'net' loses a mark"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-001-A",
+      "BREAKDOWN-PHY-001-B",
+      "BREAKDOWN-PHY-001-C"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'velocity and speed are the same thing' - would lose the vector element the memo requires for velocity",
+      "[Tier 3 inference] 'friction always opposes the direction the object is moving' - the memo requires 'parallel to the surface', which is what makes the incline items work",
+      "[Tier 3 inference] 'Ohm's law holds for any component at any time' - the memo's 'constant temperature' element is precisely what this misses"
+    ],
+    "diagnostic_dimensions": [
+      "recall",
+      "precision of wording",
+      "conceptual boundary"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-001-A",
+      "DIAG-PHY-001-B",
+      "DIAG-PHY-001-C"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q2.1.1",
+      "physics_2019_internal_paper1_june_q3.1.1",
+      "physics_2019_internal_paper1_june_q4.1.1",
+      "physics_2019_internal_paper1_june_q4.2.1",
+      "physics_2019_internal_paper1_june_q5.1",
+      "physics_2019_internal_paper1_june_q5.2",
+      "physics_2019_internal_paper1_june_q7.1",
+      "physics_2019_internal_paper1_june_q7.3",
+      "physics_2021_internal_paper1_nov_q2.1.2",
+      "physics_2021_internal_paper1_nov_q3.1",
+      "physics_2021_internal_paper1_nov_q4.3.1",
+      "physics_2021_internal_paper1_nov_q5.2",
+      "physics_2021_internal_paper1_nov_q5.4",
+      "physics_2021_internal_paper1_nov_q6.1.1",
+      "physics_2021_internal_paper1_nov_q6.2.3",
+      "physics_2021_internal_paper1_nov_q7.1.1",
+      "physics_2021_internal_paper1_nov_q7.2.1",
+      "physics_2023_internal_paper1_june_q2.1",
+      "physics_2023_internal_paper1_june_q3.1",
+      "physics_2023_internal_paper1_june_q5.1",
+      "physics_2023_internal_paper1_june_q6.1",
+      "physics_2023_internal_paper1_june_q7.1.2",
+      "physics_2023_internal_paper1_june_q7.2.1",
+      "physics_2023_internal_paper1_june_q8.1",
+      "physics_2023_internal_paper1_june_q8.3",
+      "physics_2023_internal_paper1_june_q8.5",
+      "physics_2023_internal_paper1_june_q9.1",
+      "physics_2023_internal_paper1_june_q9.2",
+      "physics_2023_internal_paper1_june_q4.1",
+      "physics_2025_internal_paper1_nov_q1.1.1",
+      "physics_2025_internal_paper1_nov_q2.1",
+      "physics_2025_internal_paper1_nov_q3.2",
+      "physics_2025_internal_paper1_nov_q4.5",
+      "physics_2025_internal_paper1_nov_q5.1",
+      "physics_2025_internal_paper1_nov_q5.4",
+      "physics_2025_internal_paper1_nov_q6.1.1",
+      "physics_2025_internal_paper1_nov_q9.1"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-001 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-001 (question family, Tier 2)",
+      "37 question records across 4 papers: PHY-2019-MY, PHY-2021-NOV, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-002",
+    "definition": "Understanding how to turn a described motion or force situation into one equation from the data sheet, substitute with a consistent sign convention and units, and report a physically sensible value.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Mechanics: motion, forces and energy calculations",
+    "question_family": "QUESTION-FAMILY-PHY-002",
+    "assessment_operations": [
+      "select an equation",
+      "substitute",
+      "calculate",
+      "state a value with units"
+    ],
+    "required_knowledge": [
+      "the equations of motion (v = u + at, v2 = u2 + 2as, s = ut + 1/2 at2, s = ((u+v)/2)t)",
+      "Fnet = ma, Ff = mu FN, Fg = mg, W = Fx cos theta, Ek = 1/2 mv2, Wnet = dEk",
+      "that g = 9,8 m.s-2 and that upward/forward must be declared positive before substituting"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-001 (definitions of velocity, acceleration, work)",
+      "algebraic rearrangement of a formula before substitution",
+      "unit conversion (minutes to seconds, km.h-1 to m.s-1, ms to s)"
+    ],
+    "required_reasoning": [
+      "decide which quantity is unknown and which equation contains exactly the knowns given",
+      "hold one sign convention across a multi-stage problem (the memo marks a missing negative sign separately)",
+      "recognise when a two-stage problem must be split (cliff height first, then height above the cliff; two legs of a journey summed)"
+    ],
+    "required_procedure": "write the equation -> substitute with signs and units -> solve -> state the answer with a unit and, where the paper asks, to two decimal places",
+    "evidence_of_understanding": [
+      "names the equation before substituting rather than producing a bare number",
+      "keeps the same sign convention in every line and can explain why a term is negative",
+      "checks the answer for physical reasonableness (a braking acceleration must oppose the motion; a time must be positive)",
+      "can say what each symbol stands for in the chosen equation"
+    ],
+    "marking_requirements": [
+      "memos award a separate mark for the equation, the substitution and the final answer - the method mark survives a substitution error",
+      "2019 memo (2.2.3): 'Must show that the acceleration is negative' - the sign is a mark",
+      "2021 memo (4.3.2) marks the negative sign explicitly; 2025 memo (2.2) marks 'e&s' (equation and substitution) separately",
+      "later parts are marked 'coe'/'COE' from an earlier answer, so a wrong earlier value does not zero the later method marks",
+      "where the paper says 'show all your working out' (2023 Q7.2.4) the derivation itself is marked, not only the result"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-002-A",
+      "BREAKDOWN-PHY-002-B",
+      "BREAKDOWN-PHY-002-C",
+      "BREAKDOWN-PHY-002-D"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'acceleration and velocity always have the same sign' - produces the wrong sign in braking and upward-motion items the memo marks separately",
+      "[Tier 3 inference] 'the equation with the most familiar symbols is the right one' - produces v = u + at where v2 = u2 + 2as is required (no time given)",
+      "[memo-evidenced] 2023 memo (2.6.3) requires time in seconds (600 s, not 10 minutes): unit conversion is a live failure point"
+    ],
+    "diagnostic_dimensions": [
+      "interpretation",
+      "prerequisite",
+      "strategy",
+      "execution",
+      "verification"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-002-A",
+      "DIAG-PHY-002-B",
+      "DIAG-PHY-002-C"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q2.1.3",
+      "physics_2019_internal_paper1_june_q2.1.4",
+      "physics_2019_internal_paper1_june_q2.1.5",
+      "physics_2019_internal_paper1_june_q2.2.2",
+      "physics_2019_internal_paper1_june_q2.2.3",
+      "physics_2019_internal_paper1_june_q2.2.4",
+      "physics_2019_internal_paper1_june_q3.1.3",
+      "physics_2019_internal_paper1_june_q3.2.1",
+      "physics_2021_internal_paper1_nov_q2.1.3",
+      "physics_2021_internal_paper1_nov_q2.1.5",
+      "physics_2021_internal_paper1_nov_q2.2.1",
+      "physics_2021_internal_paper1_nov_q2.2.2",
+      "physics_2021_internal_paper1_nov_q3.4",
+      "physics_2021_internal_paper1_nov_q3.5",
+      "physics_2021_internal_paper1_nov_q3.6",
+      "physics_2021_internal_paper1_nov_q3.10",
+      "physics_2021_internal_paper1_nov_q4.3.2",
+      "physics_2021_internal_paper1_nov_q4.3.3",
+      "physics_2021_internal_paper1_nov_q5.3",
+      "physics_2021_internal_paper1_nov_q6.2.2",
+      "physics_2023_internal_paper1_june_q2.2",
+      "physics_2023_internal_paper1_june_q2.3",
+      "physics_2023_internal_paper1_june_q2.4",
+      "physics_2023_internal_paper1_june_q2.6.1",
+      "physics_2023_internal_paper1_june_q2.6.2",
+      "physics_2023_internal_paper1_june_q2.6.3",
+      "physics_2023_internal_paper1_june_q3.2",
+      "physics_2023_internal_paper1_june_q3.3",
+      "physics_2023_internal_paper1_june_q4.5",
+      "physics_2023_internal_paper1_june_q4.6",
+      "physics_2023_internal_paper1_june_q5.3",
+      "physics_2023_internal_paper1_june_q6.4",
+      "physics_2023_internal_paper1_june_q6.5",
+      "physics_2025_internal_paper1_nov_q1.2",
+      "physics_2025_internal_paper1_nov_q2.2",
+      "physics_2025_internal_paper1_nov_q2.3",
+      "physics_2025_internal_paper1_nov_q3.3"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-002 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-002 (question family, Tier 2)",
+      "37 question records across 4 papers: PHY-2019-MY, PHY-2021-NOV, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-003",
+    "definition": "Understanding what the shape, sign, gradient and area of a motion graph mean physically, so that values, intervals and descriptions can be read directly off a given velocity-time or position-time graph.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Mechanics: motion graphs",
+    "question_family": "QUESTION-FAMILY-PHY-003",
+    "assessment_operations": [
+      "read a graph",
+      "interpret a gradient",
+      "interpret an area",
+      "describe motion"
+    ],
+    "required_knowledge": [
+      "on a v-t graph: gradient = acceleration, area = displacement, sign of v = direction",
+      "on an x-t graph: gradient = velocity",
+      "a direction change corresponds to v crossing zero; a horizontal section means constant velocity (zero acceleration)"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-001 (velocity and acceleration as rates of change)",
+      "reading a signed axis and identifying intervals between labelled points"
+    ],
+    "required_reasoning": [
+      "map 'greatest westward velocity' onto 'most negative v', and 'greatest acceleration' onto 'steepest gradient'",
+      "describe motion with two elements: what the velocity is doing AND the direction (the memos mark these separately)",
+      "use the area under a section rather than a single reading when a distance is asked"
+    ],
+    "required_procedure": null,
+    "evidence_of_understanding": [
+      "identifies direction-change points as sign changes of v, not as peaks of the graph",
+      "explains an interval choice by referring to gradient, not to the height of the line",
+      "gives both a velocity statement and a direction when describing motion"
+    ],
+    "marking_requirements": [
+      "2019 memo (3.1.2) and 2021 memo (3.3) each award two marks for a motion description: one for the velocity/acceleration statement and one for the direction",
+      "2025 memo (1.1.4) requires the interval (2 marks) plus 'it has the steepest gradient' (1 mark) - the reason is separately marked",
+      "2023 memo (4.8) requires 'yes' plus 'the maximum height reached decreases' - the reason must come from the graph"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-003-A",
+      "BREAKDOWN-PHY-003-B",
+      "BREAKDOWN-PHY-003-C"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'the graph is a picture of the path' - a v-t graph going negative is read as the object moving backwards in space rather than in the negative direction",
+      "[Tier 3 inference] 'a steeper line means faster' applied to an a-t graph, or 'a horizontal line means stationary' applied to a v-t graph",
+      "[Tier 3 inference] 'maximum height is where the graph peaks' rather than where v = 0"
+    ],
+    "diagnostic_dimensions": [
+      "interpretation",
+      "concept",
+      "reasoning"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-003-A",
+      "DIAG-PHY-003-B",
+      "DIAG-PHY-003-C"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q2.1.2",
+      "physics_2019_internal_paper1_june_q3.1.2",
+      "physics_2019_internal_paper1_june_q3.1.6",
+      "physics_2021_internal_paper1_nov_q3.2",
+      "physics_2021_internal_paper1_nov_q3.3",
+      "physics_2021_internal_paper1_nov_q3.7",
+      "physics_2023_internal_paper1_june_q4.2",
+      "physics_2023_internal_paper1_june_q4.3",
+      "physics_2023_internal_paper1_june_q4.4",
+      "physics_2023_internal_paper1_june_q4.8",
+      "physics_2025_internal_paper1_nov_q1.1.2",
+      "physics_2025_internal_paper1_nov_q1.1.3",
+      "physics_2025_internal_paper1_nov_q1.1.4"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-003 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-003 (question family, Tier 2)",
+      "13 question records across 4 papers: PHY-2019-MY, PHY-2021-NOV, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-004",
+    "definition": "Understanding the correspondence between motion (or a changing circuit quantity) and its graphical representation well enough to construct the correct graph - shape, sign, labelled values and relative steepness - rather than to read one.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Mechanics: motion graphs; Electric circuits",
+    "question_family": "QUESTION-FAMILY-PHY-004",
+    "assessment_operations": [
+      "sketch a graph",
+      "label axes and key values",
+      "translate between representations"
+    ],
+    "required_knowledge": [
+      "a-t is the gradient of v-t, and x-t is the integral (accumulated area) of v-t",
+      "free fall gives a constant a-t value; contact with the ground gives a large spike",
+      "curvature: constant acceleration gives a parabolic x-t section",
+      "for circuit items: how a quantity varies as a resistance is varied"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-003 (reading graphs)",
+      "sign conventions for direction"
+    ],
+    "required_reasoning": [
+      "work section by section along the time axis instead of drawing one overall shape",
+      "compare gradients between sections (the memo requires 'steeper on the way up than on the way down')",
+      "keep the same direction convention as the given graph when asked to maintain it"
+    ],
+    "required_procedure": "divide the motion into intervals -> decide the value or shape in each -> plot and label the boundary times -> check relative steepness and sign",
+    "evidence_of_understanding": [
+      "produces the correct sign in each section and can explain why one section is steeper",
+      "labels the specific times/values the question asks for rather than a generic curve",
+      "can convert back: given their own sketch, state the motion it represents"
+    ],
+    "marking_requirements": [
+      "memos allocate marks per feature, not for one answer: 2021 (3.8) marks the labelled values, the A-B shape, the B-C shape and the E-F shape separately, and deducts 1 if the graph is inverted",
+      "2023 memo (4.7) marks 'shapes' and 'times' separately and states 'accept the reflection of this graph'",
+      "2025 memo (1.1.5) marks three relative-size comparisons plus labels, and penalises an inconsistent sign convention by 1",
+      "2025 memo (2.7) marks axis labels/units, calculated values shown, and the shape of each phase of the motion"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-004-A",
+      "BREAKDOWN-PHY-004-B",
+      "BREAKDOWN-PHY-004-C"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'constant velocity means a sloping x-t line of any steepness' - relative steepness between sections is separately marked",
+      "[Tier 3 inference] 'the a-t graph looks like the v-t graph' - shape carried across without differentiating",
+      "[Tier 3 inference] 'the bounce can be ignored' - contact intervals are marked points"
+    ],
+    "diagnostic_dimensions": [
+      "representation",
+      "reasoning",
+      "execution"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-004-A",
+      "DIAG-PHY-004-B",
+      "DIAG-PHY-004-C"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q2.2.5",
+      "physics_2019_internal_paper1_june_q3.1.7",
+      "physics_2019_internal_paper1_june_q3.1.8",
+      "physics_2019_internal_paper1_june_q7.6",
+      "physics_2021_internal_paper1_nov_q3.8",
+      "physics_2021_internal_paper1_nov_q6.1.5",
+      "physics_2023_internal_paper1_june_q4.7",
+      "physics_2025_internal_paper1_nov_q1.1.5",
+      "physics_2025_internal_paper1_nov_q2.7"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-004 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-004 (question family, Tier 2)",
+      "9 question records across 4 papers: PHY-2019-MY, PHY-2021-NOV, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-005",
+    "definition": "Understanding which forces act on a specified object in a specified situation, so that a free-body or vector-addition diagram can be drawn with the correct arrows, labels, directions and relative lengths.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Mechanics: forces and vectors",
+    "question_family": "QUESTION-FAMILY-PHY-005",
+    "assessment_operations": [
+      "identify the forces on an object",
+      "draw and label arrows",
+      "show relative magnitude"
+    ],
+    "required_knowledge": [
+      "the standard force set: weight, normal force, friction, tension, applied force",
+      "that a free-body diagram contains only forces ON the chosen object",
+      "friction acts parallel to the contact surface; the normal force is perpendicular to it",
+      "Newton's third-law partners are not drawn on the same body"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-001 (definitions of friction and normal force)",
+      "resolving a weight on an incline into parallel and perpendicular components"
+    ],
+    "required_reasoning": [
+      "choose the system boundary first (the crate, not crate + person) and list only external forces on it",
+      "compare magnitudes from the motion: if the body accelerates upward, the upward force must be drawn longer",
+      "recognise when only one force acts (free fall: 'dot and weight ONLY')"
+    ],
+    "required_procedure": "state the object -> list contact and field forces -> draw arrows from the object's centre with correct directions -> label each -> compare lengths against the motion",
+    "evidence_of_understanding": [
+      "draws exactly the forces on the named object, with no third-law partners and no 'ma' force",
+      "makes relative lengths consistent with the stated acceleration",
+      "can justify each arrow by naming the interaction that produces it"
+    ],
+    "marking_requirements": [
+      "one mark per correct, labelled force: 2023 memo (6.2) lists weight, normal force, F = 120 N, Ff and tension; 2025 memo (3.1) gives an explicit per-force criteria list including the arrow direction for each",
+      "extra or missing arrows are penalised: 2019 memo (3.1.4) says 'dot and weight ONLY'",
+      "relative length is marked: 2021 memo (5.1) 'Tension force > Friction force'; 2025 memo (2.5) 'FN must be longer than Fg'",
+      "angles are marked: 2019 memo (4.2.4) and 2023 memo (5.2) deduct a mark when the angle is not shown"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-005-A",
+      "BREAKDOWN-PHY-005-B",
+      "BREAKDOWN-PHY-005-C"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'there is a force in the direction of motion' (an 'ma force' arrow) - explicitly offered and rejected as an option in 2023 Q1.4",
+      "[Tier 3 inference] 'the normal force is always equal to the weight' - false on an incline and whenever a vertical component of an applied force exists",
+      "[Tier 3 inference] 'the reaction force to the weight belongs on the same diagram'"
+    ],
+    "diagnostic_dimensions": [
+      "concept",
+      "representation",
+      "reasoning"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-005-A",
+      "DIAG-PHY-005-B",
+      "DIAG-PHY-005-C"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q3.1.4",
+      "physics_2019_internal_paper1_june_q4.2.4",
+      "physics_2019_internal_paper1_june_q5.4",
+      "physics_2021_internal_paper1_nov_q2.1.4",
+      "physics_2021_internal_paper1_nov_q3.9",
+      "physics_2021_internal_paper1_nov_q4.1",
+      "physics_2021_internal_paper1_nov_q5.1",
+      "physics_2023_internal_paper1_june_q5.2",
+      "physics_2023_internal_paper1_june_q6.2",
+      "physics_2025_internal_paper1_nov_q2.5",
+      "physics_2025_internal_paper1_nov_q3.1"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-005 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-005 (question family, Tier 2)",
+      "11 question records across 4 papers: PHY-2019-MY, PHY-2021-NOV, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-006",
+    "definition": "Understanding that connected bodies share a magnitude of acceleration and a tension, so that Fnet = ma can be written per body (or for the whole system) and solved simultaneously under one direction convention.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Mechanics: Newton's second law applied to systems",
+    "question_family": "QUESTION-FAMILY-PHY-006",
+    "assessment_operations": [
+      "isolate each body",
+      "write Fnet = ma per body",
+      "solve simultaneously",
+      "interpret the sign"
+    ],
+    "required_knowledge": [
+      "an inextensible string transmits the same tension magnitude to both bodies and constrains them to the same acceleration magnitude",
+      "weight components on an incline: mg sin theta down the slope, mg cos theta perpendicular",
+      "Ff = mu_k FN for a body on a rough surface"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-005 (force diagrams per body)",
+      "UNDERSTANDING-PHY-002 (single-body Fnet = ma)",
+      "solving two simultaneous linear equations"
+    ],
+    "required_reasoning": [
+      "fix one positive direction for the whole system before writing any equation",
+      "decide whether to treat the bodies separately or as one system, and know that the internal tension cancels in the system method",
+      "interpret a negative result as 'the assumed direction was wrong', not as an error"
+    ],
+    "required_procedure": "draw a force diagram per body -> choose a positive direction -> write Fnet = ma for each body -> substitute the shared a and T -> solve -> back-substitute for T",
+    "evidence_of_understanding": [
+      "writes two equations with the same sign convention and can explain why a is the same for both bodies",
+      "explains why tension is not simply equal to the hanging weight",
+      "can solve the problem by the system method and reconcile it with the two-body method"
+    ],
+    "marking_requirements": [
+      "memos mark each body's equation separately before the solution: 2025 memo (4.3) marks the A equation, the B equation, the equality of the two tensions, a and then T",
+      "both routes are accepted for the same marks: 2021 memo (5.5) shows 'OR System:' with its own mark allocation",
+      "the tension answer is marked 'coe' from the candidate's own acceleration (2021 memo 5.6)",
+      "2023 memo (6.6) allocates 6 marks across two body equations, the friction and weight components and the final comparison with 2 m.s-2"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-006-A",
+      "BREAKDOWN-PHY-006-B",
+      "BREAKDOWN-PHY-006-C"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'tension equals the weight of the hanging mass' - the reason 2025 Q4.1/4.2 asks for the comparison before the calculation",
+      "[Tier 3 inference] 'each body has its own acceleration' - the string constraint is missed",
+      "[Tier 3 inference] 'friction on the incline acts up the slope in every case' - it opposes the actual or impending motion"
+    ],
+    "diagnostic_dimensions": [
+      "concept",
+      "strategy",
+      "execution",
+      "verification"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-006-A",
+      "DIAG-PHY-006-B",
+      "DIAG-PHY-006-C"
+    ],
+    "source_references": [
+      "physics_2021_internal_paper1_nov_q5.5",
+      "physics_2021_internal_paper1_nov_q5.6",
+      "physics_2023_internal_paper1_june_q6.6",
+      "physics_2023_internal_paper1_june_q7.1.1",
+      "physics_2025_internal_paper1_nov_q4.3"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-006 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-006 (question family, Tier 2)",
+      "5 question records across 3 papers: PHY-2021-NOV, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-007",
+    "definition": "Understanding that a force at an angle has independent perpendicular components, so that the correct trigonometric ratio can be chosen for the direction required and components combined into a resultant with a direction.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Mechanics: vectors and forces at an angle",
+    "question_family": "QUESTION-FAMILY-PHY-007",
+    "assessment_operations": [
+      "resolve a vector",
+      "choose sin or cos correctly",
+      "combine components",
+      "give a direction or bearing"
+    ],
+    "required_knowledge": [
+      "the component adjacent to the reference angle uses cos, the opposite uses sin",
+      "Pythagoras for the magnitude of a resultant and tan-1 for its direction",
+      "on a horizontal surface with an upward pull: FN = Fg - F sin theta",
+      "a bearing is measured clockwise from north"
+    ],
+    "prerequisites": [
+      "right-angle trigonometry",
+      "UNDERSTANDING-PHY-005 (which forces are present)"
+    ],
+    "required_reasoning": [
+      "identify the reference angle and which side of the triangle the required component lies on, instead of defaulting to one ratio",
+      "recognise that only the horizontal component accelerates the body horizontally, while the vertical component changes the normal force",
+      "convert a mathematical angle into the bearing or compass direction the question asks for"
+    ],
+    "required_procedure": "sketch the triangle -> resolve into x and y -> combine (Pythagoras) -> find the angle -> express in the requested direction format",
+    "evidence_of_understanding": [
+      "justifies the choice of sin or cos by reference to the triangle, not by habit",
+      "reduces the normal force when an upward component exists, and can explain why",
+      "reports a direction in the form the question requests"
+    ],
+    "marking_requirements": [
+      "2025 memo (3.3) marks FN = Fg - Fy, the substitution (70)(9,8) - (300)sin30, and the answer - the vertical component is a separate mark",
+      "2025 memo (3.4) requires BOTH Fmax(static) and the horizontal component Fx before awarding the comparison mark",
+      "2019 memo (4.1.2) distributes 6 marks over x-components, y-components, magnitude, angle and the final bearing statement",
+      "2019 memo (4.2.2) awards a mark for the component expression, one for its value and one for identifying it as the resistive force"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-007-A",
+      "BREAKDOWN-PHY-007-B",
+      "BREAKDOWN-PHY-007-C"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'the applied force equals the horizontal force' - the cosine factor is dropped",
+      "[Tier 3 inference] 'the normal force is always mg' even when a rope lifts at an angle",
+      "[Tier 3 inference] 'sin and cos are interchangeable' - produces the wrong component with an otherwise correct method"
+    ],
+    "diagnostic_dimensions": [
+      "representation",
+      "strategy",
+      "execution"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-007-A",
+      "DIAG-PHY-007-B",
+      "DIAG-PHY-007-C"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q4.1.2",
+      "physics_2019_internal_paper1_june_q4.2.2",
+      "physics_2023_internal_paper1_june_q6.3",
+      "physics_2025_internal_paper1_nov_q3.4",
+      "physics_2025_internal_paper1_nov_q4.7"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-007 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-007 (question family, Tier 2)",
+      "5 question records across 3 papers: PHY-2019-MY, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, Grade 11 Paper 1 MG 2019.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Grade 11 Paper 1 QP 2019.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-008",
+    "definition": "Understanding a relationship well enough to predict the direction of a change when one quantity is altered, and to justify that prediction by naming the relationship and carrying the causal chain through it.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Cross-topic: proportional reasoning in circuits and mechanics",
+    "question_family": "QUESTION-FAMILY-PHY-008",
+    "assessment_operations": [
+      "predict a direction of change",
+      "quote a relationship",
+      "reason causally",
+      "evaluate a stated claim"
+    ],
+    "required_knowledge": [
+      "I = V/R, V = IR, P = VI = I2R = V2/R, emf = I(Rext + r) and the 'lost voltage' idea",
+      "Fnet = ma, Ff = mu FN, and that a net force requires a nonzero resultant",
+      "which quantity is held constant in the situation (constant voltage for parallel branches, constant current for series components)"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-009 for circuit items; UNDERSTANDING-PHY-006 for force items",
+      "direct and inverse proportionality language"
+    ],
+    "required_reasoning": [
+      "identify the FIRST quantity that changes, then follow the chain to the quantity asked about (the memos award one mark per link)",
+      "hold the correct quantity constant - the same relationship gives opposite answers in series and parallel (2021 Q7.2.2)",
+      "when critiquing a claim, test each of the claim's separate assertions"
+    ],
+    "required_procedure": "state the change -> name the governing equation -> say which quantity is constant -> step through the chain -> restate the prediction",
+    "evidence_of_understanding": [
+      "names the equation used and identifies the quantity held constant before predicting",
+      "gives the intermediate quantity (total current, normal force) rather than jumping to the answer",
+      "can predict correctly in the paired series/parallel case where the answers differ"
+    ],
+    "marking_requirements": [
+      "the prediction is worth 1 mark and the justification 2-4 marks; the justification is where nearly all the marks are",
+      "2019 memo (7.7.2) requires TWO named formulae ('I = V/R' and 'P = I2R with R constant') for 4 marks",
+      "2025 memo (8.3) awards marks for: increase, total current decreases, less voltage lost internally (Vinternal = Ir), external voltage increases (emf = Vint + Vext)",
+      "2021 memo (7.1.7) marks the prediction, the proportionality with R constant, the formula and the statement about the current through the specific resistor",
+      "2023 memo (6.7) requires quantitative correction of two parts of a student's claim plus a final judgement"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-008-A",
+      "BREAKDOWN-PHY-008-B",
+      "BREAKDOWN-PHY-008-C"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'brighter always means more resistance' - the 2021 Q7.2.2 memo requires the opposite answer in series and in parallel",
+      "[Tier 3 inference] 'a battery's terminal voltage is fixed' - ignores internal resistance, which is the whole content of the 2025 Q8.3 chain",
+      "[Tier 3 inference] 'removing a branch cannot change the others' - parallel-branch independence over-applied to a circuit with internal resistance"
+    ],
+    "diagnostic_dimensions": [
+      "concept",
+      "reasoning",
+      "explanation",
+      "verification"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-008-A",
+      "DIAG-PHY-008-B",
+      "DIAG-PHY-008-C"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q5.3.2",
+      "physics_2019_internal_paper1_june_q7.7.1",
+      "physics_2019_internal_paper1_june_q7.7.2",
+      "physics_2021_internal_paper1_nov_q5.7",
+      "physics_2021_internal_paper1_nov_q6.1.4",
+      "physics_2021_internal_paper1_nov_q7.1.6",
+      "physics_2021_internal_paper1_nov_q7.1.7",
+      "physics_2021_internal_paper1_nov_q7.2.2",
+      "physics_2023_internal_paper1_june_q2.5",
+      "physics_2023_internal_paper1_june_q6.7",
+      "physics_2023_internal_paper1_june_q8.7",
+      "physics_2023_internal_paper1_june_q8.8",
+      "physics_2023_internal_paper1_june_q9.3",
+      "physics_2023_internal_paper1_june_q9.4",
+      "physics_2025_internal_paper1_nov_q4.1",
+      "physics_2025_internal_paper1_nov_q4.2",
+      "physics_2025_internal_paper1_nov_q4.4",
+      "physics_2025_internal_paper1_nov_q6.2.1",
+      "physics_2025_internal_paper1_nov_q6.2.2",
+      "physics_2025_internal_paper1_nov_q8.2",
+      "physics_2025_internal_paper1_nov_q8.3",
+      "physics_2025_internal_paper1_nov_q9.5"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-008 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-008 (question family, Tier 2)",
+      "22 question records across 4 papers: PHY-2019-MY, PHY-2021-NOV, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-009",
+    "definition": "Understanding how a resistor network reduces to an equivalent resistance, and how current, potential difference, power and emf then distribute through it - including the effect of internal resistance.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Electric circuits",
+    "question_family": "QUESTION-FAMILY-PHY-009",
+    "assessment_operations": [
+      "identify series and parallel groupings",
+      "reduce to an equivalent resistance",
+      "apply Ohm's law / power / emf equations",
+      "carry intermediate values forward"
+    ],
+    "required_knowledge": [
+      "Rs = R1 + R2 ... and 1/Rp = 1/R1 + 1/R2 ...",
+      "V = IR, P = VI = I2R = V2/R, W = VIt",
+      "emf = I(Rext + r); terminal voltage = emf - Ir",
+      "an ideal ammeter has negligible resistance (it shorts what it replaces); an ideal voltmeter draws no current"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-001 (definitions of resistance, potential difference, emf, ohmic conductor)",
+      "algebraic manipulation of the parallel-resistance formula (2023 Q8.2 solves for R)"
+    ],
+    "required_reasoning": [
+      "read the diagram to decide which components share the same current and which share the same potential difference",
+      "reduce the network before applying Ohm's law, and keep track of which resistance a given voltage is across",
+      "with internal resistance, recognise that the voltmeter over the battery reads the terminal voltage, not the emf"
+    ],
+    "required_procedure": "identify groupings -> reduce step by step -> find the total current -> distribute voltages and currents -> apply the power or energy equation -> keep units",
+    "evidence_of_understanding": [
+      "states which resistors are in parallel and why, before calculating",
+      "uses the resistance appropriate to the component being asked about, not the total",
+      "explains what happens to the terminal voltage when the current changes"
+    ],
+    "marking_requirements": [
+      "the equivalent-resistance step is marked separately from the current/voltage step: 2021 memo (7.1.2) gives 2 marks for the parallel combination and 2 for the total",
+      "the memo allows any of the three power forms (2019 memo 7.5.1: 'allow P = VI, P = V2/R, P = I2R')",
+      "intermediate values carry forward as 'coe' (2021 memo 7.1.4 'coe 7.1.3'; 2023 memo 6.5 'COE 6.4')",
+      "2025 memo (9.3, 9.4) requires the internal resistance to be included in emf = I(Rext + r) before R can be found",
+      "2023 memo (8.6) requires the time in seconds (120 s) for W = VIt"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-009-A",
+      "BREAKDOWN-PHY-009-B",
+      "BREAKDOWN-PHY-009-C",
+      "BREAKDOWN-PHY-009-D"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'R = R1 + R2 for every combination' - parallel formula not applied",
+      "[Tier 3 inference] 'current is used up as it passes through resistors'",
+      "[Tier 3 inference] 'the voltmeter reading is the emf' - internal resistance ignored",
+      "[Tier 3 inference] 'replacing a resistor with an ammeter changes nothing' - the short-circuit consequence required by 2023 Q8.8"
+    ],
+    "diagnostic_dimensions": [
+      "interpretation",
+      "concept",
+      "strategy",
+      "execution"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-009-A",
+      "DIAG-PHY-009-B",
+      "DIAG-PHY-009-C"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q7.2",
+      "physics_2019_internal_paper1_june_q7.4.1",
+      "physics_2019_internal_paper1_june_q7.4.2",
+      "physics_2019_internal_paper1_june_q7.5.1",
+      "physics_2019_internal_paper1_june_q7.5.2",
+      "physics_2021_internal_paper1_nov_q7.1.2",
+      "physics_2021_internal_paper1_nov_q7.1.3",
+      "physics_2021_internal_paper1_nov_q7.1.4",
+      "physics_2021_internal_paper1_nov_q7.1.5",
+      "physics_2023_internal_paper1_june_q8.2",
+      "physics_2023_internal_paper1_june_q8.4",
+      "physics_2023_internal_paper1_june_q8.6",
+      "physics_2023_internal_paper1_june_q9.5",
+      "physics_2025_internal_paper1_nov_q8.1",
+      "physics_2025_internal_paper1_nov_q9.2",
+      "physics_2025_internal_paper1_nov_q9.3",
+      "physics_2025_internal_paper1_nov_q9.4"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-009 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-009 (question family, Tier 2)",
+      "17 question records across 4 papers: PHY-2019-MY, PHY-2021-NOV, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-010",
+    "definition": "Understanding the logic of an experimental investigation: what the hypothesis claims, how the data must be plotted to the marking criteria, what the gradient of the resulting graph means physically, and how that meaning yields an unknown.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Experimental investigation; mechanics: gravitation",
+    "question_family": "QUESTION-FAMILY-PHY-010",
+    "assessment_operations": [
+      "state a hypothesis",
+      "complete a table",
+      "plot a graph",
+      "calculate a gradient",
+      "interpret the gradient physically"
+    ],
+    "required_knowledge": [
+      "independent and dependent variables, and the order a hypothesis must state them in",
+      "graph conventions: heading, axis labels with units, a scale that uses the grid, points plotted, line of best fit",
+      "gradient = dy/dx with the unit of the y-axis over the unit of the x-axis",
+      "that a straight line through the origin means direct proportionality, and that the gradient can equal a physical constant (g, or 1/(G m1 m2))"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-002 (substitution and units)",
+      "reading a table and completing a derived column"
+    ],
+    "required_reasoning": [
+      "identify which column must be transformed before plotting (v2, or 1/r2) to obtain a straight line",
+      "equate the measured gradient to the theoretical expression and solve for the unknown",
+      "read a value from the line of best fit rather than from a plotted point"
+    ],
+    "required_procedure": "state the hypothesis (IV then DV) -> complete the table -> label axes and choose a scale -> plot -> draw the line of best fit -> take a gradient triangle -> attach the unit -> equate to the physical expression -> solve",
+    "evidence_of_understanding": [
+      "states the hypothesis with the variables in the order the memo requires",
+      "chooses and justifies the transformed variable that linearises the data",
+      "gives the gradient with a unit and says what physical quantity it represents"
+    ],
+    "marking_requirements": [
+      "graph marks are itemised: 2019 memo (6.4) awards heading, labels/unit, scale, plotting (x2) and line of best fit; 2021 memo (8.2) awards heading, axis label with unit, scale, plotting and LOBF across 7 marks",
+      "2019 memo (6.1) states 'order matters' for the hypothesis; 2021 memo (8.3) states 'order' for the relationship in words",
+      "the gradient must carry a unit (2021 memo 8.5) and a tolerance is allowed (2025 memo 6.1.3: plus or minus 10%)",
+      "2025 memo (6.1.2) flags two specific data points ('check 0,2 & 0,6') as commonly misplotted, and the paper waives the heading for that item only",
+      "the final step equates the gradient to 1/(G m1 m2) (2021 memo 8.6, 8.7) or to g (2025 memo 6.1.4) - the highest-value reasoning step"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-010-A",
+      "BREAKDOWN-PHY-010-B",
+      "BREAKDOWN-PHY-010-C",
+      "BREAKDOWN-PHY-010-D"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'a hypothesis is a prediction of the outcome' rather than a statement of the relationship between the two variables",
+      "[Tier 3 inference] 'join the plotted points dot-to-dot' instead of a line of best fit",
+      "[Tier 3 inference] 'the gradient is a number without units'",
+      "[Tier 3 inference] 'the gradient of F against 1/r2 has no physical meaning'"
+    ],
+    "diagnostic_dimensions": [
+      "interpretation",
+      "representation",
+      "execution",
+      "reasoning"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-010-A",
+      "DIAG-PHY-010-B",
+      "DIAG-PHY-010-C"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q6.1",
+      "physics_2019_internal_paper1_june_q6.2",
+      "physics_2019_internal_paper1_june_q6.3",
+      "physics_2019_internal_paper1_june_q6.4",
+      "physics_2019_internal_paper1_june_q6.5",
+      "physics_2021_internal_paper1_nov_q8.1.1",
+      "physics_2021_internal_paper1_nov_q8.1.2",
+      "physics_2021_internal_paper1_nov_q8.2",
+      "physics_2021_internal_paper1_nov_q8.3",
+      "physics_2021_internal_paper1_nov_q8.4",
+      "physics_2021_internal_paper1_nov_q8.5",
+      "physics_2021_internal_paper1_nov_q8.6",
+      "physics_2021_internal_paper1_nov_q8.7",
+      "physics_2025_internal_paper1_nov_q6.1.2",
+      "physics_2025_internal_paper1_nov_q6.1.3"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-010 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-010 (question family, Tier 2)",
+      "15 question records across 3 papers: PHY-2019-MY, PHY-2021-NOV, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-011",
+    "definition": "Understanding that atomic energy levels are quantised and negative, so that a transition releases a photon whose energy is the difference between levels, and being able to move between energy, frequency, wavelength and electron volts.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Waves, sound and light: photons and energy levels",
+    "question_family": "QUESTION-FAMILY-PHY-011",
+    "assessment_operations": [
+      "count possible transitions",
+      "take an energy difference between levels",
+      "apply E = hf or E = hc/lambda",
+      "convert J to eV"
+    ],
+    "required_knowledge": [
+      "E = hf, E = hc/lambda, c = f lambda, and 1 eV = 1,6 x 10^-19 J",
+      "the number of distinct transitions from level n is the number of distinct pairs of levels below it (3 unique frequencies from n = 3)",
+      "shorter wavelength means higher frequency and higher photon energy",
+      "level energies are quoted relative to the ionisation limit, hence negative"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-002 (substitution and unit conversion)",
+      "scientific notation arithmetic and powers of ten"
+    ],
+    "required_reasoning": [
+      "identify the two levels involved and take the difference, not a single level value",
+      "decide whether the question needs a difference (transition) or a single value (photon of stated wavelength)",
+      "convert to eV only at the end, and check the order of magnitude"
+    ],
+    "required_procedure": "identify the levels -> dE = E2 - E1 -> convert eV to J -> apply E = hf or E = hc/lambda -> solve -> convert back to the requested unit",
+    "evidence_of_understanding": [
+      "counts transitions by pairing levels rather than by counting levels",
+      "explains why the green photon is more energetic than the red at equal beam power",
+      "can explain why the tabulated level energies are negative"
+    ],
+    "marking_requirements": [
+      "the eV<->J conversion is a separate mark: 2023 memo (10.2) marks E = hf, the substitution with (13,6 - 3,4) x 1,6 x 10^-19, and the frequency",
+      "2023 memo (10.3) and 2025 memo (7.2) both require the final answer in eV as a separate mark after the joule value",
+      "2025 memo (7.1) awards one mark for 'higher frequency, more energy' and one for 'wavelength inversely proportional to frequency'",
+      "the memo for 2021 Q9.2-9.5 is an image and could not be read as text, so the marking detail for those items is unverified (see unresolved items)"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-011-A",
+      "BREAKDOWN-PHY-011-B",
+      "BREAKDOWN-PHY-011-C"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'a brighter beam has more energetic photons' - the exact distinction the 2025 Q7.1 memo marks",
+      "[Tier 3 inference] 'the photon energy equals the energy of the level it leaves'",
+      "[Tier 3 inference] 'negative level energies mean the electron has negative energy that must be added' without reference to the ionisation reference point"
+    ],
+    "diagnostic_dimensions": [
+      "concept",
+      "execution",
+      "explanation"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-011-A",
+      "DIAG-PHY-011-B",
+      "DIAG-PHY-011-C"
+    ],
+    "source_references": [
+      "physics_2021_internal_paper1_nov_q9.1",
+      "physics_2021_internal_paper1_nov_q9.2",
+      "physics_2021_internal_paper1_nov_q9.3",
+      "physics_2021_internal_paper1_nov_q9.4",
+      "physics_2021_internal_paper1_nov_q9.5",
+      "physics_2023_internal_paper1_june_q10.1",
+      "physics_2023_internal_paper1_june_q10.2",
+      "physics_2023_internal_paper1_june_q10.3",
+      "physics_2025_internal_paper1_nov_q7.1",
+      "physics_2025_internal_paper1_nov_q7.2"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-011 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-011 (question family, Tier 2)",
+      "10 question records across 3 papers: PHY-2021-NOV, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-012",
+    "definition": "Understanding a single concept well enough to apply it once, under time pressure and without working, and to eliminate the distractors that target the common error.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Cross-topic concept application (multiple choice)",
+    "question_family": "QUESTION-FAMILY-PHY-012",
+    "assessment_operations": [
+      "apply one concept",
+      "eliminate distractors",
+      "select an option"
+    ],
+    "required_knowledge": [
+      "the same concept base as the written questions: vector addition limits, sign of acceleration, Newton's laws, elevator scale readings, series vs parallel brightness, energy-level transitions"
+    ],
+    "prerequisites": [
+      "the corresponding written-topic understanding models (PHY-001 to PHY-009)"
+    ],
+    "required_reasoning": [
+      "identify which single idea the item tests before reading the options",
+      "test each option against that idea rather than looking for a familiar phrase",
+      "handle the paired-table format (two quantities per option) by checking both columns"
+    ],
+    "required_procedure": null,
+    "evidence_of_understanding": [
+      "can say why the correct option is right AND why each distractor is wrong",
+      "answers consistently with the written questions on the same topic"
+    ],
+    "marking_requirements": [
+      "every MCQ in the batch is worth exactly 2 marks and the memo records only the correct letter (2019 memo Q1, 2021 memo Q1, 2023 memo Q1) - there is no partial credit and no method mark",
+      "because the memos give no distractor analysis, the knowledge bank cannot state officially why a wrong option is wrong; any such claim is Tier 3 inference",
+      "the MCQ block is absent from the 2025 paper, so this family rests on three papers only"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-012-A",
+      "BREAKDOWN-PHY-012-B"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] distractor patterns are not documented in any memo in this batch; any specific claim about why students choose a wrong option is unprovenanced"
+    ],
+    "diagnostic_dimensions": [
+      "concept",
+      "verification"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-012-A",
+      "DIAG-PHY-012-B"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q1.1",
+      "physics_2019_internal_paper1_june_q1.2",
+      "physics_2019_internal_paper1_june_q1.3",
+      "physics_2019_internal_paper1_june_q1.4",
+      "physics_2019_internal_paper1_june_q1.5",
+      "physics_2019_internal_paper1_june_q1.6",
+      "physics_2019_internal_paper1_june_q1.7",
+      "physics_2019_internal_paper1_june_q1.8",
+      "physics_2021_internal_paper1_nov_q1.1",
+      "physics_2021_internal_paper1_nov_q1.2",
+      "physics_2021_internal_paper1_nov_q1.3",
+      "physics_2021_internal_paper1_nov_q1.4",
+      "physics_2021_internal_paper1_nov_q1.5",
+      "physics_2021_internal_paper1_nov_q1.6",
+      "physics_2021_internal_paper1_nov_q1.7",
+      "physics_2021_internal_paper1_nov_q1.8",
+      "physics_2021_internal_paper1_nov_q1.9",
+      "physics_2021_internal_paper1_nov_q1.10",
+      "physics_2023_internal_paper1_june_q1.1",
+      "physics_2023_internal_paper1_june_q1.2",
+      "physics_2023_internal_paper1_june_q1.3",
+      "physics_2023_internal_paper1_june_q1.4",
+      "physics_2023_internal_paper1_june_q1.5",
+      "physics_2023_internal_paper1_june_q1.6",
+      "physics_2023_internal_paper1_june_q1.7"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-012 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-012 (question family, Tier 2)",
+      "25 question records across 3 papers: PHY-2019-MY, PHY-2021-NOV, PHY-2023-MY",
+      "marking memoranda: G11- Mid-Year Examination - MG FINAL - 2023.pdf, Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11- Mid-Year Examination - QP - 2023.pdf, Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-013",
+    "definition": "Understanding Newton's third law as a statement about a pair of interacting bodies, so that the reaction to a named force can be identified by reversing the bodies and the direction, with equal magnitude.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Mechanics: Newton's third law",
+    "question_family": "QUESTION-FAMILY-PHY-013",
+    "assessment_operations": [
+      "identify the interacting pair",
+      "reverse the bodies",
+      "state the direction",
+      "state equal magnitude"
+    ],
+    "required_knowledge": [
+      "the third law pairs forces of the same type acting on different bodies",
+      "the reaction to the weight of an object is the gravitational pull of that object on the Earth, upward",
+      "the normal force is NOT the third-law partner of the weight",
+      "during a collision both bodies experience forces of equal magnitude"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-001 (statement of Newton's third law)",
+      "UNDERSTANDING-PHY-005"
+    ],
+    "required_reasoning": [
+      "name the two bodies in the given force, then swap them to construct the partner",
+      "check that the partner is the same type of force (gravitational with gravitational, contact with contact)"
+    ],
+    "required_procedure": null,
+    "evidence_of_understanding": [
+      "gives the partner force with both bodies named and the direction stated",
+      "rejects the normal force as the partner of the weight and can say why",
+      "applies equal magnitude to both bodies in a collision regardless of their masses"
+    ],
+    "marking_requirements": [
+      "two marks: the force named with the correct pair of bodies, and the direction (2019 memo 5.5: 'the box pulling up on the Earth'; 2023 memo 7.1.3: 'the pulling gravitational force of the 5 kg mass piece on the Earth' + 'upwards')",
+      "2025 memo (5.3) requires 'equal magnitude of force' with the Newton III reference"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-013-A",
+      "BREAKDOWN-PHY-013-B"
+    ],
+    "misconceptions": [
+      "[memo-evidenced] the normal force is offered as a distractor for the reaction to the weight (2021 Q1.7 option D) and the memo rejects it",
+      "[Tier 3 inference] 'the heavier body exerts the greater force in a collision'"
+    ],
+    "diagnostic_dimensions": [
+      "concept",
+      "explanation"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-013-A",
+      "DIAG-PHY-013-B"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q5.5",
+      "physics_2023_internal_paper1_june_q7.1.3",
+      "physics_2025_internal_paper1_nov_q5.3"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-013 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-013 (question family, Tier 2)",
+      "3 question records across 3 papers: PHY-2019-MY, PHY-2023-MY, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - MG FINAL - 2023.pdf, Grade 11 Paper 1 MG 2019.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Grade 11 Paper 1 QP 2019.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "medium",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-014",
+    "definition": "Understanding momentum as a conserved vector quantity of an isolated system, so that a collision can be solved with a sign convention, and impulse as the change in momentum produced by a force over a contact time.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Mechanics: momentum and impulse",
+    "question_family": "QUESTION-FAMILY-PHY-014",
+    "assessment_operations": [
+      "state a conservation principle",
+      "set a sign convention",
+      "solve simultaneous conservation equations",
+      "apply impulse = change in momentum"
+    ],
+    "required_knowledge": [
+      "p = mv; total momentum of an isolated system is conserved",
+      "for a perfectly elastic collision kinetic energy is also conserved; equivalently the relative velocity of approach equals the relative velocity of separation",
+      "J = F dt = dp = m(vf - vi)"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-002 (substitution, units: milliseconds to seconds)",
+      "solving two simultaneous equations"
+    ],
+    "required_reasoning": [
+      "declare one positive direction and apply it to both bodies before and after",
+      "recognise that two unknowns require two independent equations",
+      "interpret a negative final velocity as motion in the declared negative direction"
+    ],
+    "required_procedure": "state the principle -> set the sign convention -> write the momentum equation -> write the energy (or relative-velocity) equation -> solve -> state magnitude and direction -> use dp = F dt for the contact force",
+    "evidence_of_understanding": [
+      "explains why the system can be treated as isolated",
+      "keeps one sign convention through both equations and states directions at the end",
+      "explains why both bodies experience equal-magnitude forces despite different masses"
+    ],
+    "marking_requirements": [
+      "2025 memo (5.2) awards 6 marks across the momentum equation, its substitution, the energy or relative-velocity equation, the substitution into equation 1, and each final velocity with its direction",
+      "2025 memo (5.5) marks m(vf - vi) = F dt, the substitution with the time in seconds (0,02 s) and the force",
+      "2025 memo (5.6) awards marks for 'interact without physical contact', 'minimal deformation/friction/sound/heat loss' and 'closer to perfectly elastic'",
+      "CAUTION: this family is evidenced by a single paper only (2025); the marking requirements above must not be generalised to other sittings yet"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-014-A",
+      "BREAKDOWN-PHY-014-B",
+      "BREAKDOWN-PHY-014-C"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'momentum is conserved as a scalar' - signs dropped",
+      "[Tier 3 inference] 'the heavier cart exerts the greater force' - contradicted by 2025 memo 5.3",
+      "[Tier 3 inference] 'an elastic collision means the bodies bounce with unchanged speeds'"
+    ],
+    "diagnostic_dimensions": [
+      "concept",
+      "strategy",
+      "execution"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-014-A",
+      "DIAG-PHY-014-B"
+    ],
+    "source_references": [
+      "physics_2025_internal_paper1_nov_q5.2",
+      "physics_2025_internal_paper1_nov_q5.5",
+      "physics_2025_internal_paper1_nov_q5.6"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-014 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-014 (question family, Tier 2)",
+      "3 question records across 1 papers: PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "medium",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-015",
+    "definition": "Understanding a principle well enough to use it as the reason for a specific observation - stating the principle, applying it to the objects in the situation, and completing the causal chain the memo ticks.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Cross-topic: written physical explanation",
+    "question_family": "QUESTION-FAMILY-PHY-015",
+    "assessment_operations": [
+      "explain a phenomenon",
+      "justify a proposal",
+      "link a principle to a situation"
+    ],
+    "required_knowledge": [
+      "Newton's first law and inertia as the explanation for a load moving relative to an accelerating vehicle",
+      "friction depends on mu and the normal force, so changing either changes the maximum static friction",
+      "a force at an angle has a component that pulls off the line of motion",
+      "positive work means the object gains energy, negative work means it loses energy; a force perpendicular to the displacement does no work",
+      "energy is lost in a bounce when the rebound speed or height is smaller"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-001 (the principle must be statable before it can be applied)",
+      "UNDERSTANDING-PHY-005 (which forces act, and in which direction)"
+    ],
+    "required_reasoning": [
+      "identify the principle that governs the situation rather than describing what happens",
+      "apply it to the specific objects named in the question",
+      "complete the chain to the outcome the question asks about, in the order the memo marks"
+    ],
+    "required_procedure": "name the principle -> apply it to the stated objects -> state the consequence -> answer the question actually asked",
+    "evidence_of_understanding": [
+      "names a principle rather than restating the observation",
+      "completes every link the memo ticks, including the final consequence",
+      "can explain the same situation in a different context (e.g. a box on a truck and a granite block on a trailer)"
+    ],
+    "marking_requirements": [
+      "one mark per reasoning link: 2019 memo 5.3.1 ticks 'external force applied to the truck', 'inertia of the box resists the change', 'friction not great enough', 'hence it slides off'; 2021 memo 4.2 ticks the same four links",
+      "2021 memo 4.3.4 requires a named equation (Ff proportional to mu for the same FN) for the third mark - a purely verbal answer cannot score full marks",
+      "2025 memo 3.5 ticks 'normal force decreases' and 'Ff = mu FN so static friction decreases' - the relationship must be quoted",
+      "2021 memo 6.1.2 and 6.1.3 allocate one mark per element (positive vs negative work; naming the frictional force)",
+      "2019 memo 3.1.5 requires the reason from the graph, not just 'yes'"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-015-A",
+      "BREAKDOWN-PHY-015-B",
+      "BREAKDOWN-PHY-015-C"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'a moving object needs a force to keep moving' - the direct obstacle to the inertia explanations in 2019 Q5.3.1 and 2021 Q4.2",
+      "[Tier 3 inference] 'heavier means more friction because of the weight, not because of the normal force' - the relationship the 2025 Q3.5 memo requires",
+      "[Tier 3 inference] 'if nothing moves, no forces act' - blocks the equilibrium reasoning"
+    ],
+    "diagnostic_dimensions": [
+      "concept",
+      "reasoning",
+      "explanation"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-015-A",
+      "DIAG-PHY-015-B",
+      "DIAG-PHY-015-C"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q3.1.5",
+      "physics_2019_internal_paper1_june_q4.2.3",
+      "physics_2019_internal_paper1_june_q4.2.5",
+      "physics_2019_internal_paper1_june_q5.3.1",
+      "physics_2021_internal_paper1_nov_q4.2",
+      "physics_2021_internal_paper1_nov_q4.3.4",
+      "physics_2021_internal_paper1_nov_q6.1.2",
+      "physics_2021_internal_paper1_nov_q6.1.3",
+      "physics_2025_internal_paper1_nov_q3.5"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-015 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-015 (question family, Tier 2)",
+      "9 question records across 3 papers: PHY-2019-MY, PHY-2021-NOV, PHY-2025-NOV",
+      "marking memoranda: G11 -  MG - Physics Final Exam - Nov - 2025.pdf, Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: G11 -  QP - Physics Final Exam - Nov - 2025.pdf, Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "high",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  },
+  {
+    "identity": "UNDERSTANDING-PHY-016",
+    "definition": "Understanding that distance and speed describe the path taken while displacement and velocity describe the change in position, and being able to give both accounts of the same motion with a direction attached to the vector one.",
+    "subject": "physics",
+    "grade": "11",
+    "topic": "Mechanics: motion",
+    "question_family": "QUESTION-FAMILY-PHY-016",
+    "assessment_operations": [
+      "distinguish scalar and vector quantities",
+      "apply both to one motion",
+      "state a direction"
+    ],
+    "required_knowledge": [
+      "distance = length of the path travelled; displacement = change in position (straight line from start to finish)",
+      "speed = distance/time; velocity = displacement/time and carries a direction",
+      "instantaneous velocity at a point on a curved path is along the tangent there"
+    ],
+    "prerequisites": [
+      "UNDERSTANDING-PHY-001",
+      "Pythagoras and bearings for the resultant displacement"
+    ],
+    "required_reasoning": [
+      "add the legs for distance but take the straight line for displacement",
+      "recognise that a direction must accompany any velocity",
+      "keep the two accounts separate when both are asked for in one item"
+    ],
+    "required_procedure": null,
+    "evidence_of_understanding": [
+      "gives different values for distance and displacement on the same route and explains why",
+      "attaches a direction to every velocity",
+      "illustrates both with the positions named in the question, as the memo requires"
+    ],
+    "marking_requirements": [
+      "2021 memo 2.1.1 awards one mark for each definition and one for each worked illustration (20 + 36 = 56 m for the path; straight line A to C for the displacement)",
+      "2019 memo 3.2.3 awards four marks: distance definition, reference to the A-B-C route, displacement definition, straight line A to C with direction",
+      "2019 memo 3.2.2 awards one mark for the magnitude (marked 'c.o.e.') and one for the direction 'west'"
+    ],
+    "common_breakdowns": [
+      "BREAKDOWN-PHY-016-A",
+      "BREAKDOWN-PHY-016-B"
+    ],
+    "misconceptions": [
+      "[Tier 3 inference] 'displacement is just the total distance in a straight line'",
+      "[Tier 3 inference] 'velocity and speed have the same value in every problem'"
+    ],
+    "diagnostic_dimensions": [
+      "concept",
+      "representation"
+    ],
+    "diagnostic_questions": [
+      "DIAG-PHY-016-A",
+      "DIAG-PHY-016-B"
+    ],
+    "source_references": [
+      "physics_2019_internal_paper1_june_q3.2.2",
+      "physics_2019_internal_paper1_june_q3.2.3",
+      "physics_2021_internal_paper1_nov_q2.1.1"
+    ],
+    "provenance": [
+      "UNDERSTANDING-PHY-016 (Understanding Model, Tier 2/3)",
+      "QUESTION-FAMILY-PHY-016 (question family, Tier 2)",
+      "3 question records across 2 papers: PHY-2019-MY, PHY-2021-NOV",
+      "marking memoranda: Grade 11 Paper 1 MG 2019.pdf, PS11 Physics November Exam 2021 MG.pdf",
+      "source documents: Grade 11 Paper 1 QP 2019.pdf, PS11 Physics November Exam 2021 QP.pdf",
+      "ORC source inventory: data/raw/physics/SOURCE_INVENTORY.yaml (mapping to SOURCE-* ids pending)"
+    ],
+    "confidence": "medium",
+    "validation_state": "unvalidated",
+    "version": "0.1.0-draft"
+  }
+]

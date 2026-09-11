@@ -1,0 +1,1020 @@
+[
+  {
+    "breakdown_id": "BREAKDOWN-PHY-001-A",
+    "description": "The term is not known at all, or is confused with a neighbouring term (speed for velocity, mass for weight), so the answer is a different quantity.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-001",
+    "stage": "prerequisite",
+    "observable_signals": [
+      "names a different physical quantity",
+      "cannot give any element of the definition"
+    ],
+    "possible_confusions": [
+      "speed vs velocity",
+      "distance vs displacement",
+      "mass vs weight",
+      "emf vs potential difference"
+    ],
+    "distinguishing_questions": [
+      "Ask for the definition of the neighbouring term and compare what the student says"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q4.2.1",
+      "physics_2023_internal_paper1_june_q2.1"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-001-B",
+    "description": "The concept is understood but the answer states only one of the two elements the memo ticks, so it scores 1 of 2.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-001",
+    "stage": "explanation",
+    "observable_signals": [
+      "gives a correct but incomplete phrase",
+      "omits the qualifier ('parallel to the surface', 'at constant temperature', 'of an isolated system')"
+    ],
+    "possible_confusions": [
+      "treating the qualifier as optional wording rather than content"
+    ],
+    "distinguishing_questions": [
+      "Ask what would have to be added to make the statement complete"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q5.2",
+      "physics_2023_internal_paper1_june_q8.1",
+      "physics_2025_internal_paper1_nov_q5.1"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-001-C",
+    "description": "The student gives a correct-sounding but non-specific answer ('friction slows things down') that does not identify the interaction or the geometry the memo requires.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-001",
+    "stage": "concept",
+    "observable_signals": [
+      "answer is true in everyday language but omits the physics relation",
+      "no reference to surfaces, charge, or per-unit quantity"
+    ],
+    "possible_confusions": [
+      "everyday meaning of the term substituted for the physical definition"
+    ],
+    "distinguishing_questions": [
+      "Ask which two objects the force acts between and in what direction"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q5.2",
+      "physics_2023_internal_paper1_june_q6.1"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-002-A",
+    "description": "The wrong equation is selected, usually one containing a quantity the question does not give (choosing v = u + at when no time is given).",
+    "parent_understanding_model": "UNDERSTANDING-PHY-002",
+    "stage": "strategy",
+    "observable_signals": [
+      "writes an equation containing an unknown that was never given",
+      "invents a value for the missing quantity"
+    ],
+    "possible_confusions": [
+      "equation chosen by familiarity rather than by the knowns"
+    ],
+    "distinguishing_questions": [
+      "Ask which quantities are known and which equation contains only those plus the unknown"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q4.3.2",
+      "physics_2023_internal_paper1_june_q2.2"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-002-B",
+    "description": "The method is right but the sign convention is not held: a deceleration or a downward displacement is substituted as positive.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-002",
+    "stage": "execution",
+    "observable_signals": [
+      "all magnitudes positive in a braking or upward-motion problem",
+      "answer's direction contradicts the situation"
+    ],
+    "possible_confusions": [
+      "treating g and a as always positive"
+    ],
+    "distinguishing_questions": [
+      "Ask which direction was chosen as positive and what sign each term then takes"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q2.2.3",
+      "physics_2021_internal_paper1_nov_q4.3.2",
+      "physics_2025_internal_paper1_nov_q2.2"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-002-C",
+    "description": "Units are not converted before substituting (minutes for seconds, km.h-1 for m.s-1, milliseconds for seconds), so the arithmetic is correct but the value is wrong.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-002",
+    "stage": "prerequisite",
+    "observable_signals": [
+      "substitutes 10 for 600 s",
+      "answer out by a factor of 60 or 1000"
+    ],
+    "possible_confusions": [
+      "assuming the given units are already SI"
+    ],
+    "distinguishing_questions": [
+      "Ask what unit each symbol in the equation must be in"
+    ],
+    "source_basis": [
+      "physics_2023_internal_paper1_june_q2.6.3",
+      "physics_2023_internal_paper1_june_q8.6",
+      "physics_2025_internal_paper1_nov_q5.5"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-002-D",
+    "description": "A multi-stage problem is treated as one step: the intermediate quantity (cliff height, first leg's time, distance already covered) is never found, so the final answer misses a term.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-002",
+    "stage": "interpretation",
+    "observable_signals": [
+      "one equation only where the memo shows two stages",
+      "final answer omits a distance or a time interval the memo adds"
+    ],
+    "possible_confusions": [
+      "treating the whole journey as a single uniformly accelerated motion"
+    ],
+    "distinguishing_questions": [
+      "Ask what happens between the start and the moment the question asks about"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q2.2.4",
+      "physics_2023_internal_paper1_june_q3.3",
+      "physics_2023_internal_paper1_june_q2.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-003-A",
+    "description": "The graph is read as a picture of the path in space, so a negative section is taken to mean the object is behind its start rather than moving in the negative direction.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-003",
+    "stage": "concept",
+    "observable_signals": [
+      "says the object 'went under the ground'",
+      "cannot relate the sign of v to direction"
+    ],
+    "possible_confusions": [
+      "x-t graph read as a v-t graph",
+      "graph read as a trajectory"
+    ],
+    "distinguishing_questions": [
+      "Ask what the vertical axis measures and what a negative value of it means"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q1.1.2",
+      "physics_2021_internal_paper1_nov_q1.3"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-003-B",
+    "description": "Gradient and value are confused: the highest point on the graph is taken to be the greatest acceleration, or a horizontal section is read as no motion.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-003",
+    "stage": "reasoning",
+    "observable_signals": [
+      "picks the tallest section when asked for greatest acceleration",
+      "reads a horizontal v-t section as stationary"
+    ],
+    "possible_confusions": [
+      "height of line vs steepness of line"
+    ],
+    "distinguishing_questions": [
+      "Ask what the steepness of the line represents at that point"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q1.1.4",
+      "physics_2019_internal_paper1_june_q3.1.2"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-003-C",
+    "description": "The reading is right but the description is incomplete: the student states the velocity change without the direction, losing the second memo mark.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-003",
+    "stage": "explanation",
+    "observable_signals": [
+      "says 'slowing down' without saying in which direction the motion is"
+    ],
+    "possible_confusions": [
+      "assuming direction is obvious from the graph"
+    ],
+    "distinguishing_questions": [
+      "Ask which way the object is moving during that interval"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q3.1.2",
+      "physics_2021_internal_paper1_nov_q3.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-004-A",
+    "description": "The graph is drawn as one overall shape instead of section by section, so intervals with different behaviour are merged.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-004",
+    "stage": "strategy",
+    "observable_signals": [
+      "a single smooth curve where the memo shows distinct sections",
+      "boundary times not marked"
+    ],
+    "possible_confusions": [
+      "drawing the 'typical shape' of a motion rather than the one described"
+    ],
+    "distinguishing_questions": [
+      "Ask how many distinct phases the motion has and what happens at each boundary"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q3.8",
+      "physics_2025_internal_paper1_nov_q2.7"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-004-B",
+    "description": "Relative steepness or sign between sections is not carried through, e.g. the a-t graph does not show that deceleration up a slope exceeds acceleration down it.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-004",
+    "stage": "reasoning",
+    "observable_signals": [
+      "all sections drawn with the same slope",
+      "signs inverted in one section"
+    ],
+    "possible_confusions": [
+      "assuming symmetry where friction breaks it"
+    ],
+    "distinguishing_questions": [
+      "Ask which section has the larger net force and therefore the steeper gradient"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q6.1.5",
+      "physics_2025_internal_paper1_nov_q1.1.5"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-004-C",
+    "description": "The shape is right but the required values are not labelled, or the direction convention is not the one the question told the student to keep.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-004",
+    "stage": "execution",
+    "observable_signals": [
+      "unlabelled axes",
+      "graph mirrored against the instruction to maintain the given direction"
+    ],
+    "possible_confusions": [
+      "believing labels are presentation rather than content"
+    ],
+    "distinguishing_questions": [
+      "Ask which values on the graph the examiner needs to see and which direction was defined as positive"
+    ],
+    "source_basis": [
+      "physics_2023_internal_paper1_june_q4.7",
+      "physics_2019_internal_paper1_june_q3.1.8"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-005-A",
+    "description": "A force is invented in the direction of motion (an 'ma' force), or a third-law partner acting on another body is drawn on the object.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-005",
+    "stage": "concept",
+    "observable_signals": [
+      "an arrow labelled 'force of motion' or 'ma'",
+      "the weight's reaction drawn on the same body"
+    ],
+    "possible_confusions": [
+      "motion implies a force in that direction",
+      "third-law pairs drawn on one body"
+    ],
+    "distinguishing_questions": [
+      "Ask which other object exerts each arrow on the diagram"
+    ],
+    "source_basis": [
+      "physics_2023_internal_paper1_june_q1.4",
+      "physics_2019_internal_paper1_june_q5.5"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-005-B",
+    "description": "The normal force is drawn equal to the weight in a situation where a component of another force or an incline makes them unequal.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-005",
+    "stage": "concept",
+    "observable_signals": [
+      "FN drawn the same length as Fg on an incline",
+      "FN = mg written where an applied vertical component exists"
+    ],
+    "possible_confusions": [
+      "normal force treated as a fixed reaction to weight"
+    ],
+    "distinguishing_questions": [
+      "Ask what the net force perpendicular to the surface is and what that implies for FN"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q3.1",
+      "physics_2023_internal_paper1_june_q6.2"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-005-C",
+    "description": "Relative arrow lengths contradict the stated motion: the upward force is not drawn longer when the body accelerates upward.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-005",
+    "stage": "reasoning",
+    "observable_signals": [
+      "equal-length arrows where the memo requires inequality",
+      "no reference to the acceleration when comparing arrows"
+    ],
+    "possible_confusions": [
+      "assuming all diagrams show equilibrium"
+    ],
+    "distinguishing_questions": [
+      "Ask what the net force must be given the stated acceleration, and what that means for the arrow lengths"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q2.5",
+      "physics_2021_internal_paper1_nov_q3.9"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-006-A",
+    "description": "Only one body is analysed, so the tension is treated as a known (usually the hanging weight) and the second equation is never written.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-006",
+    "stage": "strategy",
+    "observable_signals": [
+      "one equation only",
+      "T replaced by mg without justification"
+    ],
+    "possible_confusions": [
+      "treating a connected system as a single isolated body"
+    ],
+    "distinguishing_questions": [
+      "Ask how many bodies are accelerating and what each one's equation is"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q4.3",
+      "physics_2023_internal_paper1_june_q7.1.1"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-006-B",
+    "description": "The two equations are written with inconsistent direction conventions, so the signs of a and T do not combine correctly.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-006",
+    "stage": "execution",
+    "observable_signals": [
+      "both bodies given positive acceleration in opposite directions",
+      "sign errors that do not cancel"
+    ],
+    "possible_confusions": [
+      "choosing 'down the page' as positive separately for each body"
+    ],
+    "distinguishing_questions": [
+      "Ask which single direction was chosen as positive for the whole system"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q4.3",
+      "physics_2021_internal_paper1_nov_q5.5"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-006-C",
+    "description": "The incline components or the friction on the sloped body are wrong, so the system equation is set up with the wrong driving force.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-006",
+    "stage": "prerequisite",
+    "observable_signals": [
+      "mg used instead of mg sin theta down the slope",
+      "friction omitted or given the wrong direction"
+    ],
+    "possible_confusions": [
+      "sin/cos swapped on the incline",
+      "friction assumed to oppose the applied force rather than the motion"
+    ],
+    "distinguishing_questions": [
+      "Ask which component of the weight acts along the slope and which way friction acts"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q5.5",
+      "physics_2023_internal_paper1_june_q6.6"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-007-A",
+    "description": "sin and cos are swapped for the required direction, giving a numerically plausible but wrong component.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-007",
+    "stage": "execution",
+    "observable_signals": [
+      "uses sin for the adjacent component",
+      "component larger than the force itself is impossible but not noticed"
+    ],
+    "possible_confusions": [
+      "ratio chosen by habit rather than from the triangle"
+    ],
+    "distinguishing_questions": [
+      "Ask which side of the triangle the required component is and what the angle is measured from"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q3.3",
+      "physics_2023_internal_paper1_june_q6.4"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-007-B",
+    "description": "The whole applied force is used as the horizontal driving force and the vertical component is ignored, so the normal force and friction are also wrong.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-007",
+    "stage": "concept",
+    "observable_signals": [
+      "F used undecomposed in Fnet = ma",
+      "FN = mg despite an angled pull"
+    ],
+    "possible_confusions": [
+      "treating an angled force as if it acted along the surface"
+    ],
+    "distinguishing_questions": [
+      "Ask what effect the upward part of the pull has on how hard the surfaces press together"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q3.3",
+      "physics_2025_internal_paper1_nov_q3.4"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-007-C",
+    "description": "The magnitude is right but the direction is not given in the requested form (bearing, compass direction), losing the final mark.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-007",
+    "stage": "explanation",
+    "observable_signals": [
+      "angle given without a reference direction",
+      "bearing not converted from the mathematical angle"
+    ],
+    "possible_confusions": [
+      "bearing vs angle to the horizontal"
+    ],
+    "distinguishing_questions": [
+      "Ask what the angle is measured from and which way it opens"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q4.1.2",
+      "physics_2023_internal_paper1_june_q2.6.2"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-008-A",
+    "description": "The prediction is made from an intuition about the surface feature of the change rather than from the governing relationship (e.g. 'one bulb is gone so the others get dimmer').",
+    "parent_understanding_model": "UNDERSTANDING-PHY-008",
+    "stage": "reasoning",
+    "observable_signals": [
+      "prediction with no equation quoted",
+      "prediction contradicts the relationship the student themselves states"
+    ],
+    "possible_confusions": [
+      "everyday reasoning substituted for proportional reasoning"
+    ],
+    "distinguishing_questions": [
+      "Ask which equation links the quantity that changed to the quantity being asked about"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q8.3",
+      "physics_2019_internal_paper1_june_q7.7.2"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-008-B",
+    "description": "The wrong quantity is held constant: the student applies the constant-voltage reasoning to a series circuit, or ignores internal resistance where the memo requires it.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-008",
+    "stage": "concept",
+    "observable_signals": [
+      "gives the same answer for the series and the parallel case",
+      "treats the battery's terminal voltage as fixed"
+    ],
+    "possible_confusions": [
+      "series and parallel behaviour conflated",
+      "ideal battery assumed"
+    ],
+    "distinguishing_questions": [
+      "Ask which quantity stays the same in this arrangement and why"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q7.2.2",
+      "physics_2025_internal_paper1_nov_q8.3",
+      "physics_2025_internal_paper1_nov_q9.5"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-008-C",
+    "description": "The prediction is correct but the chain is incomplete: an intermediate quantity (total current, normal force) is skipped, so the justification earns part marks only.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-008",
+    "stage": "explanation",
+    "observable_signals": [
+      "jumps from the change to the conclusion in one step",
+      "names the formula but does not apply it"
+    ],
+    "possible_confusions": [
+      "believing the correct prediction carries the marks"
+    ],
+    "distinguishing_questions": [
+      "Ask what happens to the quantity between the one that changed and the one asked about"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q7.1.7",
+      "physics_2025_internal_paper1_nov_q8.3",
+      "physics_2019_internal_paper1_june_q7.7.2"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-009-A",
+    "description": "The circuit diagram is misread: components that share a node pair are not recognised as parallel, or the meters are treated as resistors.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-009",
+    "stage": "interpretation",
+    "observable_signals": [
+      "adds resistances that are in parallel",
+      "includes the voltmeter in the resistance"
+    ],
+    "possible_confusions": [
+      "diagram layout mistaken for the electrical connections"
+    ],
+    "distinguishing_questions": [
+      "Ask which components have both ends connected to the same two points"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q7.1.2",
+      "physics_2023_internal_paper1_june_q8.2"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-009-B",
+    "description": "The network is not reduced before Ohm's law is applied, or the total resistance is used where the question asks about one component.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-009",
+    "stage": "strategy",
+    "observable_signals": [
+      "V = IR applied with the total R to find a branch current",
+      "no equivalent-resistance step"
+    ],
+    "possible_confusions": [
+      "total and component quantities interchanged"
+    ],
+    "distinguishing_questions": [
+      "Ask which resistance the given voltage is across"
+    ],
+    "source_basis": [
+      "physics_2023_internal_paper1_june_q8.4",
+      "physics_2025_internal_paper1_nov_q9.4"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-009-C",
+    "description": "Internal resistance is ignored, so emf is treated as the terminal voltage and the lost-voltage step is missing.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-009",
+    "stage": "concept",
+    "observable_signals": [
+      "emf set equal to the voltmeter reading",
+      "r omitted from emf = I(Rext + r)"
+    ],
+    "possible_confusions": [
+      "ideal battery assumed"
+    ],
+    "distinguishing_questions": [
+      "Ask where the missing voltage goes when current flows"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q9.3",
+      "physics_2025_internal_paper1_nov_q9.4"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-009-D",
+    "description": "The wrong power or energy form is used for what is held constant, or time is not converted for W = VIt.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-009",
+    "stage": "execution",
+    "observable_signals": [
+      "uses P = I2R where the voltage is the fixed quantity",
+      "substitutes minutes into W = VIt"
+    ],
+    "possible_confusions": [
+      "the three power forms treated as unrelated"
+    ],
+    "distinguishing_questions": [
+      "Ask which of V, I or R is fixed for this component"
+    ],
+    "source_basis": [
+      "physics_2023_internal_paper1_june_q8.6",
+      "physics_2021_internal_paper1_nov_q7.2.2"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-010-A",
+    "description": "The hypothesis states an outcome rather than a relationship between the named variables, or states the variables in the wrong order.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-010",
+    "stage": "interpretation",
+    "observable_signals": [
+      "hypothesis has no second variable",
+      "dependent and independent variables reversed"
+    ],
+    "possible_confusions": [
+      "hypothesis confused with a prediction of the result"
+    ],
+    "distinguishing_questions": [
+      "Ask which variable is being changed and which is being measured"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q6.1"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-010-B",
+    "description": "Graph construction loses marks systematically: no heading, axis labels without units, a scale that does not use the grid, or points joined dot-to-dot.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-010",
+    "stage": "execution",
+    "observable_signals": [
+      "missing units on an axis",
+      "plotted points connected instead of a line of best fit",
+      "scale using only part of the grid"
+    ],
+    "possible_confusions": [
+      "graph conventions treated as cosmetic"
+    ],
+    "distinguishing_questions": [
+      "Ask what a marker looks for on each axis before looking at the points"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q6.4",
+      "physics_2021_internal_paper1_nov_q8.2",
+      "physics_2025_internal_paper1_nov_q6.1.2"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-010-C",
+    "description": "The gradient is calculated from plotted data points instead of from a triangle on the line of best fit, or is reported without a unit.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-010",
+    "stage": "execution",
+    "observable_signals": [
+      "gradient equals y/x of one point",
+      "no unit attached to the gradient"
+    ],
+    "possible_confusions": [
+      "line of best fit treated as decoration"
+    ],
+    "distinguishing_questions": [
+      "Ask how a gradient is taken from a straight-line graph and what units the rise and run have"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q8.5",
+      "physics_2025_internal_paper1_nov_q6.1.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-010-D",
+    "description": "The gradient is obtained but not connected to a physical quantity, so the unknown cannot be found.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-010",
+    "stage": "reasoning",
+    "observable_signals": [
+      "stops after the gradient",
+      "cannot say what the axes' ratio represents"
+    ],
+    "possible_confusions": [
+      "gradient treated as a purely mathematical property"
+    ],
+    "distinguishing_questions": [
+      "Ask what physical relationship the two plotted quantities obey and what the constant in it is"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q8.6",
+      "physics_2021_internal_paper1_nov_q8.7",
+      "physics_2025_internal_paper1_nov_q6.1.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-011-A",
+    "description": "A single level energy is used instead of the difference between two levels, or the number of possible transitions is taken as the number of levels.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-011",
+    "stage": "concept",
+    "observable_signals": [
+      "substitutes 13,6 eV alone",
+      "answers 3 levels = 3 photons for the wrong reason"
+    ],
+    "possible_confusions": [
+      "photon energy identified with a level energy"
+    ],
+    "distinguishing_questions": [
+      "Ask which two levels the transition is between and what is released"
+    ],
+    "source_basis": [
+      "physics_2023_internal_paper1_june_q10.2",
+      "physics_2021_internal_paper1_nov_q9.1"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-011-B",
+    "description": "The eV<->J conversion is omitted or applied twice, or wavelength is not converted from nm to m.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-011",
+    "stage": "execution",
+    "observable_signals": [
+      "answer in J when eV was requested",
+      "655 substituted for 655 x 10^-9"
+    ],
+    "possible_confusions": [
+      "eV treated as an SI unit"
+    ],
+    "distinguishing_questions": [
+      "Ask what unit the answer must be in and what the given wavelength is in metres"
+    ],
+    "source_basis": [
+      "physics_2023_internal_paper1_june_q10.3",
+      "physics_2025_internal_paper1_nov_q7.2"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-011-C",
+    "description": "Beam power is confused with photon energy when explaining why one laser is more hazardous.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-011",
+    "stage": "explanation",
+    "observable_signals": [
+      "argues from the equal 5 mW rating",
+      "no mention of frequency or wavelength"
+    ],
+    "possible_confusions": [
+      "intensity and photon energy conflated"
+    ],
+    "distinguishing_questions": [
+      "Ask what differs between the two beams if their total power output is the same"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q7.1"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-012-A",
+    "description": "The item is answered before the question is parsed, so a familiar phrase in an option is selected without testing it against the situation.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-012",
+    "stage": "interpretation",
+    "observable_signals": [
+      "cannot restate what the item is asking",
+      "selects an option contradicting their own written work elsewhere"
+    ],
+    "possible_confusions": [
+      "recognition of wording mistaken for recognition of the physics"
+    ],
+    "distinguishing_questions": [
+      "Ask the student to restate the question in their own words before choosing"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q1.1",
+      "physics_2023_internal_paper1_june_q1.6"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-012-B",
+    "description": "The underlying concept is genuinely missing, and the same error appears in the written questions on that topic.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-012",
+    "stage": "concept",
+    "observable_signals": [
+      "the same misconception appears in a written item on the same topic",
+      "cannot eliminate any distractor on reasoning"
+    ],
+    "possible_confusions": [
+      "topic-specific misconceptions listed under the corresponding written-topic model"
+    ],
+    "distinguishing_questions": [
+      "Ask the student to solve the same situation as a written calculation"
+    ],
+    "source_basis": [
+      "physics_2021_internal_paper1_nov_q1.6",
+      "physics_2023_internal_paper1_june_q1.7"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-013-A",
+    "description": "The normal force is given as the reaction to the weight, because the two forces are equal and opposite on the same body.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-013",
+    "stage": "concept",
+    "observable_signals": [
+      "answers 'the upward force of the table on the object'",
+      "cannot name the two interacting bodies"
+    ],
+    "possible_confusions": [
+      "equilibrium pair mistaken for a third-law pair"
+    ],
+    "distinguishing_questions": [
+      "Ask which two objects each of the two forces acts between"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q5.5",
+      "physics_2023_internal_paper1_june_q7.1.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-013-B",
+    "description": "In a collision between unequal masses the student gives the larger body the larger force, contrary to Newton's third law.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-013",
+    "stage": "reasoning",
+    "observable_signals": [
+      "force scaled by mass",
+      "different accelerations taken to imply different forces"
+    ],
+    "possible_confusions": [
+      "F = ma applied to the pair instead of the third law"
+    ],
+    "distinguishing_questions": [
+      "Ask which law relates the two forces the bodies exert on each other"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q5.3"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-014-A",
+    "description": "Only the momentum equation is written, so a two-unknown elastic collision cannot be solved, or kinetic energy is conserved but momentum is not.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-014",
+    "stage": "strategy",
+    "observable_signals": [
+      "one equation for two unknowns",
+      "guesses a final velocity"
+    ],
+    "possible_confusions": [
+      "'elastic' taken to mean only energy is conserved"
+    ],
+    "distinguishing_questions": [
+      "Ask how many unknowns there are and what second condition the word 'elastic' supplies"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q5.2"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-014-B",
+    "description": "Directions are not encoded as signs, so the momentum sum is formed from magnitudes only.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-014",
+    "stage": "execution",
+    "observable_signals": [
+      "both initial velocities added as positives",
+      "final answer without a direction"
+    ],
+    "possible_confusions": [
+      "momentum treated as a scalar"
+    ],
+    "distinguishing_questions": [
+      "Ask which direction was chosen positive and what sign each velocity then carries"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q5.2"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-014-C",
+    "description": "In the impulse calculation the contact time is left in milliseconds or the change in momentum is taken without the sign change.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-014",
+    "stage": "execution",
+    "observable_signals": [
+      "uses 20 instead of 0,02 s",
+      "computes m(vf) only"
+    ],
+    "possible_confusions": [
+      "impulse taken as the final momentum"
+    ],
+    "distinguishing_questions": [
+      "Ask what change in velocity the contact produces and in what unit the time must be"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q5.5"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-015-A",
+    "description": "The student describes what happens instead of naming the principle that makes it happen, so the answer restates the question.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-015",
+    "stage": "reasoning",
+    "observable_signals": [
+      "no principle named",
+      "answer repeats the wording of the question",
+      "no causal connective such as 'because' or 'so'"
+    ],
+    "possible_confusions": [
+      "description mistaken for explanation"
+    ],
+    "distinguishing_questions": [
+      "Ask which physics law or relationship accounts for that, and to write it down"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q5.3.1",
+      "physics_2021_internal_paper1_nov_q4.2"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-015-B",
+    "description": "The principle is named but the chain stops short of the consequence the question asks for, losing the final memo tick.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-015",
+    "stage": "explanation",
+    "observable_signals": [
+      "names inertia but does not say the box slides",
+      "quotes a relationship but does not apply it to the numbers or objects given"
+    ],
+    "possible_confusions": [
+      "assuming naming the law completes the answer"
+    ],
+    "distinguishing_questions": [
+      "Ask what follows from that principle for this particular object"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q3.5",
+      "physics_2021_internal_paper1_nov_q4.3.4"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-015-C",
+    "description": "The wrong principle is selected - for example friction is invoked where the memo requires inertia, or weight where the normal force governs.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-015",
+    "stage": "concept",
+    "observable_signals": [
+      "invokes a principle that does not involve the quantities in the situation",
+      "confuses weight with normal force in a friction argument"
+    ],
+    "possible_confusions": [
+      "friction attributed to weight rather than to the normal force",
+      "inertia treated as a force"
+    ],
+    "distinguishing_questions": [
+      "Ask which two quantities the frictional force actually depends on in this situation"
+    ],
+    "source_basis": [
+      "physics_2025_internal_paper1_nov_q3.5",
+      "physics_2021_internal_paper1_nov_q6.1.3"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-016-A",
+    "description": "Distance and displacement are treated as the same quantity, so the path length is reported for both.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-016",
+    "stage": "concept",
+    "observable_signals": [
+      "identical values given for distance and displacement",
+      "no reference to the straight-line change in position"
+    ],
+    "possible_confusions": [
+      "path length and change in position conflated"
+    ],
+    "distinguishing_questions": [
+      "Ask what would change if the runner took a different route between the same two points"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q3.2.3",
+      "physics_2021_internal_paper1_nov_q2.1.1"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-PHY-016-B",
+    "description": "A velocity is reported without a direction, losing the direction mark the memos allocate separately.",
+    "parent_understanding_model": "UNDERSTANDING-PHY-016",
+    "stage": "explanation",
+    "observable_signals": [
+      "magnitude only",
+      "no compass direction or bearing"
+    ],
+    "possible_confusions": [
+      "velocity treated as a scalar"
+    ],
+    "distinguishing_questions": [
+      "Ask what else must be stated for a velocity to be complete"
+    ],
+    "source_basis": [
+      "physics_2019_internal_paper1_june_q3.2.2"
+    ],
+    "confidence": "high"
+  }
+]

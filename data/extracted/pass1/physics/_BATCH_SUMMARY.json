@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-09-11T20:07:13Z",
+  "subject": "physics",
+  "papers_in_batch": 4,
+  "question_records": 238,
+  "papers": [
+    {
+      "paper_key": "PHY-2019-MY",
+      "year": 2019,
+      "exam_date": "22 July 2019",
+      "exam_period": "june",
+      "records": 60,
+      "marks": 165,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "PHY-2021-NOV",
+      "year": 2021,
+      "exam_date": "15 November 2021",
+      "exam_period": "nov",
+      "records": 71,
+      "marks": 200,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "PHY-2023-MY",
+      "year": 2023,
+      "exam_date": "18 July 2023",
+      "exam_period": "june",
+      "records": 60,
+      "marks": 165,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "PHY-2025-NOV",
+      "year": 2025,
+      "exam_date": "03 November 2025",
+      "exam_period": "nov",
+      "records": 47,
+      "marks": 135,
+      "memo_date_match": true
+    }
+  ],
+  "problems": []
+}

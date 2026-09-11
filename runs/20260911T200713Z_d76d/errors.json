@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2026-09-11T20:07:15.686620Z",
+    "phase": "4-11",
+    "subject": "physics",
+    "error_type": "saturation_not_reached",
+    "message": "families_first_observed_in_final_third > 0 (['QUESTION-FAMILY-PHY-014']): physics cannot be declared saturated",
+    "affected_artifact": "knowledge/physics/saturation_report.json",
+    "retry_attempts": 0,
+    "resolution": null,
+    "status": "unresolved"
+  }
+]
