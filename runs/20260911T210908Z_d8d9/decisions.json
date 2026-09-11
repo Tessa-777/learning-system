@@ -1,0 +1,118 @@
+[
+  {
+    "decision_id": "DEC-P4-001",
+    "timestamp": "2026-09-11T21:09:10.808052Z",
+    "phase": "4-11",
+    "subject": "physics",
+    "decision_type": "pass1_rebuild",
+    "context": "The inherited data/extracted/physics_pass1.json held one record per paper with question_text, marks, memo_answer and topic_guess all set to 'unresolved'. Pass 2 requires citable per-question evidence, so it had nothing to cite.",
+    "evidence": [
+      "scripts/complete_subject_pass1.py",
+      "git show HEAD:data/extracted/physics_pass1.json"
+    ],
+    "alternatives": [
+      "run Pass 2 on the hollow batch and report zero families",
+      "rebuild Pass 1 from the source PDFs, then run Pass 2"
+    ],
+    "selected": "rebuild Pass 1 from the source PDFs, then run Pass 2",
+    "rationale": "The PDFs in data/organized/physics are tracked in git and have a clean text layer (verified with pypdf), so the recorded Phase 3 blocker ('Drive downloads fail') does not apply to the organized corpus. Every Pass 2 claim then rests on a real question record with a verified source SHA-256.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-P4-002",
+    "timestamp": "2026-09-11T21:09:10.808057Z",
+    "phase": "4-11",
+    "subject": "physics",
+    "decision_type": "memo_pairing_verification",
+    "context": "data/organized/sample_manifest.json pairs four physics papers with a memorandum from a different sitting (UNRES-PHY-015).",
+    "evidence": [
+      "scripts/build_physics_pass1.py verify_alignment()",
+      "printed DATE / MARKS / EXAMINER header blocks"
+    ],
+    "alternatives": [
+      "trust the manifest pairing",
+      "verify each pairing from the printed headers and use only matching pairs"
+    ],
+    "selected": "verify each pairing from the printed headers and use only matching pairs",
+    "rationale": "Using a cross-paired memorandum would attribute one sitting's marking guidance to another paper, corrupting every marking_requirements field downstream.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-P4-003",
+    "timestamp": "2026-09-11T21:09:10.808060Z",
+    "phase": "4-11",
+    "subject": "physics",
+    "decision_type": "confidence_rule",
+    "context": "Pass 2 states confidence is 'high' with 4+ member questions across different papers, 'medium' with 2-3, and never 'high' if all support comes from one paper.",
+    "evidence": [
+      "scripts/build_physics_pass2.py compute_confidence()"
+    ],
+    "alternatives": [
+      "author confidence by hand per family",
+      "compute it from member evidence"
+    ],
+    "selected": "compute it from member evidence, requiring 4+ members across 3+ papers for 'high'",
+    "rationale": "An asserted confidence cannot be audited; a computed one can, and it changes automatically as the batch grows.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-P4-004",
+    "timestamp": "2026-09-11T21:09:10.808063Z",
+    "phase": "4-11",
+    "subject": "physics",
+    "decision_type": "family_membership_partition",
+    "context": "Several records could plausibly belong to more than one family (2023 Q4.3 is both a graph reading and a calculation).",
+    "evidence": [
+      "scripts/build_physics_pass2.py partition check"
+    ],
+    "alternatives": [
+      "allow overlapping membership",
+      "enforce a partition"
+    ],
+    "selected": "enforce a partition - each record belongs to at most one family",
+    "rationale": "Overlap would let one question inflate several families and make frequency counts meaningless. Records fitting no family are reported unassigned (UNRES-PHY-021) rather than force-fitted.",
+    "confidence": "high",
+    "requires_review": false
+  },
+  {
+    "decision_id": "DEC-P4-005",
+    "timestamp": "2026-09-11T21:09:10.808066Z",
+    "phase": "4-11",
+    "subject": "physics",
+    "decision_type": "schema_field_mapping",
+    "context": "Pass 2 names its family fields member_source_ids, distinguishing_features and typical_marks_range; database/schema/question_family.schema.json sets additionalProperties: false and offers no such fields.",
+    "evidence": [
+      "database/schema/question_family.schema.json"
+    ],
+    "alternatives": [
+      "relax the repo schema to accept the prompt's field names",
+      "map the prompt's fields onto the repo schema and record the marks range elsewhere"
+    ],
+    "selected": "map onto the repo schema: member_source_ids -> source_evidence, distinguishing_features -> definition + assessment_operations + topics, typical_marks_range -> _PASS2_SUMMARY.json families[].marks_range",
+    "rationale": "The persisted object must validate against the repository schema, which IMPLEMENTATION_SPEC Phase 8 makes authoritative; the marks range is preserved in the run summary and the report rather than being dropped.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-P4-006",
+    "timestamp": "2026-09-11T21:09:10.808068Z",
+    "phase": "4-11",
+    "subject": "physics",
+    "decision_type": "family_promotion_threshold",
+    "context": "Four recurring patterns (CANDIDATE-FAMILY-PHY-A, -B, -C, -E) meet the prompt's minimum of 2 members but rest on only 2 papers.",
+    "evidence": [
+      "ingestion/analysis/physics_pass2_models.py DEFERRED_FAMILIES"
+    ],
+    "alternatives": [
+      "promote them to families on 2 papers' evidence",
+      "defer them to unresolved_items and say so"
+    ],
+    "selected": "defer them to unresolved_items, flagged CANDIDATE-FAMILY-PHY-*",
+    "rationale": "Stricter than the letter of the spec: their marking_requirements could not be generalised from two sittings. Nothing is hidden - all four are in unresolved_items.json with their evidence, so promoting them later is a one-line change in the families module.",
+    "confidence": "medium",
+    "requires_review": true
+  }
+]

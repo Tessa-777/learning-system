@@ -1,0 +1,84 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/extracted/physics_pass1.json
+  type: json
+  created_or_modified: '2026-09-11T21:09:59.407594Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: 0f3ab191db9b151d2525d0ad05cfd20eba91ebb180cc39b9a5b279bf5608c2bb
+  description: 'Physics two-pass artifact: data/extracted/physics_pass1.json'
+- artifact_id: ART-0002
+  path: /home/user/learning-system/data/extracted/pass1/physics/_BATCH_SUMMARY.json
+  type: json
+  created_or_modified: '2026-09-11T21:09:59.408080Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: abb536c9d93707cfea1e3505171ff51c719dfef2d684e49cf96762bd36b1901d
+  description: 'Physics two-pass artifact: data/extracted/pass1/physics/_BATCH_SUMMARY.json'
+- artifact_id: ART-0003
+  path: /home/user/learning-system/knowledge/physics/question_families.json
+  type: json
+  created_or_modified: '2026-09-11T21:09:59.408122Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: d587d31556a019f9144226bdeecf1da2a5492598b492975159c023a0e14acbf1
+  description: 'Physics two-pass artifact: knowledge/physics/question_families.json'
+- artifact_id: ART-0004
+  path: /home/user/learning-system/knowledge/physics/understanding_models.json
+  type: json
+  created_or_modified: '2026-09-11T21:09:59.408171Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: 83e3ee8176b0a9b727b270154502cf83c63d34a6ca4bfc31988efc95a8913b0d
+  description: 'Physics two-pass artifact: knowledge/physics/understanding_models.json'
+- artifact_id: ART-0005
+  path: /home/user/learning-system/knowledge/physics/breakdown_models.json
+  type: json
+  created_or_modified: '2026-09-11T21:09:59.408253Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: dc45620ff84abf592fb7e28841dc78a8a4da2b113fdfcf99b3e9769fd77db891
+  description: 'Physics two-pass artifact: knowledge/physics/breakdown_models.json'
+- artifact_id: ART-0006
+  path: /home/user/learning-system/knowledge/physics/diagnostic_questions.json
+  type: json
+  created_or_modified: '2026-09-11T21:09:59.408304Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: 7d7e2839403c1e563d973b5dd0219b849ac098a49c0315cee546c2200ae69873
+  description: 'Physics two-pass artifact: knowledge/physics/diagnostic_questions.json'
+- artifact_id: ART-0007
+  path: /home/user/learning-system/knowledge/physics/unresolved_items.json
+  type: json
+  created_or_modified: '2026-09-11T21:09:59.408355Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: 81f1fda1ae424426b43326054ab415c149914a25bd8ace09e8a9e5f3eae65b36
+  description: 'Physics two-pass artifact: knowledge/physics/unresolved_items.json'
+- artifact_id: ART-0008
+  path: /home/user/learning-system/knowledge/physics/saturation_report.json
+  type: json
+  created_or_modified: '2026-09-11T21:09:59.408399Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: 47b97013d32c8428834ad7a0014b069575c5c7f10cebe6673ce060a0a1c8a4fc
+  description: 'Physics two-pass artifact: knowledge/physics/saturation_report.json'
+- artifact_id: ART-0009
+  path: /home/user/learning-system/knowledge/physics/pass2_output.json
+  type: json
+  created_or_modified: '2026-09-11T21:09:59.408424Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: 85ea8be06804dd082caf3e13b0ae4729f7a7ef0cee9cb47ae4acb3d7de7adbb5
+  description: 'Physics two-pass artifact: knowledge/physics/pass2_output.json'
+- artifact_id: ART-0010
+  path: /home/user/learning-system/knowledge/physics/_PASS2_SUMMARY.json
+  type: json
+  created_or_modified: '2026-09-11T21:09:59.408597Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: 3f5aaf369bfffe96e8b87ae23af3e0be5c30a2895ed7346f04cae19af30db5a1
+  description: 'Physics two-pass artifact: knowledge/physics/_PASS2_SUMMARY.json'
+- artifact_id: ART-0011
+  path: /home/user/learning-system/knowledge/physics/PASS2_REPORT.md
+  type: markdown
+  created_or_modified: '2026-09-11T21:09:59.408626Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: 4fc733e256fdd5b16d7ccbb04b5f2a1bdb5e0b34f2a19a81183d137c4a9e50f6
+  description: 'Physics two-pass artifact: knowledge/physics/PASS2_REPORT.md'
+- artifact_id: ART-0012
+  path: /home/user/learning-system/review_queue/RQ-P4-PHY-PASS2.yaml
+  type: yaml
+  created_or_modified: '2026-09-11T21:09:59.408661Z'
+  source_run: 20260911T210957Z_edb5
+  content_hash: b45a63776a6414898c74e2fc5a61f7d172c22c88a334770fb24ab3e75e40869e
+  description: 'Physics two-pass artifact: review_queue/RQ-P4-PHY-PASS2.yaml'

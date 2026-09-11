@@ -8,7 +8,7 @@ current_subject: physics
 status: completed_with_review
 knowledge_bank_version: null
 unresolved_items: 846
-last_run_id: 20260911T205413Z_b5dd
+last_run_id: 20260911T210957Z_edb5
 next_allowed_phase: 4 (remaining subjects); physics may proceed to 12 once its Phase 7 gap is closed
 ```
 
@@ -343,7 +343,7 @@ No source files were downloaded for any subject because the sandbox environment 
 
 **Status:** completed_with_review
 
-**Run ID:** `20260911T205413Z_b5dd`
+**Run ID:** `20260911T210957Z_edb5`
 
 **Subject:** physics
 
@@ -364,7 +364,7 @@ subjects' records are byte-identical.
 ### Deliverables
 
 - `data/extracted/physics_pass1.json`, `data/extracted/pass1/physics/*.json` — Pass 1 batch
-- `knowledge/physics/{question_families,understanding_models,breakdown_models,diagnostic_questions,unresolved_items,saturation_report,_PASS2_SUMMARY}.json`
+- `knowledge/physics/{question_families,understanding_models,breakdown_models,diagnostic_questions,unresolved_items,saturation_report,_PASS2_SUMMARY}.json, plus `pass2_output.json` (the same content as the single five-array object the prompt specifies)`
 - `knowledge/physics/PASS2_REPORT.md` — narrative and saturation verdict
 - `ingestion/extraction/physics_pass1_evidence_{2019,2021,2023,2025}.py` — Pass 1 evidence tables
 - `ingestion/analysis/physics_pass2_{families,models,unresolved}.py` — Pass 2 analysis

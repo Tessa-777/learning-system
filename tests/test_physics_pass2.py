@@ -288,6 +288,22 @@ def test_provenance_chain_reaches_the_orc_inventory(batch, knowledge):
 
 
 
+def test_combined_pass2_output_matches_the_per_type_files(knowledge):
+    """Pass 2 asks for one JSON object with five top-level arrays plus the report."""
+    combined = json.loads((KNOWLEDGE / "pass2_output.json").read_text(encoding="utf-8"))
+    assert combined["subject"] == "physics"
+    for key, part in [
+        ("question_families", "families"),
+        ("understanding_models", "models"),
+        ("breakdown_models", "breakdowns"),
+        ("diagnostic_questions", "diagnostics"),
+        ("unresolved_items", "unresolved"),
+    ]:
+        assert combined[key] == knowledge[part], f"{key} drifted from {part}.json"
+    assert combined["saturation_report"] == knowledge["saturation"]
+    assert SATURATION_FIELDS <= set(combined["saturation_report"])
+
+
 def test_saturation_report_is_honest(knowledge):
     """Saturation must not be claimed while a family is new in the final third."""
     sat = knowledge["saturation"]

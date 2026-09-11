@@ -487,6 +487,30 @@ def main() -> int:  # noqa: C901 - single-pass build with explicit validation ga
     for name, payload in outputs.items():
         (OUT_DIR / name).write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
+    # TWO_PASS_PROMPTS Pass 2 asks for one JSON object with five top-level arrays plus
+    # the saturation report. The per-type files above are what the repository schemas and
+    # later phases consume; this is the same content in the shape the prompt specifies, so
+    # the two cannot drift apart - it is assembled from the same objects.
+    (OUT_DIR / "pass2_output.json").write_text(
+        json.dumps(
+            {
+                "subject": SUBJECT,
+                "grade": GRADE,
+                "generated_at": NOW,
+                "question_families": families,
+                "understanding_models": models,
+                "breakdown_models": breakdowns,
+                "diagnostic_questions": diagnostics,
+                "unresolved_items": unresolved,
+                "saturation_report": saturation,
+            },
+            indent=2,
+            ensure_ascii=False,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
     summary = {
         "generated_at": NOW,
         "subject": SUBJECT,

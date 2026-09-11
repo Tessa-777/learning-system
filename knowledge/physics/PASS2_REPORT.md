@@ -13,7 +13,7 @@ Run log: the newest run under `runs/` (id also in `STATUS.md` → `last_run_id`)
 | Step | Input | Output |
 |---|---|---|
 | Pass 1 (re-run) | 4 question papers + their memoranda in `data/organized/physics/` | `data/extracted/physics_pass1.json` (238 records), `data/extracted/pass1/physics/*.json` |
-| Pass 2 | that Pass 1 batch | `knowledge/physics/{question_families,understanding_models,breakdown_models,diagnostic_questions,unresolved_items,saturation_report,_PASS2_SUMMARY}.json` |
+| Pass 2 | that Pass 1 batch | `knowledge/physics/{question_families,understanding_models,breakdown_models,diagnostic_questions,unresolved_items,saturation_report,_PASS2_SUMMARY}.json, plus `pass2_output.json` (the same content as the single five-array object the prompt specifies)` |
 
 Both builders are pure stdlib + `jsonschema` + `pypdf`; no knowledge object was hand-written
 into the output files. `tests/test_physics_pass2.py` executes both builders and re-checks the

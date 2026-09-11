@@ -362,6 +362,7 @@ def main() -> int:
         "knowledge/physics/diagnostic_questions.json",
         "knowledge/physics/unresolved_items.json",
         "knowledge/physics/saturation_report.json",
+        "knowledge/physics/pass2_output.json",
         "knowledge/physics/_PASS2_SUMMARY.json",
         "knowledge/physics/PASS2_REPORT.md",
         str(REVIEW_QUEUE.relative_to(ROOT)),
