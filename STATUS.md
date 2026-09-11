@@ -8,7 +8,7 @@ current_subject: physics
 status: completed_with_review
 knowledge_bank_version: null
 unresolved_items: 846
-last_run_id: 20260911T200713Z_d76d
+last_run_id: 20260911T205413Z_b5dd
 next_allowed_phase: 4 (remaining subjects); physics may proceed to 12 once its Phase 7 gap is closed
 ```
 
@@ -343,7 +343,7 @@ No source files were downloaded for any subject because the sandbox environment 
 
 **Status:** completed_with_review
 
-**Run ID:** `20260911T200713Z_d76d`
+**Run ID:** `20260911T205413Z_b5dd`
 
 **Subject:** physics
 

@@ -136,9 +136,12 @@ UNRESOLVED = [
      "detail": (
          "197 of the 238 extracted records are flagged requires_visual_verification because the "
          "question's meaning depends on a circuit diagram, motion graph, apparatus drawing or "
-         "energy-level diagram that exists only as an image in the PDF. Per the fidelity ladder "
-         "(TWO_PASS_PROMPTS section 17.2) these families are capped at medium confidence where the "
-         "diagram is load-bearing, even though the text layer itself is Rung A."
+         "energy-level diagram that exists only as an image in the PDF. TWO_PASS_PROMPTS section "
+         "17.2 caps a family at medium only where its members are BOTH below Rung A and visually "
+         "unverified; every record in this batch has a clean Rung A text layer, so the cap did "
+         "not fire and no family was capped for this reason. The exposure is instead recorded per "
+         "family as visual_verification_members in _PASS2_SUMMARY.json, and the families listed "
+         "here are the ones whose meaning cannot be confirmed without looking at the image."
      ),
      "affected": ["QUESTION-FAMILY-PHY-003", "QUESTION-FAMILY-PHY-004", "QUESTION-FAMILY-PHY-005",
                   "QUESTION-FAMILY-PHY-009", "QUESTION-FAMILY-PHY-010", "QUESTION-FAMILY-PHY-011",

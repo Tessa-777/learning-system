@@ -178,6 +178,13 @@ def check_pass2_output(payloads: dict, batch: list[dict], validator) -> None:
     thin = {b["breakdown_id"] for b in breakdowns if len(b["source_basis"]) < 2}
     assert thin == set(reported["UNRES-PHY-023"]["affected"])
     assert reported["UNRES-PHY-023"]["type"] == "single_exemplar"
+    # The image-dependent family list is derived from the batch, not hand-written.
+    image_heavy = {
+        f["question_family_id"] for f in families
+        if sum(1 for sid in f["source_evidence"] if by_id[sid]["requires_visual_verification"])
+        > len(f["source_evidence"]) / 2
+    }
+    assert image_heavy == set(reported["UNRES-PHY-011"]["affected"])
     for item in unresolved:
         assert {"id", "type", "summary", "detail", "affected", "evidence",
                 "recommended_review"} <= set(item), item.get("id")

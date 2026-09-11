@@ -367,6 +367,27 @@ def main() -> int:  # noqa: C901 - single-pass build with explicit validation ga
         }
     )
 
+    # UNRES-PHY-011's affected list is derived rather than authored: it must cover every
+    # family where the majority of members depend on an image, and a hand-written list
+    # silently drifts as families are added.
+    visual_heavy = sorted(
+        fid for fid, recs in family_records.items()
+        if sum(1 for r in recs if r["requires_visual_verification"]) / len(recs) > 0.5
+    )
+    visual_counts = ", ".join(
+        f"{fid.replace('QUESTION-FAMILY-', '')} "
+        f"{sum(1 for r in family_records[fid] if r['requires_visual_verification'])}"
+        f"/{len(family_records[fid])}"
+        for fid in visual_heavy
+    )
+    for item in unresolved:
+        if item["id"] == "UNRES-PHY-011":
+            item["affected"] = visual_heavy
+            item["detail"] += (
+                f" Families where over half the members are image-dependent ({len(visual_heavy)} "
+                f"of {len(family_records)}): {visual_counts}."
+            )
+
     thin_breakdowns = sorted(b["breakdown_id"] for b in breakdowns if len(b.get("source_basis") or []) < 2)
     unresolved.append(
         {

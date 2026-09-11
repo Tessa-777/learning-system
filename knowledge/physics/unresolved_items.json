@@ -148,15 +148,22 @@
     "type": "fidelity",
     "id": "UNRES-PHY-011",
     "summary": "Most records depend on a diagram that could not be verified from the text layer",
-    "detail": "197 of the 238 extracted records are flagged requires_visual_verification because the question's meaning depends on a circuit diagram, motion graph, apparatus drawing or energy-level diagram that exists only as an image in the PDF. Per the fidelity ladder (TWO_PASS_PROMPTS section 17.2) these families are capped at medium confidence where the diagram is load-bearing, even though the text layer itself is Rung A.",
+    "detail": "197 of the 238 extracted records are flagged requires_visual_verification because the question's meaning depends on a circuit diagram, motion graph, apparatus drawing or energy-level diagram that exists only as an image in the PDF. TWO_PASS_PROMPTS section 17.2 caps a family at medium only where its members are BOTH below Rung A and visually unverified; every record in this batch has a clean Rung A text layer, so the cap did not fire and no family was capped for this reason. The exposure is instead recorded per family as visual_verification_members in _PASS2_SUMMARY.json, and the families listed here are the ones whose meaning cannot be confirmed without looking at the image. Families where over half the members are image-dependent (14 of 16): PHY-001 22/37, PHY-002 35/37, PHY-003 13/13, PHY-004 9/9, PHY-005 11/11, PHY-006 5/5, PHY-007 5/5, PHY-008 21/22, PHY-009 17/17, PHY-010 14/15, PHY-011 8/10, PHY-012 13/25, PHY-015 8/9, PHY-016 3/3.",
     "affected": [
+      "QUESTION-FAMILY-PHY-001",
+      "QUESTION-FAMILY-PHY-002",
       "QUESTION-FAMILY-PHY-003",
       "QUESTION-FAMILY-PHY-004",
       "QUESTION-FAMILY-PHY-005",
+      "QUESTION-FAMILY-PHY-006",
+      "QUESTION-FAMILY-PHY-007",
+      "QUESTION-FAMILY-PHY-008",
       "QUESTION-FAMILY-PHY-009",
       "QUESTION-FAMILY-PHY-010",
       "QUESTION-FAMILY-PHY-011",
-      "QUESTION-FAMILY-PHY-012"
+      "QUESTION-FAMILY-PHY-012",
+      "QUESTION-FAMILY-PHY-015",
+      "QUESTION-FAMILY-PHY-016"
     ],
     "evidence": [
       "requires_visual_verification counts in data/extracted/physics_pass1.json"

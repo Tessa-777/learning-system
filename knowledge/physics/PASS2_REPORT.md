@@ -212,6 +212,14 @@ members all come from the final third. Three further reasons are recorded:
   an image. Every record is nonetheless `fidelity_rung: A`, because the **text layer itself** is
   clean and the stems, marks and memo answers were read directly; the diagrams were not
   inspected (`UNRES-PHY-011`).
+* **The §17.2 visual cap did not fire on any family.** That cap applies only where members are
+  *both* below Rung A *and* visually unverified, and no record here is below Rung A — so the 13
+  high-confidence families keep their rating. The exposure is recorded instead as
+  `visual_verification_members` per family in `_PASS2_SUMMARY.json`, and `UNRES-PHY-011` now
+  derives its `affected` list from the evidence: **14 of 16 families** have over half their
+  members image-dependent (PHY-003/004/005/006/007/009/016 at 100%, PHY-002 35/37, PHY-008 21/22,
+  PHY-010 14/15, PHY-015 8/9, PHY-011 8/10, PHY-001 22/37, PHY-012 13/25). Only PHY-013 (1/3)
+  and PHY-014 (0/3) do not.
 * **14 records are unassigned** (`UNRES-PHY-021`), including the four candidate patterns above.
 * **10 memo contradictions are unresolved**, of which one changes the correct answer: 2025 memo
   6.2.1 marks "Positive" while all three accepted reasonings in 6.2.2 conclude Q2 is negative
