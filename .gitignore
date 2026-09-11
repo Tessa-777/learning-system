@@ -7,6 +7,7 @@ __pycache__/
 .ruff_cache/
 .venv/
 venv/
+data/raw/
 
 # Databases — knowledge.db is a Phase 15 artifact; build it, don't commit it.
 database/*.db
