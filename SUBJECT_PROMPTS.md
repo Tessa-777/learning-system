@@ -243,6 +243,20 @@ TRAPS YOU MUST HANDLE
     disciplines. Physics families already exist in knowledge/physics/ — a
     chemistry family must not reuse a physics source_id.
 
+BEFORE YOU START — a gap you will hit
+  * Chemistry has NO `data/raw/chemistry/SOURCE_INVENTORY.yaml`. The other six
+    subjects have one. `data/raw/` is ignored by `.gitignore` line 10 and the
+    existing inventories were force-added, so the chemistry directory is not
+    tracked yet.
+  * The physics Pass 1 builder resolves `orc_source_id` from that inventory and
+    FAILS if the entry is absent, so chemistry Pass 1 cannot pass its provenance
+    check until an inventory exists.
+  * Phase 2 for chemistry was therefore never run. Build the inventory the same
+    way the physics one was built (from the ORC catalogue plus the organized
+    files), force-add it, and log it as a Phase 2 run — or, if you cannot obtain
+    the ORC records, record the missing inventory as an unresolved acquisition
+    item and say so in your report rather than inventing ORC ids.
+
 EXPECTED YIELD: about 11 usable pairs. Enough to reach several high-confidence
 families and to make a real saturation test meaningful.
 ```
