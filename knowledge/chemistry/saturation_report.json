@@ -1,0 +1,58 @@
+{
+  "papers_in_sample": 11,
+  "question_families_identified": 11,
+  "families_first_observed_in_final_third": 0,
+  "strata_left_unsampled": [
+    "exam_board=IEB (the two IeBT papers in the sample have an image-only memo and a memo-only file; not extracted)",
+    "exam_board=NSC (no externally set NSC paper in the organized sample)",
+    "exam_period=prelim (no trial/preliminary paper in the sample)",
+    "paper_type=paper2 (Chemistry is a separate subject batch)",
+    "17 further chemistry papers present in data/organized/chemistry but not extracted in this run"
+  ],
+  "families_supported_by_single_exemplar": 0,
+  "computed_at": "2026-09-12T04:39:15Z",
+  "acquisition_order_used": [
+    "CHE-2018-JUL",
+    "CHE-2019-AUG",
+    "CHE-2020-NOV",
+    "CHE-2021-NOV",
+    "CHE-2022-JUN",
+    "CHE-2022-NOV",
+    "CHE-2023-JUL",
+    "CHE-2023-NOV",
+    "CHE-2024-NOV",
+    "CHE-2025-JUL",
+    "CHE-2025-NOV"
+  ],
+  "thirds_split": [
+    [
+      "CHE-2018-JUL",
+      "CHE-2019-AUG",
+      "CHE-2020-NOV",
+      "CHE-2021-NOV"
+    ],
+    [
+      "CHE-2022-JUN",
+      "CHE-2022-NOV",
+      "CHE-2023-JUL"
+    ],
+    [
+      "CHE-2023-NOV",
+      "CHE-2024-NOV",
+      "CHE-2025-JUL",
+      "CHE-2025-NOV"
+    ]
+  ],
+  "families_new_in_final_third": [],
+  "additional_diagnostics": {
+    "question_records_in_batch": 753,
+    "records_assigned_to_a_family": 746,
+    "records_unassigned": 7,
+    "families_resting_on_one_paper": [],
+    "confidence_distribution": {
+      "high": 11
+    },
+    "saturated": false,
+    "reason_not_saturated": "; strata left unsampled (IEB IeBT, NSC, prelim, paper2, further papers not extracted)"
+  }
+}

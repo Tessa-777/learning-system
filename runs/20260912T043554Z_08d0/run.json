@@ -1,0 +1,15 @@
+{
+  "run_id": "20260912T043554Z_08d0",
+  "started_at": "2026-09-12T04:35:54.952425Z",
+  "completed_at": "2026-09-12T04:36:00.608889Z",
+  "phase": "4-11",
+  "subject": "chemistry",
+  "spec_version": "1.0.0",
+  "implementation_spec_version": "1.0.0",
+  "agent_version": "1.0.0",
+  "model": "arena-agent",
+  "model_provider": "arena.ai",
+  "git_commit_before": "123baa2",
+  "git_commit_after": "123baa2",
+  "status": "completed_with_review"
+}

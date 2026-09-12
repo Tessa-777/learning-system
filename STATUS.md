@@ -3,13 +3,13 @@
 This file is auto-written by `scripts/phase1_bootstrap.py` and should be updated after each run (IMPLEMENTATION_SPEC §25). The current phase is recorded under `runs/`.
 
 ```yaml
-current_phase: 4-11 (biology Pass 1 + Pass 2; Phase 7 not run)
-current_subject: biology
+current_phase: 4-11 (chemistry Pass 1 + Pass 2; Phase 7 not run)
+current_subject: chemistry
 status: completed_with_review
 knowledge_bank_version: null
-unresolved_items: 19 # current biology run only; earlier subject queues remain open
-last_run_id: 20260912T032614Z_139d
-next_allowed_phase: biology review/acquisition and Phase 7 mapping; no automatic phase continuation
+unresolved_items: 8 # chemistry run only; biology/earlier subject queues remain open
+last_run_id: 20260912T043853Z_a257
+next_allowed_phase: chemistry review/acquisition (ORC inventory, IeBT papers) and Phase 7 mapping; no automatic phase continuation
 ```
 
 > **Corrections to earlier entries in this file.** The Phase 3 aggregate below states that
@@ -20,6 +20,61 @@ next_allowed_phase: biology review/acquisition and Phase 7 mapping; no automatic
 > lists all 233 ORC sources as `inaccessible` with `local_path: null`, which no longer
 > describes the organized copies — that inventory has not been reconciled
 > (`UNRES-PHY-025`).
+
+> **Chemistry (this run).** Pass 1 and Pass 2 are complete for chemistry and mirror the
+> physics two-pass method exactly. See the dedicated section below. Chemistry Phase 2 (ORC)
+> was never run and no `data/raw/chemistry/SOURCE_INVENTORY.yaml` exists, so the provenance
+> chain terminates at the sentinel `SOURCE-ORC-CHEM-NOT-INDEXED` and the gap is recorded as
+> `UNRES-CHEM-ACQ-001` rather than a fabricated inventory.
+
+---
+
+## Phase 4-11 — Chemistry Pass 1 + Pass 2
+
+**Status:** completed_with_review
+
+**Run ID:** `20260912T043853Z_a257`
+
+### Outcome
+
+One record per question was extracted from the paper+memo pairs in `data/organized/chemistry/`
+(11 internally-set papers, 2018 Jul → 2025 Nov; 753 question records) and compressed into
+question families, Understanding Models, breakdown models and diagnostic questions following
+`TWO_PASS_PROMPTS.md` and `SYSTEM_SPEC` §9-11. Phase 7 (curriculum mapping) was not run — no
+Grade 11 Chemistry curriculum/ATP document is in the sample.
+
+### Deliverables (knowledge/chemistry/)
+
+- `question_families.json` — 11 families (partition of the batch; every member resolves to a real record)
+- `understanding_models.json` — 11 models (one per family), `validation_state: unvalidated`, `version: 0.1.0-draft`
+- `breakdown_models.json` — 33 breakdowns (3 per model; stages from the schema enum)
+- `diagnostic_questions.json` — 33 diagnostics (3 per model; each names a target breakdown + distinguishes)
+- `unresolved_items.json` — 8 items (UNRES-CHEM-011 image dependency, UNRES-CHEM-ACQ-001 ORC gap,
+  UNRES-CHEM-012 memo misprints, UNRES-CHEM-013 visual-only items, UNRES-CHEM-021 unassigned records,
+  UNRES-CHEM-022 single-paper families [none], UNRES-CHEM-023 single-exemplar breakdowns [none],
+  UNRES-CHEM-024 deferred candidate family)
+- `saturation_report.json` / `_PASS2_SUMMARY.json` / `pass2_output.json` / `PASS2_REPORT.md`
+- `review_queue/RQ-P4-CHEM-PASS2.yaml` and `runs/20260912T043853Z_a257/`
+
+### Validation
+
+- `python scripts/run_chemistry_pass2.py` exits 0; `tests/test_chemistry_pass2.py` — 9 passed.
+- 88 Pass 2 objects validated against `database/schema/*.schema.json` — 0 failures.
+- Every family has ≥2 members; membership is a partition (746/753 records assigned, 7 unassigned);
+  confidence computed (high requires ≥4 members across ≥3 papers — all 11 families rate high).
+- Every model/breakdown/diagnostic references real objects; no family mixes disciplines.
+
+### Key decisions (runs/…/decisions.json)
+
+- DEC-P4-001 Pass 1 rebuilt from the organized PDFs (real per-question evidence).
+- DEC-P4-002 paper/memo pairing verified from the printed header, not `sample_manifest.json`.
+- DEC-P4-007 ORC provenance carried as sentinel `SOURCE-ORC-CHEM-NOT-INDEXED`; no fake inventory.
+
+### Honest limits
+
+- Not saturated: 11 papers (≥8) but 5 strata left unsampled (IEB IeBT, NSC, prelim, paper2, 17 unextracted pdfs).
+- 2 mark/memo header anomalies (CHE-2024-NOV Q5 "29 MARKS"/Q6.4.1 formula; CHE-2025-JUL Q5/Q6 totals swapped) resolved in favour of the question paper and recorded in UNRES-CHEM-012.
+- All models `unvalidated`; no student-response validation (Phase 13).
 
 ---
 

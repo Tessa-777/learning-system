@@ -1,0 +1,288 @@
+{
+  "generated_at": "2026-09-12T04:39:15Z",
+  "subject": "chemistry",
+  "pass1_batch": "data/extracted/chemistry_pass1.json",
+  "papers_in_sample": 11,
+  "question_records_in_batch": 753,
+  "records_assigned_to_a_family": 746,
+  "question_families": 11,
+  "understanding_models": 11,
+  "breakdown_models": 33,
+  "diagnostic_questions": 33,
+  "unresolved_items": 8,
+  "schema_validation": {
+    "checked": 88,
+    "failed": 0
+  },
+  "saturation": {
+    "papers_in_sample": 11,
+    "question_families_identified": 11,
+    "families_first_observed_in_final_third": 0,
+    "families_supported_by_single_exemplar": 0
+  },
+  "families": [
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-001",
+      "name": "State a chemistry definition/term to the memo's separately-ticked elements",
+      "members": 86,
+      "papers": [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2020-NOV",
+        "CHE-2021-NOV",
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-JUL",
+        "CHE-2023-NOV",
+        "CHE-2024-NOV",
+        "CHE-2025-JUL",
+        "CHE-2025-NOV"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "86 member questions across 11 papers (CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV)",
+      "visual_verification_members": 9,
+      "marks_range": [
+        1,
+        3
+      ]
+    },
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-002",
+      "name": "Stoichiometric calculation (n=m/M, cV, limiting reagent, % purity/yield)",
+      "members": 90,
+      "papers": [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2020-NOV",
+        "CHE-2021-NOV",
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-JUL",
+        "CHE-2023-NOV",
+        "CHE-2024-NOV",
+        "CHE-2025-JUL",
+        "CHE-2025-NOV"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "90 member questions across 11 papers (CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV)",
+      "visual_verification_members": 0,
+      "marks_range": [
+        2,
+        8
+      ]
+    },
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-003",
+      "name": "Stoichiometry expressed in words/short-answer and multiple choice",
+      "members": 33,
+      "papers": [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2020-NOV",
+        "CHE-2021-NOV",
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-JUL",
+        "CHE-2023-NOV",
+        "CHE-2025-JUL",
+        "CHE-2025-NOV"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "33 member questions across 10 papers (CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2025-JUL, CHE-2025-NOV)",
+      "visual_verification_members": 0,
+      "marks_range": [
+        1,
+        4
+      ]
+    },
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-004",
+      "name": "Draw a Lewis/Couper diagram of a covalent molecule",
+      "members": 21,
+      "papers": [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2021-NOV",
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-JUL",
+        "CHE-2023-NOV",
+        "CHE-2024-NOV",
+        "CHE-2025-JUL",
+        "CHE-2025-NOV"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "21 member questions across 10 papers (CHE-2018-JUL, CHE-2019-AUG, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV)",
+      "visual_verification_members": 12,
+      "marks_range": [
+        1,
+        4
+      ]
+    },
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-005",
+      "name": "Bonding: explain, apply and interpret bonds and structures",
+      "members": 141,
+      "papers": [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2020-NOV",
+        "CHE-2021-NOV",
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-JUL",
+        "CHE-2023-NOV",
+        "CHE-2024-NOV",
+        "CHE-2025-JUL",
+        "CHE-2025-NOV"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "141 member questions across 11 papers (CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV)",
+      "visual_verification_members": 20,
+      "marks_range": [
+        1,
+        6
+      ]
+    },
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-006",
+      "name": "Organic chemistry: naming, functional groups, homologous series and isomers",
+      "members": 137,
+      "papers": [
+        "CHE-2020-NOV",
+        "CHE-2021-NOV",
+        "CHE-2022-NOV",
+        "CHE-2023-NOV",
+        "CHE-2024-NOV",
+        "CHE-2025-NOV"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "137 member questions across 6 papers (CHE-2020-NOV, CHE-2021-NOV, CHE-2022-NOV, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-NOV)",
+      "visual_verification_members": 65,
+      "marks_range": [
+        1,
+        5
+      ]
+    },
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-007",
+      "name": "Explain physical properties through intermolecular forces",
+      "members": 50,
+      "papers": [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2020-NOV",
+        "CHE-2021-NOV",
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-JUL",
+        "CHE-2023-NOV",
+        "CHE-2024-NOV",
+        "CHE-2025-JUL",
+        "CHE-2025-NOV"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "50 member questions across 11 papers (CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV)",
+      "visual_verification_members": 8,
+      "marks_range": [
+        1,
+        5
+      ]
+    },
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-008",
+      "name": "Reaction-rate explanation via collision theory, Maxwell-Boltzmann and catalysts",
+      "members": 100,
+      "papers": [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2020-NOV",
+        "CHE-2021-NOV",
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-JUL",
+        "CHE-2023-NOV",
+        "CHE-2024-NOV",
+        "CHE-2025-JUL",
+        "CHE-2025-NOV"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "100 member questions across 11 papers (CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV)",
+      "visual_verification_members": 58,
+      "marks_range": [
+        1,
+        7
+      ]
+    },
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-009",
+      "name": "Energy & Chemical Change: energy-profile interpretation and thermochemistry explanation",
+      "members": 28,
+      "papers": [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2020-NOV",
+        "CHE-2021-NOV",
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-NOV",
+        "CHE-2025-JUL"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "28 member questions across 8 papers (CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-NOV, CHE-2025-JUL)",
+      "visual_verification_members": 24,
+      "marks_range": [
+        1,
+        5
+      ]
+    },
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-010",
+      "name": "Energy & Chemical Change: definitions and applied thermochemistry",
+      "members": 24,
+      "papers": [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2020-NOV",
+        "CHE-2021-NOV",
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-JUL",
+        "CHE-2025-NOV"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "24 member questions across 8 papers (CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2025-NOV)",
+      "visual_verification_members": 12,
+      "marks_range": [
+        1,
+        3
+      ]
+    },
+    {
+      "family_id": "QUESTION-FAMILY-CHEM-011",
+      "name": "Matter & Materials, Scientific Skills and Atomic Structure",
+      "members": 36,
+      "papers": [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2020-NOV",
+        "CHE-2021-NOV",
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-JUL",
+        "CHE-2023-NOV",
+        "CHE-2024-NOV",
+        "CHE-2025-JUL",
+        "CHE-2025-NOV"
+      ],
+      "confidence": "high",
+      "confidence_rationale": "36 member questions across 11 papers (CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV)",
+      "visual_verification_members": 10,
+      "marks_range": [
+        1,
+        4
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,108 @@
+{
+  "generated_at": "2026-09-12T04:39:10Z",
+  "subject": "chemistry",
+  "papers_in_batch": 11,
+  "question_records": 753,
+  "papers": [
+    {
+      "paper_key": "CHE-2018-JUL",
+      "year": 2018,
+      "exam_date": "19 July 2018",
+      "exam_period": "june",
+      "records": 55,
+      "marks": 130,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "CHE-2019-AUG",
+      "year": 2019,
+      "exam_date": "5 August 2019",
+      "exam_period": "june",
+      "records": 59,
+      "marks": 162,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "CHE-2020-NOV",
+      "year": 2020,
+      "exam_date": "23 November 2020",
+      "exam_period": "nov",
+      "records": 90,
+      "marks": 200,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "CHE-2021-NOV",
+      "year": 2021,
+      "exam_date": "22 November 2021",
+      "exam_period": "nov",
+      "records": 85,
+      "marks": 200,
+      "memo_date_match": false
+    },
+    {
+      "paper_key": "CHE-2022-JUN",
+      "year": 2022,
+      "exam_date": "22 July 2022",
+      "exam_period": "june",
+      "records": 71,
+      "marks": 165,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "CHE-2022-NOV",
+      "year": 2022,
+      "exam_date": "28 November 2022",
+      "exam_period": "nov",
+      "records": 83,
+      "marks": 200,
+      "memo_date_match": false
+    },
+    {
+      "paper_key": "CHE-2023-JUL",
+      "year": 2023,
+      "exam_date": "25 July 2023",
+      "exam_period": "july",
+      "records": 64,
+      "marks": 165,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "CHE-2023-NOV",
+      "year": 2023,
+      "exam_date": "27 November 2023",
+      "exam_period": "november",
+      "records": 71,
+      "marks": 165,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "CHE-2024-NOV",
+      "year": 2024,
+      "exam_date": "11 November 2024",
+      "exam_period": "november",
+      "records": 60,
+      "marks": 135,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "CHE-2025-JUL",
+      "year": 2025,
+      "exam_date": "23 July 2025",
+      "exam_period": "july",
+      "records": 51,
+      "marks": 135,
+      "memo_date_match": true
+    },
+    {
+      "paper_key": "CHE-2025-NOV",
+      "year": 2025,
+      "exam_date": "10 November 2025",
+      "exam_period": "november",
+      "records": 64,
+      "marks": 135,
+      "memo_date_match": true
+    }
+  ],
+  "problems": []
+}

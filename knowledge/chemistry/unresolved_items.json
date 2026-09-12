@@ -1,0 +1,121 @@
+[
+  {
+    "type": "image_dependent",
+    "id": "UNRES-CHEM-011",
+    "summary": "Several families rest heavily on diagram- or image-dependent questions whose text layer was readable but whose diagram could not be verified",
+    "detail": "Chemistry questions frequently depend on a structure, apparatus or graph image. In this batch the text layer (Rung A) was transcribed, but the diagrams could not be visually verified, so the breakdowns and diagnostics that lean on them are unvalidated. The build appends the per-family image-dependency counts to this item. Families where over half the members are image-dependent (3 of 11): CHEM-004 12/21, CHEM-008 58/100, CHEM-009 24/28.",
+    "affected": [
+      "QUESTION-FAMILY-CHEM-004",
+      "QUESTION-FAMILY-CHEM-008",
+      "QUESTION-FAMILY-CHEM-009"
+    ],
+    "evidence": [
+      "chemistry_pass1_evidence modules: requires_visual_verification=True on diagram questions",
+      "no data/raw/chemistry/SOURCE_INVENTORY.yaml exists (ORC never ran for chemistry)"
+    ],
+    "recommended_review": "Where a family is majority image-dependent, verify the diagram against the source PDF before using its diagnostics in production; a tutor should not generate a diagnosis from a diagram that was never visually confirmed."
+  },
+  {
+    "type": "provenance_gap",
+    "id": "UNRES-CHEM-ACQ-001",
+    "summary": "Chemistry Phase 2 (ORC) was never run, so no SOURCE-* id is available for the Pass 1 records",
+    "detail": "The repository has data/raw/physics/SOURCE_INVENTORY.yaml mapping question records to ORC SOURCE-* ids, but no equivalent exists for chemistry and the ORC step was never executed for the chemistry corpus. Per AGENTS.md and SUBJECT_PROMPTS.md, a fake inventory must NOT be invented. Every chemistry Pass 2 object therefore carries the sentinel SOURCE-ORC-CHEM-NOT-INDEXED as its orc_source_id, and this unresolved item records the gap. The referential chain chemistry_{year}_{board}_{ptype}_{period}_q{qn} -> SOURCE-ORC-CHEM-NOT-INDEXED terminates at the sentinel rather than at a real ORC id.",
+    "affected": [
+      "SOURCE-ORC-CHEM-NOT-INDEXED"
+    ],
+    "evidence": [
+      "data/raw/chemistry/SOURCE_INVENTORY.yaml does not exist",
+      "SUBJECT_PROMPTS.md: do not invent ORC ids or a fake inventory",
+      "knowledge/chemistry/* orc_source_id == SOURCE-ORC-CHEM-NOT-INDEXED"
+    ],
+    "recommended_review": "Run the Phase 2 ORC acquisition for chemistry and create data/raw/chemistry/SOURCE_INVENTORY.yaml; then map each chemistry_{...}_q{qn} source_id to a real SOURCE-* id and re-point the provenance chain."
+  },
+  {
+    "type": "marking_anomaly",
+    "id": "UNRES-CHEM-012",
+    "summary": "Two marking anomalies were resolved during transcription using the question paper as authoritative",
+    "detail": "CHE-2024-NOV: the memo header for Question 5 reads '29 MARKS' but the question paper and the memo marks sum to 13; the memo also prints an incorrect formula for Q6.4.1 (CnH2n+2O2 instead of CnH2nO2). CHE-2025-JUL: the memo header swaps the Question 5 and Question 6 totals; the question paper (Q5=14, Q6=17) is authoritative. All were resolved in favour of the question paper; recorded here so a later reviewer knows the memo was overruled.",
+    "affected": [
+      "chemistry_2024_nov_q5",
+      "chemistry_2024_nov_q6",
+      "chemistry_2025_july_q5",
+      "chemistry_2025_july_q6"
+    ],
+    "evidence": [
+      "chemistry_pass1_evidence_2024_nov.py header note on Q5/Q6 memo misprints",
+      "chemistry_pass1_evidence_2025_july.py header note on Q5/Q6 total swap"
+    ],
+    "recommended_review": "Confirm against a clean copy of the 2024 November and 2025 July memoranda if one becomes available."
+  },
+  {
+    "type": "visual_only_item",
+    "id": "UNRES-CHEM-013",
+    "summary": "A few questions could only be partially transcribed because the answer depends on an unreadable image",
+    "detail": "CHE-2024-NOV Question 6 asks for a flow-diagram completion whose boxes are images, and CHE-2025-NOV Questions 5.4-5.6 ask about displayed organic structures labelled X and Y that are images. The text was transcribed and the items were placed in their families, but the diagram content itself (which bonds, which isomers) could not be confirmed. They are marked requires_visual_verification=True and must not be used to assert a structural claim.",
+    "affected": [
+      "chemistry_2024_nov_q6",
+      "chemistry_2025_nov_q5"
+    ],
+    "evidence": [
+      "chemistry_pass1_evidence_2024_nov.py Q6 flow-diagram sub-questions",
+      "chemistry_pass1_evidence_2025_nov.py X/Y displayed-structure items"
+    ],
+    "recommended_review": "Recover the source images and transcribe the structures before using these items in a diagnostic."
+  },
+  {
+    "type": "coverage_gap",
+    "id": "UNRES-CHEM-021",
+    "summary": "7 extracted question records were not assigned to any family",
+    "detail": "These records are in the Pass 1 batch but no family in this run claims them. They are not evidence for any Understanding Model and the tutor must not present them as such. First few: chemistry_2019_internal_paper2_june_q2.2.4, chemistry_2020_internal_paper2_nov_q3.6.1, chemistry_2021_internal_paper2_nov_q5.1.3, chemistry_2021_internal_paper2_nov_q6.1, chemistry_2021_internal_paper2_nov_q9.7.2, chemistry_2024_internal_paper2_november_q2.6, chemistry_2025_internal_paper2_july_q5.2.1",
+    "affected": [
+      "chemistry_2019_internal_paper2_june_q2.2.4",
+      "chemistry_2020_internal_paper2_nov_q3.6.1",
+      "chemistry_2021_internal_paper2_nov_q5.1.3",
+      "chemistry_2021_internal_paper2_nov_q6.1",
+      "chemistry_2021_internal_paper2_nov_q9.7.2",
+      "chemistry_2024_internal_paper2_november_q2.6",
+      "chemistry_2025_internal_paper2_july_q5.2.1"
+    ],
+    "evidence": [
+      "scripts/build_chemistry_pass2.py family partition check"
+    ],
+    "recommended_review": "Extend family definitions or extract more papers so these records find a family."
+  },
+  {
+    "type": "coverage_gap",
+    "id": "UNRES-CHEM-024",
+    "summary": "Candidate family not modelled in this run: Acid-base titration pH reasoning",
+    "detail": "Only a couple of papers probe titration reasoning with an image-heavy apparatus diagram; the pattern is not yet safe to generalise. Evidence: 2 question records across 2 papers.",
+    "affected": [
+      "chemistry_2025_internal_paper2_july_q4.2.3",
+      "chemistry_2025_internal_paper2_november_q3.2.4"
+    ],
+    "evidence": [
+      "CHE-2025-JUL Q4.2.3",
+      "CHE-2025-NOV Q3.2.4"
+    ],
+    "recommended_review": "Re-run Pass 2 with more papers; if the pattern holds, write the Understanding Model then rather than generalising now."
+  },
+  {
+    "type": "coverage_gap",
+    "id": "UNRES-CHEM-022",
+    "summary": "0 family/families rest on a single paper",
+    "detail": "Family membership spanning one paper only cannot support a 'high' confidence model and its marking_requirements must not be generalised to other sittings: ",
+    "affected": [],
+    "evidence": [
+      "family member paper distribution"
+    ],
+    "recommended_review": "Acquire more papers covering the same competence."
+  },
+  {
+    "type": "single_exemplar",
+    "id": "UNRES-CHEM-023",
+    "summary": "0 breakdown(s) rest on a single question record",
+    "detail": "These breakdowns are cited from one memo record only, so the pattern is inferred from a single exemplar and must not be treated as established: ",
+    "affected": [],
+    "evidence": [
+      "source_basis length in knowledge/chemistry/breakdown_models.json"
+    ],
+    "recommended_review": "Confirm each against a second sitting, or drop the breakdown; a tutor should not use a single-exemplar breakdown to justify a diagnosis."
+  }
+]

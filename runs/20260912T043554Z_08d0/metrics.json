@@ -1,0 +1,23 @@
+{
+  "papers_in_organized_sample": 28,
+  "papers_processed": 11,
+  "questions_extracted": 753,
+  "questions_classified": 746,
+  "questions_unclassified": 7,
+  "memo_alignment_rate": 0.7768924302788844,
+  "memo_marks_disagreement_papers": [
+    "CHE-2021-NOV",
+    "CHE-2022-NOV"
+  ],
+  "curriculum_mapping_rate": null,
+  "records_requiring_visual_verification": 222,
+  "question_families": 11,
+  "understanding_models": 11,
+  "breakdowns": 33,
+  "diagnostics": 33,
+  "unresolved_items": 8,
+  "validation_failures": 0,
+  "families_first_observed_in_final_third": 0,
+  "strata_left_unsampled": 5,
+  "saturated": false
+}

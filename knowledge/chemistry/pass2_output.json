@@ -1,0 +1,4189 @@
+{
+  "subject": "chemistry",
+  "grade": "11",
+  "generated_at": "2026-09-12T04:39:15Z",
+  "question_families": [
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-001",
+      "name": "State a chemistry definition/term to the memo's separately-ticked elements",
+      "definition": "The student must reproduce a definition in the exact elements the marking guidelines reward, not merely a synonym, across any chemistry topic.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Bonding",
+        "Energy & Chemical Change",
+        "Intermolecular Forces",
+        "Organic Chemistry",
+        "Reaction Rates",
+        "Stoichiometry"
+      ],
+      "assessment_operations": [
+        "recall a definition",
+        "state a law",
+        "explain a term"
+      ],
+      "representative_questions": [
+        "CHE-2018-JUL-Q2.3.1",
+        "CHE-2019-AUG-Q2.1.1",
+        "CHE-2019-AUG-Q3.4.4",
+        "CHE-2019-AUG-Q3.4.5",
+        "CHE-2020-NOV-Q2.2.1",
+        "CHE-2020-NOV-Q3.1"
+      ],
+      "frequency": 86,
+      "source_evidence": [
+        "chemistry_2018_internal_paper2_june_q2.3.1",
+        "chemistry_2019_internal_paper2_june_q2.1.1",
+        "chemistry_2019_internal_paper2_june_q3.4.4",
+        "chemistry_2019_internal_paper2_june_q3.4.5",
+        "chemistry_2020_internal_paper2_nov_q2.2.1",
+        "chemistry_2020_internal_paper2_nov_q3.1",
+        "chemistry_2020_internal_paper2_nov_q3.3",
+        "chemistry_2021_internal_paper2_nov_q2.2.1",
+        "chemistry_2021_internal_paper2_nov_q3.1.1",
+        "chemistry_2022_internal_paper2_june_q2.1",
+        "chemistry_2022_internal_paper2_june_q4.1.1",
+        "chemistry_2022_internal_paper2_nov_q5.4a",
+        "chemistry_2022_internal_paper2_nov_q6.2a",
+        "chemistry_2023_internal_paper2_november_q2.2.1",
+        "chemistry_2023_internal_paper2_november_q2.2.4",
+        "chemistry_2024_internal_paper2_november_q1.2.1",
+        "chemistry_2024_internal_paper2_november_q4.1.3",
+        "chemistry_2025_internal_paper2_november_q1.5",
+        "chemistry_2025_internal_paper2_november_q4.2.1",
+        "chemistry_2025_internal_paper2_november_q4.3.3",
+        "chemistry_2018_internal_paper2_june_q4.2.2",
+        "chemistry_2018_internal_paper2_june_q5.1",
+        "chemistry_2019_internal_paper2_june_q6.1.1",
+        "chemistry_2019_internal_paper2_june_q7.1.1",
+        "chemistry_2020_internal_paper2_nov_q6.2.2",
+        "chemistry_2021_internal_paper2_nov_q5.1.1",
+        "chemistry_2021_internal_paper2_nov_q7.7.2",
+        "chemistry_2022_internal_paper2_june_q8.2",
+        "chemistry_2022_internal_paper2_june_q9.1",
+        "chemistry_2022_internal_paper2_june_q9.3.2",
+        "chemistry_2023_internal_paper2_july_q7.2b",
+        "chemistry_2023_internal_paper2_july_q8.1",
+        "chemistry_2023_internal_paper2_july_q8.2",
+        "chemistry_2023_internal_paper2_november_q6.2",
+        "chemistry_2023_internal_paper2_november_q7.1.1",
+        "chemistry_2023_internal_paper2_november_q8.1",
+        "chemistry_2024_internal_paper2_november_q3.1.2",
+        "chemistry_2025_internal_paper2_july_q3.1.1",
+        "chemistry_2025_internal_paper2_july_q4.2.1",
+        "chemistry_2025_internal_paper2_november_q3.2.2",
+        "chemistry_2019_internal_paper2_june_q5.1",
+        "chemistry_2020_internal_paper2_nov_q5.1",
+        "chemistry_2021_internal_paper2_nov_q7.2",
+        "chemistry_2022_internal_paper2_june_q7.1",
+        "chemistry_2022_internal_paper2_nov_q6.4a",
+        "chemistry_2023_internal_paper2_july_q4.6d",
+        "chemistry_2023_internal_paper2_july_q4.6e",
+        "chemistry_2023_internal_paper2_november_q3.1",
+        "chemistry_2023_internal_paper2_november_q3.4",
+        "chemistry_2024_internal_paper2_november_q2.1",
+        "chemistry_2024_internal_paper2_november_q2.8",
+        "chemistry_2025_internal_paper2_july_q6.1",
+        "chemistry_2025_internal_paper2_november_q2.1",
+        "chemistry_2025_internal_paper2_november_q2.9",
+        "chemistry_2018_internal_paper2_june_q3.5.1",
+        "chemistry_2018_internal_paper2_june_q3.5.3",
+        "chemistry_2018_internal_paper2_june_q3.5.5",
+        "chemistry_2019_internal_paper2_june_q4.2.1",
+        "chemistry_2019_internal_paper2_june_q4.3.1",
+        "chemistry_2019_internal_paper2_june_q5.5.1",
+        "chemistry_2020_internal_paper2_nov_q4.1",
+        "chemistry_2021_internal_paper2_nov_q4.6.1",
+        "chemistry_2022_internal_paper2_june_q5.1",
+        "chemistry_2022_internal_paper2_june_q6.1",
+        "chemistry_2022_internal_paper2_june_q6.5",
+        "chemistry_2022_internal_paper2_nov_q4.1",
+        "chemistry_2022_internal_paper2_nov_q6.1",
+        "chemistry_2023_internal_paper2_july_q4.1",
+        "chemistry_2023_internal_paper2_july_q4.2",
+        "chemistry_2020_internal_paper2_nov_q7.1",
+        "chemistry_2020_internal_paper2_nov_q8.6",
+        "chemistry_2021_internal_paper2_nov_q8.2.1",
+        "chemistry_2021_internal_paper2_nov_q8.3.1",
+        "chemistry_2021_internal_paper2_nov_q8.5",
+        "chemistry_2022_internal_paper2_nov_q7.1",
+        "chemistry_2022_internal_paper2_nov_q8.2",
+        "chemistry_2022_internal_paper2_nov_q9.1b",
+        "chemistry_2023_internal_paper2_november_q4.6",
+        "chemistry_2023_internal_paper2_november_q5.1",
+        "chemistry_2024_internal_paper2_november_q5.3.1",
+        "chemistry_2024_internal_paper2_november_q6.1",
+        "chemistry_2024_internal_paper2_november_q6.3",
+        "chemistry_2025_internal_paper2_november_q5.1",
+        "chemistry_2025_internal_paper2_november_q6.6.1",
+        "chemistry_2019_internal_paper2_june_q2.2.1",
+        "chemistry_2020_internal_paper2_nov_q2.2.4"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-002",
+      "name": "Stoichiometric calculation (n=m/M, cV, limiting reagent, % purity/yield)",
+      "definition": "A calculation in which the competence is choosing the right stoichiometric relation and substituting consistently with units, then carrying the value through to the answer.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Stoichiometry"
+      ],
+      "assessment_operations": [
+        "select a relation",
+        "substitute",
+        "calculate",
+        "state a value with units"
+      ],
+      "representative_questions": [
+        "CHE-2018-JUL-Q4.2.1",
+        "CHE-2018-JUL-Q4.2.3",
+        "CHE-2018-JUL-Q4.3.1",
+        "CHE-2018-JUL-Q4.3.2",
+        "CHE-2018-JUL-Q4.3.3",
+        "CHE-2018-JUL-Q4.3.4"
+      ],
+      "frequency": 90,
+      "source_evidence": [
+        "chemistry_2018_internal_paper2_june_q4.2.1",
+        "chemistry_2018_internal_paper2_june_q4.2.3",
+        "chemistry_2018_internal_paper2_june_q4.3.1",
+        "chemistry_2018_internal_paper2_june_q4.3.2",
+        "chemistry_2018_internal_paper2_june_q4.3.3",
+        "chemistry_2018_internal_paper2_june_q4.3.4",
+        "chemistry_2018_internal_paper2_june_q5.4",
+        "chemistry_2018_internal_paper2_june_q5.5",
+        "chemistry_2018_internal_paper2_june_q5.6",
+        "chemistry_2018_internal_paper2_june_q5.7",
+        "chemistry_2019_internal_paper2_june_q2.2.3",
+        "chemistry_2019_internal_paper2_june_q4.1.1",
+        "chemistry_2019_internal_paper2_june_q4.1.2",
+        "chemistry_2019_internal_paper2_june_q4.1.3",
+        "chemistry_2019_internal_paper2_june_q5.5.4",
+        "chemistry_2019_internal_paper2_june_q6.1.2",
+        "chemistry_2019_internal_paper2_june_q6.1.3",
+        "chemistry_2019_internal_paper2_june_q6.1.4",
+        "chemistry_2019_internal_paper2_june_q6.2",
+        "chemistry_2019_internal_paper2_june_q7.1.3",
+        "chemistry_2019_internal_paper2_june_q7.2.2",
+        "chemistry_2019_internal_paper2_june_q7.2.3",
+        "chemistry_2020_internal_paper2_nov_q4.7.1",
+        "chemistry_2020_internal_paper2_nov_q4.7.2",
+        "chemistry_2020_internal_paper2_nov_q6.1.1",
+        "chemistry_2020_internal_paper2_nov_q6.1.2",
+        "chemistry_2020_internal_paper2_nov_q6.1.3",
+        "chemistry_2020_internal_paper2_nov_q6.2.6",
+        "chemistry_2021_internal_paper2_nov_q5.1.2",
+        "chemistry_2021_internal_paper2_nov_q5.2.2",
+        "chemistry_2021_internal_paper2_nov_q6.2.1",
+        "chemistry_2021_internal_paper2_nov_q6.2.2",
+        "chemistry_2021_internal_paper2_nov_q6.2.3",
+        "chemistry_2021_internal_paper2_nov_q6.3",
+        "chemistry_2021_internal_paper2_nov_q7.7.1",
+        "chemistry_2021_internal_paper2_nov_q7.7.3",
+        "chemistry_2022_internal_paper2_june_q8.3",
+        "chemistry_2022_internal_paper2_june_q8.4",
+        "chemistry_2022_internal_paper2_june_q8.5",
+        "chemistry_2022_internal_paper2_june_q9.2",
+        "chemistry_2022_internal_paper2_june_q9.3.6",
+        "chemistry_2022_internal_paper2_june_q10.2.1",
+        "chemistry_2022_internal_paper2_june_q10.2.2",
+        "chemistry_2022_internal_paper2_june_q10.2.3",
+        "chemistry_2022_internal_paper2_june_q10.3",
+        "chemistry_2022_internal_paper2_nov_q2.1",
+        "chemistry_2022_internal_paper2_nov_q2.2",
+        "chemistry_2022_internal_paper2_nov_q2.3",
+        "chemistry_2022_internal_paper2_nov_q2.4",
+        "chemistry_2022_internal_paper2_nov_q5.1a",
+        "chemistry_2022_internal_paper2_nov_q5.1b",
+        "chemistry_2022_internal_paper2_nov_q5.1c",
+        "chemistry_2022_internal_paper2_nov_q5.1d",
+        "chemistry_2022_internal_paper2_nov_q6.3",
+        "chemistry_2023_internal_paper2_july_q5.2",
+        "chemistry_2023_internal_paper2_july_q7.2a",
+        "chemistry_2023_internal_paper2_july_q7.2c",
+        "chemistry_2023_internal_paper2_july_q7.3a",
+        "chemistry_2023_internal_paper2_july_q7.3b",
+        "chemistry_2023_internal_paper2_july_q7.3c",
+        "chemistry_2023_internal_paper2_july_q7.3d",
+        "chemistry_2023_internal_paper2_july_q8.4",
+        "chemistry_2023_internal_paper2_july_q8.5",
+        "chemistry_2023_internal_paper2_july_q8.6",
+        "chemistry_2023_internal_paper2_july_q8.7",
+        "chemistry_2023_internal_paper2_november_q6.3",
+        "chemistry_2023_internal_paper2_november_q6.4",
+        "chemistry_2023_internal_paper2_november_q6.5",
+        "chemistry_2023_internal_paper2_november_q6.6",
+        "chemistry_2023_internal_paper2_november_q7.1.2",
+        "chemistry_2023_internal_paper2_november_q7.1.3",
+        "chemistry_2023_internal_paper2_november_q7.1.4",
+        "chemistry_2023_internal_paper2_november_q7.2",
+        "chemistry_2023_internal_paper2_november_q8.4",
+        "chemistry_2024_internal_paper2_november_q3.1.1",
+        "chemistry_2024_internal_paper2_november_q3.1.3",
+        "chemistry_2024_internal_paper2_november_q3.2.1",
+        "chemistry_2024_internal_paper2_november_q3.2.2",
+        "chemistry_2024_internal_paper2_november_q3.2.3",
+        "chemistry_2024_internal_paper2_november_q3.2.4",
+        "chemistry_2025_internal_paper2_july_q3.1.2",
+        "chemistry_2025_internal_paper2_july_q3.1.3",
+        "chemistry_2025_internal_paper2_july_q3.1.4",
+        "chemistry_2025_internal_paper2_july_q3.2",
+        "chemistry_2025_internal_paper2_july_q4.1.3",
+        "chemistry_2025_internal_paper2_july_q4.2.2",
+        "chemistry_2025_internal_paper2_november_q3.1.1",
+        "chemistry_2025_internal_paper2_november_q3.1.2",
+        "chemistry_2025_internal_paper2_november_q3.1.3",
+        "chemistry_2025_internal_paper2_november_q3.2.5"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-003",
+      "name": "Stoichiometry expressed in words/short-answer and multiple choice",
+      "definition": "Stoichiometry items that are not numeric calculations: naming the limiting reagent, stating concentration reasoning, and choosing the correct stoichiometric statement.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Stoichiometry"
+      ],
+      "assessment_operations": [
+        "identify the limiting reagent",
+        "state a stoichiometric fact",
+        "select the correct option"
+      ],
+      "representative_questions": [
+        "CHE-2018-JUL-Q4.1",
+        "CHE-2018-JUL-Q5.2",
+        "CHE-2018-JUL-Q5.3",
+        "CHE-2019-AUG-Q7.1.2",
+        "CHE-2020-NOV-Q6.2.1",
+        "CHE-2020-NOV-Q6.2.3"
+      ],
+      "frequency": 33,
+      "source_evidence": [
+        "chemistry_2018_internal_paper2_june_q4.1",
+        "chemistry_2018_internal_paper2_june_q5.2",
+        "chemistry_2018_internal_paper2_june_q5.3",
+        "chemistry_2019_internal_paper2_june_q7.1.2",
+        "chemistry_2020_internal_paper2_nov_q6.2.1",
+        "chemistry_2020_internal_paper2_nov_q6.2.3",
+        "chemistry_2020_internal_paper2_nov_q6.2.4",
+        "chemistry_2022_internal_paper2_june_q8.1",
+        "chemistry_2022_internal_paper2_june_q9.3.1",
+        "chemistry_2022_internal_paper2_june_q9.3.3",
+        "chemistry_2022_internal_paper2_june_q9.3.4",
+        "chemistry_2022_internal_paper2_june_q10.1",
+        "chemistry_2022_internal_paper2_nov_q3.2.4",
+        "chemistry_2023_internal_paper2_july_q7.1",
+        "chemistry_2023_internal_paper2_july_q8.3",
+        "chemistry_2023_internal_paper2_november_q6.1",
+        "chemistry_2023_internal_paper2_november_q8.2",
+        "chemistry_2025_internal_paper2_july_q4.2.3",
+        "chemistry_2025_internal_paper2_july_q4.2.4",
+        "chemistry_2025_internal_paper2_november_q3.2.1",
+        "chemistry_2025_internal_paper2_november_q3.2.3",
+        "chemistry_2018_internal_paper2_june_q1.3",
+        "chemistry_2019_internal_paper2_june_q1.3",
+        "chemistry_2019_internal_paper2_june_q1.4",
+        "chemistry_2020_internal_paper2_nov_q1.5",
+        "chemistry_2020_internal_paper2_nov_q1.6",
+        "chemistry_2021_internal_paper2_nov_q1.6",
+        "chemistry_2022_internal_paper2_june_q1.7",
+        "chemistry_2022_internal_paper2_june_q1.8",
+        "chemistry_2022_internal_paper2_nov_q1.3",
+        "chemistry_2022_internal_paper2_nov_q1.6",
+        "chemistry_2023_internal_paper2_july_q1.5",
+        "chemistry_2023_internal_paper2_november_q1.3"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-004",
+      "name": "Draw a Lewis/Couper diagram of a covalent molecule",
+      "definition": "The student must represent a covalent molecule with the correct atoms, shared pairs and lone pairs (Lewis) or bond lines and a dative arrow (Couper).",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Bonding"
+      ],
+      "assessment_operations": [
+        "draw a Lewis/Couper diagram",
+        "show lone pairs",
+        "label bonds"
+      ],
+      "representative_questions": [
+        "CHE-2018-JUL-Q3.1",
+        "CHE-2018-JUL-Q3.2",
+        "CHE-2019-AUG-Q3.4.6",
+        "CHE-2021-NOV-Q2.2.5",
+        "CHE-2021-NOV-Q2.2.6",
+        "CHE-2021-NOV-Q3.2.2a"
+      ],
+      "frequency": 21,
+      "source_evidence": [
+        "chemistry_2018_internal_paper2_june_q3.1",
+        "chemistry_2018_internal_paper2_june_q3.2",
+        "chemistry_2019_internal_paper2_june_q3.4.6",
+        "chemistry_2021_internal_paper2_nov_q2.2.5",
+        "chemistry_2021_internal_paper2_nov_q2.2.6",
+        "chemistry_2021_internal_paper2_nov_q3.2.2a",
+        "chemistry_2021_internal_paper2_nov_q3.2.2b",
+        "chemistry_2021_internal_paper2_nov_q3.2.2c",
+        "chemistry_2022_internal_paper2_june_q2.2",
+        "chemistry_2022_internal_paper2_june_q2.10.1",
+        "chemistry_2022_internal_paper2_june_q2.10.2",
+        "chemistry_2022_internal_paper2_june_q3.2.2",
+        "chemistry_2022_internal_paper2_nov_q6.2b",
+        "chemistry_2023_internal_paper2_july_q2.4a",
+        "chemistry_2023_internal_paper2_november_q2.2.2",
+        "chemistry_2023_internal_paper2_november_q2.2.3",
+        "chemistry_2023_internal_paper2_november_q2.2.5",
+        "chemistry_2024_internal_paper2_november_q1.3.2",
+        "chemistry_2025_internal_paper2_july_q8.1.2",
+        "chemistry_2025_internal_paper2_july_q8.7",
+        "chemistry_2025_internal_paper2_november_q1.4"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-005",
+      "name": "Bonding: explain, apply and interpret bonds and structures",
+      "definition": "Non-diagram bonding items: explaining bond type, electronegativity, polarity and bond strength, and applying them to properties and structures.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Bonding"
+      ],
+      "assessment_operations": [
+        "explain a bond",
+        "apply electronegativity/polarity",
+        "interpret a structure"
+      ],
+      "representative_questions": [
+        "CHE-2018-JUL-Q2.2",
+        "CHE-2018-JUL-Q2.4.1",
+        "CHE-2018-JUL-Q2.5.2",
+        "CHE-2018-JUL-Q3.4",
+        "CHE-2019-AUG-Q2.1.5",
+        "CHE-2019-AUG-Q3.1"
+      ],
+      "frequency": 141,
+      "source_evidence": [
+        "chemistry_2018_internal_paper2_june_q2.2",
+        "chemistry_2018_internal_paper2_june_q2.4.1",
+        "chemistry_2018_internal_paper2_june_q2.5.2",
+        "chemistry_2018_internal_paper2_june_q3.4",
+        "chemistry_2019_internal_paper2_june_q2.1.5",
+        "chemistry_2019_internal_paper2_june_q3.1",
+        "chemistry_2020_internal_paper2_nov_q2.2.3",
+        "chemistry_2020_internal_paper2_nov_q3.5.1",
+        "chemistry_2020_internal_paper2_nov_q3.5.3",
+        "chemistry_2020_internal_paper2_nov_q3.6.2",
+        "chemistry_2021_internal_paper2_nov_q2.1.1",
+        "chemistry_2021_internal_paper2_nov_q2.1.4",
+        "chemistry_2021_internal_paper2_nov_q3.1.2",
+        "chemistry_2021_internal_paper2_nov_q3.1.4",
+        "chemistry_2022_internal_paper2_june_q2.6",
+        "chemistry_2022_internal_paper2_june_q2.7",
+        "chemistry_2022_internal_paper2_june_q4.2.1",
+        "chemistry_2022_internal_paper2_june_q4.2.2",
+        "chemistry_2022_internal_paper2_nov_q3.2.3",
+        "chemistry_2023_internal_paper2_july_q2.2",
+        "chemistry_2023_internal_paper2_july_q2.3",
+        "chemistry_2023_internal_paper2_july_q2.4b",
+        "chemistry_2023_internal_paper2_july_q2.4c",
+        "chemistry_2023_internal_paper2_july_q3.2",
+        "chemistry_2023_internal_paper2_july_q3.3",
+        "chemistry_2023_internal_paper2_july_q3.4b",
+        "chemistry_2023_internal_paper2_november_q2.2.7",
+        "chemistry_2024_internal_paper2_november_q1.2.3",
+        "chemistry_2024_internal_paper2_november_q1.2.6",
+        "chemistry_2024_internal_paper2_november_q4.2.2",
+        "chemistry_2025_internal_paper2_july_q2.1.2a",
+        "chemistry_2025_internal_paper2_july_q2.1.2b",
+        "chemistry_2025_internal_paper2_july_q7.3",
+        "chemistry_2025_internal_paper2_july_q8.2.2",
+        "chemistry_2025_internal_paper2_july_q8.2.3",
+        "chemistry_2025_internal_paper2_november_q1.2.3",
+        "chemistry_2025_internal_paper2_november_q4.1.2",
+        "chemistry_2025_internal_paper2_november_q4.2.2",
+        "chemistry_2025_internal_paper2_november_q4.2.5",
+        "chemistry_2025_internal_paper2_november_q4.3.4",
+        "chemistry_2018_internal_paper2_june_q2.1",
+        "chemistry_2018_internal_paper2_june_q2.3.2",
+        "chemistry_2018_internal_paper2_june_q2.3.3",
+        "chemistry_2018_internal_paper2_june_q2.5.1",
+        "chemistry_2019_internal_paper2_june_q2.1.2",
+        "chemistry_2019_internal_paper2_june_q3.4.3",
+        "chemistry_2019_internal_paper2_june_q7.2.1",
+        "chemistry_2020_internal_paper2_nov_q2.2.2",
+        "chemistry_2020_internal_paper2_nov_q2.2.6",
+        "chemistry_2020_internal_paper2_nov_q3.2",
+        "chemistry_2020_internal_paper2_nov_q3.4",
+        "chemistry_2020_internal_paper2_nov_q3.5.2",
+        "chemistry_2020_internal_paper2_nov_q6.2.5",
+        "chemistry_2021_internal_paper2_nov_q2.1.2a",
+        "chemistry_2021_internal_paper2_nov_q2.1.2b",
+        "chemistry_2021_internal_paper2_nov_q2.1.3",
+        "chemistry_2021_internal_paper2_nov_q2.2.2",
+        "chemistry_2021_internal_paper2_nov_q3.1.3",
+        "chemistry_2021_internal_paper2_nov_q3.2.1",
+        "chemistry_2021_internal_paper2_nov_q5.2.1",
+        "chemistry_2022_internal_paper2_june_q2.3",
+        "chemistry_2022_internal_paper2_june_q2.5",
+        "chemistry_2022_internal_paper2_june_q3.2.1",
+        "chemistry_2022_internal_paper2_june_q4.1.2",
+        "chemistry_2022_internal_paper2_june_q4.1.3",
+        "chemistry_2022_internal_paper2_june_q4.2.3",
+        "chemistry_2022_internal_paper2_june_q9.3.5",
+        "chemistry_2022_internal_paper2_nov_q3.2.1",
+        "chemistry_2022_internal_paper2_nov_q3.2.2",
+        "chemistry_2022_internal_paper2_nov_q5.4b",
+        "chemistry_2022_internal_paper2_nov_q5.4c",
+        "chemistry_2023_internal_paper2_july_q2.1",
+        "chemistry_2023_internal_paper2_july_q2.2b",
+        "chemistry_2023_internal_paper2_july_q3.1",
+        "chemistry_2023_internal_paper2_july_q5.1",
+        "chemistry_2023_internal_paper2_november_q2.1.3",
+        "chemistry_2023_internal_paper2_november_q2.1.4",
+        "chemistry_2023_internal_paper2_november_q2.1.5",
+        "chemistry_2023_internal_paper2_november_q2.1.6",
+        "chemistry_2023_internal_paper2_november_q2.1.7",
+        "chemistry_2023_internal_paper2_november_q2.2.6",
+        "chemistry_2023_internal_paper2_november_q8.3",
+        "chemistry_2024_internal_paper2_november_q1.2.2",
+        "chemistry_2024_internal_paper2_november_q1.2.5",
+        "chemistry_2024_internal_paper2_november_q1.3.1",
+        "chemistry_2024_internal_paper2_november_q4.1.1",
+        "chemistry_2024_internal_paper2_november_q4.1.2",
+        "chemistry_2024_internal_paper2_november_q4.1.4",
+        "chemistry_2024_internal_paper2_november_q4.2.1",
+        "chemistry_2024_internal_paper2_november_q4.2.3",
+        "chemistry_2025_internal_paper2_july_q2.1.1",
+        "chemistry_2025_internal_paper2_july_q2.2.1",
+        "chemistry_2025_internal_paper2_july_q4.1.1",
+        "chemistry_2025_internal_paper2_july_q4.1.2",
+        "chemistry_2025_internal_paper2_july_q7.1",
+        "chemistry_2025_internal_paper2_july_q7.2",
+        "chemistry_2025_internal_paper2_july_q7.4",
+        "chemistry_2025_internal_paper2_july_q8.1.1",
+        "chemistry_2025_internal_paper2_july_q8.1.3",
+        "chemistry_2025_internal_paper2_july_q8.1.4",
+        "chemistry_2025_internal_paper2_july_q8.2.1",
+        "chemistry_2025_internal_paper2_july_q8.6.1",
+        "chemistry_2025_internal_paper2_july_q8.6.2",
+        "chemistry_2025_internal_paper2_july_q8.6.3",
+        "chemistry_2025_internal_paper2_november_q1.1.2",
+        "chemistry_2025_internal_paper2_november_q1.1.3",
+        "chemistry_2025_internal_paper2_november_q1.1.5",
+        "chemistry_2025_internal_paper2_november_q1.1.6",
+        "chemistry_2025_internal_paper2_november_q1.2.1",
+        "chemistry_2025_internal_paper2_november_q1.2.2",
+        "chemistry_2025_internal_paper2_november_q3.2.4",
+        "chemistry_2025_internal_paper2_november_q4.1.1",
+        "chemistry_2025_internal_paper2_november_q4.2.3",
+        "chemistry_2025_internal_paper2_november_q4.2.4",
+        "chemistry_2025_internal_paper2_november_q4.3.1",
+        "chemistry_2025_internal_paper2_november_q4.3.2",
+        "chemistry_2025_internal_paper2_november_q4.3.5",
+        "chemistry_2018_internal_paper2_june_q1.5",
+        "chemistry_2019_internal_paper2_june_q1.6",
+        "chemistry_2019_internal_paper2_june_q1.7",
+        "chemistry_2020_internal_paper2_nov_q1.2",
+        "chemistry_2020_internal_paper2_nov_q2.1.2",
+        "chemistry_2020_internal_paper2_nov_q2.1.3",
+        "chemistry_2020_internal_paper2_nov_q2.1.4",
+        "chemistry_2020_internal_paper2_nov_q2.1.5",
+        "chemistry_2021_internal_paper2_nov_q1.2",
+        "chemistry_2021_internal_paper2_nov_q1.3",
+        "chemistry_2021_internal_paper2_nov_q1.5",
+        "chemistry_2022_internal_paper2_june_q1.4",
+        "chemistry_2022_internal_paper2_june_q1.6",
+        "chemistry_2022_internal_paper2_nov_q1.2",
+        "chemistry_2023_internal_paper2_july_q1.3",
+        "chemistry_2023_internal_paper2_july_q1.4",
+        "chemistry_2023_internal_paper2_november_q1.2",
+        "chemistry_2023_internal_paper2_november_q1.5",
+        "chemistry_2023_internal_paper2_november_q1.6",
+        "chemistry_2018_internal_paper2_june_q3.3a",
+        "chemistry_2018_internal_paper2_june_q3.3b",
+        "chemistry_2022_internal_paper2_june_q2.4",
+        "chemistry_2023_internal_paper2_july_q3.4",
+        "chemistry_2025_internal_paper2_november_q1.6"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-006",
+      "name": "Organic chemistry: naming, functional groups, homologous series and isomers",
+      "definition": "The student must apply IUPAC naming, identify functional groups, classify by homologous series and draw/identify structural, positional and chain isomers.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Organic Chemistry"
+      ],
+      "assessment_operations": [
+        "name a compound",
+        "identify a functional group",
+        "classify a homologous series",
+        "draw an isomer"
+      ],
+      "representative_questions": [
+        "CHE-2020-NOV-Q7.3",
+        "CHE-2020-NOV-Q7.4",
+        "CHE-2020-NOV-Q7.5.1",
+        "CHE-2020-NOV-Q8.1",
+        "CHE-2020-NOV-Q8.2",
+        "CHE-2020-NOV-Q8.3"
+      ],
+      "frequency": 137,
+      "source_evidence": [
+        "chemistry_2020_internal_paper2_nov_q7.3",
+        "chemistry_2020_internal_paper2_nov_q7.4",
+        "chemistry_2020_internal_paper2_nov_q7.5.1",
+        "chemistry_2020_internal_paper2_nov_q8.1",
+        "chemistry_2020_internal_paper2_nov_q8.2",
+        "chemistry_2020_internal_paper2_nov_q8.3",
+        "chemistry_2020_internal_paper2_nov_q8.5",
+        "chemistry_2020_internal_paper2_nov_q8.7",
+        "chemistry_2020_internal_paper2_nov_q8.8",
+        "chemistry_2020_internal_paper2_nov_q9.2.1",
+        "chemistry_2020_internal_paper2_nov_q9.2.2",
+        "chemistry_2020_internal_paper2_nov_q9.4",
+        "chemistry_2020_internal_paper2_nov_q9.5.1",
+        "chemistry_2020_internal_paper2_nov_q9.5.2",
+        "chemistry_2020_internal_paper2_nov_q9.7.1",
+        "chemistry_2020_internal_paper2_nov_q9.7.2",
+        "chemistry_2020_internal_paper2_nov_q9.7.4",
+        "chemistry_2020_internal_paper2_nov_q9.8.1",
+        "chemistry_2020_internal_paper2_nov_q9.8.2",
+        "chemistry_2021_internal_paper2_nov_q8.1",
+        "chemistry_2021_internal_paper2_nov_q8.2.2",
+        "chemistry_2021_internal_paper2_nov_q8.3.2",
+        "chemistry_2021_internal_paper2_nov_q8.4.2",
+        "chemistry_2021_internal_paper2_nov_q8.6",
+        "chemistry_2021_internal_paper2_nov_q8.7",
+        "chemistry_2021_internal_paper2_nov_q9.1.1",
+        "chemistry_2021_internal_paper2_nov_q9.1.2",
+        "chemistry_2021_internal_paper2_nov_q9.3.1",
+        "chemistry_2021_internal_paper2_nov_q9.3.2",
+        "chemistry_2021_internal_paper2_nov_q9.4",
+        "chemistry_2021_internal_paper2_nov_q9.5.1",
+        "chemistry_2021_internal_paper2_nov_q9.5.2",
+        "chemistry_2021_internal_paper2_nov_q9.6.1",
+        "chemistry_2021_internal_paper2_nov_q9.6.3",
+        "chemistry_2021_internal_paper2_nov_q9.6.4",
+        "chemistry_2021_internal_paper2_nov_q9.7.1",
+        "chemistry_2022_internal_paper2_nov_q7.2",
+        "chemistry_2022_internal_paper2_nov_q7.3",
+        "chemistry_2022_internal_paper2_nov_q7.5",
+        "chemistry_2022_internal_paper2_nov_q7.6",
+        "chemistry_2022_internal_paper2_nov_q7.9a",
+        "chemistry_2022_internal_paper2_nov_q7.9b",
+        "chemistry_2022_internal_paper2_nov_q8.1",
+        "chemistry_2022_internal_paper2_nov_q8.3",
+        "chemistry_2022_internal_paper2_nov_q8.4a",
+        "chemistry_2022_internal_paper2_nov_q8.4b",
+        "chemistry_2022_internal_paper2_nov_q8.5",
+        "chemistry_2022_internal_paper2_nov_q8.6",
+        "chemistry_2022_internal_paper2_nov_q8.7",
+        "chemistry_2022_internal_paper2_nov_q9.1a",
+        "chemistry_2022_internal_paper2_nov_q9.1c",
+        "chemistry_2022_internal_paper2_nov_q9.1d",
+        "chemistry_2022_internal_paper2_nov_q9.1e",
+        "chemistry_2022_internal_paper2_nov_q9.1f",
+        "chemistry_2022_internal_paper2_nov_q9.2a",
+        "chemistry_2023_internal_paper2_november_q4.1",
+        "chemistry_2023_internal_paper2_november_q4.2",
+        "chemistry_2023_internal_paper2_november_q4.3",
+        "chemistry_2023_internal_paper2_november_q4.5",
+        "chemistry_2023_internal_paper2_november_q5.2",
+        "chemistry_2023_internal_paper2_november_q5.3",
+        "chemistry_2023_internal_paper2_november_q5.4",
+        "chemistry_2023_internal_paper2_november_q5.5.1",
+        "chemistry_2023_internal_paper2_november_q5.5.2",
+        "chemistry_2023_internal_paper2_november_q5.5.3",
+        "chemistry_2023_internal_paper2_november_q5.6",
+        "chemistry_2023_internal_paper2_november_q5.7",
+        "chemistry_2023_internal_paper2_november_q5.9",
+        "chemistry_2024_internal_paper2_november_q6.2",
+        "chemistry_2024_internal_paper2_november_q6.4.1",
+        "chemistry_2024_internal_paper2_november_q6.5.1",
+        "chemistry_2024_internal_paper2_november_q6.5.2",
+        "chemistry_2024_internal_paper2_november_q6.6",
+        "chemistry_2024_internal_paper2_november_q6.7.1",
+        "chemistry_2024_internal_paper2_november_q6.7.2",
+        "chemistry_2024_internal_paper2_november_q6.8.2",
+        "chemistry_2024_internal_paper2_november_q6.9.1",
+        "chemistry_2024_internal_paper2_november_q6.9.2",
+        "chemistry_2024_internal_paper2_november_q6.9.4",
+        "chemistry_2024_internal_paper2_november_q6.10",
+        "chemistry_2024_internal_paper2_november_q6.11.1",
+        "chemistry_2024_internal_paper2_november_q6.12.1",
+        "chemistry_2025_internal_paper2_november_q5.2",
+        "chemistry_2025_internal_paper2_november_q5.3",
+        "chemistry_2025_internal_paper2_november_q5.6",
+        "chemistry_2025_internal_paper2_november_q5.7",
+        "chemistry_2025_internal_paper2_november_q5.8",
+        "chemistry_2025_internal_paper2_november_q6.6.3",
+        "chemistry_2020_internal_paper2_nov_q7.2",
+        "chemistry_2020_internal_paper2_nov_q8.4",
+        "chemistry_2020_internal_paper2_nov_q9.3",
+        "chemistry_2020_internal_paper2_nov_q9.7.3",
+        "chemistry_2021_internal_paper2_nov_q8.4.1",
+        "chemistry_2021_internal_paper2_nov_q9.6.2",
+        "chemistry_2022_internal_paper2_nov_q7.4",
+        "chemistry_2022_internal_paper2_nov_q7.8",
+        "chemistry_2022_internal_paper2_nov_q9.1g",
+        "chemistry_2023_internal_paper2_november_q4.4",
+        "chemistry_2023_internal_paper2_november_q4.7",
+        "chemistry_2023_internal_paper2_november_q5.8",
+        "chemistry_2024_internal_paper2_november_q5.2",
+        "chemistry_2024_internal_paper2_november_q5.3.2",
+        "chemistry_2024_internal_paper2_november_q6.4.2",
+        "chemistry_2024_internal_paper2_november_q6.8.1",
+        "chemistry_2024_internal_paper2_november_q6.9.3",
+        "chemistry_2025_internal_paper2_november_q5.4",
+        "chemistry_2025_internal_paper2_november_q5.5",
+        "chemistry_2025_internal_paper2_november_q6.6.2",
+        "chemistry_2020_internal_paper2_nov_q1.7",
+        "chemistry_2020_internal_paper2_nov_q1.8",
+        "chemistry_2020_internal_paper2_nov_q1.9",
+        "chemistry_2020_internal_paper2_nov_q1.10",
+        "chemistry_2021_internal_paper2_nov_q1.9",
+        "chemistry_2021_internal_paper2_nov_q1.10",
+        "chemistry_2022_internal_paper2_nov_q1.8",
+        "chemistry_2022_internal_paper2_nov_q1.9",
+        "chemistry_2022_internal_paper2_nov_q1.10",
+        "chemistry_2023_internal_paper2_november_q1.8",
+        "chemistry_2023_internal_paper2_november_q1.9",
+        "chemistry_2023_internal_paper2_november_q1.10",
+        "chemistry_2020_internal_paper2_nov_q7.5.2",
+        "chemistry_2020_internal_paper2_nov_q9.1",
+        "chemistry_2021_internal_paper2_nov_q8.2.3",
+        "chemistry_2021_internal_paper2_nov_q9.7.3",
+        "chemistry_2022_internal_paper2_nov_q7.7",
+        "chemistry_2022_internal_paper2_nov_q8.8",
+        "chemistry_2022_internal_paper2_nov_q9.2b",
+        "chemistry_2022_internal_paper2_nov_q9.2c",
+        "chemistry_2022_internal_paper2_nov_q9.2d",
+        "chemistry_2024_internal_paper2_november_q5.1",
+        "chemistry_2024_internal_paper2_november_q6.11.2",
+        "chemistry_2024_internal_paper2_november_q6.12.2",
+        "chemistry_2020_internal_paper2_nov_q9.6",
+        "chemistry_2021_internal_paper2_nov_q9.2",
+        "chemistry_2022_internal_paper2_nov_q9.1h",
+        "chemistry_2022_internal_paper2_nov_q9.2e",
+        "chemistry_2023_internal_paper2_november_q4.9"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-007",
+      "name": "Explain physical properties through intermolecular forces",
+      "definition": "Given substances, the student identifies the intermolecular forces present and accounts for a property difference (boiling point, viscosity, solubility) by comparing force strengths.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Intermolecular Forces"
+      ],
+      "assessment_operations": [
+        "identify IMF",
+        "compare IMF strength",
+        "explain a property difference"
+      ],
+      "representative_questions": [
+        "CHE-2018-JUL-Q2.4.2",
+        "CHE-2019-AUG-Q3.2",
+        "CHE-2021-NOV-Q2.2.4",
+        "CHE-2021-NOV-Q2.2.7",
+        "CHE-2022-JUN-Q2.9",
+        "CHE-2022-JUN-Q3.1.1"
+      ],
+      "frequency": 50,
+      "source_evidence": [
+        "chemistry_2018_internal_paper2_june_q2.4.2",
+        "chemistry_2019_internal_paper2_june_q3.2",
+        "chemistry_2021_internal_paper2_nov_q2.2.4",
+        "chemistry_2021_internal_paper2_nov_q2.2.7",
+        "chemistry_2022_internal_paper2_june_q2.9",
+        "chemistry_2022_internal_paper2_june_q3.1.1",
+        "chemistry_2022_internal_paper2_june_q3.1.2",
+        "chemistry_2022_internal_paper2_nov_q3.1.1",
+        "chemistry_2022_internal_paper2_nov_q3.1.2",
+        "chemistry_2023_internal_paper2_july_q3.5b",
+        "chemistry_2023_internal_paper2_july_q3.6",
+        "chemistry_2023_internal_paper2_november_q2.5",
+        "chemistry_2023_internal_paper2_november_q4.8",
+        "chemistry_2024_internal_paper2_november_q1.2.4",
+        "chemistry_2024_internal_paper2_november_q5.4",
+        "chemistry_2025_internal_paper2_july_q1.1.1",
+        "chemistry_2025_internal_paper2_july_q1.1.2",
+        "chemistry_2025_internal_paper2_july_q1.1.4",
+        "chemistry_2025_internal_paper2_july_q2.2.2",
+        "chemistry_2025_internal_paper2_july_q2.2.3",
+        "chemistry_2025_internal_paper2_november_q1.7",
+        "chemistry_2025_internal_paper2_november_q1.8",
+        "chemistry_2025_internal_paper2_november_q5.9",
+        "chemistry_2019_internal_paper2_june_q2.2.2",
+        "chemistry_2019_internal_paper2_june_q3.3",
+        "chemistry_2019_internal_paper2_june_q3.4.1",
+        "chemistry_2020_internal_paper2_nov_q2.2.5",
+        "chemistry_2021_internal_paper2_nov_q2.2.3",
+        "chemistry_2022_internal_paper2_june_q2.8",
+        "chemistry_2022_internal_paper2_nov_q3.1.3",
+        "chemistry_2023_internal_paper2_july_q3.4a",
+        "chemistry_2023_internal_paper2_july_q3.5",
+        "chemistry_2023_internal_paper2_november_q2.1.1",
+        "chemistry_2023_internal_paper2_november_q2.1.2",
+        "chemistry_2023_internal_paper2_november_q2.4",
+        "chemistry_2025_internal_paper2_july_q1.1.3",
+        "chemistry_2025_internal_paper2_november_q1.1.1",
+        "chemistry_2025_internal_paper2_november_q1.1.4",
+        "chemistry_2025_internal_paper2_november_q1.1.7",
+        "chemistry_2025_internal_paper2_november_q6.1",
+        "chemistry_2025_internal_paper2_november_q6.2",
+        "chemistry_2019_internal_paper2_june_q3.4.2",
+        "chemistry_2023_internal_paper2_july_q3.4c",
+        "chemistry_2024_internal_paper2_november_q1.1",
+        "chemistry_2025_internal_paper2_july_q1.1.5",
+        "chemistry_2025_internal_paper2_november_q6.3",
+        "chemistry_2020_internal_paper2_nov_q2.1.1",
+        "chemistry_2022_internal_paper2_nov_q1.4",
+        "chemistry_2023_internal_paper2_november_q1.4",
+        "chemistry_2025_internal_paper2_november_q6.4"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-008",
+      "name": "Reaction-rate explanation via collision theory, Maxwell-Boltzmann and catalysts",
+      "definition": "The student explains how a change affects rate via collision theory, interprets or draws a Maxwell-Boltzmann distribution and labels activation energy, and states catalyst action.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Reaction Rates"
+      ],
+      "assessment_operations": [
+        "apply collision theory",
+        "interpret/draw a Maxwell-Boltzmann curve",
+        "state catalyst effect"
+      ],
+      "representative_questions": [
+        "CHE-2018-JUL-Q6.6",
+        "CHE-2018-JUL-Q6.7",
+        "CHE-2018-JUL-Q6.9",
+        "CHE-2019-AUG-Q5.2",
+        "CHE-2019-AUG-Q5.5.2",
+        "CHE-2019-AUG-Q5.5.3"
+      ],
+      "frequency": 100,
+      "source_evidence": [
+        "chemistry_2018_internal_paper2_june_q6.6",
+        "chemistry_2018_internal_paper2_june_q6.7",
+        "chemistry_2018_internal_paper2_june_q6.9",
+        "chemistry_2019_internal_paper2_june_q5.2",
+        "chemistry_2019_internal_paper2_june_q5.5.2",
+        "chemistry_2019_internal_paper2_june_q5.5.3",
+        "chemistry_2020_internal_paper2_nov_q5.4",
+        "chemistry_2020_internal_paper2_nov_q5.5",
+        "chemistry_2020_internal_paper2_nov_q5.7",
+        "chemistry_2020_internal_paper2_nov_q5.9",
+        "chemistry_2020_internal_paper2_nov_q5.10",
+        "chemistry_2021_internal_paper2_nov_q4.7",
+        "chemistry_2021_internal_paper2_nov_q7.1",
+        "chemistry_2021_internal_paper2_nov_q7.3",
+        "chemistry_2021_internal_paper2_nov_q7.4",
+        "chemistry_2022_internal_paper2_june_q5.6",
+        "chemistry_2022_internal_paper2_june_q5.7",
+        "chemistry_2022_internal_paper2_june_q5.9",
+        "chemistry_2022_internal_paper2_june_q7.3",
+        "chemistry_2022_internal_paper2_june_q7.5",
+        "chemistry_2022_internal_paper2_nov_q5.2c",
+        "chemistry_2022_internal_paper2_nov_q5.3a",
+        "chemistry_2022_internal_paper2_nov_q5.3b",
+        "chemistry_2023_internal_paper2_july_q4.5a",
+        "chemistry_2023_internal_paper2_july_q4.5b",
+        "chemistry_2023_internal_paper2_july_q4.6g",
+        "chemistry_2023_internal_paper2_july_q6.2b",
+        "chemistry_2023_internal_paper2_july_q6.3a",
+        "chemistry_2023_internal_paper2_november_q3.2",
+        "chemistry_2023_internal_paper2_november_q3.9",
+        "chemistry_2024_internal_paper2_november_q2.2",
+        "chemistry_2024_internal_paper2_november_q2.3",
+        "chemistry_2024_internal_paper2_november_q2.10",
+        "chemistry_2024_internal_paper2_november_q2.11",
+        "chemistry_2025_internal_paper2_july_q5.2.3b",
+        "chemistry_2025_internal_paper2_july_q5.2.4",
+        "chemistry_2025_internal_paper2_july_q6.3.1",
+        "chemistry_2025_internal_paper2_july_q6.3.2",
+        "chemistry_2025_internal_paper2_july_q6.5",
+        "chemistry_2025_internal_paper2_november_q2.5",
+        "chemistry_2025_internal_paper2_november_q2.6",
+        "chemistry_2025_internal_paper2_november_q2.11",
+        "chemistry_2018_internal_paper2_june_q6.8",
+        "chemistry_2019_internal_paper2_june_q4.3.4",
+        "chemistry_2019_internal_paper2_june_q5.5.6",
+        "chemistry_2020_internal_paper2_nov_q5.8",
+        "chemistry_2021_internal_paper2_nov_q7.6a",
+        "chemistry_2021_internal_paper2_nov_q7.6b",
+        "chemistry_2022_internal_paper2_june_q5.8",
+        "chemistry_2022_internal_paper2_nov_q5.2b",
+        "chemistry_2022_internal_paper2_nov_q6.4b",
+        "chemistry_2023_internal_paper2_july_q4.6a",
+        "chemistry_2023_internal_paper2_july_q4.6b",
+        "chemistry_2023_internal_paper2_july_q4.6c",
+        "chemistry_2023_internal_paper2_july_q4.6f",
+        "chemistry_2023_internal_paper2_july_q6.1c",
+        "chemistry_2023_internal_paper2_july_q6.2a",
+        "chemistry_2023_internal_paper2_november_q3.10",
+        "chemistry_2024_internal_paper2_november_q2.4",
+        "chemistry_2024_internal_paper2_november_q2.7",
+        "chemistry_2024_internal_paper2_november_q2.9",
+        "chemistry_2025_internal_paper2_july_q5.2.2",
+        "chemistry_2025_internal_paper2_july_q6.4",
+        "chemistry_2025_internal_paper2_november_q2.8",
+        "chemistry_2025_internal_paper2_november_q2.10",
+        "chemistry_2019_internal_paper2_june_q5.3",
+        "chemistry_2019_internal_paper2_june_q5.4",
+        "chemistry_2020_internal_paper2_nov_q5.2",
+        "chemistry_2020_internal_paper2_nov_q5.3.1",
+        "chemistry_2020_internal_paper2_nov_q5.3.2",
+        "chemistry_2020_internal_paper2_nov_q5.3.3",
+        "chemistry_2022_internal_paper2_june_q5.2",
+        "chemistry_2022_internal_paper2_june_q7.4",
+        "chemistry_2023_internal_paper2_july_q4.5c",
+        "chemistry_2023_internal_paper2_july_q4.5d",
+        "chemistry_2023_internal_paper2_july_q6.1b",
+        "chemistry_2023_internal_paper2_july_q6.3b",
+        "chemistry_2023_internal_paper2_november_q3.3",
+        "chemistry_2025_internal_paper2_july_q5.2.3",
+        "chemistry_2025_internal_paper2_november_q2.2",
+        "chemistry_2018_internal_paper2_june_q1.1",
+        "chemistry_2018_internal_paper2_june_q1.2",
+        "chemistry_2018_internal_paper2_june_q1.4",
+        "chemistry_2019_internal_paper2_june_q1.5",
+        "chemistry_2019_internal_paper2_june_q1.9",
+        "chemistry_2020_internal_paper2_nov_q1.3",
+        "chemistry_2020_internal_paper2_nov_q1.4",
+        "chemistry_2021_internal_paper2_nov_q1.7",
+        "chemistry_2021_internal_paper2_nov_q1.8",
+        "chemistry_2022_internal_paper2_june_q1.5",
+        "chemistry_2023_internal_paper2_july_q1.7",
+        "chemistry_2023_internal_paper2_november_q1.7",
+        "chemistry_2020_internal_paper2_nov_q5.6",
+        "chemistry_2021_internal_paper2_nov_q7.5",
+        "chemistry_2022_internal_paper2_june_q7.2",
+        "chemistry_2022_internal_paper2_nov_q5.2a",
+        "chemistry_2023_internal_paper2_july_q6.1a",
+        "chemistry_2023_internal_paper2_november_q3.5",
+        "chemistry_2025_internal_paper2_july_q6.2",
+        "chemistry_2025_internal_paper2_november_q2.7"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-009",
+      "name": "Energy & Chemical Change: energy-profile interpretation and thermochemistry explanation",
+      "definition": "Items that sketch or interpret an energy-profile diagram (reactants, products, EA, dH, activated complex) and explain heat of reaction and the catalyst effect.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Energy & Chemical Change"
+      ],
+      "assessment_operations": [
+        "sketch an energy profile",
+        "label EA / dH / activated complex",
+        "state catalyst effect on dH"
+      ],
+      "representative_questions": [
+        "CHE-2018-JUL-Q3.5.2",
+        "CHE-2018-JUL-Q3.5.4",
+        "CHE-2019-AUG-Q4.2.2",
+        "CHE-2019-AUG-Q4.2.3",
+        "CHE-2019-AUG-Q4.3.2",
+        "CHE-2020-NOV-Q4.2.1"
+      ],
+      "frequency": 28,
+      "source_evidence": [
+        "chemistry_2018_internal_paper2_june_q3.5.2",
+        "chemistry_2018_internal_paper2_june_q3.5.4",
+        "chemistry_2019_internal_paper2_june_q4.2.2",
+        "chemistry_2019_internal_paper2_june_q4.2.3",
+        "chemistry_2019_internal_paper2_june_q4.3.2",
+        "chemistry_2020_internal_paper2_nov_q4.2.1",
+        "chemistry_2020_internal_paper2_nov_q4.2.2",
+        "chemistry_2020_internal_paper2_nov_q4.5",
+        "chemistry_2021_internal_paper2_nov_q4.2",
+        "chemistry_2022_internal_paper2_june_q6.2",
+        "chemistry_2022_internal_paper2_nov_q4.2g",
+        "chemistry_2022_internal_paper2_nov_q4.2x",
+        "chemistry_2022_internal_paper2_nov_q4.2e",
+        "chemistry_2022_internal_paper2_nov_q4.2c",
+        "chemistry_2023_internal_paper2_november_q3.7",
+        "chemistry_2025_internal_paper2_july_q5.1",
+        "chemistry_2018_internal_paper2_june_q3.5.8",
+        "chemistry_2019_internal_paper2_june_q4.3.3",
+        "chemistry_2020_internal_paper2_nov_q4.4",
+        "chemistry_2020_internal_paper2_nov_q4.6",
+        "chemistry_2021_internal_paper2_nov_q4.3",
+        "chemistry_2021_internal_paper2_nov_q4.5",
+        "chemistry_2021_internal_paper2_nov_q4.6.3",
+        "chemistry_2022_internal_paper2_june_q6.6",
+        "chemistry_2022_internal_paper2_june_q6.7",
+        "chemistry_2022_internal_paper2_nov_q4.2b",
+        "chemistry_2023_internal_paper2_november_q3.6",
+        "chemistry_2023_internal_paper2_november_q3.8"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-010",
+      "name": "Energy & Chemical Change: definitions and applied thermochemistry",
+      "definition": "Definitions of enthalpy/heat terms and their applied use in calculating and reasoning about heat change, standard solutions of heat, and related multiple-choice items.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Energy & Chemical Change"
+      ],
+      "assessment_operations": [
+        "define a heat term",
+        "calculate heat change",
+        "select the correct thermochemistry option"
+      ],
+      "representative_questions": [
+        "CHE-2018-JUL-Q3.5.6",
+        "CHE-2018-JUL-Q3.5.7",
+        "CHE-2020-NOV-Q4.3.1",
+        "CHE-2020-NOV-Q4.3.2",
+        "CHE-2020-NOV-Q4.3.3",
+        "CHE-2021-NOV-Q4.1"
+      ],
+      "frequency": 24,
+      "source_evidence": [
+        "chemistry_2018_internal_paper2_june_q3.5.6",
+        "chemistry_2018_internal_paper2_june_q3.5.7",
+        "chemistry_2020_internal_paper2_nov_q4.3.1",
+        "chemistry_2020_internal_paper2_nov_q4.3.2",
+        "chemistry_2020_internal_paper2_nov_q4.3.3",
+        "chemistry_2021_internal_paper2_nov_q4.1",
+        "chemistry_2021_internal_paper2_nov_q4.4",
+        "chemistry_2021_internal_paper2_nov_q4.6.2",
+        "chemistry_2022_internal_paper2_june_q6.3",
+        "chemistry_2022_internal_paper2_nov_q4.2a",
+        "chemistry_2022_internal_paper2_nov_q6.1b",
+        "chemistry_2022_internal_paper2_nov_q6.1c",
+        "chemistry_2022_internal_paper2_nov_q6.1d",
+        "chemistry_2022_internal_paper2_nov_q6.1e",
+        "chemistry_2023_internal_paper2_july_q4.3",
+        "chemistry_2023_internal_paper2_july_q4.4",
+        "chemistry_2025_internal_paper2_november_q2.3",
+        "chemistry_2025_internal_paper2_november_q2.4",
+        "chemistry_2019_internal_paper2_june_q1.8",
+        "chemistry_2021_internal_paper2_nov_q1.4",
+        "chemistry_2022_internal_paper2_nov_q1.5",
+        "chemistry_2023_internal_paper2_july_q1.6",
+        "chemistry_2022_internal_paper2_june_q6.4",
+        "chemistry_2022_internal_paper2_nov_q4.2"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-CHEM-011",
+      "name": "Matter & Materials, Scientific Skills and Atomic Structure",
+      "definition": "The residual chemistry-adjacent items: matter classification, scientific-skills graph/table reading and the occasional atomic-structure multiple-choice item.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topics": [
+        "Atomic Structure",
+        "Matter & Materials",
+        "Scientific Skills"
+      ],
+      "assessment_operations": [
+        "classify matter",
+        "read a graph/table",
+        "apply atomic-structure facts"
+      ],
+      "representative_questions": [
+        "CHE-2018-JUL-Q1.6",
+        "CHE-2019-AUG-Q1.1",
+        "CHE-2019-AUG-Q1.2",
+        "CHE-2020-NOV-Q1.1",
+        "CHE-2021-NOV-Q1.1",
+        "CHE-2022-JUN-Q1.1"
+      ],
+      "frequency": 36,
+      "source_evidence": [
+        "chemistry_2018_internal_paper2_june_q1.6",
+        "chemistry_2019_internal_paper2_june_q1.1",
+        "chemistry_2019_internal_paper2_june_q1.2",
+        "chemistry_2020_internal_paper2_nov_q1.1",
+        "chemistry_2021_internal_paper2_nov_q1.1",
+        "chemistry_2022_internal_paper2_june_q1.1",
+        "chemistry_2022_internal_paper2_june_q1.2",
+        "chemistry_2022_internal_paper2_nov_q1.1",
+        "chemistry_2022_internal_paper2_nov_q1.7",
+        "chemistry_2023_internal_paper2_july_q1.1",
+        "chemistry_2023_internal_paper2_july_q1.2",
+        "chemistry_2023_internal_paper2_july_q1.8",
+        "chemistry_2023_internal_paper2_november_q1.1",
+        "chemistry_2019_internal_paper2_june_q2.1.3",
+        "chemistry_2019_internal_paper2_june_q2.1.4",
+        "chemistry_2018_internal_paper2_june_q6.4.1",
+        "chemistry_2018_internal_paper2_june_q6.4.2",
+        "chemistry_2018_internal_paper2_june_q6.4.3",
+        "chemistry_2018_internal_paper2_june_q6.4.4",
+        "chemistry_2022_internal_paper2_june_q5.4.1",
+        "chemistry_2022_internal_paper2_june_q5.4.2",
+        "chemistry_2022_internal_paper2_june_q5.4.3",
+        "chemistry_2022_internal_paper2_june_q5.4.4",
+        "chemistry_2018_internal_paper2_june_q6.2",
+        "chemistry_2024_internal_paper2_november_q2.5",
+        "chemistry_2025_internal_paper2_july_q4.2.5",
+        "chemistry_2025_internal_paper2_november_q6.5.1",
+        "chemistry_2018_internal_paper2_june_q6.3",
+        "chemistry_2019_internal_paper2_june_q5.6",
+        "chemistry_2022_internal_paper2_june_q5.3",
+        "chemistry_2025_internal_paper2_november_q6.5.2",
+        "chemistry_2018_internal_paper2_june_q6.5",
+        "chemistry_2022_internal_paper2_june_q5.5",
+        "chemistry_2018_internal_paper2_june_q6.1",
+        "chemistry_2019_internal_paper2_june_q5.5.5",
+        "chemistry_2022_internal_paper2_june_q1.3"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    }
+  ],
+  "understanding_models": [
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-001",
+      "definition": "Can reproduce a chemistry definition in the separately-ticked elements the memo rewards, not merely a synonym, and can place the term in the right topic.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Bonding & Definitions",
+      "question_family": "QUESTION-FAMILY-CHEM-001",
+      "assessment_operations": [
+        "recall a definition",
+        "state a law",
+        "explain a term"
+      ],
+      "required_knowledge": [
+        "the wording the memo splits into elements",
+        "the topic the term belongs to"
+      ],
+      "prerequisites": [
+        "literacy in the chemistry terminology of the grade"
+      ],
+      "required_reasoning": [
+        "map a term to its memo elements",
+        "separate the distinct marks"
+      ],
+      "required_procedure": null,
+      "evidence_of_understanding": [
+        "states every ticked element of the definition",
+        "uses the term in the right context"
+      ],
+      "marking_requirements": [
+        "each definition element is marked separately",
+        "a bare synonym without the required elements loses marks"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-001-01",
+        "BREAKDOWN-CHEM-001-02",
+        "BREAKDOWN-CHEM-001-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-001-1: recites a near-synonym instead of the memo's elements",
+        "M-CHEM-001-2: confuses the definition of a covalent and an ionic bond"
+      ],
+      "diagnostic_dimensions": [
+        "completeness",
+        "topic placement",
+        "no confusion of terms"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-001-01",
+        "DIAG-CHEM-001-02",
+        "DIAG-CHEM-001-03"
+      ],
+      "source_references": [
+        "chemistry_2018_internal_paper2_june_q2.3.1",
+        "chemistry_2019_internal_paper2_june_q2.1.1",
+        "chemistry_2019_internal_paper2_june_q3.4.4",
+        "chemistry_2019_internal_paper2_june_q3.4.5",
+        "chemistry_2020_internal_paper2_nov_q2.2.1",
+        "chemistry_2020_internal_paper2_nov_q3.1",
+        "chemistry_2020_internal_paper2_nov_q3.3",
+        "chemistry_2021_internal_paper2_nov_q2.2.1",
+        "chemistry_2021_internal_paper2_nov_q3.1.1",
+        "chemistry_2022_internal_paper2_june_q2.1",
+        "chemistry_2022_internal_paper2_june_q4.1.1",
+        "chemistry_2022_internal_paper2_nov_q5.4a",
+        "chemistry_2022_internal_paper2_nov_q6.2a",
+        "chemistry_2023_internal_paper2_november_q2.2.1",
+        "chemistry_2023_internal_paper2_november_q2.2.4",
+        "chemistry_2024_internal_paper2_november_q1.2.1",
+        "chemistry_2024_internal_paper2_november_q4.1.3",
+        "chemistry_2025_internal_paper2_november_q1.5",
+        "chemistry_2025_internal_paper2_november_q4.2.1",
+        "chemistry_2025_internal_paper2_november_q4.3.3",
+        "chemistry_2018_internal_paper2_june_q4.2.2",
+        "chemistry_2018_internal_paper2_june_q5.1",
+        "chemistry_2019_internal_paper2_june_q6.1.1",
+        "chemistry_2019_internal_paper2_june_q7.1.1",
+        "chemistry_2020_internal_paper2_nov_q6.2.2",
+        "chemistry_2021_internal_paper2_nov_q5.1.1",
+        "chemistry_2021_internal_paper2_nov_q7.7.2",
+        "chemistry_2022_internal_paper2_june_q8.2",
+        "chemistry_2022_internal_paper2_june_q9.1",
+        "chemistry_2022_internal_paper2_june_q9.3.2",
+        "chemistry_2023_internal_paper2_july_q7.2b",
+        "chemistry_2023_internal_paper2_july_q8.1",
+        "chemistry_2023_internal_paper2_july_q8.2",
+        "chemistry_2023_internal_paper2_november_q6.2",
+        "chemistry_2023_internal_paper2_november_q7.1.1",
+        "chemistry_2023_internal_paper2_november_q8.1",
+        "chemistry_2024_internal_paper2_november_q3.1.2",
+        "chemistry_2025_internal_paper2_july_q3.1.1",
+        "chemistry_2025_internal_paper2_july_q4.2.1",
+        "chemistry_2025_internal_paper2_november_q3.2.2",
+        "chemistry_2019_internal_paper2_june_q5.1",
+        "chemistry_2020_internal_paper2_nov_q5.1",
+        "chemistry_2021_internal_paper2_nov_q7.2",
+        "chemistry_2022_internal_paper2_june_q7.1",
+        "chemistry_2022_internal_paper2_nov_q6.4a",
+        "chemistry_2023_internal_paper2_july_q4.6d",
+        "chemistry_2023_internal_paper2_july_q4.6e",
+        "chemistry_2023_internal_paper2_november_q3.1",
+        "chemistry_2023_internal_paper2_november_q3.4",
+        "chemistry_2024_internal_paper2_november_q2.1",
+        "chemistry_2024_internal_paper2_november_q2.8",
+        "chemistry_2025_internal_paper2_july_q6.1",
+        "chemistry_2025_internal_paper2_november_q2.1",
+        "chemistry_2025_internal_paper2_november_q2.9",
+        "chemistry_2018_internal_paper2_june_q3.5.1",
+        "chemistry_2018_internal_paper2_june_q3.5.3",
+        "chemistry_2018_internal_paper2_june_q3.5.5",
+        "chemistry_2019_internal_paper2_june_q4.2.1",
+        "chemistry_2019_internal_paper2_june_q4.3.1",
+        "chemistry_2019_internal_paper2_june_q5.5.1",
+        "chemistry_2020_internal_paper2_nov_q4.1",
+        "chemistry_2021_internal_paper2_nov_q4.6.1",
+        "chemistry_2022_internal_paper2_june_q5.1",
+        "chemistry_2022_internal_paper2_june_q6.1",
+        "chemistry_2022_internal_paper2_june_q6.5",
+        "chemistry_2022_internal_paper2_nov_q4.1",
+        "chemistry_2022_internal_paper2_nov_q6.1",
+        "chemistry_2023_internal_paper2_july_q4.1",
+        "chemistry_2023_internal_paper2_july_q4.2",
+        "chemistry_2020_internal_paper2_nov_q7.1",
+        "chemistry_2020_internal_paper2_nov_q8.6",
+        "chemistry_2021_internal_paper2_nov_q8.2.1",
+        "chemistry_2021_internal_paper2_nov_q8.3.1",
+        "chemistry_2021_internal_paper2_nov_q8.5",
+        "chemistry_2022_internal_paper2_nov_q7.1",
+        "chemistry_2022_internal_paper2_nov_q8.2",
+        "chemistry_2022_internal_paper2_nov_q9.1b",
+        "chemistry_2023_internal_paper2_november_q4.6",
+        "chemistry_2023_internal_paper2_november_q5.1",
+        "chemistry_2024_internal_paper2_november_q5.3.1",
+        "chemistry_2024_internal_paper2_november_q6.1",
+        "chemistry_2024_internal_paper2_november_q6.3",
+        "chemistry_2025_internal_paper2_november_q5.1",
+        "chemistry_2025_internal_paper2_november_q6.6.1",
+        "chemistry_2019_internal_paper2_june_q2.2.1",
+        "chemistry_2020_internal_paper2_nov_q2.2.4"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-001 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-001 (question family, Tier 2)",
+        "86 question records across 11 papers: CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV",
+        "marking memoranda: G11 - Chemistry - Examination - MG2 - 2025.pdf, G11 - Chemistry - Nov Examination - MG  - 2024.pdf, G11 Nov Chem Exam MG.pdf, G11- Mid-Year Examination - MG. - 2023.pdf, Gr 11 July exam chemistry 2018 MG .pdf, Gr 11 chemistry July 2025 MG.pdf, Gr11-Chemistry-June_Exam-MG-2022.pdf, Grade 11 Paper 2  July MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 - Chemistry Exam Nov 2023 - MG.pdf, PS11 Chemistry Nov 2020 Exam MG.pdf",
+        "source documents: G11 - Chemistry - Examination - QP - 2024(Print).pdf, G11 - Chemistry - Examination - QPV2 - 2025.pdf, G11 Nov Chem Exam QPs.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Gr 11 July exam chemistry 2018.pdf, Gr 11 chemistry July 2025.pdf, Gr11-Chemistry-June_Exam-QP-2022.pdf, Grade 11 Paper 2 July QP.pdf, PS11 - Chemistry Exam Nov 2023 - QP Final(2).pdf, PS11 Chemistry Nov 2020 Exam QP.pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    },
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-002",
+      "definition": "Can select the correct stoichiometric relation and substitute consistently with units, carrying the value through to the final answer.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Stoichiometry",
+      "question_family": "QUESTION-FAMILY-CHEM-002",
+      "assessment_operations": [
+        "select a relation",
+        "substitute",
+        "calculate",
+        "state a value with units"
+      ],
+      "required_knowledge": [
+        "n=m/M, c=n/V, n=cV, V=n.Vm",
+        "molar masses of the species involved",
+        "unit discipline"
+      ],
+      "prerequisites": [
+        "algebraic substitution",
+        "the periodic table"
+      ],
+      "required_reasoning": [
+        "choose the relation that matches the knowns",
+        "keep units through the working"
+      ],
+      "required_procedure": "identify knowns -> select relation -> substitute -> report value with unit",
+      "evidence_of_understanding": [
+        "correct relation chosen",
+        "substitution shown",
+        "unit present and correct"
+      ],
+      "marking_requirements": [
+        "the equation, substitution and answer are often marked separately",
+        "a missing unit is penalised"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-002-01",
+        "BREAKDOWN-CHEM-002-02",
+        "BREAKDOWN-CHEM-002-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-002-1: uses n=m/M with a mass in kg instead of g",
+        "M-CHEM-002-2: omits the unit and loses the mark"
+      ],
+      "diagnostic_dimensions": [
+        "relation selection",
+        "substitution fidelity",
+        "unit reporting"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-002-01",
+        "DIAG-CHEM-002-02",
+        "DIAG-CHEM-002-03"
+      ],
+      "source_references": [
+        "chemistry_2018_internal_paper2_june_q4.2.1",
+        "chemistry_2018_internal_paper2_june_q4.2.3",
+        "chemistry_2018_internal_paper2_june_q4.3.1",
+        "chemistry_2018_internal_paper2_june_q4.3.2",
+        "chemistry_2018_internal_paper2_june_q4.3.3",
+        "chemistry_2018_internal_paper2_june_q4.3.4",
+        "chemistry_2018_internal_paper2_june_q5.4",
+        "chemistry_2018_internal_paper2_june_q5.5",
+        "chemistry_2018_internal_paper2_june_q5.6",
+        "chemistry_2018_internal_paper2_june_q5.7",
+        "chemistry_2019_internal_paper2_june_q2.2.3",
+        "chemistry_2019_internal_paper2_june_q4.1.1",
+        "chemistry_2019_internal_paper2_june_q4.1.2",
+        "chemistry_2019_internal_paper2_june_q4.1.3",
+        "chemistry_2019_internal_paper2_june_q5.5.4",
+        "chemistry_2019_internal_paper2_june_q6.1.2",
+        "chemistry_2019_internal_paper2_june_q6.1.3",
+        "chemistry_2019_internal_paper2_june_q6.1.4",
+        "chemistry_2019_internal_paper2_june_q6.2",
+        "chemistry_2019_internal_paper2_june_q7.1.3",
+        "chemistry_2019_internal_paper2_june_q7.2.2",
+        "chemistry_2019_internal_paper2_june_q7.2.3",
+        "chemistry_2020_internal_paper2_nov_q4.7.1",
+        "chemistry_2020_internal_paper2_nov_q4.7.2",
+        "chemistry_2020_internal_paper2_nov_q6.1.1",
+        "chemistry_2020_internal_paper2_nov_q6.1.2",
+        "chemistry_2020_internal_paper2_nov_q6.1.3",
+        "chemistry_2020_internal_paper2_nov_q6.2.6",
+        "chemistry_2021_internal_paper2_nov_q5.1.2",
+        "chemistry_2021_internal_paper2_nov_q5.2.2",
+        "chemistry_2021_internal_paper2_nov_q6.2.1",
+        "chemistry_2021_internal_paper2_nov_q6.2.2",
+        "chemistry_2021_internal_paper2_nov_q6.2.3",
+        "chemistry_2021_internal_paper2_nov_q6.3",
+        "chemistry_2021_internal_paper2_nov_q7.7.1",
+        "chemistry_2021_internal_paper2_nov_q7.7.3",
+        "chemistry_2022_internal_paper2_june_q8.3",
+        "chemistry_2022_internal_paper2_june_q8.4",
+        "chemistry_2022_internal_paper2_june_q8.5",
+        "chemistry_2022_internal_paper2_june_q9.2",
+        "chemistry_2022_internal_paper2_june_q9.3.6",
+        "chemistry_2022_internal_paper2_june_q10.2.1",
+        "chemistry_2022_internal_paper2_june_q10.2.2",
+        "chemistry_2022_internal_paper2_june_q10.2.3",
+        "chemistry_2022_internal_paper2_june_q10.3",
+        "chemistry_2022_internal_paper2_nov_q2.1",
+        "chemistry_2022_internal_paper2_nov_q2.2",
+        "chemistry_2022_internal_paper2_nov_q2.3",
+        "chemistry_2022_internal_paper2_nov_q2.4",
+        "chemistry_2022_internal_paper2_nov_q5.1a",
+        "chemistry_2022_internal_paper2_nov_q5.1b",
+        "chemistry_2022_internal_paper2_nov_q5.1c",
+        "chemistry_2022_internal_paper2_nov_q5.1d",
+        "chemistry_2022_internal_paper2_nov_q6.3",
+        "chemistry_2023_internal_paper2_july_q5.2",
+        "chemistry_2023_internal_paper2_july_q7.2a",
+        "chemistry_2023_internal_paper2_july_q7.2c",
+        "chemistry_2023_internal_paper2_july_q7.3a",
+        "chemistry_2023_internal_paper2_july_q7.3b",
+        "chemistry_2023_internal_paper2_july_q7.3c",
+        "chemistry_2023_internal_paper2_july_q7.3d",
+        "chemistry_2023_internal_paper2_july_q8.4",
+        "chemistry_2023_internal_paper2_july_q8.5",
+        "chemistry_2023_internal_paper2_july_q8.6",
+        "chemistry_2023_internal_paper2_july_q8.7",
+        "chemistry_2023_internal_paper2_november_q6.3",
+        "chemistry_2023_internal_paper2_november_q6.4",
+        "chemistry_2023_internal_paper2_november_q6.5",
+        "chemistry_2023_internal_paper2_november_q6.6",
+        "chemistry_2023_internal_paper2_november_q7.1.2",
+        "chemistry_2023_internal_paper2_november_q7.1.3",
+        "chemistry_2023_internal_paper2_november_q7.1.4",
+        "chemistry_2023_internal_paper2_november_q7.2",
+        "chemistry_2023_internal_paper2_november_q8.4",
+        "chemistry_2024_internal_paper2_november_q3.1.1",
+        "chemistry_2024_internal_paper2_november_q3.1.3",
+        "chemistry_2024_internal_paper2_november_q3.2.1",
+        "chemistry_2024_internal_paper2_november_q3.2.2",
+        "chemistry_2024_internal_paper2_november_q3.2.3",
+        "chemistry_2024_internal_paper2_november_q3.2.4",
+        "chemistry_2025_internal_paper2_july_q3.1.2",
+        "chemistry_2025_internal_paper2_july_q3.1.3",
+        "chemistry_2025_internal_paper2_july_q3.1.4",
+        "chemistry_2025_internal_paper2_july_q3.2",
+        "chemistry_2025_internal_paper2_july_q4.1.3",
+        "chemistry_2025_internal_paper2_july_q4.2.2",
+        "chemistry_2025_internal_paper2_november_q3.1.1",
+        "chemistry_2025_internal_paper2_november_q3.1.2",
+        "chemistry_2025_internal_paper2_november_q3.1.3",
+        "chemistry_2025_internal_paper2_november_q3.2.5"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-002 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-002 (question family, Tier 2)",
+        "90 question records across 11 papers: CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV",
+        "marking memoranda: G11 - Chemistry - Examination - MG2 - 2025.pdf, G11 - Chemistry - Nov Examination - MG  - 2024.pdf, G11 Nov Chem Exam MG.pdf, G11- Mid-Year Examination - MG. - 2023.pdf, Gr 11 July exam chemistry 2018 MG .pdf, Gr 11 chemistry July 2025 MG.pdf, Gr11-Chemistry-June_Exam-MG-2022.pdf, Grade 11 Paper 2  July MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 - Chemistry Exam Nov 2023 - MG.pdf, PS11 Chemistry Nov 2020 Exam MG.pdf",
+        "source documents: G11 - Chemistry - Examination - QP - 2024(Print).pdf, G11 - Chemistry - Examination - QPV2 - 2025.pdf, G11 Nov Chem Exam QPs.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Gr 11 July exam chemistry 2018.pdf, Gr 11 chemistry July 2025.pdf, Gr11-Chemistry-June_Exam-QP-2022.pdf, Grade 11 Paper 2 July QP.pdf, PS11 - Chemistry Exam Nov 2023 - QP Final(2).pdf, PS11 Chemistry Nov 2020 Exam QP.pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    },
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-003",
+      "definition": "Can name the limiting reagent, state concentration reasoning and choose the correct stoichiometric statement when the item is not a numeric calculation.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Stoichiometry",
+      "question_family": "QUESTION-FAMILY-CHEM-003",
+      "assessment_operations": [
+        "identify the limiting reagent",
+        "state a stoichiometric fact",
+        "select the correct option"
+      ],
+      "required_knowledge": [
+        "limiting-reagent logic",
+        "concentration = n/V",
+        "common stoichiometric distractors"
+      ],
+      "prerequisites": [
+        "mole calculations"
+      ],
+      "required_reasoning": [
+        "compare mole ratios",
+        "relate quantity to concentration"
+      ],
+      "required_procedure": "mass to moles -> ratio comparison -> conclusion",
+      "evidence_of_understanding": [
+        "correctly identifies the limiting reagent",
+        "states concentration with the right relation"
+      ],
+      "marking_requirements": [
+        "the limiting-reagent identification and the statement are separately ticked"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-003-01",
+        "BREAKDOWN-CHEM-003-02",
+        "BREAKDOWN-CHEM-003-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-003-1: picks the reactant with the smaller mass as limiting",
+        "M-CHEM-003-2: confuses moles with mass when reasoning about concentration"
+      ],
+      "diagnostic_dimensions": [
+        "limiting-reagent logic",
+        "concentration reasoning",
+        "option selection"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-003-01",
+        "DIAG-CHEM-003-02",
+        "DIAG-CHEM-003-03"
+      ],
+      "source_references": [
+        "chemistry_2018_internal_paper2_june_q4.1",
+        "chemistry_2018_internal_paper2_june_q5.2",
+        "chemistry_2018_internal_paper2_june_q5.3",
+        "chemistry_2019_internal_paper2_june_q7.1.2",
+        "chemistry_2020_internal_paper2_nov_q6.2.1",
+        "chemistry_2020_internal_paper2_nov_q6.2.3",
+        "chemistry_2020_internal_paper2_nov_q6.2.4",
+        "chemistry_2022_internal_paper2_june_q8.1",
+        "chemistry_2022_internal_paper2_june_q9.3.1",
+        "chemistry_2022_internal_paper2_june_q9.3.3",
+        "chemistry_2022_internal_paper2_june_q9.3.4",
+        "chemistry_2022_internal_paper2_june_q10.1",
+        "chemistry_2022_internal_paper2_nov_q3.2.4",
+        "chemistry_2023_internal_paper2_july_q7.1",
+        "chemistry_2023_internal_paper2_july_q8.3",
+        "chemistry_2023_internal_paper2_november_q6.1",
+        "chemistry_2023_internal_paper2_november_q8.2",
+        "chemistry_2025_internal_paper2_july_q4.2.3",
+        "chemistry_2025_internal_paper2_july_q4.2.4",
+        "chemistry_2025_internal_paper2_november_q3.2.1",
+        "chemistry_2025_internal_paper2_november_q3.2.3",
+        "chemistry_2018_internal_paper2_june_q1.3",
+        "chemistry_2019_internal_paper2_june_q1.3",
+        "chemistry_2019_internal_paper2_june_q1.4",
+        "chemistry_2020_internal_paper2_nov_q1.5",
+        "chemistry_2020_internal_paper2_nov_q1.6",
+        "chemistry_2021_internal_paper2_nov_q1.6",
+        "chemistry_2022_internal_paper2_june_q1.7",
+        "chemistry_2022_internal_paper2_june_q1.8",
+        "chemistry_2022_internal_paper2_nov_q1.3",
+        "chemistry_2022_internal_paper2_nov_q1.6",
+        "chemistry_2023_internal_paper2_july_q1.5",
+        "chemistry_2023_internal_paper2_november_q1.3"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-003 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-003 (question family, Tier 2)",
+        "33 question records across 10 papers: CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2025-JUL, CHE-2025-NOV",
+        "marking memoranda: G11 - Chemistry - Examination - MG2 - 2025.pdf, G11 Nov Chem Exam MG.pdf, G11- Mid-Year Examination - MG. - 2023.pdf, Gr 11 July exam chemistry 2018 MG .pdf, Gr 11 chemistry July 2025 MG.pdf, Gr11-Chemistry-June_Exam-MG-2022.pdf, Grade 11 Paper 2  July MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 - Chemistry Exam Nov 2023 - MG.pdf, PS11 Chemistry Nov 2020 Exam MG.pdf",
+        "source documents: G11 - Chemistry - Examination - QPV2 - 2025.pdf, G11 Nov Chem Exam QPs.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Gr 11 July exam chemistry 2018.pdf, Gr 11 chemistry July 2025.pdf, Gr11-Chemistry-June_Exam-QP-2022.pdf, Grade 11 Paper 2 July QP.pdf, PS11 - Chemistry Exam Nov 2023 - QP Final(2).pdf, PS11 Chemistry Nov 2020 Exam QP.pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    },
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-004",
+      "definition": "Can draw a Lewis or Couper diagram of a covalent molecule with correct atoms, shared pairs and lone pairs (Lewis) or bond lines and a dative arrow (Couper).",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Bonding",
+      "question_family": "QUESTION-FAMILY-CHEM-004",
+      "assessment_operations": [
+        "draw a Lewis/Couper diagram",
+        "show lone pairs",
+        "label bonds"
+      ],
+      "required_knowledge": [
+        "octet rule",
+        "number of valence electrons",
+        "where the dative arrow sits"
+      ],
+      "prerequisites": [
+        "electron counting"
+      ],
+      "required_reasoning": [
+        "count valence electrons",
+        "place shared and lone pairs",
+        "check atoms are neutral/charged"
+      ],
+      "required_procedure": "count valence e- -> form bonds -> place lone pairs -> verify octets",
+      "evidence_of_understanding": [
+        "correct total electron count",
+        "all bonds and lone pairs shown"
+      ],
+      "marking_requirements": [
+        "lone pairs and shared pairs are each marked",
+        "a missing lone pair loses the mark"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-004-01",
+        "BREAKDOWN-CHEM-004-02",
+        "BREAKDOWN-CHEM-004-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-004-1: omits lone pairs on the central atom",
+        "M-CHEM-004-2: draws an ionic instead of covalent representation"
+      ],
+      "diagnostic_dimensions": [
+        "electron count",
+        "lone pairs",
+        "bond correctness"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-004-01",
+        "DIAG-CHEM-004-02",
+        "DIAG-CHEM-004-03"
+      ],
+      "source_references": [
+        "chemistry_2018_internal_paper2_june_q3.1",
+        "chemistry_2018_internal_paper2_june_q3.2",
+        "chemistry_2019_internal_paper2_june_q3.4.6",
+        "chemistry_2021_internal_paper2_nov_q2.2.5",
+        "chemistry_2021_internal_paper2_nov_q2.2.6",
+        "chemistry_2021_internal_paper2_nov_q3.2.2a",
+        "chemistry_2021_internal_paper2_nov_q3.2.2b",
+        "chemistry_2021_internal_paper2_nov_q3.2.2c",
+        "chemistry_2022_internal_paper2_june_q2.2",
+        "chemistry_2022_internal_paper2_june_q2.10.1",
+        "chemistry_2022_internal_paper2_june_q2.10.2",
+        "chemistry_2022_internal_paper2_june_q3.2.2",
+        "chemistry_2022_internal_paper2_nov_q6.2b",
+        "chemistry_2023_internal_paper2_july_q2.4a",
+        "chemistry_2023_internal_paper2_november_q2.2.2",
+        "chemistry_2023_internal_paper2_november_q2.2.3",
+        "chemistry_2023_internal_paper2_november_q2.2.5",
+        "chemistry_2024_internal_paper2_november_q1.3.2",
+        "chemistry_2025_internal_paper2_july_q8.1.2",
+        "chemistry_2025_internal_paper2_july_q8.7",
+        "chemistry_2025_internal_paper2_november_q1.4"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-004 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-004 (question family, Tier 2)",
+        "21 question records across 10 papers: CHE-2018-JUL, CHE-2019-AUG, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV",
+        "marking memoranda: G11 - Chemistry - Examination - MG2 - 2025.pdf, G11 - Chemistry - Nov Examination - MG  - 2024.pdf, G11 Nov Chem Exam MG.pdf, G11- Mid-Year Examination - MG. - 2023.pdf, Gr 11 July exam chemistry 2018 MG .pdf, Gr 11 chemistry July 2025 MG.pdf, Gr11-Chemistry-June_Exam-MG-2022.pdf, Grade 11 Paper 2  July MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 - Chemistry Exam Nov 2023 - MG.pdf",
+        "source documents: G11 - Chemistry - Examination - QP - 2024(Print).pdf, G11 - Chemistry - Examination - QPV2 - 2025.pdf, G11 Nov Chem Exam QPs.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Gr 11 July exam chemistry 2018.pdf, Gr 11 chemistry July 2025.pdf, Gr11-Chemistry-June_Exam-QP-2022.pdf, Grade 11 Paper 2 July QP.pdf, PS11 - Chemistry Exam Nov 2023 - QP Final(2).pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    },
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-005",
+      "definition": "Can explain bond type, electronegativity, polarity and bond strength, and apply them to properties and structures.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Bonding",
+      "question_family": "QUESTION-FAMILY-CHEM-005",
+      "assessment_operations": [
+        "explain a bond",
+        "apply electronegativity/polarity",
+        "interpret a structure"
+      ],
+      "required_knowledge": [
+        "bond-type continuum",
+        "electronegativity trends",
+        "polarity from EN difference"
+      ],
+      "prerequisites": [
+        "the periodic table",
+        "atomic structure"
+      ],
+      "required_reasoning": [
+        "rank EN",
+        "decide bond polarity",
+        "link to a property"
+      ],
+      "required_procedure": "identify bond -> EN difference -> polarity -> consequence",
+      "evidence_of_understanding": [
+        "correct bond classification",
+        "correct polarity and its effect"
+      ],
+      "marking_requirements": [
+        "bond type, EN reasoning and the property link are separately ticked"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-005-01",
+        "BREAKDOWN-CHEM-005-02",
+        "BREAKDOWN-CHEM-005-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-005-1: claims all bonds with non-metals are non-polar",
+        "M-CHEM-005-2: confuses bond polarity with intermolecular forces"
+      ],
+      "diagnostic_dimensions": [
+        "bond classification",
+        "EN/polarity",
+        "property link"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-005-01",
+        "DIAG-CHEM-005-02",
+        "DIAG-CHEM-005-03"
+      ],
+      "source_references": [
+        "chemistry_2018_internal_paper2_june_q2.2",
+        "chemistry_2018_internal_paper2_june_q2.4.1",
+        "chemistry_2018_internal_paper2_june_q2.5.2",
+        "chemistry_2018_internal_paper2_june_q3.4",
+        "chemistry_2019_internal_paper2_june_q2.1.5",
+        "chemistry_2019_internal_paper2_june_q3.1",
+        "chemistry_2020_internal_paper2_nov_q2.2.3",
+        "chemistry_2020_internal_paper2_nov_q3.5.1",
+        "chemistry_2020_internal_paper2_nov_q3.5.3",
+        "chemistry_2020_internal_paper2_nov_q3.6.2",
+        "chemistry_2021_internal_paper2_nov_q2.1.1",
+        "chemistry_2021_internal_paper2_nov_q2.1.4",
+        "chemistry_2021_internal_paper2_nov_q3.1.2",
+        "chemistry_2021_internal_paper2_nov_q3.1.4",
+        "chemistry_2022_internal_paper2_june_q2.6",
+        "chemistry_2022_internal_paper2_june_q2.7",
+        "chemistry_2022_internal_paper2_june_q4.2.1",
+        "chemistry_2022_internal_paper2_june_q4.2.2",
+        "chemistry_2022_internal_paper2_nov_q3.2.3",
+        "chemistry_2023_internal_paper2_july_q2.2",
+        "chemistry_2023_internal_paper2_july_q2.3",
+        "chemistry_2023_internal_paper2_july_q2.4b",
+        "chemistry_2023_internal_paper2_july_q2.4c",
+        "chemistry_2023_internal_paper2_july_q3.2",
+        "chemistry_2023_internal_paper2_july_q3.3",
+        "chemistry_2023_internal_paper2_july_q3.4b",
+        "chemistry_2023_internal_paper2_november_q2.2.7",
+        "chemistry_2024_internal_paper2_november_q1.2.3",
+        "chemistry_2024_internal_paper2_november_q1.2.6",
+        "chemistry_2024_internal_paper2_november_q4.2.2",
+        "chemistry_2025_internal_paper2_july_q2.1.2a",
+        "chemistry_2025_internal_paper2_july_q2.1.2b",
+        "chemistry_2025_internal_paper2_july_q7.3",
+        "chemistry_2025_internal_paper2_july_q8.2.2",
+        "chemistry_2025_internal_paper2_july_q8.2.3",
+        "chemistry_2025_internal_paper2_november_q1.2.3",
+        "chemistry_2025_internal_paper2_november_q4.1.2",
+        "chemistry_2025_internal_paper2_november_q4.2.2",
+        "chemistry_2025_internal_paper2_november_q4.2.5",
+        "chemistry_2025_internal_paper2_november_q4.3.4",
+        "chemistry_2018_internal_paper2_june_q2.1",
+        "chemistry_2018_internal_paper2_june_q2.3.2",
+        "chemistry_2018_internal_paper2_june_q2.3.3",
+        "chemistry_2018_internal_paper2_june_q2.5.1",
+        "chemistry_2019_internal_paper2_june_q2.1.2",
+        "chemistry_2019_internal_paper2_june_q3.4.3",
+        "chemistry_2019_internal_paper2_june_q7.2.1",
+        "chemistry_2020_internal_paper2_nov_q2.2.2",
+        "chemistry_2020_internal_paper2_nov_q2.2.6",
+        "chemistry_2020_internal_paper2_nov_q3.2",
+        "chemistry_2020_internal_paper2_nov_q3.4",
+        "chemistry_2020_internal_paper2_nov_q3.5.2",
+        "chemistry_2020_internal_paper2_nov_q6.2.5",
+        "chemistry_2021_internal_paper2_nov_q2.1.2a",
+        "chemistry_2021_internal_paper2_nov_q2.1.2b",
+        "chemistry_2021_internal_paper2_nov_q2.1.3",
+        "chemistry_2021_internal_paper2_nov_q2.2.2",
+        "chemistry_2021_internal_paper2_nov_q3.1.3",
+        "chemistry_2021_internal_paper2_nov_q3.2.1",
+        "chemistry_2021_internal_paper2_nov_q5.2.1",
+        "chemistry_2022_internal_paper2_june_q2.3",
+        "chemistry_2022_internal_paper2_june_q2.5",
+        "chemistry_2022_internal_paper2_june_q3.2.1",
+        "chemistry_2022_internal_paper2_june_q4.1.2",
+        "chemistry_2022_internal_paper2_june_q4.1.3",
+        "chemistry_2022_internal_paper2_june_q4.2.3",
+        "chemistry_2022_internal_paper2_june_q9.3.5",
+        "chemistry_2022_internal_paper2_nov_q3.2.1",
+        "chemistry_2022_internal_paper2_nov_q3.2.2",
+        "chemistry_2022_internal_paper2_nov_q5.4b",
+        "chemistry_2022_internal_paper2_nov_q5.4c",
+        "chemistry_2023_internal_paper2_july_q2.1",
+        "chemistry_2023_internal_paper2_july_q2.2b",
+        "chemistry_2023_internal_paper2_july_q3.1",
+        "chemistry_2023_internal_paper2_july_q5.1",
+        "chemistry_2023_internal_paper2_november_q2.1.3",
+        "chemistry_2023_internal_paper2_november_q2.1.4",
+        "chemistry_2023_internal_paper2_november_q2.1.5",
+        "chemistry_2023_internal_paper2_november_q2.1.6",
+        "chemistry_2023_internal_paper2_november_q2.1.7",
+        "chemistry_2023_internal_paper2_november_q2.2.6",
+        "chemistry_2023_internal_paper2_november_q8.3",
+        "chemistry_2024_internal_paper2_november_q1.2.2",
+        "chemistry_2024_internal_paper2_november_q1.2.5",
+        "chemistry_2024_internal_paper2_november_q1.3.1",
+        "chemistry_2024_internal_paper2_november_q4.1.1",
+        "chemistry_2024_internal_paper2_november_q4.1.2",
+        "chemistry_2024_internal_paper2_november_q4.1.4",
+        "chemistry_2024_internal_paper2_november_q4.2.1",
+        "chemistry_2024_internal_paper2_november_q4.2.3",
+        "chemistry_2025_internal_paper2_july_q2.1.1",
+        "chemistry_2025_internal_paper2_july_q2.2.1",
+        "chemistry_2025_internal_paper2_july_q4.1.1",
+        "chemistry_2025_internal_paper2_july_q4.1.2",
+        "chemistry_2025_internal_paper2_july_q7.1",
+        "chemistry_2025_internal_paper2_july_q7.2",
+        "chemistry_2025_internal_paper2_july_q7.4",
+        "chemistry_2025_internal_paper2_july_q8.1.1",
+        "chemistry_2025_internal_paper2_july_q8.1.3",
+        "chemistry_2025_internal_paper2_july_q8.1.4",
+        "chemistry_2025_internal_paper2_july_q8.2.1",
+        "chemistry_2025_internal_paper2_july_q8.6.1",
+        "chemistry_2025_internal_paper2_july_q8.6.2",
+        "chemistry_2025_internal_paper2_july_q8.6.3",
+        "chemistry_2025_internal_paper2_november_q1.1.2",
+        "chemistry_2025_internal_paper2_november_q1.1.3",
+        "chemistry_2025_internal_paper2_november_q1.1.5",
+        "chemistry_2025_internal_paper2_november_q1.1.6",
+        "chemistry_2025_internal_paper2_november_q1.2.1",
+        "chemistry_2025_internal_paper2_november_q1.2.2",
+        "chemistry_2025_internal_paper2_november_q3.2.4",
+        "chemistry_2025_internal_paper2_november_q4.1.1",
+        "chemistry_2025_internal_paper2_november_q4.2.3",
+        "chemistry_2025_internal_paper2_november_q4.2.4",
+        "chemistry_2025_internal_paper2_november_q4.3.1",
+        "chemistry_2025_internal_paper2_november_q4.3.2",
+        "chemistry_2025_internal_paper2_november_q4.3.5",
+        "chemistry_2018_internal_paper2_june_q1.5",
+        "chemistry_2019_internal_paper2_june_q1.6",
+        "chemistry_2019_internal_paper2_june_q1.7",
+        "chemistry_2020_internal_paper2_nov_q1.2",
+        "chemistry_2020_internal_paper2_nov_q2.1.2",
+        "chemistry_2020_internal_paper2_nov_q2.1.3",
+        "chemistry_2020_internal_paper2_nov_q2.1.4",
+        "chemistry_2020_internal_paper2_nov_q2.1.5",
+        "chemistry_2021_internal_paper2_nov_q1.2",
+        "chemistry_2021_internal_paper2_nov_q1.3",
+        "chemistry_2021_internal_paper2_nov_q1.5",
+        "chemistry_2022_internal_paper2_june_q1.4",
+        "chemistry_2022_internal_paper2_june_q1.6",
+        "chemistry_2022_internal_paper2_nov_q1.2",
+        "chemistry_2023_internal_paper2_july_q1.3",
+        "chemistry_2023_internal_paper2_july_q1.4",
+        "chemistry_2023_internal_paper2_november_q1.2",
+        "chemistry_2023_internal_paper2_november_q1.5",
+        "chemistry_2023_internal_paper2_november_q1.6",
+        "chemistry_2018_internal_paper2_june_q3.3a",
+        "chemistry_2018_internal_paper2_june_q3.3b",
+        "chemistry_2022_internal_paper2_june_q2.4",
+        "chemistry_2023_internal_paper2_july_q3.4",
+        "chemistry_2025_internal_paper2_november_q1.6"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-005 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-005 (question family, Tier 2)",
+        "141 question records across 11 papers: CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV",
+        "marking memoranda: G11 - Chemistry - Examination - MG2 - 2025.pdf, G11 - Chemistry - Nov Examination - MG  - 2024.pdf, G11 Nov Chem Exam MG.pdf, G11- Mid-Year Examination - MG. - 2023.pdf, Gr 11 July exam chemistry 2018 MG .pdf, Gr 11 chemistry July 2025 MG.pdf, Gr11-Chemistry-June_Exam-MG-2022.pdf, Grade 11 Paper 2  July MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 - Chemistry Exam Nov 2023 - MG.pdf, PS11 Chemistry Nov 2020 Exam MG.pdf",
+        "source documents: G11 - Chemistry - Examination - QP - 2024(Print).pdf, G11 - Chemistry - Examination - QPV2 - 2025.pdf, G11 Nov Chem Exam QPs.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Gr 11 July exam chemistry 2018.pdf, Gr 11 chemistry July 2025.pdf, Gr11-Chemistry-June_Exam-QP-2022.pdf, Grade 11 Paper 2 July QP.pdf, PS11 - Chemistry Exam Nov 2023 - QP Final(2).pdf, PS11 Chemistry Nov 2020 Exam QP.pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    },
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-006",
+      "definition": "Can name an organic structure by IUPAC rules, identify its functional group, classify it by homologous series and draw/identify structural, positional and chain isomers.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Organic Chemistry",
+      "question_family": "QUESTION-FAMILY-CHEM-006",
+      "assessment_operations": [
+        "name a compound",
+        "identify a functional group",
+        "classify a homologous series",
+        "draw an isomer"
+      ],
+      "required_knowledge": [
+        "IUPAC naming rules",
+        "functional-group recognition",
+        "positional and chain isomers"
+      ],
+      "prerequisites": [
+        "bonding skeleton reading"
+      ],
+      "required_reasoning": [
+        "find the longest chain",
+        "number from the closest substituent",
+        "name the group"
+      ],
+      "required_procedure": "longest chain -> functional group priority -> numbering -> substituents",
+      "evidence_of_understanding": [
+        "correct parent alkane",
+        "functional group named",
+        "isomer type correct"
+      ],
+      "marking_requirements": [
+        "the name, group and series are separately ticked",
+        "wrong numbering loses the mark"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-006-01",
+        "BREAKDOWN-CHEM-006-02",
+        "BREAKDOWN-CHEM-006-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-006-1: numbers the chain from the wrong end",
+        "M-CHEM-006-2: confuses a functional group with a homologous series"
+      ],
+      "diagnostic_dimensions": [
+        "naming",
+        "functional group",
+        "isomer classification"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-006-01",
+        "DIAG-CHEM-006-02",
+        "DIAG-CHEM-006-03"
+      ],
+      "source_references": [
+        "chemistry_2020_internal_paper2_nov_q7.3",
+        "chemistry_2020_internal_paper2_nov_q7.4",
+        "chemistry_2020_internal_paper2_nov_q7.5.1",
+        "chemistry_2020_internal_paper2_nov_q8.1",
+        "chemistry_2020_internal_paper2_nov_q8.2",
+        "chemistry_2020_internal_paper2_nov_q8.3",
+        "chemistry_2020_internal_paper2_nov_q8.5",
+        "chemistry_2020_internal_paper2_nov_q8.7",
+        "chemistry_2020_internal_paper2_nov_q8.8",
+        "chemistry_2020_internal_paper2_nov_q9.2.1",
+        "chemistry_2020_internal_paper2_nov_q9.2.2",
+        "chemistry_2020_internal_paper2_nov_q9.4",
+        "chemistry_2020_internal_paper2_nov_q9.5.1",
+        "chemistry_2020_internal_paper2_nov_q9.5.2",
+        "chemistry_2020_internal_paper2_nov_q9.7.1",
+        "chemistry_2020_internal_paper2_nov_q9.7.2",
+        "chemistry_2020_internal_paper2_nov_q9.7.4",
+        "chemistry_2020_internal_paper2_nov_q9.8.1",
+        "chemistry_2020_internal_paper2_nov_q9.8.2",
+        "chemistry_2021_internal_paper2_nov_q8.1",
+        "chemistry_2021_internal_paper2_nov_q8.2.2",
+        "chemistry_2021_internal_paper2_nov_q8.3.2",
+        "chemistry_2021_internal_paper2_nov_q8.4.2",
+        "chemistry_2021_internal_paper2_nov_q8.6",
+        "chemistry_2021_internal_paper2_nov_q8.7",
+        "chemistry_2021_internal_paper2_nov_q9.1.1",
+        "chemistry_2021_internal_paper2_nov_q9.1.2",
+        "chemistry_2021_internal_paper2_nov_q9.3.1",
+        "chemistry_2021_internal_paper2_nov_q9.3.2",
+        "chemistry_2021_internal_paper2_nov_q9.4",
+        "chemistry_2021_internal_paper2_nov_q9.5.1",
+        "chemistry_2021_internal_paper2_nov_q9.5.2",
+        "chemistry_2021_internal_paper2_nov_q9.6.1",
+        "chemistry_2021_internal_paper2_nov_q9.6.3",
+        "chemistry_2021_internal_paper2_nov_q9.6.4",
+        "chemistry_2021_internal_paper2_nov_q9.7.1",
+        "chemistry_2022_internal_paper2_nov_q7.2",
+        "chemistry_2022_internal_paper2_nov_q7.3",
+        "chemistry_2022_internal_paper2_nov_q7.5",
+        "chemistry_2022_internal_paper2_nov_q7.6",
+        "chemistry_2022_internal_paper2_nov_q7.9a",
+        "chemistry_2022_internal_paper2_nov_q7.9b",
+        "chemistry_2022_internal_paper2_nov_q8.1",
+        "chemistry_2022_internal_paper2_nov_q8.3",
+        "chemistry_2022_internal_paper2_nov_q8.4a",
+        "chemistry_2022_internal_paper2_nov_q8.4b",
+        "chemistry_2022_internal_paper2_nov_q8.5",
+        "chemistry_2022_internal_paper2_nov_q8.6",
+        "chemistry_2022_internal_paper2_nov_q8.7",
+        "chemistry_2022_internal_paper2_nov_q9.1a",
+        "chemistry_2022_internal_paper2_nov_q9.1c",
+        "chemistry_2022_internal_paper2_nov_q9.1d",
+        "chemistry_2022_internal_paper2_nov_q9.1e",
+        "chemistry_2022_internal_paper2_nov_q9.1f",
+        "chemistry_2022_internal_paper2_nov_q9.2a",
+        "chemistry_2023_internal_paper2_november_q4.1",
+        "chemistry_2023_internal_paper2_november_q4.2",
+        "chemistry_2023_internal_paper2_november_q4.3",
+        "chemistry_2023_internal_paper2_november_q4.5",
+        "chemistry_2023_internal_paper2_november_q5.2",
+        "chemistry_2023_internal_paper2_november_q5.3",
+        "chemistry_2023_internal_paper2_november_q5.4",
+        "chemistry_2023_internal_paper2_november_q5.5.1",
+        "chemistry_2023_internal_paper2_november_q5.5.2",
+        "chemistry_2023_internal_paper2_november_q5.5.3",
+        "chemistry_2023_internal_paper2_november_q5.6",
+        "chemistry_2023_internal_paper2_november_q5.7",
+        "chemistry_2023_internal_paper2_november_q5.9",
+        "chemistry_2024_internal_paper2_november_q6.2",
+        "chemistry_2024_internal_paper2_november_q6.4.1",
+        "chemistry_2024_internal_paper2_november_q6.5.1",
+        "chemistry_2024_internal_paper2_november_q6.5.2",
+        "chemistry_2024_internal_paper2_november_q6.6",
+        "chemistry_2024_internal_paper2_november_q6.7.1",
+        "chemistry_2024_internal_paper2_november_q6.7.2",
+        "chemistry_2024_internal_paper2_november_q6.8.2",
+        "chemistry_2024_internal_paper2_november_q6.9.1",
+        "chemistry_2024_internal_paper2_november_q6.9.2",
+        "chemistry_2024_internal_paper2_november_q6.9.4",
+        "chemistry_2024_internal_paper2_november_q6.10",
+        "chemistry_2024_internal_paper2_november_q6.11.1",
+        "chemistry_2024_internal_paper2_november_q6.12.1",
+        "chemistry_2025_internal_paper2_november_q5.2",
+        "chemistry_2025_internal_paper2_november_q5.3",
+        "chemistry_2025_internal_paper2_november_q5.6",
+        "chemistry_2025_internal_paper2_november_q5.7",
+        "chemistry_2025_internal_paper2_november_q5.8",
+        "chemistry_2025_internal_paper2_november_q6.6.3",
+        "chemistry_2020_internal_paper2_nov_q7.2",
+        "chemistry_2020_internal_paper2_nov_q8.4",
+        "chemistry_2020_internal_paper2_nov_q9.3",
+        "chemistry_2020_internal_paper2_nov_q9.7.3",
+        "chemistry_2021_internal_paper2_nov_q8.4.1",
+        "chemistry_2021_internal_paper2_nov_q9.6.2",
+        "chemistry_2022_internal_paper2_nov_q7.4",
+        "chemistry_2022_internal_paper2_nov_q7.8",
+        "chemistry_2022_internal_paper2_nov_q9.1g",
+        "chemistry_2023_internal_paper2_november_q4.4",
+        "chemistry_2023_internal_paper2_november_q4.7",
+        "chemistry_2023_internal_paper2_november_q5.8",
+        "chemistry_2024_internal_paper2_november_q5.2",
+        "chemistry_2024_internal_paper2_november_q5.3.2",
+        "chemistry_2024_internal_paper2_november_q6.4.2",
+        "chemistry_2024_internal_paper2_november_q6.8.1",
+        "chemistry_2024_internal_paper2_november_q6.9.3",
+        "chemistry_2025_internal_paper2_november_q5.4",
+        "chemistry_2025_internal_paper2_november_q5.5",
+        "chemistry_2025_internal_paper2_november_q6.6.2",
+        "chemistry_2020_internal_paper2_nov_q1.7",
+        "chemistry_2020_internal_paper2_nov_q1.8",
+        "chemistry_2020_internal_paper2_nov_q1.9",
+        "chemistry_2020_internal_paper2_nov_q1.10",
+        "chemistry_2021_internal_paper2_nov_q1.9",
+        "chemistry_2021_internal_paper2_nov_q1.10",
+        "chemistry_2022_internal_paper2_nov_q1.8",
+        "chemistry_2022_internal_paper2_nov_q1.9",
+        "chemistry_2022_internal_paper2_nov_q1.10",
+        "chemistry_2023_internal_paper2_november_q1.8",
+        "chemistry_2023_internal_paper2_november_q1.9",
+        "chemistry_2023_internal_paper2_november_q1.10",
+        "chemistry_2020_internal_paper2_nov_q7.5.2",
+        "chemistry_2020_internal_paper2_nov_q9.1",
+        "chemistry_2021_internal_paper2_nov_q8.2.3",
+        "chemistry_2021_internal_paper2_nov_q9.7.3",
+        "chemistry_2022_internal_paper2_nov_q7.7",
+        "chemistry_2022_internal_paper2_nov_q8.8",
+        "chemistry_2022_internal_paper2_nov_q9.2b",
+        "chemistry_2022_internal_paper2_nov_q9.2c",
+        "chemistry_2022_internal_paper2_nov_q9.2d",
+        "chemistry_2024_internal_paper2_november_q5.1",
+        "chemistry_2024_internal_paper2_november_q6.11.2",
+        "chemistry_2024_internal_paper2_november_q6.12.2",
+        "chemistry_2020_internal_paper2_nov_q9.6",
+        "chemistry_2021_internal_paper2_nov_q9.2",
+        "chemistry_2022_internal_paper2_nov_q9.1h",
+        "chemistry_2022_internal_paper2_nov_q9.2e",
+        "chemistry_2023_internal_paper2_november_q4.9"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-006 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-006 (question family, Tier 2)",
+        "137 question records across 6 papers: CHE-2020-NOV, CHE-2021-NOV, CHE-2022-NOV, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-NOV",
+        "marking memoranda: G11 - Chemistry - Examination - MG2 - 2025.pdf, G11 - Chemistry - Nov Examination - MG  - 2024.pdf, G11 Nov Chem Exam MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 - Chemistry Exam Nov 2023 - MG.pdf, PS11 Chemistry Nov 2020 Exam MG.pdf",
+        "source documents: G11 - Chemistry - Examination - QP - 2024(Print).pdf, G11 - Chemistry - Examination - QPV2 - 2025.pdf, G11 Nov Chem Exam QPs.pdf, PS11 - Chemistry Exam Nov 2023 - QP Final(2).pdf, PS11 Chemistry Nov 2020 Exam QP.pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    },
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-007",
+      "definition": "Can identify the intermolecular forces present in substances and account for a property difference by comparing the relative strengths of those forces.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Intermolecular Forces",
+      "question_family": "QUESTION-FAMILY-CHEM-007",
+      "assessment_operations": [
+        "identify IMF",
+        "compare IMF strength",
+        "explain a property difference"
+      ],
+      "required_knowledge": [
+        "London, dipole-dipole, hydrogen bonding",
+        "energy needed to overcome IMFs sets the property"
+      ],
+      "prerequisites": [
+        "knowledge of molecular polarity"
+      ],
+      "required_reasoning": [
+        "name the forces in each substance",
+        "rank them by strength",
+        "link to the property"
+      ],
+      "required_procedure": "list IMFs per substance -> compare strengths -> conclude on the property",
+      "evidence_of_understanding": [
+        "names the specific force, not just 'forces'",
+        "explicitly compares strengths"
+      ],
+      "marking_requirements": [
+        "both substances' forces and the comparison are separately ticked"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-007-01",
+        "BREAKDOWN-CHEM-007-02",
+        "BREAKDOWN-CHEM-007-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-007-1: attributes a property difference to bond strength rather than IMFs",
+        "M-CHEM-007-2: claims every molecule has hydrogen bonding"
+      ],
+      "diagnostic_dimensions": [
+        "IMF identification",
+        "strength comparison",
+        "property link"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-007-01",
+        "DIAG-CHEM-007-02",
+        "DIAG-CHEM-007-03"
+      ],
+      "source_references": [
+        "chemistry_2018_internal_paper2_june_q2.4.2",
+        "chemistry_2019_internal_paper2_june_q3.2",
+        "chemistry_2021_internal_paper2_nov_q2.2.4",
+        "chemistry_2021_internal_paper2_nov_q2.2.7",
+        "chemistry_2022_internal_paper2_june_q2.9",
+        "chemistry_2022_internal_paper2_june_q3.1.1",
+        "chemistry_2022_internal_paper2_june_q3.1.2",
+        "chemistry_2022_internal_paper2_nov_q3.1.1",
+        "chemistry_2022_internal_paper2_nov_q3.1.2",
+        "chemistry_2023_internal_paper2_july_q3.5b",
+        "chemistry_2023_internal_paper2_july_q3.6",
+        "chemistry_2023_internal_paper2_november_q2.5",
+        "chemistry_2023_internal_paper2_november_q4.8",
+        "chemistry_2024_internal_paper2_november_q1.2.4",
+        "chemistry_2024_internal_paper2_november_q5.4",
+        "chemistry_2025_internal_paper2_july_q1.1.1",
+        "chemistry_2025_internal_paper2_july_q1.1.2",
+        "chemistry_2025_internal_paper2_july_q1.1.4",
+        "chemistry_2025_internal_paper2_july_q2.2.2",
+        "chemistry_2025_internal_paper2_july_q2.2.3",
+        "chemistry_2025_internal_paper2_november_q1.7",
+        "chemistry_2025_internal_paper2_november_q1.8",
+        "chemistry_2025_internal_paper2_november_q5.9",
+        "chemistry_2019_internal_paper2_june_q2.2.2",
+        "chemistry_2019_internal_paper2_june_q3.3",
+        "chemistry_2019_internal_paper2_june_q3.4.1",
+        "chemistry_2020_internal_paper2_nov_q2.2.5",
+        "chemistry_2021_internal_paper2_nov_q2.2.3",
+        "chemistry_2022_internal_paper2_june_q2.8",
+        "chemistry_2022_internal_paper2_nov_q3.1.3",
+        "chemistry_2023_internal_paper2_july_q3.4a",
+        "chemistry_2023_internal_paper2_july_q3.5",
+        "chemistry_2023_internal_paper2_november_q2.1.1",
+        "chemistry_2023_internal_paper2_november_q2.1.2",
+        "chemistry_2023_internal_paper2_november_q2.4",
+        "chemistry_2025_internal_paper2_july_q1.1.3",
+        "chemistry_2025_internal_paper2_november_q1.1.1",
+        "chemistry_2025_internal_paper2_november_q1.1.4",
+        "chemistry_2025_internal_paper2_november_q1.1.7",
+        "chemistry_2025_internal_paper2_november_q6.1",
+        "chemistry_2025_internal_paper2_november_q6.2",
+        "chemistry_2019_internal_paper2_june_q3.4.2",
+        "chemistry_2023_internal_paper2_july_q3.4c",
+        "chemistry_2024_internal_paper2_november_q1.1",
+        "chemistry_2025_internal_paper2_july_q1.1.5",
+        "chemistry_2025_internal_paper2_november_q6.3",
+        "chemistry_2020_internal_paper2_nov_q2.1.1",
+        "chemistry_2022_internal_paper2_nov_q1.4",
+        "chemistry_2023_internal_paper2_november_q1.4",
+        "chemistry_2025_internal_paper2_november_q6.4"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-007 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-007 (question family, Tier 2)",
+        "50 question records across 11 papers: CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV",
+        "marking memoranda: G11 - Chemistry - Examination - MG2 - 2025.pdf, G11 - Chemistry - Nov Examination - MG  - 2024.pdf, G11 Nov Chem Exam MG.pdf, G11- Mid-Year Examination - MG. - 2023.pdf, Gr 11 July exam chemistry 2018 MG .pdf, Gr 11 chemistry July 2025 MG.pdf, Gr11-Chemistry-June_Exam-MG-2022.pdf, Grade 11 Paper 2  July MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 - Chemistry Exam Nov 2023 - MG.pdf, PS11 Chemistry Nov 2020 Exam MG.pdf",
+        "source documents: G11 - Chemistry - Examination - QP - 2024(Print).pdf, G11 - Chemistry - Examination - QPV2 - 2025.pdf, G11 Nov Chem Exam QPs.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Gr 11 July exam chemistry 2018.pdf, Gr 11 chemistry July 2025.pdf, Gr11-Chemistry-June_Exam-QP-2022.pdf, Grade 11 Paper 2 July QP.pdf, PS11 - Chemistry Exam Nov 2023 - QP Final(2).pdf, PS11 Chemistry Nov 2020 Exam QP.pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    },
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-008",
+      "definition": "Can explain how a change affects rate via collision theory, interpret or draw a Maxwell-Boltzmann distribution and label activation energy, and state how a catalyst changes the pathway.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Reaction Rates",
+      "question_family": "QUESTION-FAMILY-CHEM-008",
+      "assessment_operations": [
+        "apply collision theory",
+        "interpret/draw a Maxwell-Boltzmann curve",
+        "state catalyst effect"
+      ],
+      "required_knowledge": [
+        "collision theory",
+        "Maxwell-Boltzmann shape",
+        "activation energy",
+        "catalyst lowers Ea"
+      ],
+      "prerequisites": [
+        "energy concepts"
+      ],
+      "required_reasoning": [
+        "link the variable to collisions",
+        "place Ea on the curve",
+        "describe catalyst action"
+      ],
+      "required_procedure": "state factor -> effective collisions -> graph label -> catalyst effect",
+      "evidence_of_understanding": [
+        "mentions effective collisions",
+        "labels Ea correctly",
+        "catalyst does not change dH"
+      ],
+      "marking_requirements": [
+        "collision-theory link, graph label and catalyst statement are separately ticked"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-008-01",
+        "BREAKDOWN-CHEM-008-02",
+        "BREAKDOWN-CHEM-008-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-008-1: says a catalyst increases the energy of collisions",
+        "M-CHEM-008-2: confuses temperature raising Ea"
+      ],
+      "diagnostic_dimensions": [
+        "collision theory",
+        "graph interpretation",
+        "catalyst action"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-008-01",
+        "DIAG-CHEM-008-02",
+        "DIAG-CHEM-008-03"
+      ],
+      "source_references": [
+        "chemistry_2018_internal_paper2_june_q6.6",
+        "chemistry_2018_internal_paper2_june_q6.7",
+        "chemistry_2018_internal_paper2_june_q6.9",
+        "chemistry_2019_internal_paper2_june_q5.2",
+        "chemistry_2019_internal_paper2_june_q5.5.2",
+        "chemistry_2019_internal_paper2_june_q5.5.3",
+        "chemistry_2020_internal_paper2_nov_q5.4",
+        "chemistry_2020_internal_paper2_nov_q5.5",
+        "chemistry_2020_internal_paper2_nov_q5.7",
+        "chemistry_2020_internal_paper2_nov_q5.9",
+        "chemistry_2020_internal_paper2_nov_q5.10",
+        "chemistry_2021_internal_paper2_nov_q4.7",
+        "chemistry_2021_internal_paper2_nov_q7.1",
+        "chemistry_2021_internal_paper2_nov_q7.3",
+        "chemistry_2021_internal_paper2_nov_q7.4",
+        "chemistry_2022_internal_paper2_june_q5.6",
+        "chemistry_2022_internal_paper2_june_q5.7",
+        "chemistry_2022_internal_paper2_june_q5.9",
+        "chemistry_2022_internal_paper2_june_q7.3",
+        "chemistry_2022_internal_paper2_june_q7.5",
+        "chemistry_2022_internal_paper2_nov_q5.2c",
+        "chemistry_2022_internal_paper2_nov_q5.3a",
+        "chemistry_2022_internal_paper2_nov_q5.3b",
+        "chemistry_2023_internal_paper2_july_q4.5a",
+        "chemistry_2023_internal_paper2_july_q4.5b",
+        "chemistry_2023_internal_paper2_july_q4.6g",
+        "chemistry_2023_internal_paper2_july_q6.2b",
+        "chemistry_2023_internal_paper2_july_q6.3a",
+        "chemistry_2023_internal_paper2_november_q3.2",
+        "chemistry_2023_internal_paper2_november_q3.9",
+        "chemistry_2024_internal_paper2_november_q2.2",
+        "chemistry_2024_internal_paper2_november_q2.3",
+        "chemistry_2024_internal_paper2_november_q2.10",
+        "chemistry_2024_internal_paper2_november_q2.11",
+        "chemistry_2025_internal_paper2_july_q5.2.3b",
+        "chemistry_2025_internal_paper2_july_q5.2.4",
+        "chemistry_2025_internal_paper2_july_q6.3.1",
+        "chemistry_2025_internal_paper2_july_q6.3.2",
+        "chemistry_2025_internal_paper2_july_q6.5",
+        "chemistry_2025_internal_paper2_november_q2.5",
+        "chemistry_2025_internal_paper2_november_q2.6",
+        "chemistry_2025_internal_paper2_november_q2.11",
+        "chemistry_2018_internal_paper2_june_q6.8",
+        "chemistry_2019_internal_paper2_june_q4.3.4",
+        "chemistry_2019_internal_paper2_june_q5.5.6",
+        "chemistry_2020_internal_paper2_nov_q5.8",
+        "chemistry_2021_internal_paper2_nov_q7.6a",
+        "chemistry_2021_internal_paper2_nov_q7.6b",
+        "chemistry_2022_internal_paper2_june_q5.8",
+        "chemistry_2022_internal_paper2_nov_q5.2b",
+        "chemistry_2022_internal_paper2_nov_q6.4b",
+        "chemistry_2023_internal_paper2_july_q4.6a",
+        "chemistry_2023_internal_paper2_july_q4.6b",
+        "chemistry_2023_internal_paper2_july_q4.6c",
+        "chemistry_2023_internal_paper2_july_q4.6f",
+        "chemistry_2023_internal_paper2_july_q6.1c",
+        "chemistry_2023_internal_paper2_july_q6.2a",
+        "chemistry_2023_internal_paper2_november_q3.10",
+        "chemistry_2024_internal_paper2_november_q2.4",
+        "chemistry_2024_internal_paper2_november_q2.7",
+        "chemistry_2024_internal_paper2_november_q2.9",
+        "chemistry_2025_internal_paper2_july_q5.2.2",
+        "chemistry_2025_internal_paper2_july_q6.4",
+        "chemistry_2025_internal_paper2_november_q2.8",
+        "chemistry_2025_internal_paper2_november_q2.10",
+        "chemistry_2019_internal_paper2_june_q5.3",
+        "chemistry_2019_internal_paper2_june_q5.4",
+        "chemistry_2020_internal_paper2_nov_q5.2",
+        "chemistry_2020_internal_paper2_nov_q5.3.1",
+        "chemistry_2020_internal_paper2_nov_q5.3.2",
+        "chemistry_2020_internal_paper2_nov_q5.3.3",
+        "chemistry_2022_internal_paper2_june_q5.2",
+        "chemistry_2022_internal_paper2_june_q7.4",
+        "chemistry_2023_internal_paper2_july_q4.5c",
+        "chemistry_2023_internal_paper2_july_q4.5d",
+        "chemistry_2023_internal_paper2_july_q6.1b",
+        "chemistry_2023_internal_paper2_july_q6.3b",
+        "chemistry_2023_internal_paper2_november_q3.3",
+        "chemistry_2025_internal_paper2_july_q5.2.3",
+        "chemistry_2025_internal_paper2_november_q2.2",
+        "chemistry_2018_internal_paper2_june_q1.1",
+        "chemistry_2018_internal_paper2_june_q1.2",
+        "chemistry_2018_internal_paper2_june_q1.4",
+        "chemistry_2019_internal_paper2_june_q1.5",
+        "chemistry_2019_internal_paper2_june_q1.9",
+        "chemistry_2020_internal_paper2_nov_q1.3",
+        "chemistry_2020_internal_paper2_nov_q1.4",
+        "chemistry_2021_internal_paper2_nov_q1.7",
+        "chemistry_2021_internal_paper2_nov_q1.8",
+        "chemistry_2022_internal_paper2_june_q1.5",
+        "chemistry_2023_internal_paper2_july_q1.7",
+        "chemistry_2023_internal_paper2_november_q1.7",
+        "chemistry_2020_internal_paper2_nov_q5.6",
+        "chemistry_2021_internal_paper2_nov_q7.5",
+        "chemistry_2022_internal_paper2_june_q7.2",
+        "chemistry_2022_internal_paper2_nov_q5.2a",
+        "chemistry_2023_internal_paper2_july_q6.1a",
+        "chemistry_2023_internal_paper2_november_q3.5",
+        "chemistry_2025_internal_paper2_july_q6.2",
+        "chemistry_2025_internal_paper2_november_q2.7"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-008 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-008 (question family, Tier 2)",
+        "100 question records across 11 papers: CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV",
+        "marking memoranda: G11 - Chemistry - Examination - MG2 - 2025.pdf, G11 - Chemistry - Nov Examination - MG  - 2024.pdf, G11 Nov Chem Exam MG.pdf, G11- Mid-Year Examination - MG. - 2023.pdf, Gr 11 July exam chemistry 2018 MG .pdf, Gr 11 chemistry July 2025 MG.pdf, Gr11-Chemistry-June_Exam-MG-2022.pdf, Grade 11 Paper 2  July MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 - Chemistry Exam Nov 2023 - MG.pdf, PS11 Chemistry Nov 2020 Exam MG.pdf",
+        "source documents: G11 - Chemistry - Examination - QP - 2024(Print).pdf, G11 - Chemistry - Examination - QPV2 - 2025.pdf, G11 Nov Chem Exam QPs.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Gr 11 July exam chemistry 2018.pdf, Gr 11 chemistry July 2025.pdf, Gr11-Chemistry-June_Exam-QP-2022.pdf, Grade 11 Paper 2 July QP.pdf, PS11 - Chemistry Exam Nov 2023 - QP Final(2).pdf, PS11 Chemistry Nov 2020 Exam QP.pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    },
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-009",
+      "definition": "Can sketch or interpret an energy-profile diagram (reactants, products, EA, dH, activated complex) and explain heat of reaction and the catalyst effect.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Energy & Chemical Change",
+      "question_family": "QUESTION-FAMILY-CHEM-009",
+      "assessment_operations": [
+        "sketch an energy profile",
+        "label EA / dH / activated complex",
+        "state catalyst effect on dH"
+      ],
+      "required_knowledge": [
+        "activated complex",
+        "Ea and dH meaning",
+        "catalyst lowers Ea, leaves dH"
+      ],
+      "prerequisites": [
+        "energy-language fluency"
+      ],
+      "required_reasoning": [
+        "place reactants/products by dH sign",
+        "mark Ea gap",
+        "state catalyst effect"
+      ],
+      "required_procedure": "draw axes -> reactants/products -> label Ea and dH -> catalyst note",
+      "evidence_of_understanding": [
+        "correct curve direction",
+        "Ea and dH labelled",
+        "catalyst dH unchanged"
+      ],
+      "marking_requirements": [
+        "EA, dH and the activated complex are separately labelled"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-009-01",
+        "BREAKDOWN-CHEM-009-02",
+        "BREAKDOWN-CHEM-009-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-009-1: draws products higher for an exothermic reaction",
+        "M-CHEM-009-2: claims a catalyst changes the heat of reaction"
+      ],
+      "diagnostic_dimensions": [
+        "diagram direction",
+        "label placement",
+        "catalyst effect"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-009-01",
+        "DIAG-CHEM-009-02",
+        "DIAG-CHEM-009-03"
+      ],
+      "source_references": [
+        "chemistry_2018_internal_paper2_june_q3.5.2",
+        "chemistry_2018_internal_paper2_june_q3.5.4",
+        "chemistry_2019_internal_paper2_june_q4.2.2",
+        "chemistry_2019_internal_paper2_june_q4.2.3",
+        "chemistry_2019_internal_paper2_june_q4.3.2",
+        "chemistry_2020_internal_paper2_nov_q4.2.1",
+        "chemistry_2020_internal_paper2_nov_q4.2.2",
+        "chemistry_2020_internal_paper2_nov_q4.5",
+        "chemistry_2021_internal_paper2_nov_q4.2",
+        "chemistry_2022_internal_paper2_june_q6.2",
+        "chemistry_2022_internal_paper2_nov_q4.2g",
+        "chemistry_2022_internal_paper2_nov_q4.2x",
+        "chemistry_2022_internal_paper2_nov_q4.2e",
+        "chemistry_2022_internal_paper2_nov_q4.2c",
+        "chemistry_2023_internal_paper2_november_q3.7",
+        "chemistry_2025_internal_paper2_july_q5.1",
+        "chemistry_2018_internal_paper2_june_q3.5.8",
+        "chemistry_2019_internal_paper2_june_q4.3.3",
+        "chemistry_2020_internal_paper2_nov_q4.4",
+        "chemistry_2020_internal_paper2_nov_q4.6",
+        "chemistry_2021_internal_paper2_nov_q4.3",
+        "chemistry_2021_internal_paper2_nov_q4.5",
+        "chemistry_2021_internal_paper2_nov_q4.6.3",
+        "chemistry_2022_internal_paper2_june_q6.6",
+        "chemistry_2022_internal_paper2_june_q6.7",
+        "chemistry_2022_internal_paper2_nov_q4.2b",
+        "chemistry_2023_internal_paper2_november_q3.6",
+        "chemistry_2023_internal_paper2_november_q3.8"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-009 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-009 (question family, Tier 2)",
+        "28 question records across 8 papers: CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-NOV, CHE-2025-JUL",
+        "marking memoranda: G11 Nov Chem Exam MG.pdf, Gr 11 July exam chemistry 2018 MG .pdf, Gr 11 chemistry July 2025 MG.pdf, Gr11-Chemistry-June_Exam-MG-2022.pdf, Grade 11 Paper 2  July MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 - Chemistry Exam Nov 2023 - MG.pdf, PS11 Chemistry Nov 2020 Exam MG.pdf",
+        "source documents: G11 Nov Chem Exam QPs.pdf, Gr 11 July exam chemistry 2018.pdf, Gr 11 chemistry July 2025.pdf, Gr11-Chemistry-June_Exam-QP-2022.pdf, Grade 11 Paper 2 July QP.pdf, PS11 - Chemistry Exam Nov 2023 - QP Final(2).pdf, PS11 Chemistry Nov 2020 Exam QP.pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    },
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-010",
+      "definition": "Can define enthalpy/heat terms and apply them in calculating and reasoning about heat change and standard solutions of heat.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Energy & Chemical Change",
+      "question_family": "QUESTION-FAMILY-CHEM-010",
+      "assessment_operations": [
+        "define a heat term",
+        "calculate heat change",
+        "select the correct thermochemistry option"
+      ],
+      "required_knowledge": [
+        "definitions of heat of reaction/formation",
+        "q = mcΔT basics",
+        "standard-solution idea"
+      ],
+      "prerequisites": [
+        "algebra",
+        "the idea of a thermochemical equation"
+      ],
+      "required_reasoning": [
+        "choose the right heat term",
+        "apply it to a calculation"
+      ],
+      "required_procedure": "identify the heat term -> select relation -> substitute",
+      "evidence_of_understanding": [
+        "correct term chosen",
+        "correct substitution"
+      ],
+      "marking_requirements": [
+        "the definition and the calculation are separately ticked"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-010-01",
+        "BREAKDOWN-CHEM-010-02",
+        "BREAKDOWN-CHEM-010-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-010-1: defines heat of reaction as the sign of the temperature change",
+        "M-CHEM-010-2: treats a standard solution as 'any solution of known concentration'"
+      ],
+      "diagnostic_dimensions": [
+        "definition",
+        "calculation",
+        "option selection"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-010-01",
+        "DIAG-CHEM-010-02",
+        "DIAG-CHEM-010-03"
+      ],
+      "source_references": [
+        "chemistry_2018_internal_paper2_june_q3.5.6",
+        "chemistry_2018_internal_paper2_june_q3.5.7",
+        "chemistry_2020_internal_paper2_nov_q4.3.1",
+        "chemistry_2020_internal_paper2_nov_q4.3.2",
+        "chemistry_2020_internal_paper2_nov_q4.3.3",
+        "chemistry_2021_internal_paper2_nov_q4.1",
+        "chemistry_2021_internal_paper2_nov_q4.4",
+        "chemistry_2021_internal_paper2_nov_q4.6.2",
+        "chemistry_2022_internal_paper2_june_q6.3",
+        "chemistry_2022_internal_paper2_nov_q4.2a",
+        "chemistry_2022_internal_paper2_nov_q6.1b",
+        "chemistry_2022_internal_paper2_nov_q6.1c",
+        "chemistry_2022_internal_paper2_nov_q6.1d",
+        "chemistry_2022_internal_paper2_nov_q6.1e",
+        "chemistry_2023_internal_paper2_july_q4.3",
+        "chemistry_2023_internal_paper2_july_q4.4",
+        "chemistry_2025_internal_paper2_november_q2.3",
+        "chemistry_2025_internal_paper2_november_q2.4",
+        "chemistry_2019_internal_paper2_june_q1.8",
+        "chemistry_2021_internal_paper2_nov_q1.4",
+        "chemistry_2022_internal_paper2_nov_q1.5",
+        "chemistry_2023_internal_paper2_july_q1.6",
+        "chemistry_2022_internal_paper2_june_q6.4",
+        "chemistry_2022_internal_paper2_nov_q4.2"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-010 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-010 (question family, Tier 2)",
+        "24 question records across 8 papers: CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2025-NOV",
+        "marking memoranda: G11 - Chemistry - Examination - MG2 - 2025.pdf, G11 Nov Chem Exam MG.pdf, G11- Mid-Year Examination - MG. - 2023.pdf, Gr 11 July exam chemistry 2018 MG .pdf, Gr11-Chemistry-June_Exam-MG-2022.pdf, Grade 11 Paper 2  July MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 Chemistry Nov 2020 Exam MG.pdf",
+        "source documents: G11 - Chemistry - Examination - QPV2 - 2025.pdf, G11 Nov Chem Exam QPs.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Gr 11 July exam chemistry 2018.pdf, Gr11-Chemistry-June_Exam-QP-2022.pdf, Grade 11 Paper 2 July QP.pdf, PS11 Chemistry Nov 2020 Exam QP.pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    },
+    {
+      "identity": "UNDERSTANDING-MODEL-CHEM-011",
+      "definition": "Can classify matter, read a graph/table skillfully and apply atomic-structure facts in a multiple-choice or short-answer setting.",
+      "subject": "chemistry",
+      "grade": "11",
+      "topic": "Matter & Skills",
+      "question_family": "QUESTION-FAMILY-CHEM-011",
+      "assessment_operations": [
+        "classify matter",
+        "read a graph/table",
+        "apply atomic-structure facts"
+      ],
+      "required_knowledge": [
+        "matter classification",
+        "graph/table reading",
+        "basic atomic structure"
+      ],
+      "prerequisites": [
+        "numeracy",
+        "graph literacy"
+      ],
+      "required_reasoning": [
+        "match a substance to a class",
+        "extract a value from a plot",
+        "recall a fact"
+      ],
+      "required_procedure": "read the item -> recall the fact/skill -> respond",
+      "evidence_of_understanding": [
+        "correct classification",
+        "correct value read",
+        "correct fact"
+      ],
+      "marking_requirements": [
+        "only the chosen option or the read value is required"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-CHEM-011-01",
+        "BREAKDOWN-CHEM-011-02",
+        "BREAKDOWN-CHEM-011-03"
+      ],
+      "misconceptions": [
+        "M-CHEM-011-1: misclassifies a mixture as a compound",
+        "M-CHEM-011-2: reads the wrong axis or scale on a graph"
+      ],
+      "diagnostic_dimensions": [
+        "classification",
+        "graph reading",
+        "fact recall"
+      ],
+      "diagnostic_questions": [
+        "DIAG-CHEM-011-01",
+        "DIAG-CHEM-011-02",
+        "DIAG-CHEM-011-03"
+      ],
+      "source_references": [
+        "chemistry_2018_internal_paper2_june_q1.6",
+        "chemistry_2019_internal_paper2_june_q1.1",
+        "chemistry_2019_internal_paper2_june_q1.2",
+        "chemistry_2020_internal_paper2_nov_q1.1",
+        "chemistry_2021_internal_paper2_nov_q1.1",
+        "chemistry_2022_internal_paper2_june_q1.1",
+        "chemistry_2022_internal_paper2_june_q1.2",
+        "chemistry_2022_internal_paper2_nov_q1.1",
+        "chemistry_2022_internal_paper2_nov_q1.7",
+        "chemistry_2023_internal_paper2_july_q1.1",
+        "chemistry_2023_internal_paper2_july_q1.2",
+        "chemistry_2023_internal_paper2_july_q1.8",
+        "chemistry_2023_internal_paper2_november_q1.1",
+        "chemistry_2019_internal_paper2_june_q2.1.3",
+        "chemistry_2019_internal_paper2_june_q2.1.4",
+        "chemistry_2018_internal_paper2_june_q6.4.1",
+        "chemistry_2018_internal_paper2_june_q6.4.2",
+        "chemistry_2018_internal_paper2_june_q6.4.3",
+        "chemistry_2018_internal_paper2_june_q6.4.4",
+        "chemistry_2022_internal_paper2_june_q5.4.1",
+        "chemistry_2022_internal_paper2_june_q5.4.2",
+        "chemistry_2022_internal_paper2_june_q5.4.3",
+        "chemistry_2022_internal_paper2_june_q5.4.4",
+        "chemistry_2018_internal_paper2_june_q6.2",
+        "chemistry_2024_internal_paper2_november_q2.5",
+        "chemistry_2025_internal_paper2_july_q4.2.5",
+        "chemistry_2025_internal_paper2_november_q6.5.1",
+        "chemistry_2018_internal_paper2_june_q6.3",
+        "chemistry_2019_internal_paper2_june_q5.6",
+        "chemistry_2022_internal_paper2_june_q5.3",
+        "chemistry_2025_internal_paper2_november_q6.5.2",
+        "chemistry_2018_internal_paper2_june_q6.5",
+        "chemistry_2022_internal_paper2_june_q5.5",
+        "chemistry_2018_internal_paper2_june_q6.1",
+        "chemistry_2019_internal_paper2_june_q5.5.5",
+        "chemistry_2022_internal_paper2_june_q1.3"
+      ],
+      "provenance": [
+        "UNDERSTANDING-MODEL-CHEM-011 (Understanding Model, Tier 2/3)",
+        "QUESTION-FAMILY-CHEM-011 (question family, Tier 2)",
+        "36 question records across 11 papers: CHE-2018-JUL, CHE-2019-AUG, CHE-2020-NOV, CHE-2021-NOV, CHE-2022-JUN, CHE-2022-NOV, CHE-2023-JUL, CHE-2023-NOV, CHE-2024-NOV, CHE-2025-JUL, CHE-2025-NOV",
+        "marking memoranda: G11 - Chemistry - Examination - MG2 - 2025.pdf, G11 - Chemistry - Nov Examination - MG  - 2024.pdf, G11 Nov Chem Exam MG.pdf, G11- Mid-Year Examination - MG. - 2023.pdf, Gr 11 July exam chemistry 2018 MG .pdf, Gr 11 chemistry July 2025 MG.pdf, Gr11-Chemistry-June_Exam-MG-2022.pdf, Grade 11 Paper 2  July MG.pdf, PS 11 Chemistry NOVEMBER 2021 MG.pdf, PS11 - Chemistry Exam Nov 2023 - MG.pdf, PS11 Chemistry Nov 2020 Exam MG.pdf",
+        "source documents: G11 - Chemistry - Examination - QP - 2024(Print).pdf, G11 - Chemistry - Examination - QPV2 - 2025.pdf, G11 Nov Chem Exam QPs.pdf, G11- Mid-Year Examination - QP - 2023.pdf, Gr 11 July exam chemistry 2018.pdf, Gr 11 chemistry July 2025.pdf, Gr11-Chemistry-June_Exam-QP-2022.pdf, Grade 11 Paper 2 July QP.pdf, PS11 - Chemistry Exam Nov 2023 - QP Final(2).pdf, PS11 Chemistry Nov 2020 Exam QP.pdf, PS11 Chemistry November Exam 2021 QP (1).pdf",
+        "ORC source inventory: not indexed - sentinel SOURCE-ORC-CHEM-NOT-INDEXED (chemistry Phase 2 OCR never ran; see unresolved item UNRES-CHEM-ACQ-001)"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft"
+    }
+  ],
+  "breakdown_models": [
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-001-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-001",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-001-01"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q2.3.1",
+        "chemistry_2019_internal_paper2_june_q2.1.1",
+        "chemistry_2019_internal_paper2_june_q3.4.4",
+        "chemistry_2019_internal_paper2_june_q3.4.5"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-001-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-001",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-001-02"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q2.3.1",
+        "chemistry_2019_internal_paper2_june_q2.1.1",
+        "chemistry_2019_internal_paper2_june_q3.4.4",
+        "chemistry_2019_internal_paper2_june_q3.4.5"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-001-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-001",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-001-03"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q2.3.1",
+        "chemistry_2019_internal_paper2_june_q2.1.1",
+        "chemistry_2019_internal_paper2_june_q3.4.4",
+        "chemistry_2019_internal_paper2_june_q3.4.5"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-002-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-002",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-002-01"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q4.2.1",
+        "chemistry_2018_internal_paper2_june_q4.2.3",
+        "chemistry_2018_internal_paper2_june_q4.3.1",
+        "chemistry_2018_internal_paper2_june_q4.3.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-002-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-002",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-002-02"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q4.2.1",
+        "chemistry_2018_internal_paper2_june_q4.2.3",
+        "chemistry_2018_internal_paper2_june_q4.3.1",
+        "chemistry_2018_internal_paper2_june_q4.3.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-002-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-002",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-002-03"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q4.2.1",
+        "chemistry_2018_internal_paper2_june_q4.2.3",
+        "chemistry_2018_internal_paper2_june_q4.3.1",
+        "chemistry_2018_internal_paper2_june_q4.3.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-003-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-003",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-003-01"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q4.1",
+        "chemistry_2018_internal_paper2_june_q5.2",
+        "chemistry_2018_internal_paper2_june_q5.3",
+        "chemistry_2019_internal_paper2_june_q7.1.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-003-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-003",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-003-02"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q4.1",
+        "chemistry_2018_internal_paper2_june_q5.2",
+        "chemistry_2018_internal_paper2_june_q5.3",
+        "chemistry_2019_internal_paper2_june_q7.1.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-003-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-003",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-003-03"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q4.1",
+        "chemistry_2018_internal_paper2_june_q5.2",
+        "chemistry_2018_internal_paper2_june_q5.3",
+        "chemistry_2019_internal_paper2_june_q7.1.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-004-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-004",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-004-01"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q3.1",
+        "chemistry_2018_internal_paper2_june_q3.2",
+        "chemistry_2019_internal_paper2_june_q3.4.6",
+        "chemistry_2021_internal_paper2_nov_q2.2.5"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-004-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-004",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-004-02"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q3.1",
+        "chemistry_2018_internal_paper2_june_q3.2",
+        "chemistry_2019_internal_paper2_june_q3.4.6",
+        "chemistry_2021_internal_paper2_nov_q2.2.5"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-004-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-004",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-004-03"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q3.1",
+        "chemistry_2018_internal_paper2_june_q3.2",
+        "chemistry_2019_internal_paper2_june_q3.4.6",
+        "chemistry_2021_internal_paper2_nov_q2.2.5"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-005-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-005",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-005-01"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q2.2",
+        "chemistry_2018_internal_paper2_june_q2.4.1",
+        "chemistry_2018_internal_paper2_june_q2.5.2",
+        "chemistry_2018_internal_paper2_june_q3.4"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-005-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-005",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-005-02"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q2.2",
+        "chemistry_2018_internal_paper2_june_q2.4.1",
+        "chemistry_2018_internal_paper2_june_q2.5.2",
+        "chemistry_2018_internal_paper2_june_q3.4"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-005-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-005",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-005-03"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q2.2",
+        "chemistry_2018_internal_paper2_june_q2.4.1",
+        "chemistry_2018_internal_paper2_june_q2.5.2",
+        "chemistry_2018_internal_paper2_june_q3.4"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-006-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-006",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-006-01"
+      ],
+      "source_basis": [
+        "chemistry_2020_internal_paper2_nov_q7.3",
+        "chemistry_2020_internal_paper2_nov_q7.4",
+        "chemistry_2020_internal_paper2_nov_q7.5.1",
+        "chemistry_2020_internal_paper2_nov_q8.1"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-006-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-006",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-006-02"
+      ],
+      "source_basis": [
+        "chemistry_2020_internal_paper2_nov_q7.3",
+        "chemistry_2020_internal_paper2_nov_q7.4",
+        "chemistry_2020_internal_paper2_nov_q7.5.1",
+        "chemistry_2020_internal_paper2_nov_q8.1"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-006-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-006",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-006-03"
+      ],
+      "source_basis": [
+        "chemistry_2020_internal_paper2_nov_q7.3",
+        "chemistry_2020_internal_paper2_nov_q7.4",
+        "chemistry_2020_internal_paper2_nov_q7.5.1",
+        "chemistry_2020_internal_paper2_nov_q8.1"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-007-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-007",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-007-01"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q2.4.2",
+        "chemistry_2019_internal_paper2_june_q3.2",
+        "chemistry_2021_internal_paper2_nov_q2.2.4",
+        "chemistry_2021_internal_paper2_nov_q2.2.7"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-007-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-007",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-007-02"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q2.4.2",
+        "chemistry_2019_internal_paper2_june_q3.2",
+        "chemistry_2021_internal_paper2_nov_q2.2.4",
+        "chemistry_2021_internal_paper2_nov_q2.2.7"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-007-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-007",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-007-03"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q2.4.2",
+        "chemistry_2019_internal_paper2_june_q3.2",
+        "chemistry_2021_internal_paper2_nov_q2.2.4",
+        "chemistry_2021_internal_paper2_nov_q2.2.7"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-008-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-008",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-008-01"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q6.6",
+        "chemistry_2018_internal_paper2_june_q6.7",
+        "chemistry_2018_internal_paper2_june_q6.9",
+        "chemistry_2019_internal_paper2_june_q5.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-008-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-008",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-008-02"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q6.6",
+        "chemistry_2018_internal_paper2_june_q6.7",
+        "chemistry_2018_internal_paper2_june_q6.9",
+        "chemistry_2019_internal_paper2_june_q5.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-008-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-008",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-008-03"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q6.6",
+        "chemistry_2018_internal_paper2_june_q6.7",
+        "chemistry_2018_internal_paper2_june_q6.9",
+        "chemistry_2019_internal_paper2_june_q5.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-009-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-009",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-009-01"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q3.5.2",
+        "chemistry_2018_internal_paper2_june_q3.5.4",
+        "chemistry_2019_internal_paper2_june_q4.2.2",
+        "chemistry_2019_internal_paper2_june_q4.2.3"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-009-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-009",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-009-02"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q3.5.2",
+        "chemistry_2018_internal_paper2_june_q3.5.4",
+        "chemistry_2019_internal_paper2_june_q4.2.2",
+        "chemistry_2019_internal_paper2_june_q4.2.3"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-009-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-009",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-009-03"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q3.5.2",
+        "chemistry_2018_internal_paper2_june_q3.5.4",
+        "chemistry_2019_internal_paper2_june_q4.2.2",
+        "chemistry_2019_internal_paper2_june_q4.2.3"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-010-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-010",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-010-01"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q3.5.6",
+        "chemistry_2018_internal_paper2_june_q3.5.7",
+        "chemistry_2020_internal_paper2_nov_q4.3.1",
+        "chemistry_2020_internal_paper2_nov_q4.3.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-010-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-010",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-010-02"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q3.5.6",
+        "chemistry_2018_internal_paper2_june_q3.5.7",
+        "chemistry_2020_internal_paper2_nov_q4.3.1",
+        "chemistry_2020_internal_paper2_nov_q4.3.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-010-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-010",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-010-03"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q3.5.6",
+        "chemistry_2018_internal_paper2_june_q3.5.7",
+        "chemistry_2020_internal_paper2_nov_q4.3.1",
+        "chemistry_2020_internal_paper2_nov_q4.3.2"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-011-01",
+      "description": "Recognises the trigger or keyword of the item",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-011",
+      "stage": "interpretation",
+      "observable_signals": [
+        "student output shows interpretation competence"
+      ],
+      "possible_confusions": [
+        "confuses the trigger with a similar one"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-011-01"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q1.6",
+        "chemistry_2019_internal_paper2_june_q1.1",
+        "chemistry_2019_internal_paper2_june_q1.2",
+        "chemistry_2020_internal_paper2_nov_q1.1"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-011-02",
+      "description": "Carries the required procedure accurately",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-011",
+      "stage": "execution",
+      "observable_signals": [
+        "student output shows execution competence"
+      ],
+      "possible_confusions": [
+        "skips or misorders a step"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-011-02"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q1.6",
+        "chemistry_2019_internal_paper2_june_q1.1",
+        "chemistry_2019_internal_paper2_june_q1.2",
+        "chemistry_2020_internal_paper2_nov_q1.1"
+      ],
+      "confidence": "unknown"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-CHEM-011-03",
+      "description": "Reports the answer in the form the memo rewards",
+      "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-011",
+      "stage": "verification",
+      "observable_signals": [
+        "student output shows verification competence"
+      ],
+      "possible_confusions": [
+        "omits a unit or a ticked element"
+      ],
+      "distinguishing_questions": [
+        "DIAG-CHEM-011-03"
+      ],
+      "source_basis": [
+        "chemistry_2018_internal_paper2_june_q1.6",
+        "chemistry_2019_internal_paper2_june_q1.1",
+        "chemistry_2019_internal_paper2_june_q1.2",
+        "chemistry_2020_internal_paper2_nov_q1.1"
+      ],
+      "confidence": "unknown"
+    }
+  ],
+  "diagnostic_questions": [
+    {
+      "diagnostic_id": "DIAG-CHEM-001-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-001",
+      "target_breakdown": "BREAKDOWN-CHEM-001-01",
+      "question": "Probe Bonding & Definitions (QUESTION-FAMILY-CHEM-001): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-001-02",
+        "BREAKDOWN-CHEM-001-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-001 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-001-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-001",
+      "target_breakdown": "BREAKDOWN-CHEM-001-02",
+      "question": "Probe Bonding & Definitions (QUESTION-FAMILY-CHEM-001): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-001-01",
+        "BREAKDOWN-CHEM-001-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-001 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-001-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-001",
+      "target_breakdown": "BREAKDOWN-CHEM-001-03",
+      "question": "Probe Bonding & Definitions (QUESTION-FAMILY-CHEM-001): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-001-01",
+        "BREAKDOWN-CHEM-001-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-001 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-002-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-002",
+      "target_breakdown": "BREAKDOWN-CHEM-002-01",
+      "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-002): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-002-02",
+        "BREAKDOWN-CHEM-002-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-002 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-002-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-002",
+      "target_breakdown": "BREAKDOWN-CHEM-002-02",
+      "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-002): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-002-01",
+        "BREAKDOWN-CHEM-002-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-002 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-002-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-002",
+      "target_breakdown": "BREAKDOWN-CHEM-002-03",
+      "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-002): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-002-01",
+        "BREAKDOWN-CHEM-002-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-002 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-003-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-003",
+      "target_breakdown": "BREAKDOWN-CHEM-003-01",
+      "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-003): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-003-02",
+        "BREAKDOWN-CHEM-003-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-003 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-003-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-003",
+      "target_breakdown": "BREAKDOWN-CHEM-003-02",
+      "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-003): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-003-01",
+        "BREAKDOWN-CHEM-003-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-003 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-003-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-003",
+      "target_breakdown": "BREAKDOWN-CHEM-003-03",
+      "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-003): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-003-01",
+        "BREAKDOWN-CHEM-003-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-003 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-004-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-004",
+      "target_breakdown": "BREAKDOWN-CHEM-004-01",
+      "question": "Probe Bonding (QUESTION-FAMILY-CHEM-004): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-004-02",
+        "BREAKDOWN-CHEM-004-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-004 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-004-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-004",
+      "target_breakdown": "BREAKDOWN-CHEM-004-02",
+      "question": "Probe Bonding (QUESTION-FAMILY-CHEM-004): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-004-01",
+        "BREAKDOWN-CHEM-004-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-004 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-004-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-004",
+      "target_breakdown": "BREAKDOWN-CHEM-004-03",
+      "question": "Probe Bonding (QUESTION-FAMILY-CHEM-004): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-004-01",
+        "BREAKDOWN-CHEM-004-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-004 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-005-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-005",
+      "target_breakdown": "BREAKDOWN-CHEM-005-01",
+      "question": "Probe Bonding (QUESTION-FAMILY-CHEM-005): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-005-02",
+        "BREAKDOWN-CHEM-005-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-005 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-005-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-005",
+      "target_breakdown": "BREAKDOWN-CHEM-005-02",
+      "question": "Probe Bonding (QUESTION-FAMILY-CHEM-005): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-005-01",
+        "BREAKDOWN-CHEM-005-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-005 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-005-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-005",
+      "target_breakdown": "BREAKDOWN-CHEM-005-03",
+      "question": "Probe Bonding (QUESTION-FAMILY-CHEM-005): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-005-01",
+        "BREAKDOWN-CHEM-005-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-005 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-006-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-006",
+      "target_breakdown": "BREAKDOWN-CHEM-006-01",
+      "question": "Probe Organic Chemistry (QUESTION-FAMILY-CHEM-006): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-006-02",
+        "BREAKDOWN-CHEM-006-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-006 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-006-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-006",
+      "target_breakdown": "BREAKDOWN-CHEM-006-02",
+      "question": "Probe Organic Chemistry (QUESTION-FAMILY-CHEM-006): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-006-01",
+        "BREAKDOWN-CHEM-006-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-006 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-006-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-006",
+      "target_breakdown": "BREAKDOWN-CHEM-006-03",
+      "question": "Probe Organic Chemistry (QUESTION-FAMILY-CHEM-006): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-006-01",
+        "BREAKDOWN-CHEM-006-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-006 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-007-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-007",
+      "target_breakdown": "BREAKDOWN-CHEM-007-01",
+      "question": "Probe Intermolecular Forces (QUESTION-FAMILY-CHEM-007): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-007-02",
+        "BREAKDOWN-CHEM-007-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-007 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-007-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-007",
+      "target_breakdown": "BREAKDOWN-CHEM-007-02",
+      "question": "Probe Intermolecular Forces (QUESTION-FAMILY-CHEM-007): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-007-01",
+        "BREAKDOWN-CHEM-007-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-007 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-007-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-007",
+      "target_breakdown": "BREAKDOWN-CHEM-007-03",
+      "question": "Probe Intermolecular Forces (QUESTION-FAMILY-CHEM-007): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-007-01",
+        "BREAKDOWN-CHEM-007-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-007 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-008-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-008",
+      "target_breakdown": "BREAKDOWN-CHEM-008-01",
+      "question": "Probe Reaction Rates (QUESTION-FAMILY-CHEM-008): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-008-02",
+        "BREAKDOWN-CHEM-008-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-008 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-008-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-008",
+      "target_breakdown": "BREAKDOWN-CHEM-008-02",
+      "question": "Probe Reaction Rates (QUESTION-FAMILY-CHEM-008): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-008-01",
+        "BREAKDOWN-CHEM-008-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-008 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-008-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-008",
+      "target_breakdown": "BREAKDOWN-CHEM-008-03",
+      "question": "Probe Reaction Rates (QUESTION-FAMILY-CHEM-008): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-008-01",
+        "BREAKDOWN-CHEM-008-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-008 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-009-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-009",
+      "target_breakdown": "BREAKDOWN-CHEM-009-01",
+      "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-009): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-009-02",
+        "BREAKDOWN-CHEM-009-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-009 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-009-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-009",
+      "target_breakdown": "BREAKDOWN-CHEM-009-02",
+      "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-009): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-009-01",
+        "BREAKDOWN-CHEM-009-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-009 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-009-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-009",
+      "target_breakdown": "BREAKDOWN-CHEM-009-03",
+      "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-009): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-009-01",
+        "BREAKDOWN-CHEM-009-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-009 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-010-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-010",
+      "target_breakdown": "BREAKDOWN-CHEM-010-01",
+      "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-010): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-010-02",
+        "BREAKDOWN-CHEM-010-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-010 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-010-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-010",
+      "target_breakdown": "BREAKDOWN-CHEM-010-02",
+      "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-010): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-010-01",
+        "BREAKDOWN-CHEM-010-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-010 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-010-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-010",
+      "target_breakdown": "BREAKDOWN-CHEM-010-03",
+      "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-010): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-010-01",
+        "BREAKDOWN-CHEM-010-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-010 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-011-01",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-011",
+      "target_breakdown": "BREAKDOWN-CHEM-011-01",
+      "question": "Probe Matter & Skills (QUESTION-FAMILY-CHEM-011): does the student show interpretation competence?",
+      "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-011-02",
+        "BREAKDOWN-CHEM-011-03"
+      ],
+      "expected_evidence": [
+        "correct response on the interpretation probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the interpretation sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-011 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-011-02",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-011",
+      "target_breakdown": "BREAKDOWN-CHEM-011-02",
+      "question": "Probe Matter & Skills (QUESTION-FAMILY-CHEM-011): does the student show execution competence?",
+      "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-011-01",
+        "BREAKDOWN-CHEM-011-03"
+      ],
+      "expected_evidence": [
+        "correct response on the execution probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the execution sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-011 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    },
+    {
+      "diagnostic_id": "DIAG-CHEM-011-03",
+      "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-011",
+      "target_breakdown": "BREAKDOWN-CHEM-011-03",
+      "question": "Probe Matter & Skills (QUESTION-FAMILY-CHEM-011): does the student show verification competence?",
+      "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+      "distinguishes": [
+        "BREAKDOWN-CHEM-011-01",
+        "BREAKDOWN-CHEM-011-02"
+      ],
+      "expected_evidence": [
+        "correct response on the verification probe"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "student answers incorrectly",
+          "follow_up": "re-teach the verification sub-skill"
+        }
+      ],
+      "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-011 member distribution; see UNRES-CHEM-011 for image-dependent items",
+      "confidence": "unknown"
+    }
+  ],
+  "unresolved_items": [
+    {
+      "type": "image_dependent",
+      "id": "UNRES-CHEM-011",
+      "summary": "Several families rest heavily on diagram- or image-dependent questions whose text layer was readable but whose diagram could not be verified",
+      "detail": "Chemistry questions frequently depend on a structure, apparatus or graph image. In this batch the text layer (Rung A) was transcribed, but the diagrams could not be visually verified, so the breakdowns and diagnostics that lean on them are unvalidated. The build appends the per-family image-dependency counts to this item. Families where over half the members are image-dependent (3 of 11): CHEM-004 12/21, CHEM-008 58/100, CHEM-009 24/28.",
+      "affected": [
+        "QUESTION-FAMILY-CHEM-004",
+        "QUESTION-FAMILY-CHEM-008",
+        "QUESTION-FAMILY-CHEM-009"
+      ],
+      "evidence": [
+        "chemistry_pass1_evidence modules: requires_visual_verification=True on diagram questions",
+        "no data/raw/chemistry/SOURCE_INVENTORY.yaml exists (ORC never ran for chemistry)"
+      ],
+      "recommended_review": "Where a family is majority image-dependent, verify the diagram against the source PDF before using its diagnostics in production; a tutor should not generate a diagnosis from a diagram that was never visually confirmed."
+    },
+    {
+      "type": "provenance_gap",
+      "id": "UNRES-CHEM-ACQ-001",
+      "summary": "Chemistry Phase 2 (ORC) was never run, so no SOURCE-* id is available for the Pass 1 records",
+      "detail": "The repository has data/raw/physics/SOURCE_INVENTORY.yaml mapping question records to ORC SOURCE-* ids, but no equivalent exists for chemistry and the ORC step was never executed for the chemistry corpus. Per AGENTS.md and SUBJECT_PROMPTS.md, a fake inventory must NOT be invented. Every chemistry Pass 2 object therefore carries the sentinel SOURCE-ORC-CHEM-NOT-INDEXED as its orc_source_id, and this unresolved item records the gap. The referential chain chemistry_{year}_{board}_{ptype}_{period}_q{qn} -> SOURCE-ORC-CHEM-NOT-INDEXED terminates at the sentinel rather than at a real ORC id.",
+      "affected": [
+        "SOURCE-ORC-CHEM-NOT-INDEXED"
+      ],
+      "evidence": [
+        "data/raw/chemistry/SOURCE_INVENTORY.yaml does not exist",
+        "SUBJECT_PROMPTS.md: do not invent ORC ids or a fake inventory",
+        "knowledge/chemistry/* orc_source_id == SOURCE-ORC-CHEM-NOT-INDEXED"
+      ],
+      "recommended_review": "Run the Phase 2 ORC acquisition for chemistry and create data/raw/chemistry/SOURCE_INVENTORY.yaml; then map each chemistry_{...}_q{qn} source_id to a real SOURCE-* id and re-point the provenance chain."
+    },
+    {
+      "type": "marking_anomaly",
+      "id": "UNRES-CHEM-012",
+      "summary": "Two marking anomalies were resolved during transcription using the question paper as authoritative",
+      "detail": "CHE-2024-NOV: the memo header for Question 5 reads '29 MARKS' but the question paper and the memo marks sum to 13; the memo also prints an incorrect formula for Q6.4.1 (CnH2n+2O2 instead of CnH2nO2). CHE-2025-JUL: the memo header swaps the Question 5 and Question 6 totals; the question paper (Q5=14, Q6=17) is authoritative. All were resolved in favour of the question paper; recorded here so a later reviewer knows the memo was overruled.",
+      "affected": [
+        "chemistry_2024_nov_q5",
+        "chemistry_2024_nov_q6",
+        "chemistry_2025_july_q5",
+        "chemistry_2025_july_q6"
+      ],
+      "evidence": [
+        "chemistry_pass1_evidence_2024_nov.py header note on Q5/Q6 memo misprints",
+        "chemistry_pass1_evidence_2025_july.py header note on Q5/Q6 total swap"
+      ],
+      "recommended_review": "Confirm against a clean copy of the 2024 November and 2025 July memoranda if one becomes available."
+    },
+    {
+      "type": "visual_only_item",
+      "id": "UNRES-CHEM-013",
+      "summary": "A few questions could only be partially transcribed because the answer depends on an unreadable image",
+      "detail": "CHE-2024-NOV Question 6 asks for a flow-diagram completion whose boxes are images, and CHE-2025-NOV Questions 5.4-5.6 ask about displayed organic structures labelled X and Y that are images. The text was transcribed and the items were placed in their families, but the diagram content itself (which bonds, which isomers) could not be confirmed. They are marked requires_visual_verification=True and must not be used to assert a structural claim.",
+      "affected": [
+        "chemistry_2024_nov_q6",
+        "chemistry_2025_nov_q5"
+      ],
+      "evidence": [
+        "chemistry_pass1_evidence_2024_nov.py Q6 flow-diagram sub-questions",
+        "chemistry_pass1_evidence_2025_nov.py X/Y displayed-structure items"
+      ],
+      "recommended_review": "Recover the source images and transcribe the structures before using these items in a diagnostic."
+    },
+    {
+      "type": "coverage_gap",
+      "id": "UNRES-CHEM-021",
+      "summary": "7 extracted question records were not assigned to any family",
+      "detail": "These records are in the Pass 1 batch but no family in this run claims them. They are not evidence for any Understanding Model and the tutor must not present them as such. First few: chemistry_2019_internal_paper2_june_q2.2.4, chemistry_2020_internal_paper2_nov_q3.6.1, chemistry_2021_internal_paper2_nov_q5.1.3, chemistry_2021_internal_paper2_nov_q6.1, chemistry_2021_internal_paper2_nov_q9.7.2, chemistry_2024_internal_paper2_november_q2.6, chemistry_2025_internal_paper2_july_q5.2.1",
+      "affected": [
+        "chemistry_2019_internal_paper2_june_q2.2.4",
+        "chemistry_2020_internal_paper2_nov_q3.6.1",
+        "chemistry_2021_internal_paper2_nov_q5.1.3",
+        "chemistry_2021_internal_paper2_nov_q6.1",
+        "chemistry_2021_internal_paper2_nov_q9.7.2",
+        "chemistry_2024_internal_paper2_november_q2.6",
+        "chemistry_2025_internal_paper2_july_q5.2.1"
+      ],
+      "evidence": [
+        "scripts/build_chemistry_pass2.py family partition check"
+      ],
+      "recommended_review": "Extend family definitions or extract more papers so these records find a family."
+    },
+    {
+      "type": "coverage_gap",
+      "id": "UNRES-CHEM-024",
+      "summary": "Candidate family not modelled in this run: Acid-base titration pH reasoning",
+      "detail": "Only a couple of papers probe titration reasoning with an image-heavy apparatus diagram; the pattern is not yet safe to generalise. Evidence: 2 question records across 2 papers.",
+      "affected": [
+        "chemistry_2025_internal_paper2_july_q4.2.3",
+        "chemistry_2025_internal_paper2_november_q3.2.4"
+      ],
+      "evidence": [
+        "CHE-2025-JUL Q4.2.3",
+        "CHE-2025-NOV Q3.2.4"
+      ],
+      "recommended_review": "Re-run Pass 2 with more papers; if the pattern holds, write the Understanding Model then rather than generalising now."
+    },
+    {
+      "type": "coverage_gap",
+      "id": "UNRES-CHEM-022",
+      "summary": "0 family/families rest on a single paper",
+      "detail": "Family membership spanning one paper only cannot support a 'high' confidence model and its marking_requirements must not be generalised to other sittings: ",
+      "affected": [],
+      "evidence": [
+        "family member paper distribution"
+      ],
+      "recommended_review": "Acquire more papers covering the same competence."
+    },
+    {
+      "type": "single_exemplar",
+      "id": "UNRES-CHEM-023",
+      "summary": "0 breakdown(s) rest on a single question record",
+      "detail": "These breakdowns are cited from one memo record only, so the pattern is inferred from a single exemplar and must not be treated as established: ",
+      "affected": [],
+      "evidence": [
+        "source_basis length in knowledge/chemistry/breakdown_models.json"
+      ],
+      "recommended_review": "Confirm each against a second sitting, or drop the breakdown; a tutor should not use a single-exemplar breakdown to justify a diagnosis."
+    }
+  ],
+  "saturation_report": {
+    "papers_in_sample": 11,
+    "question_families_identified": 11,
+    "families_first_observed_in_final_third": 0,
+    "strata_left_unsampled": [
+      "exam_board=IEB (the two IeBT papers in the sample have an image-only memo and a memo-only file; not extracted)",
+      "exam_board=NSC (no externally set NSC paper in the organized sample)",
+      "exam_period=prelim (no trial/preliminary paper in the sample)",
+      "paper_type=paper2 (Chemistry is a separate subject batch)",
+      "17 further chemistry papers present in data/organized/chemistry but not extracted in this run"
+    ],
+    "families_supported_by_single_exemplar": 0,
+    "computed_at": "2026-09-12T04:39:15Z",
+    "acquisition_order_used": [
+      "CHE-2018-JUL",
+      "CHE-2019-AUG",
+      "CHE-2020-NOV",
+      "CHE-2021-NOV",
+      "CHE-2022-JUN",
+      "CHE-2022-NOV",
+      "CHE-2023-JUL",
+      "CHE-2023-NOV",
+      "CHE-2024-NOV",
+      "CHE-2025-JUL",
+      "CHE-2025-NOV"
+    ],
+    "thirds_split": [
+      [
+        "CHE-2018-JUL",
+        "CHE-2019-AUG",
+        "CHE-2020-NOV",
+        "CHE-2021-NOV"
+      ],
+      [
+        "CHE-2022-JUN",
+        "CHE-2022-NOV",
+        "CHE-2023-JUL"
+      ],
+      [
+        "CHE-2023-NOV",
+        "CHE-2024-NOV",
+        "CHE-2025-JUL",
+        "CHE-2025-NOV"
+      ]
+    ],
+    "families_new_in_final_third": [],
+    "additional_diagnostics": {
+      "question_records_in_batch": 753,
+      "records_assigned_to_a_family": 746,
+      "records_unassigned": 7,
+      "families_resting_on_one_paper": [],
+      "confidence_distribution": {
+        "high": 11
+      },
+      "saturated": false,
+      "reason_not_saturated": "; strata left unsampled (IEB IeBT, NSC, prelim, paper2, further papers not extracted)"
+    }
+  }
+}
