@@ -15,6 +15,7 @@ def test_config_subject_list_matches_scope(config):
     assert slugs == [
         "biology",
         "physics",
+        "chemistry",
         "history",
         "english",
         "ap_mathematics",
@@ -27,6 +28,7 @@ def test_execution_order_prescribed(config):
     assert config.execution_order() == [
         "biology",
         "physics",
+        "chemistry",
         "history",
         "english",
         "ap_mathematics",

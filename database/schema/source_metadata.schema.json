@@ -12,7 +12,7 @@
     },
     "subject": {
       "type": "string",
-      "enum": ["biology", "physics", "history", "english", "ap_mathematics", "mathematics"],
+      "enum": ["biology", "physics", "chemistry", "history", "english", "ap_mathematics", "mathematics"],
       "description": "One of the six scope subjects (SYSTEM_SPEC section 6)."
     },
     "grade": {

@@ -241,16 +241,22 @@ Every Tier 2 and Tier 3 object must retain provenance to the source evidence fro
 
 # 6. Subjects
 
-The initial system scope is exactly six subjects:
+The initial system scope is exactly seven subjects:
 
 ```text
 biology
 physics
+chemistry
 history
 english
 ap_mathematics
 mathematics
 ```
+
+> Chemistry was added as the seventh subject on 2026-09-12: `data/organized/chemistry`
+> holds 28 tracked Physical Sciences Paper 2 files (12 question papers and 12
+> memoranda) that had no configured subject to belong to. The `subject` enum in all
+> five schemas and `config/subjects.yaml` were updated in the same change.
 
 Each subject must have:
 
@@ -583,7 +589,7 @@ The purpose is to make the entire build reproducible and inspectable.
 
 The overall system is complete only when:
 
-1. all six subjects have been processed
+1. all seven subjects have been processed
 2. each subject has a validated source corpus
 3. each subject has a question taxonomy
 4. each subject has Understanding Models
