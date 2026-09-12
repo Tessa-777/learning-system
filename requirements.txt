@@ -10,3 +10,6 @@
 pytest>=7.0
 PyYAML>=6.0
 jsonschema>=4.0
+# Pass 1 extraction reads the text layer of the organized source PDFs
+# (scripts/build_physics_pass1.py) and hashes them for provenance.
+pypdf>=4.0

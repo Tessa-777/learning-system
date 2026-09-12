@@ -1,0 +1,977 @@
+[
+  {
+    "diagnostic_id": "DIAG-PHY-001-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-001",
+    "target_breakdown": "BREAKDOWN-PHY-001-B",
+    "question": "In your own words, what would have to be true for a force to count as friction?",
+    "purpose": "Determine whether the student holds both elements of the definition the memo ticks (opposes motion, parallel to the contact surface) without being given the wording.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-001-B",
+      "BREAKDOWN-PHY-001-C"
+    ],
+    "expected_evidence": [
+      "names the opposing role AND the direction relative to the surface",
+      "mentions that it acts between surfaces in contact"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "only the opposing role is given",
+        "follow_up": "If the same two surfaces are pressed together but the pull is sideways, does the friction change? Why?"
+      },
+      {
+        "condition": "both elements given",
+        "follow_up": "Why does the memo insist on 'parallel to the surface' rather than just 'opposing motion'?"
+      }
+    ],
+    "source_or_rationale": "Memos for 2019 Q5.2, 2021 Q5.2 and 2023 Q6.1 all split the friction definition into exactly these two ticked elements.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-001-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-001",
+    "target_breakdown": "BREAKDOWN-PHY-001-A",
+    "question": "A car's speedometer reads a steady 60 km/h while it goes around a roundabout. Is its velocity constant? What is the difference you are using?",
+    "purpose": "Probe whether the scalar/vector boundary that separates speed from velocity and distance from displacement is actually held.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-001-A"
+    ],
+    "expected_evidence": [
+      "says velocity is not constant because direction changes",
+      "attributes constancy of speed to magnitude only"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "says velocity is constant",
+        "follow_up": "What two things would both have to stay the same for velocity to be constant?"
+      }
+    ],
+    "source_or_rationale": "2019 Q3.2.2/3.2.3 and 2023 Q2.5 both turn on direction change with constant speed; 2021 Q1.3 tests the same idea in MCQ form.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-001-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-001",
+    "target_breakdown": "BREAKDOWN-PHY-001-B",
+    "question": "Two students state Ohm's law. One says 'current is proportional to voltage'. What is the other student likely to add, and why does it matter?",
+    "purpose": "Test whether the student knows that the qualifying condition is part of the marked definition, not decoration.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-001-B"
+    ],
+    "expected_evidence": [
+      "supplies 'at constant temperature'",
+      "explains that resistance changes with temperature"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "cannot supply the condition",
+        "follow_up": "What happens to a filament bulb's resistance as it gets hotter, and what does that do to the law?"
+      }
+    ],
+    "source_or_rationale": "2023 memo Q8.1 ticks 'directly proportional to the potential difference' and 'at constant temperature' separately.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-002-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-002",
+    "target_breakdown": "BREAKDOWN-PHY-002-A",
+    "question": "Before you calculate anything: what quantities does this question actually give you, and which one is missing?",
+    "purpose": "Determine whether equation selection is driven by the known quantities or by familiarity with a formula.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-002-A"
+    ],
+    "expected_evidence": [
+      "lists the givens including which are absent (often time)",
+      "names the equation that contains exactly those plus the unknown"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "names an equation containing a quantity not given",
+        "follow_up": "Where would that quantity come from?"
+      }
+    ],
+    "source_or_rationale": "Memo method steps for 2021 Q4.3.2 and 2023 Q2.2 begin with the specific equation containing the given quantities.",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-002-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-002",
+    "target_breakdown": "BREAKDOWN-PHY-002-B",
+    "question": "Which direction have you decided is positive, and what sign does each term in your equation get as a result?",
+    "purpose": "Expose sign-convention failures that the memos mark separately from the final answer.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-002-B"
+    ],
+    "expected_evidence": [
+      "declares a positive direction before substituting",
+      "assigns a negative sign to g or a in the appropriate cases"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "all terms positive in a braking or upward problem",
+        "follow_up": "The truck is slowing down while moving forward - what does that say about the sign of a relative to v?"
+      }
+    ],
+    "source_or_rationale": "2019 memo Q2.2.3 'Must show that the acceleration is negative'; 2021 memo Q4.3.2 marks the negative sign as a separate mark.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-002-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-002",
+    "target_breakdown": "BREAKDOWN-PHY-002-D",
+    "question": "Walk me through what happens between the start and the moment the question asks about - is it all one kind of motion?",
+    "purpose": "Determine whether the student recognises a multi-stage problem before choosing a method.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-002-D"
+    ],
+    "expected_evidence": [
+      "identifies the distinct stages (reaction time then braking; up then down)",
+      "says which quantity must be found first"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "treats it as one stage",
+        "follow_up": "Does the same equation describe the whole trip? What changes part-way through?"
+      }
+    ],
+    "source_or_rationale": "2019 memo Q2.2.4 sums three separate distances; 2023 memo Q3.3 requires the cliff height before the height above the cliff.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-003-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-003",
+    "target_breakdown": "BREAKDOWN-PHY-003-A",
+    "question": "On this velocity-time graph the line goes below the axis. What is the object doing while the line is negative?",
+    "purpose": "Distinguish 'graph as a picture of the path' from 'graph of a signed quantity'.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-003-A"
+    ],
+    "expected_evidence": [
+      "says the object moves in the negative direction",
+      "does not claim the object is below the ground"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "reads it as position below the start",
+        "follow_up": "What does the vertical axis measure here, and can that quantity be negative?"
+      }
+    ],
+    "source_or_rationale": "2025 Q1.1.2 asks for the greatest westward velocity, i.e. the most negative v; 2021 Q1.3 tests direction on a track diagram.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-003-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-003",
+    "target_breakdown": "BREAKDOWN-PHY-003-B",
+    "question": "Two sections of this graph have the same height but different steepness. Which has the greater acceleration, and what are you comparing?",
+    "purpose": "Separate reading a value from reading a gradient.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-003-B"
+    ],
+    "expected_evidence": [
+      "chooses the steeper section",
+      "states that gradient represents acceleration"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "chooses by height",
+        "follow_up": "What does the height of the line tell you, and what does the slope tell you?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q1.1.4 requires 'steepest gradient' as the separate reason mark.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-003-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-003",
+    "target_breakdown": "BREAKDOWN-PHY-003-C",
+    "question": "Describe the motion in this interval so that someone who cannot see the graph would know exactly what the object is doing.",
+    "purpose": "Test whether the student supplies both required elements (what the velocity does, and the direction) that the memos tick separately.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-003-C"
+    ],
+    "expected_evidence": [
+      "states the velocity behaviour AND the direction",
+      "avoids ambiguous phrasing such as 'slowing down' alone"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "gives only the velocity behaviour",
+        "follow_up": "Which way is it moving while that happens?"
+      }
+    ],
+    "source_or_rationale": "2019 memo Q3.1.2 and 2021 memo Q3.3 each allocate two marks: one for the velocity statement, one for the direction.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-004-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-004",
+    "target_breakdown": "BREAKDOWN-PHY-004-A",
+    "question": "Before you draw anything: how many distinct phases does this motion have, and where does each one start and stop?",
+    "purpose": "Establish whether the student plans section by section, which is how these items are marked.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-004-A"
+    ],
+    "expected_evidence": [
+      "identifies each phase and its boundary times",
+      "says what the graph does in each"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "describes one overall motion",
+        "follow_up": "Is the acceleration the same throughout? What happens at the bounce?"
+      }
+    ],
+    "source_or_rationale": "2021 memo Q3.8 and 2025 memo Q2.7 allocate marks per section of the graph.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-004-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-004",
+    "target_breakdown": "BREAKDOWN-PHY-004-B",
+    "question": "The cart goes up the slope and comes back down. Which part has the steeper line on your graph, and why?",
+    "purpose": "Test whether relative steepness is derived from the forces rather than drawn symmetrically.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-004-B"
+    ],
+    "expected_evidence": [
+      "says the upward section is steeper",
+      "explains that friction and the weight component act in the same direction going up"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "draws them equal",
+        "follow_up": "What forces act along the slope on the way up, and on the way down?"
+      }
+    ],
+    "source_or_rationale": "2021 memo Q6.1.5 marks 'gradient steeper on the way up than on the way down'; Q6.1.4 requires the force reasoning.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-004-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-004",
+    "target_breakdown": "BREAKDOWN-PHY-004-C",
+    "question": "If I only saw your graph and not the question, what values would I need labelled to know you had answered it?",
+    "purpose": "Make the student treat labels and the stated direction convention as part of the answer.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-004-C"
+    ],
+    "expected_evidence": [
+      "names the specific times or heights the question asks for",
+      "confirms the direction convention matches the given graph"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "says no labels are needed",
+        "follow_up": "The memo for this item awards a mark for labelled values - which ones would it be looking for?"
+      }
+    ],
+    "source_or_rationale": "2023 memo Q4.7 marks shapes and times separately; 2019 memo Q3.1.8 says '3/4 if on the negative side'.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-005-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-005",
+    "target_breakdown": "BREAKDOWN-PHY-005-A",
+    "question": "For each arrow on your diagram, which other object is doing the pushing or pulling?",
+    "purpose": "Expose invented forces and third-law partners drawn on the wrong body.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-005-A"
+    ],
+    "expected_evidence": [
+      "names a real interacting object for every arrow",
+      "removes any 'force of motion' arrow"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "cannot name an agent for an arrow",
+        "follow_up": "If no object causes that force, should it be on the diagram?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q3.1 lists the four forces with their directions; 2023 Q1.4 offers 'the ma force exerted by the crate' as a rejected distractor.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-005-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-005",
+    "target_breakdown": "BREAKDOWN-PHY-005-B",
+    "question": "Is the normal force here the same size as the weight? What decides that?",
+    "purpose": "Test whether the normal force is treated as a fixed reaction to weight or as whatever the perpendicular equilibrium requires.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-005-B"
+    ],
+    "expected_evidence": [
+      "says they differ on an incline or when a vertical component exists",
+      "refers to the perpendicular direction having no acceleration"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "says they are always equal",
+        "follow_up": "The rope pulls upward at 30 degrees - what does that do to how hard the ground pushes up?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q3.3 requires FN = Fg - F sin30; 2023 Q7.2.2 requires FN = mg cos theta.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-005-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-005",
+    "target_breakdown": "BREAKDOWN-PHY-005-C",
+    "question": "The person is slowing down as the trampoline stops them. Should the two arrows on your diagram be the same length?",
+    "purpose": "Check that relative arrow length follows from the acceleration rather than being drawn equal by default.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-005-C"
+    ],
+    "expected_evidence": [
+      "draws the upward force longer",
+      "links the length difference to the upward net force"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "draws them equal",
+        "follow_up": "If the forces were equal, what would the acceleration be?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q2.5 states 'FN must be longer than Fg'; 2021 memo Q5.1 requires 'Tension force > Friction force'.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-006-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-006",
+    "target_breakdown": "BREAKDOWN-PHY-006-A",
+    "question": "How many objects are accelerating here, and what is the acceleration of each?",
+    "purpose": "Establish whether the string constraint is recognised before any equation is written.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-006-A"
+    ],
+    "expected_evidence": [
+      "states both bodies share the same magnitude of acceleration",
+      "explains that the inextensible string enforces this"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "gives different accelerations",
+        "follow_up": "What would happen to the string if one body accelerated more than the other?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q4.3 and 2023 memo Q7.1.1 both solve two equations sharing one a and one T.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-006-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-006",
+    "target_breakdown": "BREAKDOWN-PHY-006-A",
+    "question": "Is the tension in the string equal to the weight of the hanging mass? Why or why not?",
+    "purpose": "Target the most common assumption in this family, which the 2025 paper asks about before any calculation.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-006-A"
+    ],
+    "expected_evidence": [
+      "says no, because the hanging mass accelerates",
+      "uses Fnet = ma on the hanging mass to compare T and mg"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "says they are equal",
+        "follow_up": "If T equalled the weight, what would the net force on the hanging mass be?"
+      }
+    ],
+    "source_or_rationale": "2025 Q4.1/4.2 ask for the comparison and its justification; memo answer: tension greater than weight.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-006-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-006",
+    "target_breakdown": "BREAKDOWN-PHY-006-B",
+    "question": "You have two equations. Which direction did you choose as positive, and is it the same in both?",
+    "purpose": "Check consistency of the sign convention across the two body equations.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-006-B"
+    ],
+    "expected_evidence": [
+      "one declared positive direction used in both equations",
+      "consistent signs for a and T"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "conventions differ",
+        "follow_up": "If both bodies accelerate 'positively' in your equations, which way is each actually moving?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q4.3 marks the equality TA on B = -TB on A explicitly, showing the convention is part of the marking.",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-007-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-007",
+    "target_breakdown": "BREAKDOWN-PHY-007-A",
+    "question": "Which component did you use - the one next to the 30 degree angle or the one opposite it? How did you decide?",
+    "purpose": "Make the choice of trigonometric ratio explicit rather than habitual.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-007-A"
+    ],
+    "expected_evidence": [
+      "identifies the adjacent side for cos",
+      "refers to the triangle rather than to a rule of thumb"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "cannot justify the ratio",
+        "follow_up": "Draw the triangle and mark which side is the horizontal component."
+      }
+    ],
+    "source_or_rationale": "2025 memo Q3.3 marks the substitution (300)sin30 for the vertical component, showing the ratio choice is assessed.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-007-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-007",
+    "target_breakdown": "BREAKDOWN-PHY-007-B",
+    "question": "The rope pulls up at an angle while the canoe is pulled along the ground. Does the ground push up as hard as it would if the rope were horizontal?",
+    "purpose": "Test whether the vertical component is recognised as changing the normal force, and with it the friction.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-007-B"
+    ],
+    "expected_evidence": [
+      "says the normal force is reduced",
+      "connects the reduced normal force to reduced maximum friction"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "says the normal force is unchanged",
+        "follow_up": "What does the upward part of the pull do to how hard the canoe presses on the mud?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q3.3 (FN = Fg - F sin30) and Q3.5 (removing load reduces FN and therefore friction).",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-007-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-007",
+    "target_breakdown": "BREAKDOWN-PHY-007-C",
+    "question": "You have an angle of 79,5 degrees. Measured from what, and turning which way?",
+    "purpose": "Check that the mathematical angle is converted into the direction format the question asks for.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-007-C"
+    ],
+    "expected_evidence": [
+      "states the reference direction",
+      "converts correctly to a bearing"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "cannot say",
+        "follow_up": "A bearing is measured from north clockwise - where does your angle start?"
+      }
+    ],
+    "source_or_rationale": "2019 memo Q4.1.2 awards a separate mark for the final bearing (190,5 degrees).",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-008-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-008",
+    "target_breakdown": "BREAKDOWN-PHY-008-A",
+    "question": "Before you tell me increase or decrease: which equation links the thing that changed to the thing being asked about?",
+    "purpose": "Force the governing relationship to be named before the prediction, which is how the marks are allocated.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-008-A"
+    ],
+    "expected_evidence": [
+      "names a specific equation",
+      "identifies which symbols in it are affected"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "gives the prediction with no equation",
+        "follow_up": "What would you write down if you had to show your reasoning to a marker?"
+      }
+    ],
+    "source_or_rationale": "2019 memo Q7.7.2 requires two named formulae for 4 marks; 2025 memo Q8.3 requires emf = Vint + Vext.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-008-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-008",
+    "target_breakdown": "BREAKDOWN-PHY-008-B",
+    "question": "In this arrangement, which quantity stays the same for both bulbs - the current through them or the voltage across them?",
+    "purpose": "Expose the series/parallel constant mix-up that makes the same relationship give opposite answers.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-008-B"
+    ],
+    "expected_evidence": [
+      "identifies the constant correctly for the arrangement",
+      "chooses the matching power form"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "gets the constant wrong",
+        "follow_up": "In a series circuit, does the current have anywhere else to go?"
+      }
+    ],
+    "source_or_rationale": "2021 memo Q7.2.2 requires 'P inversely proportional to R at constant V' for one circuit and 'directly proportional at constant I' for the other.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-008-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-008",
+    "target_breakdown": "BREAKDOWN-PHY-008-C",
+    "question": "You said the power increases. What happens to the total current first, and what does that do to the voltage lost inside the battery?",
+    "purpose": "Elicit the intermediate steps the memo marks, rather than a one-step jump to the conclusion.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-008-C"
+    ],
+    "expected_evidence": [
+      "states that total resistance and current change",
+      "says less voltage is lost internally so the external voltage rises"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "skips to the conclusion",
+        "follow_up": "Where does the emf of the battery get shared out?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q8.3 awards one mark per link: increase, current decreases, less internal loss (Vint = Ir), external voltage increases.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-009-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-009",
+    "target_breakdown": "BREAKDOWN-PHY-009-A",
+    "question": "Which resistors in this circuit have both of their ends joined to the same two points?",
+    "purpose": "Test whether parallel groupings are recognised from the connections rather than from the drawing's layout.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-009-A"
+    ],
+    "expected_evidence": [
+      "identifies the parallel pair correctly",
+      "explains the shared-node criterion"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "misidentifies the grouping",
+        "follow_up": "Trace the wire from each end of that resistor - where does it lead?"
+      }
+    ],
+    "source_or_rationale": "2021 memo Q7.1.2 and 2023 memo Q8.2 both require the parallel combination before any current is found.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-009-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-009",
+    "target_breakdown": "BREAKDOWN-PHY-009-C",
+    "question": "The voltmeter across the battery reads less than the emf. Where has the rest of the emf gone?",
+    "purpose": "Determine whether internal resistance and lost voltage are part of the student's circuit model.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-009-C"
+    ],
+    "expected_evidence": [
+      "attributes the difference to the internal resistance",
+      "uses emf = I(Rext + r) or Vterm = emf - Ir"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "says the reading is the emf",
+        "follow_up": "The battery is stated to have 0,5 ohm internal resistance - what happens when current flows through it?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q9.3/Q9.4 require emf = I(Rext + r) and emf = Vext + Vint.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-009-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-009",
+    "target_breakdown": "BREAKDOWN-PHY-009-B",
+    "question": "The question asks for the reading on voltmeter V1. Which resistance is that voltage across - the total or one component?",
+    "purpose": "Check that component-level and circuit-level quantities are not interchanged.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-009-B"
+    ],
+    "expected_evidence": [
+      "identifies the component the meter is across",
+      "uses that component's resistance in V = IR"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "uses the total resistance",
+        "follow_up": "What is V1 physically connected to?"
+      }
+    ],
+    "source_or_rationale": "2023 memo Q8.4 requires the total current first and then V = IR for the specific resistor; 2025 memo Q9.2 does the reverse.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-010-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-010",
+    "target_breakdown": "BREAKDOWN-PHY-010-A",
+    "question": "In this investigation, which variable is being changed on purpose and which is being measured?",
+    "purpose": "Establish whether the student can identify the variables that a hypothesis must relate in order.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-010-A"
+    ],
+    "expected_evidence": [
+      "names the independent and dependent variables",
+      "states the relationship between them, not an outcome"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "cannot separate them",
+        "follow_up": "If you changed nothing, what would still happen?"
+      }
+    ],
+    "source_or_rationale": "2019 memo Q6.1 marks the hypothesis in three parts and notes 'order matters'.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-010-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-010",
+    "target_breakdown": "BREAKDOWN-PHY-010-C",
+    "question": "How would you take the gradient of this graph, and what units would it have?",
+    "purpose": "Distinguish taking a gradient from the line of best fit (with units) from dividing one point's coordinates.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-010-C",
+      "BREAKDOWN-PHY-010-D"
+    ],
+    "expected_evidence": [
+      "chooses two points on the line of best fit",
+      "gives the unit as y-unit over x-unit"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "uses a plotted point",
+        "follow_up": "Why is the line of best fit used instead of the individual points?"
+      }
+    ],
+    "source_or_rationale": "2021 memo Q8.5 requires the gradient and its unit; 2025 memo Q6.1.3 allows a 10% tolerance, implying a read-off gradient.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-010-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-010",
+    "target_breakdown": "BREAKDOWN-PHY-010-D",
+    "question": "Your gradient has a value and a unit. What physical quantity in this experiment does that number represent?",
+    "purpose": "Test the step that carries the most marks: equating the measured gradient to the theoretical constant.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-010-D"
+    ],
+    "expected_evidence": [
+      "identifies the constant (g, or 1/(G m1 m2))",
+      "sets up the equation to find the unknown"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "cannot say",
+        "follow_up": "Write the theoretical equation relating the two quantities you plotted and see what the coefficient is."
+      }
+    ],
+    "source_or_rationale": "2021 memo Q8.6/Q8.7 require the gradient to be identified as 1/(G m1 m2) and then used to find the mass.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-011-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-011",
+    "target_breakdown": "BREAKDOWN-PHY-011-A",
+    "question": "An electron drops from the third level to the ground state. How many different photons could be emitted, and how did you count them?",
+    "purpose": "Determine whether transitions are counted by pairing levels rather than by counting levels.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-011-A"
+    ],
+    "expected_evidence": [
+      "gives 3",
+      "explains the count as the possible pairs of levels involved"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "gives the wrong count",
+        "follow_up": "List every possible downward jump between the levels."
+      }
+    ],
+    "source_or_rationale": "2021 Q9.1 and 2023 Q10.1 are the same item; both memo answers are 3.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-011-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-011",
+    "target_breakdown": "BREAKDOWN-PHY-011-A",
+    "question": "To find the photon's energy, which number from the diagram do you use?",
+    "purpose": "Expose the use of a single level energy instead of the difference between two levels.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-011-A"
+    ],
+    "expected_evidence": [
+      "takes the difference between the two levels",
+      "handles the negative signs correctly"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "uses one level value",
+        "follow_up": "The electron ends lower than it started - what happened to the energy in between?"
+      }
+    ],
+    "source_or_rationale": "2023 memo Q10.2 substitutes (13,6 - 3,4) x 1,6 x 10^-19, i.e. a level difference converted to joules.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-011-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-011",
+    "target_breakdown": "BREAKDOWN-PHY-011-C",
+    "question": "Two lasers put out the same total power, but one is green and one is red. What is different about the light itself?",
+    "purpose": "Separate beam power from photon energy, the distinction the 2025 item is built on.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-011-C"
+    ],
+    "expected_evidence": [
+      "says the green photons each carry more energy",
+      "links this to shorter wavelength / higher frequency"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "argues from the power rating",
+        "follow_up": "If the total power is the same, what must be different about the individual photons?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q7.1 requires 'higher frequency, more energy' plus 'wavelength inversely proportional to frequency'.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-012-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-012",
+    "target_breakdown": "BREAKDOWN-PHY-012-A",
+    "question": "Before you look at the options - what physics idea does this question turn on?",
+    "purpose": "Determine whether the item is parsed before the options are considered.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-012-A"
+    ],
+    "expected_evidence": [
+      "names the relevant concept without seeing the options",
+      "then eliminates options on that basis"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "cannot name the concept",
+        "follow_up": "Which topic in this paper does this question belong to?"
+      }
+    ],
+    "source_or_rationale": "The MCQ memos give only letters, so no distractor evidence exists; this diagnostic is Tier 3 inference designed to expose option-matching.",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-012-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-012",
+    "target_breakdown": "BREAKDOWN-PHY-012-B",
+    "question": "Why is each of the other three options wrong?",
+    "purpose": "Distinguish lucky selection from understanding, and locate which specific concept is missing.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-012-B"
+    ],
+    "expected_evidence": [
+      "gives a physics reason for rejecting each distractor",
+      "is consistent with their written answers on the same topic"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "cannot reject the distractors",
+        "follow_up": "Which one looks most plausible to you, and what makes it tempting?"
+      }
+    ],
+    "source_or_rationale": "No memo in this batch analyses MCQ distractors; the diagnostic is Tier 3 inference justified by the absence of that evidence.",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-013-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-013",
+    "target_breakdown": "BREAKDOWN-PHY-013-A",
+    "question": "The Earth pulls down on the book. What is the partner force in that interaction - which object exerts it, on what, and which way?",
+    "purpose": "Test the third-law pairing directly, targeting the normal-force substitution the memos reject.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-013-A"
+    ],
+    "expected_evidence": [
+      "names the book pulling up on the Earth",
+      "keeps the force type gravitational"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "answers 'the table pushes up on the book'",
+        "follow_up": "Which two objects does that force act between, and is it the same interaction as the weight?"
+      }
+    ],
+    "source_or_rationale": "2019 memo Q5.5 and 2023 memo Q7.1.3 both require the object's gravitational pull on the Earth, upward; 2021 Q1.7 offers the normal force as a rejected option.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-013-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-013",
+    "target_breakdown": "BREAKDOWN-PHY-013-B",
+    "question": "A heavy truck collides with a small car. Which one experiences the larger force during the collision, and which law tells you?",
+    "purpose": "Test equal-magnitude reasoning independently of the masses.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-013-B"
+    ],
+    "expected_evidence": [
+      "says the forces are equal in magnitude",
+      "cites Newton's third law rather than F = ma"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "gives the truck the larger force",
+        "follow_up": "If the forces are equal, why do the two vehicles respond so differently?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q5.3: 'They will experience an equal magnitude of force (NIII)'.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-014-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-014",
+    "target_breakdown": "BREAKDOWN-PHY-014-A",
+    "question": "You have two unknown velocities after the collision. What two facts about this collision can you turn into equations?",
+    "purpose": "Determine whether the student recognises that 'perfectly elastic' supplies a second equation.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-014-A"
+    ],
+    "expected_evidence": [
+      "names conservation of momentum and conservation of kinetic energy (or the relative-velocity relation)",
+      "explains why two equations are needed"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "gives only momentum",
+        "follow_up": "What extra information does the word 'elastic' give you?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q5.2 shows both the energy equation and the relative-velocity shortcut as accepted routes.",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-014-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-014",
+    "target_breakdown": "BREAKDOWN-PHY-014-B",
+    "question": "The two carts are moving towards each other. What signs will their velocities have in your equation, and which direction did you choose as positive?",
+    "purpose": "Establish the sign convention before any substitution, since momentum is a vector quantity.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-014-B"
+    ],
+    "expected_evidence": [
+      "declares a positive direction",
+      "assigns opposite signs to the two initial velocities"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "adds both as positive",
+        "follow_up": "If both velocities are positive, which way are both carts moving?"
+      }
+    ],
+    "source_or_rationale": "2025 memo Q5.2 substitutes (0,25)(+2) + (0,5)(-5), i.e. an explicit sign convention.",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-015-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-015",
+    "target_breakdown": "BREAKDOWN-PHY-015-A",
+    "question": "The truck accelerates and the box slides backwards off it. Which physics idea explains that - not what happens, but why it has to happen?",
+    "purpose": "Determine whether the student reaches for a governing principle rather than narrating the event.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-015-A"
+    ],
+    "expected_evidence": [
+      "names inertia or Newton's first law",
+      "says the box tends to keep its state of motion"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "only describes the sliding",
+        "follow_up": "What would the box do if there were no friction at all between it and the truck?"
+      }
+    ],
+    "source_or_rationale": "2019 memo 5.3.1 and 2021 memo 4.2 both tick 'inertia' as a separate mark within a four-link chain.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-015-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-015",
+    "target_breakdown": "BREAKDOWN-PHY-015-C",
+    "question": "You said the friction gets smaller when the cooler box is taken out. What exactly does friction depend on, and which of those changed?",
+    "purpose": "Test whether the friction relationship (mu and normal force) is what the student is reasoning from.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-015-C",
+      "BREAKDOWN-PHY-015-B"
+    ],
+    "expected_evidence": [
+      "names Ff = mu FN",
+      "identifies the normal force as the quantity that changed"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "says friction depends on the weight",
+        "follow_up": "On a slope, is the normal force equal to the weight? What does that do to your reasoning?"
+      }
+    ],
+    "source_or_rationale": "2025 memo 3.5 ticks 'normal force decreases' and 'Ff = mu FN so static friction decreases'.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-015-C",
+    "understanding_model_id": "UNDERSTANDING-PHY-015",
+    "target_breakdown": "BREAKDOWN-PHY-015-B",
+    "question": "Take your explanation one step further: so what happens to the box, and why does that follow?",
+    "purpose": "Check that the causal chain is carried through to the consequence the question asks about.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-015-B"
+    ],
+    "expected_evidence": [
+      "states the outcome",
+      "connects it to the previous step rather than asserting it"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "stops at the principle",
+        "follow_up": "What would a marker still be waiting for after that sentence?"
+      }
+    ],
+    "source_or_rationale": "The final tick in 2019 memo 5.3.1 is 'hence it will slide off' - the consequence is separately marked.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-016-A",
+    "understanding_model_id": "UNDERSTANDING-PHY-016",
+    "target_breakdown": "BREAKDOWN-PHY-016-A",
+    "question": "A runner goes from A to B to C. Are the distance and the displacement the same number? Which one changes if the route changes but A and C stay fixed?",
+    "purpose": "Separate path length from change in position using the same setup the memos use.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-016-A"
+    ],
+    "expected_evidence": [
+      "says they differ",
+      "identifies distance as the quantity that changes with the route"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "says they are the same",
+        "follow_up": "What is the shortest possible path from A to C, and does the runner take it?"
+      }
+    ],
+    "source_or_rationale": "2021 memo 2.1.1 and 2019 memo 3.2.3 each award separate marks for the two definitions and their application.",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-PHY-016-B",
+    "understanding_model_id": "UNDERSTANDING-PHY-016",
+    "target_breakdown": "BREAKDOWN-PHY-016-B",
+    "question": "You gave the athlete's velocity as 3,81 m/s. Is that a complete answer for a velocity?",
+    "purpose": "Test whether the direction requirement of a vector quantity is part of the student's habit.",
+    "distinguishes": [
+      "BREAKDOWN-PHY-016-B"
+    ],
+    "expected_evidence": [
+      "says a direction is required",
+      "supplies the correct direction for the position asked about"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "says it is complete",
+        "follow_up": "What is the difference between that answer and a speed?"
+      }
+    ],
+    "source_or_rationale": "2019 memo 3.2.2 awards one mark for the magnitude and one for 'west'.",
+    "confidence": "high"
+  }
+]

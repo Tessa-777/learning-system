@@ -1,0 +1,15 @@
+{
+  "run_id": "20260911T194900Z_b6d3",
+  "started_at": "2026-09-11T19:49:00.756596Z",
+  "completed_at": "2026-09-11T19:49:02.672196Z",
+  "phase": "4-11",
+  "subject": "physics",
+  "spec_version": "1.0.0",
+  "implementation_spec_version": "1.0.0",
+  "agent_version": "1.0.0",
+  "model": "arena-agent",
+  "model_provider": "arena.ai",
+  "git_commit_before": "f91de4f",
+  "git_commit_after": "f91de4f",
+  "status": "completed_with_review"
+}

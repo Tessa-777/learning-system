@@ -1,0 +1,24 @@
+{
+  "papers_discovered": 25,
+  "question_papers_in_sample": 13,
+  "papers_processed": 4,
+  "papers_not_processed": 9,
+  "questions_extracted": 238,
+  "questions_classified": 224,
+  "questions_unclassified": 14,
+  "memo_alignment_rate": 1.0,
+  "memo_marks_agreement_papers": [
+    "PHY-2025-NOV"
+  ],
+  "curriculum_mapping_rate": null,
+  "records_requiring_visual_verification": 197,
+  "question_families": 16,
+  "understanding_models": 16,
+  "breakdowns": 48,
+  "diagnostics": 44,
+  "unresolved_items": 28,
+  "validation_failures": 0,
+  "families_first_observed_in_final_third": 1,
+  "strata_left_unsampled": 5,
+  "saturated": false
+}

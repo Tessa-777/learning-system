@@ -1,0 +1,77 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/extracted/physics_pass1.json
+  type: json
+  created_or_modified: '2026-09-11T20:04:21.271021Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: e12738e71af386e52a06e0e1c19d3131ca745d869cc0bb79234359e331fbe550
+  description: 'Physics two-pass artifact: data/extracted/physics_pass1.json'
+- artifact_id: ART-0002
+  path: /home/user/learning-system/data/extracted/pass1/physics/_BATCH_SUMMARY.json
+  type: json
+  created_or_modified: '2026-09-11T20:04:21.271807Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: 2486b584b6a7396e8a057b781b6d4b2b12cbbb357dcabedea7feeedd3d6eb140
+  description: 'Physics two-pass artifact: data/extracted/pass1/physics/_BATCH_SUMMARY.json'
+- artifact_id: ART-0003
+  path: /home/user/learning-system/knowledge/physics/question_families.json
+  type: json
+  created_or_modified: '2026-09-11T20:04:21.271893Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: d587d31556a019f9144226bdeecf1da2a5492598b492975159c023a0e14acbf1
+  description: 'Physics two-pass artifact: knowledge/physics/question_families.json'
+- artifact_id: ART-0004
+  path: /home/user/learning-system/knowledge/physics/understanding_models.json
+  type: json
+  created_or_modified: '2026-09-11T20:04:21.271965Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: 83e3ee8176b0a9b727b270154502cf83c63d34a6ca4bfc31988efc95a8913b0d
+  description: 'Physics two-pass artifact: knowledge/physics/understanding_models.json'
+- artifact_id: ART-0005
+  path: /home/user/learning-system/knowledge/physics/breakdown_models.json
+  type: json
+  created_or_modified: '2026-09-11T20:04:21.272117Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: dc45620ff84abf592fb7e28841dc78a8a4da2b113fdfcf99b3e9769fd77db891
+  description: 'Physics two-pass artifact: knowledge/physics/breakdown_models.json'
+- artifact_id: ART-0006
+  path: /home/user/learning-system/knowledge/physics/diagnostic_questions.json
+  type: json
+  created_or_modified: '2026-09-11T20:04:21.272211Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: 7d7e2839403c1e563d973b5dd0219b849ac098a49c0315cee546c2200ae69873
+  description: 'Physics two-pass artifact: knowledge/physics/diagnostic_questions.json'
+- artifact_id: ART-0007
+  path: /home/user/learning-system/knowledge/physics/unresolved_items.json
+  type: json
+  created_or_modified: '2026-09-11T20:04:21.272293Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: 5ba2870c06e6a7d30d29bbae551e228e3f8b1831e3b2b2f07b5fb752377ad79c
+  description: 'Physics two-pass artifact: knowledge/physics/unresolved_items.json'
+- artifact_id: ART-0008
+  path: /home/user/learning-system/knowledge/physics/saturation_report.json
+  type: json
+  created_or_modified: '2026-09-11T20:04:21.272377Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: 2713da696144819c177e9a42c92822a8de1474af9f3b8cc93b70caece16fff45
+  description: 'Physics two-pass artifact: knowledge/physics/saturation_report.json'
+- artifact_id: ART-0009
+  path: /home/user/learning-system/knowledge/physics/_PASS2_SUMMARY.json
+  type: json
+  created_or_modified: '2026-09-11T20:04:21.272425Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: 1a41bcd9f9ebc5c1d2f31f1b8c41a8b97b6cee98ff64cbca654ebd431002ffb6
+  description: 'Physics two-pass artifact: knowledge/physics/_PASS2_SUMMARY.json'
+- artifact_id: ART-0010
+  path: /home/user/learning-system/knowledge/physics/PASS2_REPORT.md
+  type: markdown
+  created_or_modified: '2026-09-11T20:04:21.272476Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: 0741039dbb3ccd97a2a85385f13d2f3ac2dac7d8a3fff24caa45b4b7dffd0455
+  description: 'Physics two-pass artifact: knowledge/physics/PASS2_REPORT.md'
+- artifact_id: ART-0011
+  path: /home/user/learning-system/review_queue/RQ-P4-PHY-PASS2.yaml
+  type: yaml
+  created_or_modified: '2026-09-11T20:04:21.272529Z'
+  source_run: 20260911T200418Z_69ee
+  content_hash: bd2c79c4fcda4b8a43fbe8d460f9a7c7155c65bdd1adca96d16eebbb5b5913a6
+  description: 'Physics two-pass artifact: review_queue/RQ-P4-PHY-PASS2.yaml'

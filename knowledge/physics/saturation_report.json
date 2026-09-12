@@ -1,0 +1,49 @@
+{
+  "papers_in_sample": 4,
+  "question_families_identified": 16,
+  "families_first_observed_in_final_third": 1,
+  "strata_left_unsampled": [
+    "exam_board=IEB (the two IeBT papers in the sample have an image-only memo and a memo-only file)",
+    "exam_board=NSC (no externally set NSC paper in the organized sample)",
+    "exam_period=prelim (no trial/preliminary paper in the sample)",
+    "paper_type=paper2 (Chemistry is a separate subject batch)",
+    "9 further physics papers present in data/organized/physics but not extracted in this run"
+  ],
+  "families_supported_by_single_exemplar": 0,
+  "computed_at": "2026-09-11T21:09:59Z",
+  "acquisition_order_used": [
+    "PHY-2019-MY",
+    "PHY-2021-NOV",
+    "PHY-2023-MY",
+    "PHY-2025-NOV"
+  ],
+  "thirds_split": [
+    [
+      "PHY-2019-MY"
+    ],
+    [
+      "PHY-2021-NOV",
+      "PHY-2023-MY"
+    ],
+    [
+      "PHY-2025-NOV"
+    ]
+  ],
+  "families_new_in_final_third": [
+    "QUESTION-FAMILY-PHY-014"
+  ],
+  "additional_diagnostics": {
+    "question_records_in_batch": 238,
+    "records_assigned_to_a_family": 224,
+    "records_unassigned": 14,
+    "families_resting_on_one_paper": [
+      "QUESTION-FAMILY-PHY-014"
+    ],
+    "confidence_distribution": {
+      "high": 13,
+      "medium": 3
+    },
+    "saturated": false,
+    "reason_not_saturated": "families_first_observed_in_final_third > 0; batch is smaller than the recommended 8-15 papers"
+  }
+}

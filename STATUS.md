@@ -3,14 +3,23 @@
 This file is auto-written by `scripts/phase1_bootstrap.py` and should be updated after each run (IMPLEMENTATION_SPEC §25). The current phase is recorded under `runs/`.
 
 ```yaml
-current_phase: 3
-current_subject: all
+current_phase: 4-11 (physics only)
+current_subject: physics
 status: completed_with_review
 knowledge_bank_version: null
-unresolved_items: 818
-last_run_id: 20260903T091854Z_8c5d
-next_allowed_phase: 4
+unresolved_items: 846
+last_run_id: 20260911T210957Z_edb5
+next_allowed_phase: 4 (remaining subjects); physics may proceed to 12 once its Phase 7 gap is closed
 ```
+
+> **Corrections to earlier entries in this file.** The Phase 3 aggregate below states that
+> "No Phase 4 artifacts exist" and that Phase 4 must not start until all 818 sources are
+> downloaded. Both are now out of date for physics: `data/organized/` holds 163 source files
+> that are tracked in git, including the 25 physics PDFs used by the run recorded below, and
+> `data/extracted/` holds real Pass 1 output. `data/raw/physics/SOURCE_INVENTORY.yaml` still
+> lists all 233 ORC sources as `inaccessible` with `local_path: null`, which no longer
+> describes the organized copies — that inventory has not been reconciled
+> (`UNRES-PHY-025`).
 
 ---
 
@@ -330,6 +339,72 @@ No source files were downloaded for any subject because the sandbox environment 
 
 ---
 
+## Physics Two-Pass — Phases 4, 5, 6, 8, 9, 10, 11
+
+**Status:** completed_with_review
+
+**Run ID:** `20260911T210957Z_edb5`
+
+**Subject:** physics
+
+### Outcome
+
+Pass 1 was re-run for physics and Pass 2 (cross-paper synthesis, `TWO_PASS_PROMPTS.md`) was
+executed on the resulting batch. 238 question records were extracted from 4 question papers and
+their verified memoranda, and compressed into 16 question families, 16 Understanding Models, 48
+breakdown models, 44 diagnostic questions and 28 unresolved items. Every emitted object validates
+against `database/schema/*.schema.json` (124 checked, 0 failures). The saturation report does
+**not** declare physics saturated. Full narrative: `knowledge/physics/PASS2_REPORT.md`.
+
+The inherited `data/extracted/physics_pass1.json` was a stub (one record per paper, every content
+field `"unresolved"`); it was rebuilt from the tracked PDFs in `data/organized/physics`. Only the
+physics records in `data/extracted/all_subjects_pass1.json` changed (15 → 238); the other five
+subjects' records are byte-identical.
+
+### Deliverables
+
+- `data/extracted/physics_pass1.json`, `data/extracted/pass1/physics/*.json` — Pass 1 batch
+- `knowledge/physics/{question_families,understanding_models,breakdown_models,diagnostic_questions,unresolved_items,saturation_report,_PASS2_SUMMARY}.json, plus `pass2_output.json` (the same content as the single five-array object the prompt specifies)`
+- `knowledge/physics/PASS2_REPORT.md` — narrative and saturation verdict
+- `ingestion/extraction/physics_pass1_evidence_{2019,2021,2023,2025}.py` — Pass 1 evidence tables
+- `ingestion/analysis/physics_pass2_{families,models,unresolved}.py` — Pass 2 analysis
+- `scripts/build_physics_pass1.py`, `scripts/build_physics_pass2.py`, `scripts/run_physics_pass2.py`
+- `tests/test_physics_pass2.py` — 8 tests executing both builders and re-checking the artifacts
+- `review_queue/RQ-P4-PHY-PASS2.yaml` — 28 items, each with issue, affected entity, evidence,
+  possible resolutions and a recommended review
+
+### Metrics
+
+- Files in the organized physics sample: 25 (13 question papers, 11 memoranda)
+- Papers processed: 4 (2019 mid-year, 2021 Nov, 2023 mid-year, 2025 Nov); not processed: 9
+- Questions extracted: 238; classified into a family: 224; unclassified: 14
+- Memo alignment rate: 1.00 (all pairs verified from printed headers); 2025 memo marks disagree
+  with the paper (125 vs 135) — `UNRES-PHY-002`
+- Curriculum mapping rate: null — Phase 7 not run, no curriculum document in the sample
+- Records requiring visual verification: 197 of 238
+- Question families 16 (13 high / 3 medium confidence); models 16 (all `unvalidated`, `0.1.0-draft`)
+- Breakdowns 48; diagnostics 44; unresolved items 28; validation failures 0
+- Saturation: papers_in_sample 4, families 16, families first observed in the final third 1,
+  strata left unsampled 5, families supported by a single exemplar 0 → **not saturated**
+
+### Unresolved / review items (28, all in `review_queue/RQ-P4-PHY-PASS2.yaml`)
+
+Highlights: 10 paper/memo contradictions (one of which changes the correct answer,
+`UNRES-PHY-005`); 9 of 13 question papers not extracted (`UNRES-PHY-017`); electrostatics,
+electromagnetism, mechanical waves and momentum are thin or absent (`UNRES-PHY-018`); no
+curriculum document (`UNRES-PHY-020`); 14 records unassigned (`UNRES-PHY-021`); 1 family rests
+on one paper (`UNRES-PHY-022`); 7 breakdowns rest on a single record (`UNRES-PHY-023`, tagged
+`single_exemplar`); the Phase 3 inventory does not reflect `data/organized/` (`UNRES-PHY-025`).
+
+---
+
 ## Next Phase
 
-**Phase 4 — Extract source content.** Do NOT start Phase 4 until Phase 3 acquisition failures are resolved for all six subjects. Every source must have a preserved original file (`local_path`) and a verified SHA-256 hash (`file_hash`) before extraction can proceed responsibly.
+**Physics:** Phase 12 (knowledge graph) and Phase 13 (subject validation) are the natural next
+steps, but Phase 7 (curriculum mapping) is still owed for physics and blocks a real curriculum
+mapping rate. Extracting the 9 remaining paired physics papers and re-running Pass 2 is the
+cheapest way to reduce the 28 unresolved items and to test saturation again.
+
+**Other subjects:** still at Phase 3. Their Pass 1 files remain stubs generated by
+`scripts/complete_subject_pass1.py` with no question content, so Pass 2 must not be run on them
+until they are rebuilt the way physics was.

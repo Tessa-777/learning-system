@@ -1,6 +1,8 @@
 # Authoritative subject list for the system.
 #
-# The initial system scope is exactly six subjects (SYSTEM_SPEC §6). Each
+# The initial system scope is exactly seven subjects (SYSTEM_SPEC §6). Chemistry was
+# added on 2026-09-12: data/organized/chemistry holds 28 tracked Physical Sciences
+# Paper 2 files with no configured subject to belong to. Each
 # subject carries its own source corpus, curriculum mapping, taxonomy,
 # understanding models, breakdown models, diagnostic knowledge and validation
 # report. The architecture is shared; the knowledge is subject-specific.
@@ -16,6 +18,11 @@ subjects:
     slug: physics
     display_name: "Physics"
     scope: "Grade 11"
+  chemistry:
+    slug: chemistry
+    display_name: "Chemistry"
+    scope: "Grade 11"
+    note: "Physical Sciences Paper 2. Added 2026-09-12; shares the Grade 11 Physical Sciences corpus with physics."
   history:
     slug: history
     display_name: "History"
@@ -36,6 +43,7 @@ subjects:
 execution_order:
   - biology
   - physics
+  - chemistry
   - history
   - english
   - ap_mathematics

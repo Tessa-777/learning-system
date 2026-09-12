@@ -158,7 +158,7 @@ Confirm that:
 
 ## Objective
 
-Build the authoritative source inventory for all six subjects.
+Build the authoritative source inventory for all seven subjects.
 
 Subjects:
 
@@ -1018,7 +1018,7 @@ It must not.
 
 # 21. Phase 20 — End-to-end integration
 
-Run representative scenarios for all six subjects.
+Run representative scenarios for all seven subjects.
 
 Each scenario should demonstrate:
 
@@ -1100,7 +1100,7 @@ When executing the knowledge-building phases, use this order:
 6. Mathematics
 ```
 
-Do not attempt to process all six subjects in one phase run unless explicitly requested.
+Do not attempt to process all seven subjects in one phase run unless explicitly requested.
 
 Each subject should reach validation before moving to the next.
 

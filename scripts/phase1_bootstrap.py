@@ -28,6 +28,7 @@ from ingestion.run_context import RunContext  # noqa: E402
 STRUCTURE_DIRS = [
     "data/raw/biology",
     "data/raw/physics",
+    "data/raw/chemistry",
     "data/raw/history",
     "data/raw/english",
     "data/raw/ap_mathematics",
@@ -37,6 +38,7 @@ STRUCTURE_DIRS = [
     "data/validated",
     "knowledge/biology",
     "knowledge/physics",
+    "knowledge/chemistry",
     "knowledge/history",
     "knowledge/english",
     "knowledge/ap_mathematics",
@@ -54,6 +56,7 @@ STRUCTURE_DIRS = [
     "tutor/prompts",
     "tutor/subjects/biology",
     "tutor/subjects/physics",
+    "tutor/subjects/chemistry",
     "tutor/subjects/history",
     "tutor/subjects/english",
     "tutor/subjects/ap_mathematics",

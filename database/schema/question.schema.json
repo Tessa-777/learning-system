@@ -17,7 +17,7 @@
     },
     "subject": {
       "type": "string",
-      "enum": ["biology", "physics", "history", "english", "ap_mathematics", "mathematics"]
+      "enum": ["biology", "physics", "chemistry", "history", "english", "ap_mathematics", "mathematics"]
     },
     "grade": {
       "type": "string",
