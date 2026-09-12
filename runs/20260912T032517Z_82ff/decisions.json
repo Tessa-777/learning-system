@@ -1,0 +1,173 @@
+[
+  {
+    "decision_id": "DEC-BIO-001",
+    "timestamp": "2026-09-12T03:25:21.395445Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "decision_type": "replace_stubs",
+    "context": "Document-level records contain no usable question evidence.",
+    "evidence": [
+      "data/extracted/biology_pass1.json"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Rebuild all five usable pairs at question level; preserve source files unchanged."
+    ],
+    "selected": "Rebuild all five usable pairs at question level; preserve source files unchanged.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-BIO-002",
+    "timestamp": "2026-09-12T03:25:21.395451Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "decision_type": "pairing",
+    "context": "Matching dates alone cannot distinguish the microorganisms tests.",
+    "evidence": [
+      "UNRES-BIO-002"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Use numbered penicillin content to pair Test 1; do not pair Test 2."
+    ],
+    "selected": "Use numbered penicillin content to pair Test 1; do not pair Test 2.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-BIO-003",
+    "timestamp": "2026-09-12T03:25:21.395454Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "decision_type": "marks_gate",
+    "context": "Year-end 2022 printed allocations sum to 160 rather than header 170.",
+    "evidence": [
+      "UNRES-BIO-001"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Reject the pair; do not pad marks or silently reinterpret its memo."
+    ],
+    "selected": "Reject the pair; do not pad marks or silently reinterpret its memo.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-BIO-004",
+    "timestamp": "2026-09-12T03:25:21.395457Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "decision_type": "provenance",
+    "context": "Circulation titles recur in two inventory years.",
+    "evidence": [
+      "UNRES-BIO-005"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Resolve normalized title plus verified printed year; fail on absent or ambiguous matches."
+    ],
+    "selected": "Resolve normalized title plus verified printed year; fail on absent or ambiguous matches.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-BIO-005",
+    "timestamp": "2026-09-12T03:25:21.395460Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "decision_type": "confidence",
+    "context": "Confidence must be computed, not authored.",
+    "evidence": [
+      "scripts/build_biology_pass2.py"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "High requires four members across three distinct paper hashes; exclude unverified visual evidence entirely."
+    ],
+    "selected": "High requires four members across three distinct paper hashes; exclude unverified visual evidence entirely.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-BIO-006",
+    "timestamp": "2026-09-12T03:25:21.395464Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "decision_type": "saturation_order",
+    "context": "Historical download order is not reliable evidence for this new batch.",
+    "evidence": [
+      "knowledge/biology/saturation_report.json"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Use the recorded order of addition to question-level Pass 1; report all thirds and do not declare saturation."
+    ],
+    "selected": "Use the recorded order of addition to question-level Pass 1; report all thirds and do not declare saturation.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-BIO-007",
+    "timestamp": "2026-09-12T03:25:21.395467Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "decision_type": "schema_mapping",
+    "context": "Family schema forbids additional fields; prompt asks for membership/features/marks.",
+    "evidence": [
+      "knowledge/biology/_PASS2_SUMMARY.json"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Keep schema fields source_evidence/definition and supply requested aliases and marks ranges in summary. Combined output has exactly five arrays."
+    ],
+    "selected": "Keep schema fields source_evidence/definition and supply requested aliases and marks ranges in summary. Combined output has exactly five arrays.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-BIO-008",
+    "timestamp": "2026-09-12T03:25:21.395472Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "decision_type": "scope",
+    "context": "No syllabus/ATP and many records cannot support repeated patterns.",
+    "evidence": [
+      "knowledge/biology/unresolved_items.json"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Keep Phase 7 and phases 12+ out of scope; draft models and explicit unassigned list, not inferred coverage."
+    ],
+    "selected": "Keep Phase 7 and phases 12+ out of scope; draft models and explicit unassigned list, not inferred coverage.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-BIO-009",
+    "timestamp": "2026-09-12T03:25:21.395476Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "decision_type": "partial_credit",
+    "context": "Some special marking rules occur only once.",
+    "evidence": [
+      "UNRES-BIO-012"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Keep fatigue-only and paired-table-entry rules in Pass 1 and single_exemplar review rather than generalising."
+    ],
+    "selected": "Keep fatigue-only and paired-table-entry rules in Pass 1 and single_exemplar review rather than generalising.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  }
+]

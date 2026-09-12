@@ -1,0 +1,2589 @@
+{
+  "question_families": [
+    {
+      "question_family_id": "QUESTION-FAMILY-BIO-001",
+      "name": "Recognise microorganism terminology",
+      "definition": "[Tier 2 derived] Match a biological description to a microorganism term, group or associated process; this is terminology recognition, not an explanation of a mechanism. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]",
+      "subject": "biology",
+      "grade": "11",
+      "topics": [
+        "Microorganisms"
+      ],
+      "assessment_operations": [
+        "match",
+        "identify"
+      ],
+      "representative_questions": [
+        "biology_2023_internal_paper1_july_q1.1.row1",
+        "biology_2023_internal_paper1_july_q1.1.row2",
+        "biology_2023_internal_paper1_july_q1.1.row3"
+      ],
+      "frequency": 22,
+      "source_evidence": [
+        "biology_2023_internal_paper1_july_q1.1.row1",
+        "biology_2023_internal_paper1_july_q1.1.row2",
+        "biology_2023_internal_paper1_july_q1.1.row3",
+        "biology_2023_internal_paper1_july_q1.1.row4",
+        "biology_2023_internal_paper1_july_q1.1.row5",
+        "biology_2023_internal_paper1_july_q1.1.row6",
+        "biology_2023_internal_paper1_july_q1.1.row7",
+        "biology_2023_internal_paper1_july_q1.1.row8",
+        "biology_2023_internal_paper1_july_q1.1.row9",
+        "biology_2023_internal_paper1_july_q1.1.row10",
+        "biology_2023_internal_class_test_october_q1.row1",
+        "biology_2023_internal_class_test_october_q1.row2",
+        "biology_2023_internal_class_test_october_q1.row3",
+        "biology_2023_internal_class_test_october_q1.row4",
+        "biology_2023_internal_class_test_october_q1.row5",
+        "biology_2023_internal_class_test_october_q1.row6",
+        "biology_2023_internal_class_test_october_q1.row7",
+        "biology_2023_internal_class_test_october_q1.row8",
+        "biology_2023_internal_class_test_october_q1.row9",
+        "biology_2023_internal_class_test_october_q1.row10",
+        "biology_2023_internal_paper1_july_q1.3.1",
+        "biology_2023_internal_class_test_october_q3.1.1"
+      ],
+      "confidence": "medium",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-BIO-002",
+      "name": "Identify the independent variable of an investigation",
+      "definition": "[Tier 2 derived] Identify the factor varied or compared in the stated investigation rather than the measured response. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]",
+      "subject": "biology",
+      "grade": "11",
+      "topics": [
+        "Experimental reasoning"
+      ],
+      "assessment_operations": [
+        "identify"
+      ],
+      "representative_questions": [
+        "biology_2023_internal_paper1_july_q4.1.2.a",
+        "biology_2023_internal_class_test_october_q2.1",
+        "biology_2023_internal_paper1_november_q3.2.2"
+      ],
+      "frequency": 3,
+      "source_evidence": [
+        "biology_2023_internal_paper1_july_q4.1.2.a",
+        "biology_2023_internal_class_test_october_q2.1",
+        "biology_2023_internal_paper1_november_q3.2.2"
+      ],
+      "confidence": "medium",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-BIO-003",
+      "name": "Identify the measured response of an investigation",
+      "definition": "[Tier 2 derived] Name the dependent variable from the investigation description, distinguishing the measurement from what is varied. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]",
+      "subject": "biology",
+      "grade": "11",
+      "topics": [
+        "Experimental reasoning"
+      ],
+      "assessment_operations": [
+        "identify"
+      ],
+      "representative_questions": [
+        "biology_2023_internal_paper1_july_q4.1.2.b",
+        "biology_2023_internal_paper1_november_q1.4.5"
+      ],
+      "frequency": 2,
+      "source_evidence": [
+        "biology_2023_internal_paper1_july_q4.1.2.b",
+        "biology_2023_internal_paper1_november_q1.4.5"
+      ],
+      "confidence": "medium",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-BIO-004",
+      "name": "Specify controls that keep comparisons fair",
+      "definition": "[Tier 2 derived] Name relevant quantities or participant characteristics held the same between compared groups; do not confuse controlled variables with an untreated control group. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]",
+      "subject": "biology",
+      "grade": "11",
+      "topics": [
+        "Experimental reasoning"
+      ],
+      "assessment_operations": [
+        "identify",
+        "describe"
+      ],
+      "representative_questions": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.A",
+        "biology_2023_internal_paper1_july_q3.2.5",
+        "biology_2023_internal_paper1_july_q4.1.2.c"
+      ],
+      "frequency": 6,
+      "source_evidence": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.A",
+        "biology_2023_internal_paper1_july_q3.2.5",
+        "biology_2023_internal_paper1_july_q4.1.2.c",
+        "biology_2023_internal_paper1_july_q4.2.3",
+        "biology_2023_internal_paper1_november_q1.4.6",
+        "biology_2023_internal_paper1_november_q3.2.4"
+      ],
+      "confidence": "high",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-BIO-005",
+      "name": "Apply water balance to urine volume and concentration",
+      "definition": "[Tier 2 derived] Use changed water intake or loss to predict urine concentration and, where asked, volume. This is an application task rather than recall of the definition of excretion. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]",
+      "subject": "biology",
+      "grade": "11",
+      "topics": [
+        "Excretion"
+      ],
+      "assessment_operations": [
+        "predict",
+        "explain"
+      ],
+      "representative_questions": [
+        "biology_2022_internal_cycle_test_february_q1.3.4.A",
+        "biology_2023_internal_paper1_july_q1.2.4",
+        "biology_2023_internal_paper1_july_q1.4.5"
+      ],
+      "frequency": 3,
+      "source_evidence": [
+        "biology_2022_internal_cycle_test_february_q1.3.4.A",
+        "biology_2023_internal_paper1_july_q1.2.4",
+        "biology_2023_internal_paper1_july_q1.4.5"
+      ],
+      "confidence": "medium",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-BIO-006",
+      "name": "Explain osteoarthritis through cartilage damage",
+      "definition": "[Tier 2 derived] Describe cartilage deterioration and its consequences at a joint; do not substitute the name of a disease for its mechanism. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]",
+      "subject": "biology",
+      "grade": "11",
+      "topics": [
+        "Skeletal system"
+      ],
+      "assessment_operations": [
+        "describe",
+        "explain"
+      ],
+      "representative_questions": [
+        "biology_2023_internal_paper1_july_q3.2.7",
+        "biology_2023_internal_paper1_november_q2.2.5"
+      ],
+      "frequency": 2,
+      "source_evidence": [
+        "biology_2023_internal_paper1_july_q3.2.7",
+        "biology_2023_internal_paper1_november_q2.2.5"
+      ],
+      "confidence": "medium",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-BIO-007",
+      "name": "Distinguish controllable and uncontrollable circulatory risk factors",
+      "definition": "[Tier 2 derived] Respond to the requested controllability category in the hypertension or coronary-disease context, rather than supplying an undifferentiated list of risks. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]",
+      "subject": "biology",
+      "grade": "11",
+      "topics": [
+        "Transport in animals"
+      ],
+      "assessment_operations": [
+        "identify",
+        "distinguish"
+      ],
+      "representative_questions": [
+        "biology_2022_internal_class_test_may_q4.5",
+        "biology_2023_internal_paper1_november_q3.3.4",
+        "biology_2023_internal_paper1_november_q3.3.5"
+      ],
+      "frequency": 3,
+      "source_evidence": [
+        "biology_2022_internal_class_test_may_q4.5",
+        "biology_2023_internal_paper1_november_q3.3.4",
+        "biology_2023_internal_paper1_november_q3.3.5"
+      ],
+      "confidence": "medium",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-BIO-008",
+      "name": "Link oxygen delivery to cellular energy demands",
+      "definition": "[Tier 2 derived] Explain the consequence of altered oxygen delivery or demand using respiration/energy, in the malaria and exercise contexts. Not a terminology-recall family. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]",
+      "subject": "biology",
+      "grade": "11",
+      "topics": [
+        "Transport in animals"
+      ],
+      "assessment_operations": [
+        "explain cause and effect"
+      ],
+      "representative_questions": [
+        "biology_2023_internal_class_test_october_q3.1.5",
+        "biology_2023_internal_paper1_november_q1.4.1"
+      ],
+      "frequency": 2,
+      "source_evidence": [
+        "biology_2023_internal_class_test_october_q3.1.5",
+        "biology_2023_internal_paper1_november_q1.4.1"
+      ],
+      "confidence": "medium",
+      "validation_status": "unvalidated"
+    },
+    {
+      "question_family_id": "QUESTION-FAMILY-BIO-009",
+      "name": "State a conclusion from a biological comparison",
+      "definition": "[Tier 2 derived] State the relationship supported by the supplied group or age data rather than restating an isolated measurement. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]",
+      "subject": "biology",
+      "grade": "11",
+      "topics": [
+        "Data interpretation"
+      ],
+      "assessment_operations": [
+        "conclude",
+        "compare"
+      ],
+      "representative_questions": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.B",
+        "biology_2023_internal_paper1_july_q4.2.5",
+        "biology_2023_internal_paper1_november_q3.2.5"
+      ],
+      "frequency": 3,
+      "source_evidence": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.B",
+        "biology_2023_internal_paper1_july_q4.2.5",
+        "biology_2023_internal_paper1_november_q3.2.5"
+      ],
+      "confidence": "medium",
+      "validation_status": "unvalidated"
+    }
+  ],
+  "understanding_models": [
+    {
+      "identity": "UNDERSTANDING-BIO-001",
+      "definition": "[Tier 2 derived] Match a biological description to a microorganism term, group or associated process; this is terminology recognition, not an explanation of a mechanism. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]",
+      "subject": "biology",
+      "grade": "11",
+      "topic": "Microorganisms",
+      "question_family": "QUESTION-FAMILY-BIO-001",
+      "assessment_operations": [
+        "match",
+        "identify"
+      ],
+      "required_knowledge": [
+        "[Tier 2 derived] Recognise the correspondence between the biological descriptions and the microorganism terms or groups in these items; the matching options are part of the evidence, not an imported vocabulary list. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "prerequisites": [
+        "[Tier 2 derived] Distinguish the description being matched from the candidate names offered in a matching question. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "required_reasoning": [
+        "[Tier 2 derived] Select the biological name corresponding to the description rather than a merely associated organism or process. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "required_procedure": "[Tier 2 derived] Read the description; compare the candidate terms where supplied; give the requested term or matching letter. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]",
+      "evidence_of_understanding": [
+        "[Tier 2 derived] A correct selection tied to the description is stronger evidence than an unexplained association. Explaining the choice is a Tier 3 diagnostic probe, not an extra exam mark. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "marking_requirements": [
+        "[Tier 2 derived] The matching rows award one tick for the keyed letter. The two short-answer items credit the group/term; there is no memo requirement for a causal explanation. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-BIO-001-A",
+        "BREAKDOWN-BIO-001-B"
+      ],
+      "misconceptions": [
+        "[Tier 3 possible belief, not observed] Treating any term associated with a microorganism as interchangeable with the group or process actually described. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "diagnostic_dimensions": [
+        "interpretation",
+        "prerequisite"
+      ],
+      "diagnostic_questions": [
+        "DIAG-BIO-001-A",
+        "DIAG-BIO-001-B"
+      ],
+      "source_references": [
+        "biology_2023_internal_paper1_july_q1.1.row1",
+        "biology_2023_internal_paper1_july_q1.1.row2",
+        "biology_2023_internal_paper1_july_q1.1.row3",
+        "biology_2023_internal_paper1_july_q1.1.row4",
+        "biology_2023_internal_paper1_july_q1.1.row5",
+        "biology_2023_internal_paper1_july_q1.1.row6",
+        "biology_2023_internal_paper1_july_q1.1.row7",
+        "biology_2023_internal_paper1_july_q1.1.row8",
+        "biology_2023_internal_paper1_july_q1.1.row9",
+        "biology_2023_internal_paper1_july_q1.1.row10",
+        "biology_2023_internal_class_test_october_q1.row1",
+        "biology_2023_internal_class_test_october_q1.row2",
+        "biology_2023_internal_class_test_october_q1.row3",
+        "biology_2023_internal_class_test_october_q1.row4",
+        "biology_2023_internal_class_test_october_q1.row5",
+        "biology_2023_internal_class_test_october_q1.row6",
+        "biology_2023_internal_class_test_october_q1.row7",
+        "biology_2023_internal_class_test_october_q1.row8",
+        "biology_2023_internal_class_test_october_q1.row9",
+        "biology_2023_internal_class_test_october_q1.row10",
+        "biology_2023_internal_paper1_july_q1.3.1",
+        "biology_2023_internal_class_test_october_q3.1.1"
+      ],
+      "confidence": "medium",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft",
+      "provenance": [
+        "QUESTION-FAMILY-BIO-001",
+        "biology_2023_internal_paper1_july_q1.1.row1",
+        "biology_2023_internal_paper1_july_q1.1.row2",
+        "biology_2023_internal_paper1_july_q1.1.row3",
+        "biology_2023_internal_paper1_july_q1.1.row4",
+        "biology_2023_internal_paper1_july_q1.1.row5",
+        "biology_2023_internal_paper1_july_q1.1.row6",
+        "biology_2023_internal_paper1_july_q1.1.row7",
+        "biology_2023_internal_paper1_july_q1.1.row8",
+        "biology_2023_internal_paper1_july_q1.1.row9",
+        "biology_2023_internal_paper1_july_q1.1.row10",
+        "biology_2023_internal_class_test_october_q1.row1",
+        "biology_2023_internal_class_test_october_q1.row2",
+        "biology_2023_internal_class_test_october_q1.row3",
+        "biology_2023_internal_class_test_october_q1.row4",
+        "biology_2023_internal_class_test_october_q1.row5",
+        "biology_2023_internal_class_test_october_q1.row6",
+        "biology_2023_internal_class_test_october_q1.row7",
+        "biology_2023_internal_class_test_october_q1.row8",
+        "biology_2023_internal_class_test_october_q1.row9",
+        "biology_2023_internal_class_test_october_q1.row10",
+        "biology_2023_internal_paper1_july_q1.3.1",
+        "biology_2023_internal_class_test_october_q3.1.1",
+        "SOURCE-ORC-BIO-2023-017",
+        "SOURCE-ORC-BIO-2023-018",
+        "SOURCE-ORC-BIO-2023-019",
+        "SOURCE-ORC-BIO-2023-020"
+      ]
+    },
+    {
+      "identity": "UNDERSTANDING-BIO-002",
+      "definition": "[Tier 2 derived] Identify the factor varied or compared in the stated investigation rather than the measured response. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]",
+      "subject": "biology",
+      "grade": "11",
+      "topic": "Experimental reasoning",
+      "question_family": "QUESTION-FAMILY-BIO-002",
+      "assessment_operations": [
+        "identify"
+      ],
+      "required_knowledge": [
+        "[Tier 2 derived] An independent-variable answer identifies what is varied or compared in the described investigation. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "prerequisites": [
+        "[Tier 2 derived] Locate the comparison groups or conditions in the investigation description. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "required_reasoning": [
+        "[Tier 2 derived] Separate the compared condition from the resulting measurement. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "required_procedure": "[Tier 2 derived] Identify what differs across the specified groups; name that factor in the context of this investigation. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]",
+      "evidence_of_understanding": [
+        "[Tier 2 derived] Names the factor compared and can point to where its differing values or categories are supplied. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "marking_requirements": [
+        "[Tier 2 derived] Each memo credits a single factor: the contents, bacterial type or age for its own investigation. No broad list of unrelated variables is requested. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-BIO-002-A",
+        "BREAKDOWN-BIO-002-B"
+      ],
+      "misconceptions": [
+        "[Tier 3 possible belief, not observed] The quantity recorded in the results must be the independent variable. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "diagnostic_dimensions": [
+        "interpretation",
+        "concept"
+      ],
+      "diagnostic_questions": [
+        "DIAG-BIO-002-A",
+        "DIAG-BIO-002-B"
+      ],
+      "source_references": [
+        "biology_2023_internal_paper1_july_q4.1.2.a",
+        "biology_2023_internal_class_test_october_q2.1",
+        "biology_2023_internal_paper1_november_q3.2.2"
+      ],
+      "confidence": "medium",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft",
+      "provenance": [
+        "QUESTION-FAMILY-BIO-002",
+        "biology_2023_internal_paper1_july_q4.1.2.a",
+        "biology_2023_internal_class_test_october_q2.1",
+        "biology_2023_internal_paper1_november_q3.2.2",
+        "SOURCE-ORC-BIO-2023-017",
+        "SOURCE-ORC-BIO-2023-018",
+        "SOURCE-ORC-BIO-2023-019",
+        "SOURCE-ORC-BIO-2023-020",
+        "SOURCE-ORC-BIO-2023-021",
+        "SOURCE-ORC-BIO-2023-022"
+      ]
+    },
+    {
+      "identity": "UNDERSTANDING-BIO-003",
+      "definition": "[Tier 2 derived] Name the dependent variable from the investigation description, distinguishing the measurement from what is varied. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]",
+      "subject": "biology",
+      "grade": "11",
+      "topic": "Experimental reasoning",
+      "question_family": "QUESTION-FAMILY-BIO-003",
+      "assessment_operations": [
+        "identify"
+      ],
+      "required_knowledge": [
+        "[Tier 2 derived] The dependent variable is the recorded response in the investigation. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "prerequisites": [
+        "[Tier 2 derived] Read what the investigators measured rather than only the treatment description. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "required_reasoning": [
+        "[Tier 2 derived] Separate the resulting observation from the condition used to create the comparison. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "required_procedure": "[Tier 2 derived] Find the measurement in the method/results; name it as the response for this investigation. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]",
+      "evidence_of_understanding": [
+        "[Tier 2 derived] Identifies the measured response and explains which observations would record it. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "marking_requirements": [
+        "[Tier 2 derived] A single response quantity is credited in each memo; the evidence is bacterial growth/diameter in one investigation and heart rate in the other. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-BIO-003-A",
+        "BREAKDOWN-BIO-003-B"
+      ],
+      "misconceptions": [
+        "[Tier 3 possible belief, not observed] The treatment name is also the dependent-variable answer. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "diagnostic_dimensions": [
+        "interpretation",
+        "concept"
+      ],
+      "diagnostic_questions": [
+        "DIAG-BIO-003-A",
+        "DIAG-BIO-003-B"
+      ],
+      "source_references": [
+        "biology_2023_internal_paper1_july_q4.1.2.b",
+        "biology_2023_internal_paper1_november_q1.4.5"
+      ],
+      "confidence": "medium",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft",
+      "provenance": [
+        "QUESTION-FAMILY-BIO-003",
+        "biology_2023_internal_paper1_july_q4.1.2.b",
+        "biology_2023_internal_paper1_november_q1.4.5",
+        "SOURCE-ORC-BIO-2023-019",
+        "SOURCE-ORC-BIO-2023-020",
+        "SOURCE-ORC-BIO-2023-021",
+        "SOURCE-ORC-BIO-2023-022"
+      ]
+    },
+    {
+      "identity": "UNDERSTANDING-BIO-004",
+      "definition": "[Tier 2 derived] Name relevant quantities or participant characteristics held the same between compared groups; do not confuse controlled variables with an untreated control group. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]",
+      "subject": "biology",
+      "grade": "11",
+      "topic": "Experimental reasoning",
+      "question_family": "QUESTION-FAMILY-BIO-004",
+      "assessment_operations": [
+        "identify",
+        "describe"
+      ],
+      "required_knowledge": [
+        "[Tier 2 derived] A fair comparison retains relevant shared conditions or participant characteristics while the investigated comparison is made. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "prerequisites": [
+        "[Tier 2 derived] Recognise the groups and the factor or outcome under investigation. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "required_reasoning": [
+        "[Tier 2 derived] Choose relevant conditions that could otherwise differ between groups; do not erase the intended comparison. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "required_procedure": "[Tier 2 derived] Read the setup; identify the requested number of relevant fixed factors; state what must stay the same. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]",
+      "evidence_of_understanding": [
+        "[Tier 2 derived] Names specific shared conditions suited to the actual experiment, not simply the instruction to keep things fair. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "marking_requirements": [
+        "[Tier 2 derived] The memos list acceptable fixed factors and credit the requested number. Participant characteristics, group sizes and experimental conditions are credited in their respective contexts; these lists must not be transferred wholesale between experiments. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-BIO-004-A",
+        "BREAKDOWN-BIO-004-B"
+      ],
+      "misconceptions": [
+        "[Tier 3 possible belief, not observed] Any variable mentioned in an experiment should be fixed, including the intended comparison. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "diagnostic_dimensions": [
+        "concept",
+        "execution"
+      ],
+      "diagnostic_questions": [
+        "DIAG-BIO-004-A",
+        "DIAG-BIO-004-B"
+      ],
+      "source_references": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.A",
+        "biology_2023_internal_paper1_july_q3.2.5",
+        "biology_2023_internal_paper1_july_q4.1.2.c",
+        "biology_2023_internal_paper1_july_q4.2.3",
+        "biology_2023_internal_paper1_november_q1.4.6",
+        "biology_2023_internal_paper1_november_q3.2.4"
+      ],
+      "confidence": "high",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft",
+      "provenance": [
+        "QUESTION-FAMILY-BIO-004",
+        "biology_2022_internal_cycle_test_february_q2.2.4.A",
+        "biology_2023_internal_paper1_july_q3.2.5",
+        "biology_2023_internal_paper1_july_q4.1.2.c",
+        "biology_2023_internal_paper1_july_q4.2.3",
+        "biology_2023_internal_paper1_november_q1.4.6",
+        "biology_2023_internal_paper1_november_q3.2.4",
+        "SOURCE-ORC-BIO-2022-005",
+        "SOURCE-ORC-BIO-2022-006",
+        "SOURCE-ORC-BIO-2023-019",
+        "SOURCE-ORC-BIO-2023-020",
+        "SOURCE-ORC-BIO-2023-021",
+        "SOURCE-ORC-BIO-2023-022"
+      ]
+    },
+    {
+      "identity": "UNDERSTANDING-BIO-005",
+      "definition": "[Tier 2 derived] Use changed water intake or loss to predict urine concentration and, where asked, volume. This is an application task rather than recall of the definition of excretion. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]",
+      "subject": "biology",
+      "grade": "11",
+      "topic": "Excretion",
+      "question_family": "QUESTION-FAMILY-BIO-005",
+      "assessment_operations": [
+        "predict",
+        "explain"
+      ],
+      "required_knowledge": [
+        "[Tier 2 derived] These items connect increased water loss with more concentrated urine; the paired volume/concentration table also tests changed water intake. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "prerequisites": [
+        "[Tier 2 derived] Distinguish how much urine is produced from how concentrated it is. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "required_reasoning": [
+        "[Tier 2 derived] Relate a change in water intake or loss to the predicted urine outcome rather than equating concentration with volume. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "required_procedure": "[Tier 2 derived] Identify the water-balance change; state the urine outcome asked for; supply a causal explanation only where requested. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]",
+      "evidence_of_understanding": [
+        "[Tier 2 derived] Keeps volume and concentration distinct and can explain the relationship in the changed condition. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "marking_requirements": [
+        "[Tier 2 derived] Credit depends on the indicated urine outcome, not merely naming excretion. Local paired-entry and partial-credit rules are not generalised; see unresolved_items. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-BIO-005-A",
+        "BREAKDOWN-BIO-005-B"
+      ],
+      "misconceptions": [
+        "[Tier 3 possible belief, not observed] More concentrated urine necessarily means a greater volume of urine. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "diagnostic_dimensions": [
+        "concept",
+        "reasoning"
+      ],
+      "diagnostic_questions": [
+        "DIAG-BIO-005-A",
+        "DIAG-BIO-005-B"
+      ],
+      "source_references": [
+        "biology_2022_internal_cycle_test_february_q1.3.4.A",
+        "biology_2023_internal_paper1_july_q1.2.4",
+        "biology_2023_internal_paper1_july_q1.4.5"
+      ],
+      "confidence": "medium",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft",
+      "provenance": [
+        "QUESTION-FAMILY-BIO-005",
+        "biology_2022_internal_cycle_test_february_q1.3.4.A",
+        "biology_2023_internal_paper1_july_q1.2.4",
+        "biology_2023_internal_paper1_july_q1.4.5",
+        "SOURCE-ORC-BIO-2022-005",
+        "SOURCE-ORC-BIO-2022-006",
+        "SOURCE-ORC-BIO-2023-019",
+        "SOURCE-ORC-BIO-2023-020"
+      ]
+    },
+    {
+      "identity": "UNDERSTANDING-BIO-006",
+      "definition": "[Tier 2 derived] Describe cartilage deterioration and its consequences at a joint; do not substitute the name of a disease for its mechanism. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]",
+      "subject": "biology",
+      "grade": "11",
+      "topic": "Skeletal system",
+      "question_family": "QUESTION-FAMILY-BIO-006",
+      "assessment_operations": [
+        "describe",
+        "explain"
+      ],
+      "required_knowledge": [
+        "[Tier 2 derived] The two memos link osteoarthritis to loss or wear of joint cartilage and contact between the bones. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "prerequisites": [
+        "[Tier 2 derived] Distinguish naming a condition from describing the joint changes it involves. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "required_reasoning": [
+        "[Tier 2 derived] Connect the tissue change to its mechanical consequence at the joint. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "required_procedure": "[Tier 2 derived] Describe the cartilage change and explain what follows at the joint, retaining the detail requested by the question. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]",
+      "evidence_of_understanding": [
+        "[Tier 2 derived] Explains the relationship between the damage and its consequence rather than giving the disease name alone. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "marking_requirements": [
+        "[Tier 2 derived] Both memos credit cartilage deterioration and the bones rubbing/grinding against one another. The local mark allocations differ (two versus three), so no universal fixed mark split is asserted. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-BIO-006-A",
+        "BREAKDOWN-BIO-006-B"
+      ],
+      "misconceptions": [
+        "[Tier 3 possible belief, not observed] Inflammation as a label alone explains the structural changes of osteoarthritis. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "diagnostic_dimensions": [
+        "prerequisite",
+        "explanation"
+      ],
+      "diagnostic_questions": [
+        "DIAG-BIO-006-A",
+        "DIAG-BIO-006-B"
+      ],
+      "source_references": [
+        "biology_2023_internal_paper1_july_q3.2.7",
+        "biology_2023_internal_paper1_november_q2.2.5"
+      ],
+      "confidence": "medium",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft",
+      "provenance": [
+        "QUESTION-FAMILY-BIO-006",
+        "biology_2023_internal_paper1_july_q3.2.7",
+        "biology_2023_internal_paper1_november_q2.2.5",
+        "SOURCE-ORC-BIO-2023-019",
+        "SOURCE-ORC-BIO-2023-020",
+        "SOURCE-ORC-BIO-2023-021",
+        "SOURCE-ORC-BIO-2023-022"
+      ]
+    },
+    {
+      "identity": "UNDERSTANDING-BIO-007",
+      "definition": "[Tier 2 derived] Respond to the requested controllability category in the hypertension or coronary-disease context, rather than supplying an undifferentiated list of risks. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]",
+      "subject": "biology",
+      "grade": "11",
+      "topic": "Transport in animals",
+      "question_family": "QUESTION-FAMILY-BIO-007",
+      "assessment_operations": [
+        "identify",
+        "distinguish"
+      ],
+      "required_knowledge": [
+        "[Tier 2 derived] The memos distinguish modifiable lifestyle factors from factors such as age or inherited predisposition, in their own circulatory-disease contexts. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "prerequisites": [
+        "[Tier 2 derived] Read which controllability category and how many factors the question asks for. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "required_reasoning": [
+        "[Tier 2 derived] Classify a relevant risk by whether the person can change it rather than by how serious it sounds. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "required_procedure": "[Tier 2 derived] Identify the requested category; provide the requested number of relevant risk factors in that category. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]",
+      "evidence_of_understanding": [
+        "[Tier 2 derived] Supplies category-appropriate examples and can justify their placement without confusing a symptom with a risk factor. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "marking_requirements": [
+        "[Tier 2 derived] The hypertension memo explicitly separates controlled and uncontrolled examples; the later paper asks for those categories in separate items. Marks follow category-appropriate examples, not a general disease description. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-BIO-007-A",
+        "BREAKDOWN-BIO-007-B"
+      ],
+      "misconceptions": [
+        "[Tier 3 possible belief, not observed] Any cause or symptom of circulatory illness answers either risk-factor category. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "diagnostic_dimensions": [
+        "interpretation",
+        "concept"
+      ],
+      "diagnostic_questions": [
+        "DIAG-BIO-007-A",
+        "DIAG-BIO-007-B"
+      ],
+      "source_references": [
+        "biology_2022_internal_class_test_may_q4.5",
+        "biology_2023_internal_paper1_november_q3.3.4",
+        "biology_2023_internal_paper1_november_q3.3.5"
+      ],
+      "confidence": "medium",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft",
+      "provenance": [
+        "QUESTION-FAMILY-BIO-007",
+        "biology_2022_internal_class_test_may_q4.5",
+        "biology_2023_internal_paper1_november_q3.3.4",
+        "biology_2023_internal_paper1_november_q3.3.5",
+        "SOURCE-ORC-BIO-2022-001",
+        "SOURCE-ORC-BIO-2022-002",
+        "SOURCE-ORC-BIO-2023-021",
+        "SOURCE-ORC-BIO-2023-022"
+      ]
+    },
+    {
+      "identity": "UNDERSTANDING-BIO-008",
+      "definition": "[Tier 2 derived] Explain the consequence of altered oxygen delivery or demand using respiration/energy, in the malaria and exercise contexts. Not a terminology-recall family. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]",
+      "subject": "biology",
+      "grade": "11",
+      "topic": "Transport in animals",
+      "question_family": "QUESTION-FAMILY-BIO-008",
+      "assessment_operations": [
+        "explain cause and effect"
+      ],
+      "required_knowledge": [
+        "[Tier 2 derived] These memos connect oxygen delivery with respiration or energy availability in the exercise and red-cell-destruction contexts. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "prerequisites": [
+        "[Tier 2 derived] Identify what changed in the scenario rather than merely naming an illness or activity. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "required_reasoning": [
+        "[Tier 2 derived] Link the change in supply or demand to its cellular consequence. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "required_procedure": "[Tier 2 derived] Describe the relevant oxygen change and connect it to respiration/energy in the stated scenario. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]",
+      "evidence_of_understanding": [
+        "[Tier 2 derived] Gives a causal chain rather than only a symptom or the statement that the heart rate changes. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "marking_requirements": [
+        "[Tier 2 derived] Both memos credit oxygen and respiration/energy links. Local partial-credit rules are retained only in Pass 1 and unresolved_items. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-BIO-008-A",
+        "BREAKDOWN-BIO-008-B"
+      ],
+      "misconceptions": [
+        "[Tier 3 possible belief, not observed] Naming fatigue or increased activity alone is a complete causal explanation. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "diagnostic_dimensions": [
+        "concept",
+        "explanation"
+      ],
+      "diagnostic_questions": [
+        "DIAG-BIO-008-A",
+        "DIAG-BIO-008-B"
+      ],
+      "source_references": [
+        "biology_2023_internal_class_test_october_q3.1.5",
+        "biology_2023_internal_paper1_november_q1.4.1"
+      ],
+      "confidence": "medium",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft",
+      "provenance": [
+        "QUESTION-FAMILY-BIO-008",
+        "biology_2023_internal_class_test_october_q3.1.5",
+        "biology_2023_internal_paper1_november_q1.4.1",
+        "SOURCE-ORC-BIO-2023-017",
+        "SOURCE-ORC-BIO-2023-018",
+        "SOURCE-ORC-BIO-2023-021",
+        "SOURCE-ORC-BIO-2023-022"
+      ]
+    },
+    {
+      "identity": "UNDERSTANDING-BIO-009",
+      "definition": "[Tier 2 derived] State the relationship supported by the supplied group or age data rather than restating an isolated measurement. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]",
+      "subject": "biology",
+      "grade": "11",
+      "topic": "Data interpretation",
+      "question_family": "QUESTION-FAMILY-BIO-009",
+      "assessment_operations": [
+        "conclude",
+        "compare"
+      ],
+      "required_knowledge": [
+        "[Tier 2 derived] A conclusion expresses the comparison or trend supported by the supplied biological data. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "prerequisites": [
+        "[Tier 2 derived] Identify the compared groups or the ordered variable in the results. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "required_reasoning": [
+        "[Tier 2 derived] Connect the relevant groups/values into a supported relationship rather than a single isolated observation. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "required_procedure": "[Tier 2 derived] Read the comparison requested; describe the direction or group difference supported by the data. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]",
+      "evidence_of_understanding": [
+        "[Tier 2 derived] States the relationship and can locate its support in the provided data without claiming an untested cause. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "marking_requirements": [
+        "[Tier 2 derived] The memos credit the stated group comparison or direction of association; exact expected wording and mark totals remain item-specific. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "common_breakdowns": [
+        "BREAKDOWN-BIO-009-A",
+        "BREAKDOWN-BIO-009-B"
+      ],
+      "misconceptions": [
+        "[Tier 3 possible belief, not observed] A conclusion can be an unsupported explanation of why the result occurred, without stating the observed comparison. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "diagnostic_dimensions": [
+        "interpretation",
+        "reasoning"
+      ],
+      "diagnostic_questions": [
+        "DIAG-BIO-009-A",
+        "DIAG-BIO-009-B"
+      ],
+      "source_references": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.B",
+        "biology_2023_internal_paper1_july_q4.2.5",
+        "biology_2023_internal_paper1_november_q3.2.5"
+      ],
+      "confidence": "medium",
+      "validation_state": "unvalidated",
+      "version": "0.1.0-draft",
+      "provenance": [
+        "QUESTION-FAMILY-BIO-009",
+        "biology_2022_internal_cycle_test_february_q2.2.4.B",
+        "biology_2023_internal_paper1_july_q4.2.5",
+        "biology_2023_internal_paper1_november_q3.2.5",
+        "SOURCE-ORC-BIO-2022-005",
+        "SOURCE-ORC-BIO-2022-006",
+        "SOURCE-ORC-BIO-2023-019",
+        "SOURCE-ORC-BIO-2023-020",
+        "SOURCE-ORC-BIO-2023-021",
+        "SOURCE-ORC-BIO-2023-022"
+      ]
+    }
+  ],
+  "breakdown_models": [
+    {
+      "breakdown_id": "BREAKDOWN-BIO-001-A",
+      "description": "[Tier 3 possible failure] Matches the wrong column or supplies a general association instead of addressing the description. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-001",
+      "stage": "interpretation",
+      "observable_signals": [
+        "Can discuss the term but does not connect it to the specified clue. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "possible_confusions": [
+        "Does not distinguish the biological meanings needed for the match. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-001-A",
+        "DIAG-BIO-001-B"
+      ],
+      "source_basis": [
+        "biology_2023_internal_paper1_july_q1.1.row1",
+        "biology_2023_internal_paper1_july_q1.1.row2",
+        "biology_2023_internal_paper1_july_q1.1.row3",
+        "biology_2023_internal_paper1_july_q1.1.row4",
+        "biology_2023_internal_paper1_july_q1.1.row5",
+        "biology_2023_internal_paper1_july_q1.1.row6",
+        "biology_2023_internal_paper1_july_q1.1.row7",
+        "biology_2023_internal_paper1_july_q1.1.row8",
+        "biology_2023_internal_paper1_july_q1.1.row9",
+        "biology_2023_internal_paper1_july_q1.1.row10",
+        "biology_2023_internal_class_test_october_q1.row1",
+        "biology_2023_internal_class_test_october_q1.row2",
+        "biology_2023_internal_class_test_october_q1.row3",
+        "biology_2023_internal_class_test_october_q1.row4",
+        "biology_2023_internal_class_test_october_q1.row5",
+        "biology_2023_internal_class_test_october_q1.row6",
+        "biology_2023_internal_class_test_october_q1.row7",
+        "biology_2023_internal_class_test_october_q1.row8",
+        "biology_2023_internal_class_test_october_q1.row9",
+        "biology_2023_internal_class_test_october_q1.row10",
+        "biology_2023_internal_paper1_july_q1.3.1",
+        "biology_2023_internal_class_test_october_q3.1.1"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-001-B",
+      "description": "[Tier 3 possible failure] Does not distinguish the biological meanings needed for the match. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-001",
+      "stage": "prerequisite",
+      "observable_signals": [
+        "Uses several candidate terms as synonyms even after identifying the clue. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "possible_confusions": [
+        "Matches the wrong column or supplies a general association instead of addressing the description. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-001-A",
+        "DIAG-BIO-001-B"
+      ],
+      "source_basis": [
+        "biology_2023_internal_paper1_july_q1.1.row1",
+        "biology_2023_internal_paper1_july_q1.1.row2",
+        "biology_2023_internal_paper1_july_q1.1.row3",
+        "biology_2023_internal_paper1_july_q1.1.row4",
+        "biology_2023_internal_paper1_july_q1.1.row5",
+        "biology_2023_internal_paper1_july_q1.1.row6",
+        "biology_2023_internal_paper1_july_q1.1.row7",
+        "biology_2023_internal_paper1_july_q1.1.row8",
+        "biology_2023_internal_paper1_july_q1.1.row9",
+        "biology_2023_internal_paper1_july_q1.1.row10",
+        "biology_2023_internal_class_test_october_q1.row1",
+        "biology_2023_internal_class_test_october_q1.row2",
+        "biology_2023_internal_class_test_october_q1.row3",
+        "biology_2023_internal_class_test_october_q1.row4",
+        "biology_2023_internal_class_test_october_q1.row5",
+        "biology_2023_internal_class_test_october_q1.row6",
+        "biology_2023_internal_class_test_october_q1.row7",
+        "biology_2023_internal_class_test_october_q1.row8",
+        "biology_2023_internal_class_test_october_q1.row9",
+        "biology_2023_internal_class_test_october_q1.row10",
+        "biology_2023_internal_paper1_july_q1.3.1",
+        "biology_2023_internal_class_test_october_q3.1.1"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-002-A",
+      "description": "[Tier 3 possible failure] Answers for a different investigation or subpart. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-002",
+      "stage": "interpretation",
+      "observable_signals": [
+        "Identifies a real factor but from the wrong comparison. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "possible_confusions": [
+        "Confuses the compared factor with its response. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-002-A",
+        "DIAG-BIO-002-B"
+      ],
+      "source_basis": [
+        "biology_2023_internal_paper1_july_q4.1.2.a",
+        "biology_2023_internal_class_test_october_q2.1",
+        "biology_2023_internal_paper1_november_q3.2.2"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-002-B",
+      "description": "[Tier 3 possible failure] Confuses the compared factor with its response. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-002",
+      "stage": "concept",
+      "observable_signals": [
+        "Selects what is measured instead of what differs across the groups. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "possible_confusions": [
+        "Answers for a different investigation or subpart. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-002-A",
+        "DIAG-BIO-002-B"
+      ],
+      "source_basis": [
+        "biology_2023_internal_paper1_july_q4.1.2.a",
+        "biology_2023_internal_class_test_october_q2.1",
+        "biology_2023_internal_paper1_november_q3.2.2"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-003-A",
+      "description": "[Tier 3 possible failure] Does not locate the recorded observation. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-003",
+      "stage": "interpretation",
+      "observable_signals": [
+        "Talks about the investigation topic without identifying a measurement. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "possible_confusions": [
+        "Reverses treatment and response roles. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-003-A",
+        "DIAG-BIO-003-B"
+      ],
+      "source_basis": [
+        "biology_2023_internal_paper1_july_q4.1.2.b",
+        "biology_2023_internal_paper1_november_q1.4.5"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-003-B",
+      "description": "[Tier 3 possible failure] Reverses treatment and response roles. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-003",
+      "stage": "concept",
+      "observable_signals": [
+        "Names the condition applied rather than the observation obtained. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "possible_confusions": [
+        "Does not locate the recorded observation. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-003-A",
+        "DIAG-BIO-003-B"
+      ],
+      "source_basis": [
+        "biology_2023_internal_paper1_july_q4.1.2.b",
+        "biology_2023_internal_paper1_november_q1.4.5"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-004-A",
+      "description": "[Tier 3 possible failure] Confuses a controlled variable with the factor deliberately compared. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-004",
+      "stage": "concept",
+      "observable_signals": [
+        "Proposes removing the intended difference between groups. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "possible_confusions": [
+        "Gives vague or too few fixed factors despite recognising the comparison. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-004-A",
+        "DIAG-BIO-004-B"
+      ],
+      "source_basis": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.A",
+        "biology_2023_internal_paper1_july_q3.2.5",
+        "biology_2023_internal_paper1_july_q4.1.2.c",
+        "biology_2023_internal_paper1_july_q4.2.3",
+        "biology_2023_internal_paper1_november_q1.4.6",
+        "biology_2023_internal_paper1_november_q3.2.4"
+      ],
+      "confidence": "high"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-004-B",
+      "description": "[Tier 3 possible failure] Gives vague or too few fixed factors despite recognising the comparison. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-004",
+      "stage": "execution",
+      "observable_signals": [
+        "Says keep everything the same without naming the requested relevant conditions. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "possible_confusions": [
+        "Confuses a controlled variable with the factor deliberately compared. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-004-A",
+        "DIAG-BIO-004-B"
+      ],
+      "source_basis": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.A",
+        "biology_2023_internal_paper1_july_q3.2.5",
+        "biology_2023_internal_paper1_july_q4.1.2.c",
+        "biology_2023_internal_paper1_july_q4.2.3",
+        "biology_2023_internal_paper1_november_q1.4.6",
+        "biology_2023_internal_paper1_november_q3.2.4"
+      ],
+      "confidence": "high"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-005-A",
+      "description": "[Tier 3 possible failure] Confuses volume with concentration. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-005",
+      "stage": "concept",
+      "observable_signals": [
+        "Treats the two quantities as the same change. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "possible_confusions": [
+        "Recognises the quantities but fails to connect the stated water-balance change to them. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-005-A",
+        "DIAG-BIO-005-B"
+      ],
+      "source_basis": [
+        "biology_2022_internal_cycle_test_february_q1.3.4.A",
+        "biology_2023_internal_paper1_july_q1.2.4",
+        "biology_2023_internal_paper1_july_q1.4.5"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-005-B",
+      "description": "[Tier 3 possible failure] Recognises the quantities but fails to connect the stated water-balance change to them. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-005",
+      "stage": "reasoning",
+      "observable_signals": [
+        "Uses an unchanged memorised outcome regardless of the condition. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "possible_confusions": [
+        "Confuses volume with concentration. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-005-A",
+        "DIAG-BIO-005-B"
+      ],
+      "source_basis": [
+        "biology_2022_internal_cycle_test_february_q1.3.4.A",
+        "biology_2023_internal_paper1_july_q1.2.4",
+        "biology_2023_internal_paper1_july_q1.4.5"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-006-A",
+      "description": "[Tier 3 possible failure] Cannot identify the relevant tissue change. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-006",
+      "stage": "prerequisite",
+      "observable_signals": [
+        "Names a disease or unrelated tissue without describing cartilage deterioration. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "possible_confusions": [
+        "Names the change but omits its consequence. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-006-A",
+        "DIAG-BIO-006-B"
+      ],
+      "source_basis": [
+        "biology_2023_internal_paper1_july_q3.2.7",
+        "biology_2023_internal_paper1_november_q2.2.5"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-006-B",
+      "description": "[Tier 3 possible failure] Names the change but omits its consequence. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-006",
+      "stage": "explanation",
+      "observable_signals": [
+        "Lists a damaged tissue without connecting it to contact between the bones. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "possible_confusions": [
+        "Cannot identify the relevant tissue change. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-006-A",
+        "DIAG-BIO-006-B"
+      ],
+      "source_basis": [
+        "biology_2023_internal_paper1_july_q3.2.7",
+        "biology_2023_internal_paper1_november_q2.2.5"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-007-A",
+      "description": "[Tier 3 possible failure] Ignores the category requested. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-007",
+      "stage": "interpretation",
+      "observable_signals": [
+        "Lists risks but all examples belong to the other requested category. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "possible_confusions": [
+        "Cannot distinguish modifiability. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-007-A",
+        "DIAG-BIO-007-B"
+      ],
+      "source_basis": [
+        "biology_2022_internal_class_test_may_q4.5",
+        "biology_2023_internal_paper1_november_q3.3.4",
+        "biology_2023_internal_paper1_november_q3.3.5"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-007-B",
+      "description": "[Tier 3 possible failure] Cannot distinguish modifiability. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-007",
+      "stage": "concept",
+      "observable_signals": [
+        "Places age or inherited factors in the same controllability category as behaviour. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "possible_confusions": [
+        "Ignores the category requested. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-007-A",
+        "DIAG-BIO-007-B"
+      ],
+      "source_basis": [
+        "biology_2022_internal_class_test_may_q4.5",
+        "biology_2023_internal_paper1_november_q3.3.4",
+        "biology_2023_internal_paper1_november_q3.3.5"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-008-A",
+      "description": "[Tier 3 possible failure] Does not identify the oxygen relationship. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-008",
+      "stage": "concept",
+      "observable_signals": [
+        "Repeats the scenario without identifying supply or demand. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "possible_confusions": [
+        "Identifies oxygen but omits its cellular consequence. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-008-A",
+        "DIAG-BIO-008-B"
+      ],
+      "source_basis": [
+        "biology_2023_internal_class_test_october_q3.1.5",
+        "biology_2023_internal_paper1_november_q1.4.1"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-008-B",
+      "description": "[Tier 3 possible failure] Identifies oxygen but omits its cellular consequence. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-008",
+      "stage": "explanation",
+      "observable_signals": [
+        "Names oxygen without explaining the respiration/energy link. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "possible_confusions": [
+        "Does not identify the oxygen relationship. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-008-A",
+        "DIAG-BIO-008-B"
+      ],
+      "source_basis": [
+        "biology_2023_internal_class_test_october_q3.1.5",
+        "biology_2023_internal_paper1_november_q1.4.1"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-009-A",
+      "description": "[Tier 3 possible failure] Extracts one number without the requested comparison. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-009",
+      "stage": "interpretation",
+      "observable_signals": [
+        "States a measurement but not the relationship. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "possible_confusions": [
+        "Overgeneralises or reverses the observed relationship. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-009-A",
+        "DIAG-BIO-009-B"
+      ],
+      "source_basis": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.B",
+        "biology_2023_internal_paper1_july_q4.2.5",
+        "biology_2023_internal_paper1_november_q3.2.5"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "breakdown_id": "BREAKDOWN-BIO-009-B",
+      "description": "[Tier 3 possible failure] Overgeneralises or reverses the observed relationship. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]",
+      "parent_understanding_model": "UNDERSTANDING-BIO-009",
+      "stage": "reasoning",
+      "observable_signals": [
+        "Claims an unsupported cause or direction despite locating the relevant groups. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "possible_confusions": [
+        "Extracts one number without the requested comparison. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "distinguishing_questions": [
+        "DIAG-BIO-009-A",
+        "DIAG-BIO-009-B"
+      ],
+      "source_basis": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.B",
+        "biology_2023_internal_paper1_july_q4.2.5",
+        "biology_2023_internal_paper1_november_q3.2.5"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "diagnostic_questions": [
+    {
+      "diagnostic_id": "DIAG-BIO-001-A",
+      "understanding_model_id": "UNDERSTANDING-BIO-001",
+      "target_breakdown": "BREAKDOWN-BIO-001-A",
+      "question": "Which words in this description constrain your choice?",
+      "purpose": "[Tier 3] Distinguish Matches the wrong column or supplies a general association instead of addressing the description. from Does not distinguish the biological meanings needed for the match.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-001-A",
+        "BREAKDOWN-BIO-001-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Can isolate the relevant biological clue without being supplied the name. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The matching rows award one tick for the keyed letter. The two short-answer items credit the group/term; there is no memo requirement for a causal explanation. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-001-B",
+      "understanding_model_id": "UNDERSTANDING-BIO-001",
+      "target_breakdown": "BREAKDOWN-BIO-001-B",
+      "question": "How would you distinguish your choice from another option you considered?",
+      "purpose": "[Tier 3] Distinguish Does not distinguish the biological meanings needed for the match. from Matches the wrong column or supplies a general association instead of addressing the description.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-001-A",
+        "BREAKDOWN-BIO-001-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Explains a relevant difference rather than merely repeating the selected letter. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The matching rows award one tick for the keyed letter. The two short-answer items credit the group/term; there is no memo requirement for a causal explanation. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-002-A",
+      "understanding_model_id": "UNDERSTANDING-BIO-002",
+      "target_breakdown": "BREAKDOWN-BIO-002-A",
+      "question": "What differs between the groups or conditions being compared here?",
+      "purpose": "[Tier 3] Distinguish Answers for a different investigation or subpart. from Confuses the compared factor with its response.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-002-A",
+        "BREAKDOWN-BIO-002-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Locates the relevant comparison in the actual setup. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Each memo credits a single factor: the contents, bacterial type or age for its own investigation. No broad list of unrelated variables is requested. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-002-B",
+      "understanding_model_id": "UNDERSTANDING-BIO-002",
+      "target_breakdown": "BREAKDOWN-BIO-002-B",
+      "question": "How did you decide which part of the investigation your chosen variable describes?",
+      "purpose": "[Tier 3] Distinguish Confuses the compared factor with its response. from Answers for a different investigation or subpart.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-002-A",
+        "BREAKDOWN-BIO-002-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Distinguishes comparison from measurement without a supplied variable name. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Each memo credits a single factor: the contents, bacterial type or age for its own investigation. No broad list of unrelated variables is requested. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-003-A",
+      "understanding_model_id": "UNDERSTANDING-BIO-003",
+      "target_breakdown": "BREAKDOWN-BIO-003-A",
+      "question": "What observation is recorded for each condition in this investigation?",
+      "purpose": "[Tier 3] Distinguish Does not locate the recorded observation. from Reverses treatment and response roles.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-003-A",
+        "BREAKDOWN-BIO-003-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Identifies the response measurement from the setup. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] A single response quantity is credited in each memo; the evidence is bacterial growth/diameter in one investigation and heart rate in the other. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-003-B",
+      "understanding_model_id": "UNDERSTANDING-BIO-003",
+      "target_breakdown": "BREAKDOWN-BIO-003-B",
+      "question": "Where would your chosen variable appear in the results, and why?",
+      "purpose": "[Tier 3] Distinguish Reverses treatment and response roles. from Does not locate the recorded observation.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-003-A",
+        "BREAKDOWN-BIO-003-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Connects the proposed variable to observations rather than treatment labels. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] A single response quantity is credited in each memo; the evidence is bacterial growth/diameter in one investigation and heart rate in the other. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-004-A",
+      "understanding_model_id": "UNDERSTANDING-BIO-004",
+      "target_breakdown": "BREAKDOWN-BIO-004-A",
+      "question": "Which differences between these groups could make the comparison difficult to interpret?",
+      "purpose": "[Tier 3] Distinguish Confuses a controlled variable with the factor deliberately compared. from Gives vague or too few fixed factors despite recognising the comparison.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-004-A",
+        "BREAKDOWN-BIO-004-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Selects relevant potential confounders from the stated setup. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memos list acceptable fixed factors and credit the requested number. Participant characteristics, group sizes and experimental conditions are credited in their respective contexts; these lists must not be transferred wholesale between experiments. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]",
+      "confidence": "high"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-004-B",
+      "understanding_model_id": "UNDERSTANDING-BIO-004",
+      "target_breakdown": "BREAKDOWN-BIO-004-B",
+      "question": "For one factor you chose, explain how you would keep it consistent in both groups.",
+      "purpose": "[Tier 3] Distinguish Gives vague or too few fixed factors despite recognising the comparison. from Confuses a controlled variable with the factor deliberately compared.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-004-A",
+        "BREAKDOWN-BIO-004-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Operationalises a specific fixed condition instead of repeating a label. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memos list acceptable fixed factors and credit the requested number. Participant characteristics, group sizes and experimental conditions are credited in their respective contexts; these lists must not be transferred wholesale between experiments. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]",
+      "confidence": "high"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-005-A",
+      "understanding_model_id": "UNDERSTANDING-BIO-005",
+      "target_breakdown": "BREAKDOWN-BIO-005-A",
+      "question": "What is changing in the condition described, and what are you being asked to predict?",
+      "purpose": "[Tier 3] Distinguish Confuses volume with concentration. from Recognises the quantities but fails to connect the stated water-balance change to them.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-005-A",
+        "BREAKDOWN-BIO-005-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Separates the condition from each requested urine property. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Credit depends on the indicated urine outcome, not merely naming excretion. Local paired-entry and partial-credit rules are not generalised; see unresolved_items. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-005-B",
+      "understanding_model_id": "UNDERSTANDING-BIO-005",
+      "target_breakdown": "BREAKDOWN-BIO-005-B",
+      "question": "Explain the connection between the change you identified and your predicted outcome.",
+      "purpose": "[Tier 3] Distinguish Recognises the quantities but fails to connect the stated water-balance change to them. from Confuses volume with concentration.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-005-A",
+        "BREAKDOWN-BIO-005-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Offers a causal account rather than two disconnected labels. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Credit depends on the indicated urine outcome, not merely naming excretion. Local paired-entry and partial-credit rules are not generalised; see unresolved_items. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-006-A",
+      "understanding_model_id": "UNDERSTANDING-BIO-006",
+      "target_breakdown": "BREAKDOWN-BIO-006-A",
+      "question": "Describe what has changed in the joint in this condition.",
+      "purpose": "[Tier 3] Distinguish Cannot identify the relevant tissue change. from Names the change but omits its consequence.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-006-A",
+        "BREAKDOWN-BIO-006-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Identifies the structural change without being supplied the tissue name. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Both memos credit cartilage deterioration and the bones rubbing/grinding against one another. The local mark allocations differ (two versus three), so no universal fixed mark split is asserted. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-006-B",
+      "understanding_model_id": "UNDERSTANDING-BIO-006",
+      "target_breakdown": "BREAKDOWN-BIO-006-B",
+      "question": "How does the change you described affect what happens when the joint moves?",
+      "purpose": "[Tier 3] Distinguish Names the change but omits its consequence. from Cannot identify the relevant tissue change.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-006-A",
+        "BREAKDOWN-BIO-006-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Links the change to a mechanical consequence rather than restating a label. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Both memos credit cartilage deterioration and the bones rubbing/grinding against one another. The local mark allocations differ (two versus three), so no universal fixed mark split is asserted. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-007-A",
+      "understanding_model_id": "UNDERSTANDING-BIO-007",
+      "target_breakdown": "BREAKDOWN-BIO-007-A",
+      "question": "What distinction is the question asking you to make between risk factors?",
+      "purpose": "[Tier 3] Distinguish Ignores the category requested. from Cannot distinguish modifiability.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-007-A",
+        "BREAKDOWN-BIO-007-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Recognises the required category rather than just the disease topic. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The hypertension memo explicitly separates controlled and uncontrolled examples; the later paper asks for those categories in separate items. Marks follow category-appropriate examples, not a general disease description. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-007-B",
+      "understanding_model_id": "UNDERSTANDING-BIO-007",
+      "target_breakdown": "BREAKDOWN-BIO-007-B",
+      "question": "Why does the example you selected belong in that category?",
+      "purpose": "[Tier 3] Distinguish Cannot distinguish modifiability. from Ignores the category requested.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-007-A",
+        "BREAKDOWN-BIO-007-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Justifies classification and distinguishes it from a symptom. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The hypertension memo explicitly separates controlled and uncontrolled examples; the later paper asks for those categories in separate items. Marks follow category-appropriate examples, not a general disease description. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-008-A",
+      "understanding_model_id": "UNDERSTANDING-BIO-008",
+      "target_breakdown": "BREAKDOWN-BIO-008-A",
+      "question": "What has changed in this situation, and how could that affect the cells?",
+      "purpose": "[Tier 3] Distinguish Does not identify the oxygen relationship. from Identifies oxygen but omits its cellular consequence.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-008-A",
+        "BREAKDOWN-BIO-008-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Identifies the relevant physiological change without being given the answer. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Both memos credit oxygen and respiration/energy links. Local partial-credit rules are retained only in Pass 1 and unresolved_items. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-008-B",
+      "understanding_model_id": "UNDERSTANDING-BIO-008",
+      "target_breakdown": "BREAKDOWN-BIO-008-B",
+      "question": "What links the change you described to the effect you expect?",
+      "purpose": "[Tier 3] Distinguish Identifies oxygen but omits its cellular consequence. from Does not identify the oxygen relationship.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-008-A",
+        "BREAKDOWN-BIO-008-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Articulates intermediate reasoning rather than repeating the outcome. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Both memos credit oxygen and respiration/energy links. Local partial-credit rules are retained only in Pass 1 and unresolved_items. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-009-A",
+      "understanding_model_id": "UNDERSTANDING-BIO-009",
+      "target_breakdown": "BREAKDOWN-BIO-009-A",
+      "question": "Which parts of the results would you compare to answer this question?",
+      "purpose": "[Tier 3] Distinguish Extracts one number without the requested comparison. from Overgeneralises or reverses the observed relationship.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-009-A",
+        "BREAKDOWN-BIO-009-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Selects the relevant groups or values. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memos credit the stated group comparison or direction of association; exact expected wording and mark totals remain item-specific. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]",
+      "confidence": "medium"
+    },
+    {
+      "diagnostic_id": "DIAG-BIO-009-B",
+      "understanding_model_id": "UNDERSTANDING-BIO-009",
+      "target_breakdown": "BREAKDOWN-BIO-009-B",
+      "question": "How do those results support the conclusion you want to state?",
+      "purpose": "[Tier 3] Distinguish Overgeneralises or reverses the observed relationship. from Extracts one number without the requested comparison.",
+      "distinguishes": [
+        "BREAKDOWN-BIO-009-A",
+        "BREAKDOWN-BIO-009-B"
+      ],
+      "expected_evidence": [
+        "[Tier 3] Explains the comparison without adding a cause not tested here. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+      ],
+      "follow_up_conditions": [
+        {
+          "condition": "The response does not locate the evidence in the question.",
+          "follow_up": "Which part of the supplied information supports your choice?"
+        }
+      ],
+      "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memos credit the stated group comparison or direction of association; exact expected wording and mark totals remain item-specific. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]",
+      "confidence": "medium"
+    }
+  ],
+  "unresolved_items": [
+    {
+      "type": "contradiction",
+      "summary": "2022 year-end pair fails the mandatory marks gate",
+      "detail": "Paper cover and body allocate Q1=70, Q2=30, Q3=30, Q4=40: 160, but print total 170. The memo labels Q3 as 40 although its subsections are 16+9+5=30. Excluded from Pass 1 batch and Pass 2; no ten-mark balancing record was invented.",
+      "affected": [
+        "data/organized/biology/Year-end exam P1.pdf",
+        "data/organized/biology/Year-end exam P1 MG.pdf"
+      ],
+      "evidence": [
+        "Paper pp1,14–17,24; memo pp6–9"
+      ],
+      "recommended_review": "Obtain corrected paper and memo totals or missing question material from the examiner, then extract the complete pair.",
+      "id": "UNRES-BIO-001"
+    },
+    {
+      "type": "data_quality",
+      "summary": "Microorganisms memo belongs to Test 1, not Test 2",
+      "detail": "Both tests print 2 October 2023 and 40 marks with 10/13/17 totals. Test 1 Q2 is the penicillin/bacterial-type investigation; its memo Q2.1 says Type of bacteria, Q2.7.B says Penicillin. Test 2 Q2.1 instead asks for a dependent variable in a Vibramycin investigation. Date matching alone is insufficient. The inventory lists a separate Test 2 MG.docx that is not present locally.",
+      "affected": [
+        "data/organized/biology/Class test 2- microorganisms.pdf"
+      ],
+      "evidence": [
+        "Test 1 and Test 2 pp3–4; Class test- microorganisms MG.pdf p2; SOURCE-ORC-BIO-2023-013"
+      ],
+      "recommended_review": "Acquire the inventory-listed Test 2 memorandum; do not reuse the Test 1 memo.",
+      "id": "UNRES-BIO-002"
+    },
+    {
+      "type": "coverage_gap",
+      "summary": "Eight locally present papers have no matching local memorandum",
+      "detail": "These are not included in the marking-evidence batch; no requirements are inferred from the inherited document-level stubs.",
+      "affected": [
+        "data/organized/biology/Class test 2- circulation.pdf",
+        "data/organized/biology/Class test 2- microorganisms.pdf",
+        "data/organized/biology/Class test- nervous system.pdf",
+        "data/organized/biology/Class test- skeletal system.pdf",
+        "data/organized/biology/Class test- excretion and skeletal system.pdf",
+        "data/organized/biology/Grade 11 cycle test 2.pdf",
+        "data/organized/biology/Grade 11 excretion class test.pdf",
+        "data/organized/biology/November exam paper 2.pdf"
+      ],
+      "evidence": [
+        "data/organized/biology",
+        "data/raw/biology/SOURCE_INVENTORY.yaml"
+      ],
+      "recommended_review": "Acquire and verify each missing memorandum against the actual paper; the inventory already lists several candidates.",
+      "id": "UNRES-BIO-003"
+    },
+    {
+      "type": "curriculum_gap",
+      "summary": "No syllabus or ATP in the organized biology sample",
+      "detail": "The two curriculum-directory files are P2 source booklets, not curriculum specifications. Topic tags are guesses; no curriculum coverage percentage or missing CAPS topics is asserted. Phase 7 was not executed.",
+      "affected": [
+        "data/organized/biology/curriculum/NOVEMBER P2 SOURCE BOOKLET.pdf",
+        "data/organized/biology/curriculum/Nove exam P2 SOURCE BOOKLET 2024.pdf"
+      ],
+      "evidence": [
+        "data/organized/biology/curriculum"
+      ],
+      "recommended_review": "Obtain the school Grade 11 Life Sciences syllabus/ATP before curriculum mapping or validation.",
+      "id": "UNRES-BIO-004"
+    },
+    {
+      "type": "data_quality",
+      "summary": "Inventory provenance requires title plus printed year",
+      "detail": "Circulation paper and MG titles recur in both 2022 and 2024 inventory entries. The builder uses normalized title and verified printed year, rejecting absent or still-ambiguous matches. Inventory access statuses and hashes have not been reconciled with organized copies.",
+      "affected": [
+        "data/raw/biology/SOURCE_INVENTORY.yaml"
+      ],
+      "evidence": [
+        "SOURCE-ORC-BIO-2022-001",
+        "SOURCE-ORC-BIO-2022-002",
+        "SOURCE-ORC-BIO-2024-027",
+        "SOURCE-ORC-BIO-2024-028"
+      ],
+      "recommended_review": "Reconcile the Phase 3 inventory with the preserved organized files, retaining both years and URLs.",
+      "id": "UNRES-BIO-005"
+    },
+    {
+      "type": "data_quality",
+      "summary": "Prompt date summary and inherited pairings are not source truth",
+      "detail": "Class test 2- circulation actually prints FEBRUARY 2024 (month/year, no day), not an entirely absent date. Nervous-system and Cycle Test 2 stubs had different-sitting memos. The manifest was not used for pairing.",
+      "affected": [
+        "data/organized/biology/Class test 2- circulation.pdf",
+        "data/organized/sample_manifest.json"
+      ],
+      "evidence": [
+        "Circulation Test 2 p1; nervous-system paper p1; Cycle Test 2 p1"
+      ],
+      "recommended_review": "Correct upstream metadata in a separately authorised acquisition run, without changing source PDFs.",
+      "id": "UNRES-BIO-006"
+    },
+    {
+      "id": "UNRES-BIO-007",
+      "type": "contradiction",
+      "summary": "Circulation pressure explanation conflicts across marking guidelines",
+      "detail": "2022 Q3.3.a attributes fluctuations to contracting/relaxing arterial walls; 2023 Q3.1.7.b instead attributes them to cardiac systole/diastole. 2022 Q3.2 says the aorta receives blood directly from the left atrium. Preserve the wording and withhold this mechanism from synthesis pending examiner review.",
+      "affected": [
+        "biology_2022_internal_class_test_may_q3.2",
+        "biology_2022_internal_class_test_may_q3.3.a",
+        "biology_2023_internal_paper1_november_q3.1.7.b"
+      ],
+      "evidence": [
+        "biology_2022_internal_class_test_may_q3.2",
+        "biology_2022_internal_class_test_may_q3.3.a",
+        "biology_2023_internal_paper1_november_q3.1.7.b"
+      ],
+      "recommended_review": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule."
+    },
+    {
+      "id": "UNRES-BIO-008",
+      "type": "contradiction",
+      "summary": "July memo calls a labelled bone radium",
+      "detail": "July Q3.1.1 spells the bone radium; the word box in Q1.5 uses Radius. Do not silently substitute a correction.",
+      "affected": [
+        "biology_2023_internal_paper1_july_q3.1.1",
+        "biology_2023_internal_paper1_july_q1.5"
+      ],
+      "evidence": [
+        "biology_2023_internal_paper1_july_q3.1.1",
+        "biology_2023_internal_paper1_july_q1.5"
+      ],
+      "recommended_review": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule."
+    },
+    {
+      "id": "UNRES-BIO-009",
+      "type": "contradiction",
+      "summary": "Excretion memo includes colon/faeces despite its metabolic-waste definition",
+      "detail": "July Q1.4.2 includes Large intestine/colon–faeces; Q2.1.1 defines excretion in terms of metabolic wastes. This boundary is not resolved by the batch.",
+      "affected": [
+        "biology_2023_internal_paper1_july_q1.4.2",
+        "biology_2023_internal_paper1_july_q2.1.1"
+      ],
+      "evidence": [
+        "biology_2023_internal_paper1_july_q1.4.2",
+        "biology_2023_internal_paper1_july_q2.1.1"
+      ],
+      "recommended_review": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule."
+    },
+    {
+      "id": "UNRES-BIO-010",
+      "type": "contradiction",
+      "summary": "Memo gives rate units for a one-hour volume",
+      "detail": "November Q1.5.6 asks for volume in one hour but the memo prints 15 000 cm3/minute and no unit no mark. Retained verbatim, excluded from synthesis.",
+      "affected": [
+        "biology_2023_internal_paper1_november_q1.5.6"
+      ],
+      "evidence": [
+        "biology_2023_internal_paper1_november_q1.5.6"
+      ],
+      "recommended_review": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule."
+    },
+    {
+      "id": "UNRES-BIO-011",
+      "type": "contradiction",
+      "summary": "Lady-bug memo retains snail wording",
+      "detail": "November Q4.3.1 asks about lady bugs but its memo answer says 20 snails caught in the first sample. The source figure also remains unverified.",
+      "affected": [
+        "biology_2023_internal_paper1_november_q4.3.1"
+      ],
+      "evidence": [
+        "biology_2023_internal_paper1_november_q4.3.1"
+      ],
+      "recommended_review": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule."
+    },
+    {
+      "id": "UNRES-BIO-012",
+      "type": "single_exemplar",
+      "summary": "Local partial-credit rules are not cross-paper requirements",
+      "detail": "Only the microorganisms memo Q3.1.5 allows one mark for fatigue alone; only July Q1.4.5 states both entries correct for a row tick. These are independent local rules, not a shared pattern.",
+      "affected": [
+        "biology_2023_internal_class_test_october_q3.1.5",
+        "biology_2023_internal_paper1_july_q1.4.5"
+      ],
+      "evidence": [
+        "biology_2023_internal_class_test_october_q3.1.5",
+        "biology_2023_internal_paper1_july_q1.4.5"
+      ],
+      "recommended_review": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule."
+    },
+    {
+      "id": "UNRES-BIO-013",
+      "type": "single_exemplar",
+      "summary": "Antibiotic resistance mechanism",
+      "detail": "Deferred candidate, not an established cross-paper model. Antibiotic resistance mechanism",
+      "affected": [
+        "biology_2023_internal_class_test_october_q2.5"
+      ],
+      "evidence": [
+        "biology_2023_internal_class_test_october_q2.5"
+      ],
+      "recommended_review": "Acquire independent marking examples or verify the source visuals before promoting this candidate."
+    },
+    {
+      "id": "UNRES-BIO-014",
+      "type": "single_exemplar",
+      "summary": "Formulate an antibiotic hypothesis",
+      "detail": "Deferred candidate, not an established cross-paper model. Formulate an antibiotic hypothesis",
+      "affected": [
+        "biology_2023_internal_class_test_october_q2.2"
+      ],
+      "evidence": [
+        "biology_2023_internal_class_test_october_q2.2"
+      ],
+      "recommended_review": "Acquire independent marking examples or verify the source visuals before promoting this candidate."
+    },
+    {
+      "id": "UNRES-BIO-015",
+      "type": "single_exemplar",
+      "summary": "Mark-recapture calculation",
+      "detail": "Deferred candidate, not an established cross-paper model. Mark-recapture calculation",
+      "affected": [
+        "biology_2023_internal_paper1_november_q4.3.1"
+      ],
+      "evidence": [
+        "biology_2023_internal_paper1_november_q4.3.1"
+      ],
+      "recommended_review": "Acquire independent marking examples or verify the source visuals before promoting this candidate."
+    },
+    {
+      "id": "UNRES-BIO-016",
+      "type": "coverage_gap",
+      "summary": "Population terminology repeats within one sitting, not across admitted papers",
+      "detail": "Deferred candidate, not an established cross-paper model. Population terminology repeats within one sitting, not across admitted papers",
+      "affected": [
+        "biology_2023_internal_paper1_november_q1.6.1",
+        "biology_2023_internal_paper1_november_q4.1.5.c.i"
+      ],
+      "evidence": [
+        "biology_2023_internal_paper1_november_q1.6.1",
+        "biology_2023_internal_paper1_november_q4.1.5.c.i"
+      ],
+      "recommended_review": "Acquire independent marking examples or verify the source visuals before promoting this candidate."
+    },
+    {
+      "id": "UNRES-BIO-017",
+      "type": "fidelity",
+      "summary": "Biological drawing rubric is readable but expected diagrams remain visually unverified",
+      "detail": "Deferred candidate, not an established cross-paper model. Biological drawing rubric is readable but expected diagrams remain visually unverified",
+      "affected": [
+        "biology_2022_internal_cycle_test_february_q2.1.3",
+        "biology_2022_internal_class_test_may_q3.3.b",
+        "biology_2023_internal_paper1_july_q4.1.7",
+        "biology_2023_internal_paper1_november_q2.1.4"
+      ],
+      "evidence": [
+        "biology_2022_internal_cycle_test_february_q2.1.3",
+        "biology_2022_internal_class_test_may_q3.3.b",
+        "biology_2023_internal_paper1_july_q4.1.7",
+        "biology_2023_internal_paper1_november_q2.1.4"
+      ],
+      "recommended_review": "Acquire independent marking examples or verify the source visuals before promoting this candidate."
+    },
+    {
+      "id": "UNRES-BIO-UNASSIGNED",
+      "type": "coverage_gap",
+      "summary": "229 unassigned question records",
+      "detail": "Records not fitting an admitted, independently supported family remain unassigned; no coverage is implied.",
+      "affected": [
+        "biology_2022_internal_class_test_may_q1.1.1",
+        "biology_2022_internal_class_test_may_q1.1.2",
+        "biology_2022_internal_class_test_may_q1.1.3",
+        "biology_2022_internal_class_test_may_q1.1.4",
+        "biology_2022_internal_class_test_may_q1.1.5",
+        "biology_2022_internal_class_test_may_q1.2.1",
+        "biology_2022_internal_class_test_may_q1.2.2",
+        "biology_2022_internal_class_test_may_q1.2.3",
+        "biology_2022_internal_class_test_may_q1.2.4",
+        "biology_2022_internal_class_test_may_q1.2.5",
+        "biology_2022_internal_class_test_may_q2.1",
+        "biology_2022_internal_class_test_may_q2.2",
+        "biology_2022_internal_class_test_may_q2.3.1",
+        "biology_2022_internal_class_test_may_q2.3.2",
+        "biology_2022_internal_class_test_may_q2.3.3",
+        "biology_2022_internal_class_test_may_q2.3.4",
+        "biology_2022_internal_class_test_may_q3.1",
+        "biology_2022_internal_class_test_may_q3.2",
+        "biology_2022_internal_class_test_may_q3.3.a",
+        "biology_2022_internal_class_test_may_q3.3.b",
+        "biology_2022_internal_class_test_may_q3.4.a",
+        "biology_2022_internal_class_test_may_q3.4.b",
+        "biology_2022_internal_class_test_may_q3.5",
+        "biology_2022_internal_class_test_may_q4.1",
+        "biology_2022_internal_class_test_may_q4.2",
+        "biology_2022_internal_class_test_may_q4.3",
+        "biology_2022_internal_class_test_may_q4.4",
+        "biology_2022_internal_class_test_may_q4.6",
+        "biology_2022_internal_cycle_test_february_q1.1.1",
+        "biology_2022_internal_cycle_test_february_q1.1.2",
+        "biology_2022_internal_cycle_test_february_q1.1.3",
+        "biology_2022_internal_cycle_test_february_q1.1.4",
+        "biology_2022_internal_cycle_test_february_q1.1.5",
+        "biology_2022_internal_cycle_test_february_q1.2.1",
+        "biology_2022_internal_cycle_test_february_q1.2.2",
+        "biology_2022_internal_cycle_test_february_q1.2.3",
+        "biology_2022_internal_cycle_test_february_q1.2.4",
+        "biology_2022_internal_cycle_test_february_q1.3.1",
+        "biology_2022_internal_cycle_test_february_q1.3.2",
+        "biology_2022_internal_cycle_test_february_q1.3.3",
+        "biology_2022_internal_cycle_test_february_q1.3.4.B",
+        "biology_2022_internal_cycle_test_february_q2.1.1.a",
+        "biology_2022_internal_cycle_test_february_q2.1.1.b",
+        "biology_2022_internal_cycle_test_february_q2.1.1.c",
+        "biology_2022_internal_cycle_test_february_q2.1.1.d",
+        "biology_2022_internal_cycle_test_february_q2.1.2",
+        "biology_2022_internal_cycle_test_february_q2.1.3",
+        "biology_2022_internal_cycle_test_february_q2.2.1",
+        "biology_2022_internal_cycle_test_february_q2.2.2",
+        "biology_2022_internal_cycle_test_february_q2.2.3",
+        "biology_2022_internal_cycle_test_february_q2.2.4.C",
+        "biology_2023_internal_class_test_october_q2.2",
+        "biology_2023_internal_class_test_october_q2.3",
+        "biology_2023_internal_class_test_october_q2.4",
+        "biology_2023_internal_class_test_october_q2.5",
+        "biology_2023_internal_class_test_october_q2.6",
+        "biology_2023_internal_class_test_october_q2.7.A",
+        "biology_2023_internal_class_test_october_q2.7.B",
+        "biology_2023_internal_class_test_october_q3.1.2.a",
+        "biology_2023_internal_class_test_october_q3.1.2.b",
+        "biology_2023_internal_class_test_october_q3.1.3",
+        "biology_2023_internal_class_test_october_q3.1.4",
+        "biology_2023_internal_class_test_october_q3.1.6",
+        "biology_2023_internal_class_test_october_q3.2.1",
+        "biology_2023_internal_class_test_october_q3.2.2",
+        "biology_2023_internal_class_test_october_q3.2.3",
+        "biology_2023_internal_class_test_october_q3.2.4",
+        "biology_2023_internal_paper1_july_q1.2.1",
+        "biology_2023_internal_paper1_july_q1.2.2",
+        "biology_2023_internal_paper1_july_q1.2.3",
+        "biology_2023_internal_paper1_july_q1.2.5",
+        "biology_2023_internal_paper1_july_q1.2.6",
+        "biology_2023_internal_paper1_july_q1.2.7",
+        "biology_2023_internal_paper1_july_q1.2.8",
+        "biology_2023_internal_paper1_july_q1.2.9",
+        "biology_2023_internal_paper1_july_q1.3.2",
+        "biology_2023_internal_paper1_july_q1.3.3",
+        "biology_2023_internal_paper1_july_q1.3.4",
+        "biology_2023_internal_paper1_july_q1.3.5",
+        "biology_2023_internal_paper1_july_q1.4.1",
+        "biology_2023_internal_paper1_july_q1.4.2",
+        "biology_2023_internal_paper1_july_q1.4.3",
+        "biology_2023_internal_paper1_july_q1.4.4.A",
+        "biology_2023_internal_paper1_july_q1.4.4.B",
+        "biology_2023_internal_paper1_july_q1.5",
+        "biology_2023_internal_paper1_july_q2.1.1",
+        "biology_2023_internal_paper1_july_q2.1.2",
+        "biology_2023_internal_paper1_july_q2.1.3",
+        "biology_2023_internal_paper1_july_q2.1.4",
+        "biology_2023_internal_paper1_july_q2.1.5",
+        "biology_2023_internal_paper1_july_q2.1.6",
+        "biology_2023_internal_paper1_july_q2.1.7",
+        "biology_2023_internal_paper1_july_q2.1.8",
+        "biology_2023_internal_paper1_july_q2.2.1",
+        "biology_2023_internal_paper1_july_q2.2.2",
+        "biology_2023_internal_paper1_july_q2.2.3",
+        "biology_2023_internal_paper1_july_q2.2.4",
+        "biology_2023_internal_paper1_july_q2.2.5",
+        "biology_2023_internal_paper1_july_q2.2.6",
+        "biology_2023_internal_paper1_july_q2.2.7.a",
+        "biology_2023_internal_paper1_july_q2.2.7.b",
+        "biology_2023_internal_paper1_july_q2.2.7.c",
+        "biology_2023_internal_paper1_july_q3.1.1",
+        "biology_2023_internal_paper1_july_q3.1.2",
+        "biology_2023_internal_paper1_july_q3.1.3",
+        "biology_2023_internal_paper1_july_q3.1.4",
+        "biology_2023_internal_paper1_july_q3.1.5.A",
+        "biology_2023_internal_paper1_july_q3.1.5.B",
+        "biology_2023_internal_paper1_july_q3.1.5.C",
+        "biology_2023_internal_paper1_july_q3.2.1",
+        "biology_2023_internal_paper1_july_q3.2.2",
+        "biology_2023_internal_paper1_july_q3.2.3",
+        "biology_2023_internal_paper1_july_q3.2.4",
+        "biology_2023_internal_paper1_july_q3.2.6",
+        "biology_2023_internal_paper1_july_q4.1.1",
+        "biology_2023_internal_paper1_july_q4.1.3",
+        "biology_2023_internal_paper1_july_q4.1.4.A",
+        "biology_2023_internal_paper1_july_q4.1.4.C",
+        "biology_2023_internal_paper1_july_q4.1.5",
+        "biology_2023_internal_paper1_july_q4.1.6",
+        "biology_2023_internal_paper1_july_q4.1.7",
+        "biology_2023_internal_paper1_july_q4.2.1",
+        "biology_2023_internal_paper1_july_q4.2.2",
+        "biology_2023_internal_paper1_july_q4.2.4",
+        "biology_2023_internal_paper1_july_q4.2.6",
+        "biology_2023_internal_paper1_november_q1.1.row1",
+        "biology_2023_internal_paper1_november_q1.1.row10",
+        "biology_2023_internal_paper1_november_q1.1.row2",
+        "biology_2023_internal_paper1_november_q1.1.row3",
+        "biology_2023_internal_paper1_november_q1.1.row4",
+        "biology_2023_internal_paper1_november_q1.1.row5",
+        "biology_2023_internal_paper1_november_q1.1.row6",
+        "biology_2023_internal_paper1_november_q1.1.row7",
+        "biology_2023_internal_paper1_november_q1.1.row8",
+        "biology_2023_internal_paper1_november_q1.1.row9",
+        "biology_2023_internal_paper1_november_q1.2.1",
+        "biology_2023_internal_paper1_november_q1.2.2",
+        "biology_2023_internal_paper1_november_q1.2.3",
+        "biology_2023_internal_paper1_november_q1.2.4",
+        "biology_2023_internal_paper1_november_q1.2.5",
+        "biology_2023_internal_paper1_november_q1.2.6",
+        "biology_2023_internal_paper1_november_q1.2.7",
+        "biology_2023_internal_paper1_november_q1.2.8",
+        "biology_2023_internal_paper1_november_q1.2.9",
+        "biology_2023_internal_paper1_november_q1.3.1",
+        "biology_2023_internal_paper1_november_q1.3.2",
+        "biology_2023_internal_paper1_november_q1.3.3",
+        "biology_2023_internal_paper1_november_q1.3.4",
+        "biology_2023_internal_paper1_november_q1.3.5",
+        "biology_2023_internal_paper1_november_q1.4.2",
+        "biology_2023_internal_paper1_november_q1.4.3",
+        "biology_2023_internal_paper1_november_q1.4.4",
+        "biology_2023_internal_paper1_november_q1.4.7",
+        "biology_2023_internal_paper1_november_q1.5.1",
+        "biology_2023_internal_paper1_november_q1.5.2",
+        "biology_2023_internal_paper1_november_q1.5.3",
+        "biology_2023_internal_paper1_november_q1.5.4",
+        "biology_2023_internal_paper1_november_q1.5.5",
+        "biology_2023_internal_paper1_november_q1.5.6",
+        "biology_2023_internal_paper1_november_q1.5.7.a",
+        "biology_2023_internal_paper1_november_q1.5.7.b",
+        "biology_2023_internal_paper1_november_q1.6.1",
+        "biology_2023_internal_paper1_november_q1.6.2",
+        "biology_2023_internal_paper1_november_q1.6.3",
+        "biology_2023_internal_paper1_november_q1.6.4",
+        "biology_2023_internal_paper1_november_q1.6.5",
+        "biology_2023_internal_paper1_november_q1.6.6.a",
+        "biology_2023_internal_paper1_november_q1.6.6.b",
+        "biology_2023_internal_paper1_november_q1.7",
+        "biology_2023_internal_paper1_november_q1.8",
+        "biology_2023_internal_paper1_november_q2.1.1",
+        "biology_2023_internal_paper1_november_q2.1.2",
+        "biology_2023_internal_paper1_november_q2.1.3",
+        "biology_2023_internal_paper1_november_q2.1.4",
+        "biology_2023_internal_paper1_november_q2.1.5",
+        "biology_2023_internal_paper1_november_q2.1.6",
+        "biology_2023_internal_paper1_november_q2.1.7",
+        "biology_2023_internal_paper1_november_q2.1.8",
+        "biology_2023_internal_paper1_november_q2.2.1",
+        "biology_2023_internal_paper1_november_q2.2.2",
+        "biology_2023_internal_paper1_november_q2.2.3",
+        "biology_2023_internal_paper1_november_q2.2.4",
+        "biology_2023_internal_paper1_november_q2.2.6",
+        "biology_2023_internal_paper1_november_q2.3.1",
+        "biology_2023_internal_paper1_november_q2.3.2",
+        "biology_2023_internal_paper1_november_q2.3.3",
+        "biology_2023_internal_paper1_november_q2.3.4",
+        "biology_2023_internal_paper1_november_q2.3.5",
+        "biology_2023_internal_paper1_november_q3.1.1",
+        "biology_2023_internal_paper1_november_q3.1.2.a",
+        "biology_2023_internal_paper1_november_q3.1.2.b",
+        "biology_2023_internal_paper1_november_q3.1.3.a",
+        "biology_2023_internal_paper1_november_q3.1.3.b",
+        "biology_2023_internal_paper1_november_q3.1.4",
+        "biology_2023_internal_paper1_november_q3.1.5",
+        "biology_2023_internal_paper1_november_q3.1.6",
+        "biology_2023_internal_paper1_november_q3.1.7.a",
+        "biology_2023_internal_paper1_november_q3.1.7.b",
+        "biology_2023_internal_paper1_november_q3.1.7.c",
+        "biology_2023_internal_paper1_november_q3.1.7.d",
+        "biology_2023_internal_paper1_november_q3.2.1",
+        "biology_2023_internal_paper1_november_q3.2.3",
+        "biology_2023_internal_paper1_november_q3.3.1",
+        "biology_2023_internal_paper1_november_q3.3.2",
+        "biology_2023_internal_paper1_november_q3.3.3",
+        "biology_2023_internal_paper1_november_q3.3.6",
+        "biology_2023_internal_paper1_november_q4.1.1",
+        "biology_2023_internal_paper1_november_q4.1.2",
+        "biology_2023_internal_paper1_november_q4.1.3",
+        "biology_2023_internal_paper1_november_q4.1.4",
+        "biology_2023_internal_paper1_november_q4.1.5.a",
+        "biology_2023_internal_paper1_november_q4.1.5.b",
+        "biology_2023_internal_paper1_november_q4.1.5.c.i",
+        "biology_2023_internal_paper1_november_q4.1.5.c.ii",
+        "biology_2023_internal_paper1_november_q4.1.5.c.iii",
+        "biology_2023_internal_paper1_november_q4.1.5.c.iv",
+        "biology_2023_internal_paper1_november_q4.2.1",
+        "biology_2023_internal_paper1_november_q4.2.2",
+        "biology_2023_internal_paper1_november_q4.2.3",
+        "biology_2023_internal_paper1_november_q4.2.4",
+        "biology_2023_internal_paper1_november_q4.2.5",
+        "biology_2023_internal_paper1_november_q4.3.1",
+        "biology_2023_internal_paper1_november_q4.3.2",
+        "biology_2023_internal_paper1_november_q4.3.3",
+        "biology_2023_internal_paper1_november_q4.3.4",
+        "biology_2023_internal_paper1_november_q4.4.1",
+        "biology_2023_internal_paper1_november_q4.4.2.a",
+        "biology_2023_internal_paper1_november_q4.4.2.b",
+        "biology_2023_internal_paper1_november_q4.4.3"
+      ],
+      "evidence": [
+        "biology_2022_internal_class_test_may_q1.1.1",
+        "biology_2022_internal_class_test_may_q1.1.2",
+        "biology_2022_internal_class_test_may_q1.1.3",
+        "biology_2022_internal_class_test_may_q1.1.4",
+        "biology_2022_internal_class_test_may_q1.1.5",
+        "biology_2022_internal_class_test_may_q1.2.1",
+        "biology_2022_internal_class_test_may_q1.2.2",
+        "biology_2022_internal_class_test_may_q1.2.3",
+        "biology_2022_internal_class_test_may_q1.2.4",
+        "biology_2022_internal_class_test_may_q1.2.5",
+        "biology_2022_internal_class_test_may_q2.1",
+        "biology_2022_internal_class_test_may_q2.2",
+        "biology_2022_internal_class_test_may_q2.3.1",
+        "biology_2022_internal_class_test_may_q2.3.2",
+        "biology_2022_internal_class_test_may_q2.3.3",
+        "biology_2022_internal_class_test_may_q2.3.4",
+        "biology_2022_internal_class_test_may_q3.1",
+        "biology_2022_internal_class_test_may_q3.2",
+        "biology_2022_internal_class_test_may_q3.3.a",
+        "biology_2022_internal_class_test_may_q3.3.b",
+        "biology_2022_internal_class_test_may_q3.4.a",
+        "biology_2022_internal_class_test_may_q3.4.b",
+        "biology_2022_internal_class_test_may_q3.5",
+        "biology_2022_internal_class_test_may_q4.1",
+        "biology_2022_internal_class_test_may_q4.2",
+        "biology_2022_internal_class_test_may_q4.3",
+        "biology_2022_internal_class_test_may_q4.4",
+        "biology_2022_internal_class_test_may_q4.6",
+        "biology_2022_internal_cycle_test_february_q1.1.1",
+        "biology_2022_internal_cycle_test_february_q1.1.2",
+        "biology_2022_internal_cycle_test_february_q1.1.3",
+        "biology_2022_internal_cycle_test_february_q1.1.4",
+        "biology_2022_internal_cycle_test_february_q1.1.5",
+        "biology_2022_internal_cycle_test_february_q1.2.1",
+        "biology_2022_internal_cycle_test_february_q1.2.2",
+        "biology_2022_internal_cycle_test_february_q1.2.3",
+        "biology_2022_internal_cycle_test_february_q1.2.4",
+        "biology_2022_internal_cycle_test_february_q1.3.1",
+        "biology_2022_internal_cycle_test_february_q1.3.2",
+        "biology_2022_internal_cycle_test_february_q1.3.3",
+        "biology_2022_internal_cycle_test_february_q1.3.4.B",
+        "biology_2022_internal_cycle_test_february_q2.1.1.a",
+        "biology_2022_internal_cycle_test_february_q2.1.1.b",
+        "biology_2022_internal_cycle_test_february_q2.1.1.c",
+        "biology_2022_internal_cycle_test_february_q2.1.1.d",
+        "biology_2022_internal_cycle_test_february_q2.1.2",
+        "biology_2022_internal_cycle_test_february_q2.1.3",
+        "biology_2022_internal_cycle_test_february_q2.2.1",
+        "biology_2022_internal_cycle_test_february_q2.2.2",
+        "biology_2022_internal_cycle_test_february_q2.2.3",
+        "biology_2022_internal_cycle_test_february_q2.2.4.C",
+        "biology_2023_internal_class_test_october_q2.2",
+        "biology_2023_internal_class_test_october_q2.3",
+        "biology_2023_internal_class_test_october_q2.4",
+        "biology_2023_internal_class_test_october_q2.5",
+        "biology_2023_internal_class_test_october_q2.6",
+        "biology_2023_internal_class_test_october_q2.7.A",
+        "biology_2023_internal_class_test_october_q2.7.B",
+        "biology_2023_internal_class_test_october_q3.1.2.a",
+        "biology_2023_internal_class_test_october_q3.1.2.b",
+        "biology_2023_internal_class_test_october_q3.1.3",
+        "biology_2023_internal_class_test_october_q3.1.4",
+        "biology_2023_internal_class_test_october_q3.1.6",
+        "biology_2023_internal_class_test_october_q3.2.1",
+        "biology_2023_internal_class_test_october_q3.2.2",
+        "biology_2023_internal_class_test_october_q3.2.3",
+        "biology_2023_internal_class_test_october_q3.2.4",
+        "biology_2023_internal_paper1_july_q1.2.1",
+        "biology_2023_internal_paper1_july_q1.2.2",
+        "biology_2023_internal_paper1_july_q1.2.3",
+        "biology_2023_internal_paper1_july_q1.2.5",
+        "biology_2023_internal_paper1_july_q1.2.6",
+        "biology_2023_internal_paper1_july_q1.2.7",
+        "biology_2023_internal_paper1_july_q1.2.8",
+        "biology_2023_internal_paper1_july_q1.2.9",
+        "biology_2023_internal_paper1_july_q1.3.2",
+        "biology_2023_internal_paper1_july_q1.3.3",
+        "biology_2023_internal_paper1_july_q1.3.4",
+        "biology_2023_internal_paper1_july_q1.3.5",
+        "biology_2023_internal_paper1_july_q1.4.1",
+        "biology_2023_internal_paper1_july_q1.4.2",
+        "biology_2023_internal_paper1_july_q1.4.3",
+        "biology_2023_internal_paper1_july_q1.4.4.A",
+        "biology_2023_internal_paper1_july_q1.4.4.B",
+        "biology_2023_internal_paper1_july_q1.5",
+        "biology_2023_internal_paper1_july_q2.1.1",
+        "biology_2023_internal_paper1_july_q2.1.2",
+        "biology_2023_internal_paper1_july_q2.1.3",
+        "biology_2023_internal_paper1_july_q2.1.4",
+        "biology_2023_internal_paper1_july_q2.1.5",
+        "biology_2023_internal_paper1_july_q2.1.6",
+        "biology_2023_internal_paper1_july_q2.1.7",
+        "biology_2023_internal_paper1_july_q2.1.8",
+        "biology_2023_internal_paper1_july_q2.2.1",
+        "biology_2023_internal_paper1_july_q2.2.2",
+        "biology_2023_internal_paper1_july_q2.2.3",
+        "biology_2023_internal_paper1_july_q2.2.4",
+        "biology_2023_internal_paper1_july_q2.2.5",
+        "biology_2023_internal_paper1_july_q2.2.6",
+        "biology_2023_internal_paper1_july_q2.2.7.a",
+        "biology_2023_internal_paper1_july_q2.2.7.b",
+        "biology_2023_internal_paper1_july_q2.2.7.c",
+        "biology_2023_internal_paper1_july_q3.1.1",
+        "biology_2023_internal_paper1_july_q3.1.2",
+        "biology_2023_internal_paper1_july_q3.1.3",
+        "biology_2023_internal_paper1_july_q3.1.4",
+        "biology_2023_internal_paper1_july_q3.1.5.A",
+        "biology_2023_internal_paper1_july_q3.1.5.B",
+        "biology_2023_internal_paper1_july_q3.1.5.C",
+        "biology_2023_internal_paper1_july_q3.2.1",
+        "biology_2023_internal_paper1_july_q3.2.2",
+        "biology_2023_internal_paper1_july_q3.2.3",
+        "biology_2023_internal_paper1_july_q3.2.4",
+        "biology_2023_internal_paper1_july_q3.2.6",
+        "biology_2023_internal_paper1_july_q4.1.1",
+        "biology_2023_internal_paper1_july_q4.1.3",
+        "biology_2023_internal_paper1_july_q4.1.4.A",
+        "biology_2023_internal_paper1_july_q4.1.4.C",
+        "biology_2023_internal_paper1_july_q4.1.5",
+        "biology_2023_internal_paper1_july_q4.1.6",
+        "biology_2023_internal_paper1_july_q4.1.7",
+        "biology_2023_internal_paper1_july_q4.2.1",
+        "biology_2023_internal_paper1_july_q4.2.2",
+        "biology_2023_internal_paper1_july_q4.2.4",
+        "biology_2023_internal_paper1_july_q4.2.6",
+        "biology_2023_internal_paper1_november_q1.1.row1",
+        "biology_2023_internal_paper1_november_q1.1.row10",
+        "biology_2023_internal_paper1_november_q1.1.row2",
+        "biology_2023_internal_paper1_november_q1.1.row3",
+        "biology_2023_internal_paper1_november_q1.1.row4",
+        "biology_2023_internal_paper1_november_q1.1.row5",
+        "biology_2023_internal_paper1_november_q1.1.row6",
+        "biology_2023_internal_paper1_november_q1.1.row7",
+        "biology_2023_internal_paper1_november_q1.1.row8",
+        "biology_2023_internal_paper1_november_q1.1.row9",
+        "biology_2023_internal_paper1_november_q1.2.1",
+        "biology_2023_internal_paper1_november_q1.2.2",
+        "biology_2023_internal_paper1_november_q1.2.3",
+        "biology_2023_internal_paper1_november_q1.2.4",
+        "biology_2023_internal_paper1_november_q1.2.5",
+        "biology_2023_internal_paper1_november_q1.2.6",
+        "biology_2023_internal_paper1_november_q1.2.7",
+        "biology_2023_internal_paper1_november_q1.2.8",
+        "biology_2023_internal_paper1_november_q1.2.9",
+        "biology_2023_internal_paper1_november_q1.3.1",
+        "biology_2023_internal_paper1_november_q1.3.2",
+        "biology_2023_internal_paper1_november_q1.3.3",
+        "biology_2023_internal_paper1_november_q1.3.4",
+        "biology_2023_internal_paper1_november_q1.3.5",
+        "biology_2023_internal_paper1_november_q1.4.2",
+        "biology_2023_internal_paper1_november_q1.4.3",
+        "biology_2023_internal_paper1_november_q1.4.4",
+        "biology_2023_internal_paper1_november_q1.4.7",
+        "biology_2023_internal_paper1_november_q1.5.1",
+        "biology_2023_internal_paper1_november_q1.5.2",
+        "biology_2023_internal_paper1_november_q1.5.3",
+        "biology_2023_internal_paper1_november_q1.5.4",
+        "biology_2023_internal_paper1_november_q1.5.5",
+        "biology_2023_internal_paper1_november_q1.5.6",
+        "biology_2023_internal_paper1_november_q1.5.7.a",
+        "biology_2023_internal_paper1_november_q1.5.7.b",
+        "biology_2023_internal_paper1_november_q1.6.1",
+        "biology_2023_internal_paper1_november_q1.6.2",
+        "biology_2023_internal_paper1_november_q1.6.3",
+        "biology_2023_internal_paper1_november_q1.6.4",
+        "biology_2023_internal_paper1_november_q1.6.5",
+        "biology_2023_internal_paper1_november_q1.6.6.a",
+        "biology_2023_internal_paper1_november_q1.6.6.b",
+        "biology_2023_internal_paper1_november_q1.7",
+        "biology_2023_internal_paper1_november_q1.8",
+        "biology_2023_internal_paper1_november_q2.1.1",
+        "biology_2023_internal_paper1_november_q2.1.2",
+        "biology_2023_internal_paper1_november_q2.1.3",
+        "biology_2023_internal_paper1_november_q2.1.4",
+        "biology_2023_internal_paper1_november_q2.1.5",
+        "biology_2023_internal_paper1_november_q2.1.6",
+        "biology_2023_internal_paper1_november_q2.1.7",
+        "biology_2023_internal_paper1_november_q2.1.8",
+        "biology_2023_internal_paper1_november_q2.2.1",
+        "biology_2023_internal_paper1_november_q2.2.2",
+        "biology_2023_internal_paper1_november_q2.2.3",
+        "biology_2023_internal_paper1_november_q2.2.4",
+        "biology_2023_internal_paper1_november_q2.2.6",
+        "biology_2023_internal_paper1_november_q2.3.1",
+        "biology_2023_internal_paper1_november_q2.3.2",
+        "biology_2023_internal_paper1_november_q2.3.3",
+        "biology_2023_internal_paper1_november_q2.3.4",
+        "biology_2023_internal_paper1_november_q2.3.5",
+        "biology_2023_internal_paper1_november_q3.1.1",
+        "biology_2023_internal_paper1_november_q3.1.2.a",
+        "biology_2023_internal_paper1_november_q3.1.2.b",
+        "biology_2023_internal_paper1_november_q3.1.3.a",
+        "biology_2023_internal_paper1_november_q3.1.3.b",
+        "biology_2023_internal_paper1_november_q3.1.4",
+        "biology_2023_internal_paper1_november_q3.1.5",
+        "biology_2023_internal_paper1_november_q3.1.6",
+        "biology_2023_internal_paper1_november_q3.1.7.a",
+        "biology_2023_internal_paper1_november_q3.1.7.b",
+        "biology_2023_internal_paper1_november_q3.1.7.c",
+        "biology_2023_internal_paper1_november_q3.1.7.d",
+        "biology_2023_internal_paper1_november_q3.2.1",
+        "biology_2023_internal_paper1_november_q3.2.3",
+        "biology_2023_internal_paper1_november_q3.3.1",
+        "biology_2023_internal_paper1_november_q3.3.2",
+        "biology_2023_internal_paper1_november_q3.3.3",
+        "biology_2023_internal_paper1_november_q3.3.6",
+        "biology_2023_internal_paper1_november_q4.1.1",
+        "biology_2023_internal_paper1_november_q4.1.2",
+        "biology_2023_internal_paper1_november_q4.1.3",
+        "biology_2023_internal_paper1_november_q4.1.4",
+        "biology_2023_internal_paper1_november_q4.1.5.a",
+        "biology_2023_internal_paper1_november_q4.1.5.b",
+        "biology_2023_internal_paper1_november_q4.1.5.c.i",
+        "biology_2023_internal_paper1_november_q4.1.5.c.ii",
+        "biology_2023_internal_paper1_november_q4.1.5.c.iii",
+        "biology_2023_internal_paper1_november_q4.1.5.c.iv",
+        "biology_2023_internal_paper1_november_q4.2.1",
+        "biology_2023_internal_paper1_november_q4.2.2",
+        "biology_2023_internal_paper1_november_q4.2.3",
+        "biology_2023_internal_paper1_november_q4.2.4",
+        "biology_2023_internal_paper1_november_q4.2.5",
+        "biology_2023_internal_paper1_november_q4.3.1",
+        "biology_2023_internal_paper1_november_q4.3.2",
+        "biology_2023_internal_paper1_november_q4.3.3",
+        "biology_2023_internal_paper1_november_q4.3.4",
+        "biology_2023_internal_paper1_november_q4.4.1",
+        "biology_2023_internal_paper1_november_q4.4.2.a",
+        "biology_2023_internal_paper1_november_q4.4.2.b",
+        "biology_2023_internal_paper1_november_q4.4.3"
+      ],
+      "recommended_review": "Review the source pages and expand the batch before classifying these records."
+    },
+    {
+      "id": "UNRES-BIO-VISUAL",
+      "type": "fidelity",
+      "summary": "84 visual question records",
+      "detail": "These records depend on an unverified figure, graph or image answer. Their text/memo is retained, but none contributes to Pass 2 families.",
+      "affected": [
+        "biology_2022_internal_cycle_test_february_q1.3.1",
+        "biology_2022_internal_cycle_test_february_q1.3.3",
+        "biology_2022_internal_cycle_test_february_q2.1.3",
+        "biology_2022_internal_cycle_test_february_q2.2.4.C",
+        "biology_2022_internal_class_test_may_q2.1",
+        "biology_2022_internal_class_test_may_q2.2",
+        "biology_2022_internal_class_test_may_q2.3.2",
+        "biology_2022_internal_class_test_may_q2.3.3",
+        "biology_2022_internal_class_test_may_q3.1",
+        "biology_2022_internal_class_test_may_q3.3.b",
+        "biology_2023_internal_paper1_july_q1.2.3",
+        "biology_2023_internal_paper1_july_q1.2.9",
+        "biology_2023_internal_paper1_july_q1.3.5",
+        "biology_2023_internal_paper1_july_q1.4.1",
+        "biology_2023_internal_paper1_july_q1.4.4.A",
+        "biology_2023_internal_paper1_july_q1.4.4.B",
+        "biology_2023_internal_paper1_july_q1.5",
+        "biology_2023_internal_paper1_july_q2.1.2",
+        "biology_2023_internal_paper1_july_q2.2.1",
+        "biology_2023_internal_paper1_july_q2.2.2",
+        "biology_2023_internal_paper1_july_q2.2.3",
+        "biology_2023_internal_paper1_july_q2.2.4",
+        "biology_2023_internal_paper1_july_q2.2.5",
+        "biology_2023_internal_paper1_july_q2.2.6",
+        "biology_2023_internal_paper1_july_q2.2.7.a",
+        "biology_2023_internal_paper1_july_q2.2.7.b",
+        "biology_2023_internal_paper1_july_q2.2.7.c",
+        "biology_2023_internal_paper1_july_q3.1.1",
+        "biology_2023_internal_paper1_july_q3.1.2",
+        "biology_2023_internal_paper1_july_q3.1.3",
+        "biology_2023_internal_paper1_july_q3.1.4",
+        "biology_2023_internal_paper1_july_q4.1.7",
+        "biology_2023_internal_class_test_october_q2.3",
+        "biology_2023_internal_class_test_october_q2.4",
+        "biology_2023_internal_class_test_october_q3.1.2.a",
+        "biology_2023_internal_class_test_october_q3.1.2.b",
+        "biology_2023_internal_class_test_october_q3.1.4",
+        "biology_2023_internal_paper1_november_q1.2.3",
+        "biology_2023_internal_paper1_november_q1.2.4",
+        "biology_2023_internal_paper1_november_q1.2.9",
+        "biology_2023_internal_paper1_november_q1.4.7",
+        "biology_2023_internal_paper1_november_q1.6.2",
+        "biology_2023_internal_paper1_november_q1.6.3",
+        "biology_2023_internal_paper1_november_q1.6.4",
+        "biology_2023_internal_paper1_november_q1.6.5",
+        "biology_2023_internal_paper1_november_q1.6.6.b",
+        "biology_2023_internal_paper1_november_q1.7",
+        "biology_2023_internal_paper1_november_q2.1.2",
+        "biology_2023_internal_paper1_november_q2.1.3",
+        "biology_2023_internal_paper1_november_q2.1.4",
+        "biology_2023_internal_paper1_november_q2.1.5",
+        "biology_2023_internal_paper1_november_q2.1.6",
+        "biology_2023_internal_paper1_november_q2.1.7",
+        "biology_2023_internal_paper1_november_q2.3.3",
+        "biology_2023_internal_paper1_november_q2.3.4",
+        "biology_2023_internal_paper1_november_q2.3.5",
+        "biology_2023_internal_paper1_november_q3.1.1",
+        "biology_2023_internal_paper1_november_q3.1.2.a",
+        "biology_2023_internal_paper1_november_q3.1.2.b",
+        "biology_2023_internal_paper1_november_q3.1.3.a",
+        "biology_2023_internal_paper1_november_q3.1.3.b",
+        "biology_2023_internal_paper1_november_q3.1.4",
+        "biology_2023_internal_paper1_november_q3.1.6",
+        "biology_2023_internal_paper1_november_q3.1.7.a",
+        "biology_2023_internal_paper1_november_q3.1.7.b",
+        "biology_2023_internal_paper1_november_q3.1.7.c",
+        "biology_2023_internal_paper1_november_q3.1.7.d",
+        "biology_2023_internal_paper1_november_q3.3.3",
+        "biology_2023_internal_paper1_november_q4.1.1",
+        "biology_2023_internal_paper1_november_q4.1.2",
+        "biology_2023_internal_paper1_november_q4.1.3",
+        "biology_2023_internal_paper1_november_q4.1.4",
+        "biology_2023_internal_paper1_november_q4.1.5.a",
+        "biology_2023_internal_paper1_november_q4.1.5.b",
+        "biology_2023_internal_paper1_november_q4.2.1",
+        "biology_2023_internal_paper1_november_q4.2.2",
+        "biology_2023_internal_paper1_november_q4.2.3",
+        "biology_2023_internal_paper1_november_q4.2.4",
+        "biology_2023_internal_paper1_november_q4.2.5",
+        "biology_2023_internal_paper1_november_q4.3.1",
+        "biology_2023_internal_paper1_november_q4.4.1",
+        "biology_2023_internal_paper1_november_q4.4.2.a",
+        "biology_2023_internal_paper1_november_q4.4.2.b",
+        "biology_2023_internal_paper1_november_q4.4.3"
+      ],
+      "evidence": [
+        "biology_2022_internal_cycle_test_february_q1.3.1",
+        "biology_2022_internal_cycle_test_february_q1.3.3",
+        "biology_2022_internal_cycle_test_february_q2.1.3",
+        "biology_2022_internal_cycle_test_february_q2.2.4.C",
+        "biology_2022_internal_class_test_may_q2.1",
+        "biology_2022_internal_class_test_may_q2.2",
+        "biology_2022_internal_class_test_may_q2.3.2",
+        "biology_2022_internal_class_test_may_q2.3.3",
+        "biology_2022_internal_class_test_may_q3.1",
+        "biology_2022_internal_class_test_may_q3.3.b",
+        "biology_2023_internal_paper1_july_q1.2.3",
+        "biology_2023_internal_paper1_july_q1.2.9",
+        "biology_2023_internal_paper1_july_q1.3.5",
+        "biology_2023_internal_paper1_july_q1.4.1",
+        "biology_2023_internal_paper1_july_q1.4.4.A",
+        "biology_2023_internal_paper1_july_q1.4.4.B",
+        "biology_2023_internal_paper1_july_q1.5",
+        "biology_2023_internal_paper1_july_q2.1.2",
+        "biology_2023_internal_paper1_july_q2.2.1",
+        "biology_2023_internal_paper1_july_q2.2.2",
+        "biology_2023_internal_paper1_july_q2.2.3",
+        "biology_2023_internal_paper1_july_q2.2.4",
+        "biology_2023_internal_paper1_july_q2.2.5",
+        "biology_2023_internal_paper1_july_q2.2.6",
+        "biology_2023_internal_paper1_july_q2.2.7.a",
+        "biology_2023_internal_paper1_july_q2.2.7.b",
+        "biology_2023_internal_paper1_july_q2.2.7.c",
+        "biology_2023_internal_paper1_july_q3.1.1",
+        "biology_2023_internal_paper1_july_q3.1.2",
+        "biology_2023_internal_paper1_july_q3.1.3",
+        "biology_2023_internal_paper1_july_q3.1.4",
+        "biology_2023_internal_paper1_july_q4.1.7",
+        "biology_2023_internal_class_test_october_q2.3",
+        "biology_2023_internal_class_test_october_q2.4",
+        "biology_2023_internal_class_test_october_q3.1.2.a",
+        "biology_2023_internal_class_test_october_q3.1.2.b",
+        "biology_2023_internal_class_test_october_q3.1.4",
+        "biology_2023_internal_paper1_november_q1.2.3",
+        "biology_2023_internal_paper1_november_q1.2.4",
+        "biology_2023_internal_paper1_november_q1.2.9",
+        "biology_2023_internal_paper1_november_q1.4.7",
+        "biology_2023_internal_paper1_november_q1.6.2",
+        "biology_2023_internal_paper1_november_q1.6.3",
+        "biology_2023_internal_paper1_november_q1.6.4",
+        "biology_2023_internal_paper1_november_q1.6.5",
+        "biology_2023_internal_paper1_november_q1.6.6.b",
+        "biology_2023_internal_paper1_november_q1.7",
+        "biology_2023_internal_paper1_november_q2.1.2",
+        "biology_2023_internal_paper1_november_q2.1.3",
+        "biology_2023_internal_paper1_november_q2.1.4",
+        "biology_2023_internal_paper1_november_q2.1.5",
+        "biology_2023_internal_paper1_november_q2.1.6",
+        "biology_2023_internal_paper1_november_q2.1.7",
+        "biology_2023_internal_paper1_november_q2.3.3",
+        "biology_2023_internal_paper1_november_q2.3.4",
+        "biology_2023_internal_paper1_november_q2.3.5",
+        "biology_2023_internal_paper1_november_q3.1.1",
+        "biology_2023_internal_paper1_november_q3.1.2.a",
+        "biology_2023_internal_paper1_november_q3.1.2.b",
+        "biology_2023_internal_paper1_november_q3.1.3.a",
+        "biology_2023_internal_paper1_november_q3.1.3.b",
+        "biology_2023_internal_paper1_november_q3.1.4",
+        "biology_2023_internal_paper1_november_q3.1.6",
+        "biology_2023_internal_paper1_november_q3.1.7.a",
+        "biology_2023_internal_paper1_november_q3.1.7.b",
+        "biology_2023_internal_paper1_november_q3.1.7.c",
+        "biology_2023_internal_paper1_november_q3.1.7.d",
+        "biology_2023_internal_paper1_november_q3.3.3",
+        "biology_2023_internal_paper1_november_q4.1.1",
+        "biology_2023_internal_paper1_november_q4.1.2",
+        "biology_2023_internal_paper1_november_q4.1.3",
+        "biology_2023_internal_paper1_november_q4.1.4",
+        "biology_2023_internal_paper1_november_q4.1.5.a",
+        "biology_2023_internal_paper1_november_q4.1.5.b",
+        "biology_2023_internal_paper1_november_q4.2.1",
+        "biology_2023_internal_paper1_november_q4.2.2",
+        "biology_2023_internal_paper1_november_q4.2.3",
+        "biology_2023_internal_paper1_november_q4.2.4",
+        "biology_2023_internal_paper1_november_q4.2.5",
+        "biology_2023_internal_paper1_november_q4.3.1",
+        "biology_2023_internal_paper1_november_q4.4.1",
+        "biology_2023_internal_paper1_november_q4.4.2.a",
+        "biology_2023_internal_paper1_november_q4.4.2.b",
+        "biology_2023_internal_paper1_november_q4.4.3"
+      ],
+      "recommended_review": "Review the source pages and expand the batch before classifying these records."
+    }
+  ]
+}

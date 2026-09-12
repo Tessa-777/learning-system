@@ -1,0 +1,156 @@
+[
+  {
+    "path": "data/organized/biology/Class test 2- circulation.pdf",
+    "sha256": "745766b17f9630563d7e7a5ec1eea9e487eb10c9ca72dde7ca73d977437c46be",
+    "document_type": "question_paper",
+    "text_layer_characters": 10101,
+    "disposition": "no_matching_local_memo"
+  },
+  {
+    "path": "data/organized/biology/Class test 2- microorganisms.pdf",
+    "sha256": "ed6b606acfc417f882f4eedeef65851037a08076651e6c4408fde930d89714ff",
+    "document_type": "question_paper",
+    "text_layer_characters": 11638,
+    "disposition": "no_matching_local_memo"
+  },
+  {
+    "path": "data/organized/biology/Class test- circulation MG.pdf",
+    "sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+    "document_type": "memorandum",
+    "text_layer_characters": 3300,
+    "disposition": "admitted"
+  },
+  {
+    "path": "data/organized/biology/Class test- circulation.pdf",
+    "sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+    "document_type": "question_paper",
+    "text_layer_characters": 6806,
+    "disposition": "admitted"
+  },
+  {
+    "path": "data/organized/biology/Class test- excretion and skeletal system.pdf",
+    "sha256": "cce15b4968fdce3b93f9e56ca871ea371d320d7dd6c0b210927b2302b0dfe151",
+    "document_type": "question_paper",
+    "text_layer_characters": 14652,
+    "disposition": "no_matching_local_memo"
+  },
+  {
+    "path": "data/organized/biology/Class test- microorganisms MG.pdf",
+    "sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+    "document_type": "memorandum",
+    "text_layer_characters": 3597,
+    "disposition": "admitted"
+  },
+  {
+    "path": "data/organized/biology/Class test- microorganisms.pdf",
+    "sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+    "document_type": "question_paper",
+    "text_layer_characters": 11242,
+    "disposition": "admitted"
+  },
+  {
+    "path": "data/organized/biology/Class test- nervous system.pdf",
+    "sha256": "09ed02f5bd7b84ed544d830bd4ac5131f222316587dbd6e81e1f2faa067b104f",
+    "document_type": "question_paper",
+    "text_layer_characters": 7006,
+    "disposition": "no_matching_local_memo"
+  },
+  {
+    "path": "data/organized/biology/Class test- skeletal system.pdf",
+    "sha256": "56036b4450b771bb70a4870e2b11737c786f9fe515ad6ba69da68cea717e36da",
+    "document_type": "question_paper",
+    "text_layer_characters": 9433,
+    "disposition": "no_matching_local_memo"
+  },
+  {
+    "path": "data/organized/biology/Grade 11 cycle test 1 MG.pdf",
+    "sha256": "ff3fd14af8165448fab3ba98e9fdd321ba25949b017308e18ad98f7bfa95b81e",
+    "document_type": "memorandum",
+    "text_layer_characters": 2899,
+    "disposition": "admitted"
+  },
+  {
+    "path": "data/organized/biology/Grade 11 cycle test 1.pdf",
+    "sha256": "f9e28847ed0fc155ac4a25a4a2cc1243e3c71878c9f5db169bedcfcca9f927a2",
+    "document_type": "question_paper",
+    "text_layer_characters": 6356,
+    "disposition": "admitted"
+  },
+  {
+    "path": "data/organized/biology/Grade 11 cycle test 2.pdf",
+    "sha256": "6396ee7fccf5b02bab9336fbfcd88d9768224601e87db4628e0d0965a7373504",
+    "document_type": "question_paper",
+    "text_layer_characters": 5805,
+    "disposition": "no_matching_local_memo"
+  },
+  {
+    "path": "data/organized/biology/Grade 11 excretion class test.pdf",
+    "sha256": "ca50d8de5e9498236123722771b692dcdbe9e0635958984a8206c84e08248af5",
+    "document_type": "question_paper",
+    "text_layer_characters": 7619,
+    "disposition": "no_matching_local_memo"
+  },
+  {
+    "path": "data/organized/biology/July exam p1 MG.pdf",
+    "sha256": "d7c388d0dc2523e6a159c566bf12101ee8b02b5271f83b02e9ad29139568996f",
+    "document_type": "memorandum",
+    "text_layer_characters": 10739,
+    "disposition": "admitted"
+  },
+  {
+    "path": "data/organized/biology/July exam p1.pdf",
+    "sha256": "b6fcfaaade034a73926972f247cbbed7357a8224b1c73ce1aec05c4a38f9feff",
+    "document_type": "question_paper",
+    "text_layer_characters": 34493,
+    "disposition": "admitted"
+  },
+  {
+    "path": "data/organized/biology/November exam paper 1 MG.pdf",
+    "sha256": "5fb127988337c7cdc7a88e0c1d30b4e92a1fdb3ecf441cbeb5936bd3aac1d63a",
+    "document_type": "memorandum",
+    "text_layer_characters": 13714,
+    "disposition": "admitted"
+  },
+  {
+    "path": "data/organized/biology/November exam paper 1.pdf",
+    "sha256": "9147343dbe05a4cb9daca0f7714e0d8ad44520cf672c8abc1a9b7ebb89160067",
+    "document_type": "question_paper",
+    "text_layer_characters": 39925,
+    "disposition": "admitted"
+  },
+  {
+    "path": "data/organized/biology/November exam paper 2.pdf",
+    "sha256": "b783e1e223e272a92fcac5202635204ffd9013226e1a4a0d7b9704c732dd86fe",
+    "document_type": "question_paper",
+    "text_layer_characters": 37310,
+    "disposition": "no_matching_local_memo"
+  },
+  {
+    "path": "data/organized/biology/Year-end exam P1 MG.pdf",
+    "sha256": "6121059cb777d66326ab419140f6bd9952a1914ea5ecddc81a2e17579bb0aca4",
+    "document_type": "memorandum",
+    "text_layer_characters": 11687,
+    "disposition": "rejected_marks_conflict"
+  },
+  {
+    "path": "data/organized/biology/Year-end exam P1.pdf",
+    "sha256": "11fd99013da5ebd3ba96531419afef5f5589473199028dca40a028c33c97ed2d",
+    "document_type": "question_paper",
+    "text_layer_characters": 36945,
+    "disposition": "rejected_marks_conflict"
+  },
+  {
+    "path": "data/organized/biology/curriculum/NOVEMBER P2 SOURCE BOOKLET.pdf",
+    "sha256": "f1448bbf893bc0289666a6287a4d9f44fa74d0274b82ac939d3015a8cbc7030c",
+    "document_type": "source_booklet",
+    "text_layer_characters": 23922,
+    "disposition": "out_of_scope_curriculum"
+  },
+  {
+    "path": "data/organized/biology/curriculum/Nove exam P2 SOURCE BOOKLET 2024.pdf",
+    "sha256": "d69eae5e814a84d6bf690b3a21dc195e4d97a70127d67344aad1a252482c016d",
+    "document_type": "source_booklet",
+    "text_layer_characters": 18699,
+    "disposition": "out_of_scope_curriculum"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "question_family_id": "QUESTION-FAMILY-BIO-001",
+    "name": "Recognise microorganism terminology",
+    "definition": "[Tier 2 derived] Match a biological description to a microorganism term, group or associated process; this is terminology recognition, not an explanation of a mechanism. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]",
+    "subject": "biology",
+    "grade": "11",
+    "topics": [
+      "Microorganisms"
+    ],
+    "assessment_operations": [
+      "match",
+      "identify"
+    ],
+    "representative_questions": [
+      "biology_2023_internal_paper1_july_q1.1.row1",
+      "biology_2023_internal_paper1_july_q1.1.row2",
+      "biology_2023_internal_paper1_july_q1.1.row3"
+    ],
+    "frequency": 22,
+    "source_evidence": [
+      "biology_2023_internal_paper1_july_q1.1.row1",
+      "biology_2023_internal_paper1_july_q1.1.row2",
+      "biology_2023_internal_paper1_july_q1.1.row3",
+      "biology_2023_internal_paper1_july_q1.1.row4",
+      "biology_2023_internal_paper1_july_q1.1.row5",
+      "biology_2023_internal_paper1_july_q1.1.row6",
+      "biology_2023_internal_paper1_july_q1.1.row7",
+      "biology_2023_internal_paper1_july_q1.1.row8",
+      "biology_2023_internal_paper1_july_q1.1.row9",
+      "biology_2023_internal_paper1_july_q1.1.row10",
+      "biology_2023_internal_class_test_october_q1.row1",
+      "biology_2023_internal_class_test_october_q1.row2",
+      "biology_2023_internal_class_test_october_q1.row3",
+      "biology_2023_internal_class_test_october_q1.row4",
+      "biology_2023_internal_class_test_october_q1.row5",
+      "biology_2023_internal_class_test_october_q1.row6",
+      "biology_2023_internal_class_test_october_q1.row7",
+      "biology_2023_internal_class_test_october_q1.row8",
+      "biology_2023_internal_class_test_october_q1.row9",
+      "biology_2023_internal_class_test_october_q1.row10",
+      "biology_2023_internal_paper1_july_q1.3.1",
+      "biology_2023_internal_class_test_october_q3.1.1"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-BIO-002",
+    "name": "Identify the independent variable of an investigation",
+    "definition": "[Tier 2 derived] Identify the factor varied or compared in the stated investigation rather than the measured response. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]",
+    "subject": "biology",
+    "grade": "11",
+    "topics": [
+      "Experimental reasoning"
+    ],
+    "assessment_operations": [
+      "identify"
+    ],
+    "representative_questions": [
+      "biology_2023_internal_paper1_july_q4.1.2.a",
+      "biology_2023_internal_class_test_october_q2.1",
+      "biology_2023_internal_paper1_november_q3.2.2"
+    ],
+    "frequency": 3,
+    "source_evidence": [
+      "biology_2023_internal_paper1_july_q4.1.2.a",
+      "biology_2023_internal_class_test_october_q2.1",
+      "biology_2023_internal_paper1_november_q3.2.2"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-BIO-003",
+    "name": "Identify the measured response of an investigation",
+    "definition": "[Tier 2 derived] Name the dependent variable from the investigation description, distinguishing the measurement from what is varied. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]",
+    "subject": "biology",
+    "grade": "11",
+    "topics": [
+      "Experimental reasoning"
+    ],
+    "assessment_operations": [
+      "identify"
+    ],
+    "representative_questions": [
+      "biology_2023_internal_paper1_july_q4.1.2.b",
+      "biology_2023_internal_paper1_november_q1.4.5"
+    ],
+    "frequency": 2,
+    "source_evidence": [
+      "biology_2023_internal_paper1_july_q4.1.2.b",
+      "biology_2023_internal_paper1_november_q1.4.5"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-BIO-004",
+    "name": "Specify controls that keep comparisons fair",
+    "definition": "[Tier 2 derived] Name relevant quantities or participant characteristics held the same between compared groups; do not confuse controlled variables with an untreated control group. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]",
+    "subject": "biology",
+    "grade": "11",
+    "topics": [
+      "Experimental reasoning"
+    ],
+    "assessment_operations": [
+      "identify",
+      "describe"
+    ],
+    "representative_questions": [
+      "biology_2022_internal_cycle_test_february_q2.2.4.A",
+      "biology_2023_internal_paper1_july_q3.2.5",
+      "biology_2023_internal_paper1_july_q4.1.2.c"
+    ],
+    "frequency": 6,
+    "source_evidence": [
+      "biology_2022_internal_cycle_test_february_q2.2.4.A",
+      "biology_2023_internal_paper1_july_q3.2.5",
+      "biology_2023_internal_paper1_july_q4.1.2.c",
+      "biology_2023_internal_paper1_july_q4.2.3",
+      "biology_2023_internal_paper1_november_q1.4.6",
+      "biology_2023_internal_paper1_november_q3.2.4"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-BIO-005",
+    "name": "Apply water balance to urine volume and concentration",
+    "definition": "[Tier 2 derived] Use changed water intake or loss to predict urine concentration and, where asked, volume. This is an application task rather than recall of the definition of excretion. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]",
+    "subject": "biology",
+    "grade": "11",
+    "topics": [
+      "Excretion"
+    ],
+    "assessment_operations": [
+      "predict",
+      "explain"
+    ],
+    "representative_questions": [
+      "biology_2022_internal_cycle_test_february_q1.3.4.A",
+      "biology_2023_internal_paper1_july_q1.2.4",
+      "biology_2023_internal_paper1_july_q1.4.5"
+    ],
+    "frequency": 3,
+    "source_evidence": [
+      "biology_2022_internal_cycle_test_february_q1.3.4.A",
+      "biology_2023_internal_paper1_july_q1.2.4",
+      "biology_2023_internal_paper1_july_q1.4.5"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-BIO-006",
+    "name": "Explain osteoarthritis through cartilage damage",
+    "definition": "[Tier 2 derived] Describe cartilage deterioration and its consequences at a joint; do not substitute the name of a disease for its mechanism. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]",
+    "subject": "biology",
+    "grade": "11",
+    "topics": [
+      "Skeletal system"
+    ],
+    "assessment_operations": [
+      "describe",
+      "explain"
+    ],
+    "representative_questions": [
+      "biology_2023_internal_paper1_july_q3.2.7",
+      "biology_2023_internal_paper1_november_q2.2.5"
+    ],
+    "frequency": 2,
+    "source_evidence": [
+      "biology_2023_internal_paper1_july_q3.2.7",
+      "biology_2023_internal_paper1_november_q2.2.5"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-BIO-007",
+    "name": "Distinguish controllable and uncontrollable circulatory risk factors",
+    "definition": "[Tier 2 derived] Respond to the requested controllability category in the hypertension or coronary-disease context, rather than supplying an undifferentiated list of risks. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]",
+    "subject": "biology",
+    "grade": "11",
+    "topics": [
+      "Transport in animals"
+    ],
+    "assessment_operations": [
+      "identify",
+      "distinguish"
+    ],
+    "representative_questions": [
+      "biology_2022_internal_class_test_may_q4.5",
+      "biology_2023_internal_paper1_november_q3.3.4",
+      "biology_2023_internal_paper1_november_q3.3.5"
+    ],
+    "frequency": 3,
+    "source_evidence": [
+      "biology_2022_internal_class_test_may_q4.5",
+      "biology_2023_internal_paper1_november_q3.3.4",
+      "biology_2023_internal_paper1_november_q3.3.5"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-BIO-008",
+    "name": "Link oxygen delivery to cellular energy demands",
+    "definition": "[Tier 2 derived] Explain the consequence of altered oxygen delivery or demand using respiration/energy, in the malaria and exercise contexts. Not a terminology-recall family. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]",
+    "subject": "biology",
+    "grade": "11",
+    "topics": [
+      "Transport in animals"
+    ],
+    "assessment_operations": [
+      "explain cause and effect"
+    ],
+    "representative_questions": [
+      "biology_2023_internal_class_test_october_q3.1.5",
+      "biology_2023_internal_paper1_november_q1.4.1"
+    ],
+    "frequency": 2,
+    "source_evidence": [
+      "biology_2023_internal_class_test_october_q3.1.5",
+      "biology_2023_internal_paper1_november_q1.4.1"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-BIO-009",
+    "name": "State a conclusion from a biological comparison",
+    "definition": "[Tier 2 derived] State the relationship supported by the supplied group or age data rather than restating an isolated measurement. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]",
+    "subject": "biology",
+    "grade": "11",
+    "topics": [
+      "Data interpretation"
+    ],
+    "assessment_operations": [
+      "conclude",
+      "compare"
+    ],
+    "representative_questions": [
+      "biology_2022_internal_cycle_test_february_q2.2.4.B",
+      "biology_2023_internal_paper1_july_q4.2.5",
+      "biology_2023_internal_paper1_november_q3.2.5"
+    ],
+    "frequency": 3,
+    "source_evidence": [
+      "biology_2022_internal_cycle_test_february_q2.2.4.B",
+      "biology_2023_internal_paper1_july_q4.2.5",
+      "biology_2023_internal_paper1_november_q3.2.5"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  }
+]

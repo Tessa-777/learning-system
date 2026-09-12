@@ -1,0 +1,288 @@
+{
+  "subject": "biology",
+  "question_records_in_batch": 275,
+  "papers_in_sample": 5,
+  "records_assigned_to_a_family": 46,
+  "question_families": 9,
+  "understanding_models": 9,
+  "breakdown_models": 18,
+  "diagnostic_questions": 18,
+  "unresolved_items": 19,
+  "schema_validation": {
+    "checked": 54,
+    "failed": 0
+  },
+  "families": [
+    {
+      "family_id": "QUESTION-FAMILY-BIO-001",
+      "name": "Recognise microorganism terminology",
+      "members": 22,
+      "papers": [
+        "BIO-2023-JUL",
+        "BIO-2023-MICRO"
+      ],
+      "confidence": "medium",
+      "marks_range": [
+        1,
+        1
+      ],
+      "distinguishing_features": "Match a biological description to a microorganism term, group or associated process; this is terminology recognition, not an explanation of a mechanism.",
+      "member_source_ids": [
+        "biology_2023_internal_paper1_july_q1.1.row1",
+        "biology_2023_internal_paper1_july_q1.1.row2",
+        "biology_2023_internal_paper1_july_q1.1.row3",
+        "biology_2023_internal_paper1_july_q1.1.row4",
+        "biology_2023_internal_paper1_july_q1.1.row5",
+        "biology_2023_internal_paper1_july_q1.1.row6",
+        "biology_2023_internal_paper1_july_q1.1.row7",
+        "biology_2023_internal_paper1_july_q1.1.row8",
+        "biology_2023_internal_paper1_july_q1.1.row9",
+        "biology_2023_internal_paper1_july_q1.1.row10",
+        "biology_2023_internal_class_test_october_q1.row1",
+        "biology_2023_internal_class_test_october_q1.row2",
+        "biology_2023_internal_class_test_october_q1.row3",
+        "biology_2023_internal_class_test_october_q1.row4",
+        "biology_2023_internal_class_test_october_q1.row5",
+        "biology_2023_internal_class_test_october_q1.row6",
+        "biology_2023_internal_class_test_october_q1.row7",
+        "biology_2023_internal_class_test_october_q1.row8",
+        "biology_2023_internal_class_test_october_q1.row9",
+        "biology_2023_internal_class_test_october_q1.row10",
+        "biology_2023_internal_paper1_july_q1.3.1",
+        "biology_2023_internal_class_test_october_q3.1.1"
+      ],
+      "breakdown_memo_basis": {
+        "biology_2023_internal_paper1_july_q1.1.row1": "D ✓",
+        "biology_2023_internal_paper1_july_q1.1.row2": "H ✓",
+        "biology_2023_internal_paper1_july_q1.1.row3": "F ✓",
+        "biology_2023_internal_paper1_july_q1.1.row4": "K ✓",
+        "biology_2023_internal_paper1_july_q1.1.row5": "C ✓",
+        "biology_2023_internal_paper1_july_q1.1.row6": "E ✓",
+        "biology_2023_internal_paper1_july_q1.1.row7": "B ✓",
+        "biology_2023_internal_paper1_july_q1.1.row8": "I ✓",
+        "biology_2023_internal_paper1_july_q1.1.row9": "G ✓",
+        "biology_2023_internal_paper1_july_q1.1.row10": "L ✓",
+        "biology_2023_internal_class_test_october_q1.row1": "E ✓",
+        "biology_2023_internal_class_test_october_q1.row2": "H ✓",
+        "biology_2023_internal_class_test_october_q1.row3": "B ✓",
+        "biology_2023_internal_class_test_october_q1.row4": "G ✓",
+        "biology_2023_internal_class_test_october_q1.row5": "C ✓",
+        "biology_2023_internal_class_test_october_q1.row6": "A ✓",
+        "biology_2023_internal_class_test_october_q1.row7": "J ✓",
+        "biology_2023_internal_class_test_october_q1.row8": "F ✓",
+        "biology_2023_internal_class_test_october_q1.row9": "I ✓",
+        "biology_2023_internal_class_test_october_q1.row10": "D ✓",
+        "biology_2023_internal_paper1_july_q1.3.1": "Disease-causing organism/ agent ✓ (1)",
+        "biology_2023_internal_class_test_october_q3.1.1": "Protists/ protista ✓ (1)"
+      }
+    },
+    {
+      "family_id": "QUESTION-FAMILY-BIO-002",
+      "name": "Identify the independent variable of an investigation",
+      "members": 3,
+      "papers": [
+        "BIO-2023-JUL",
+        "BIO-2023-MICRO",
+        "BIO-2023-NOV"
+      ],
+      "confidence": "medium",
+      "marks_range": [
+        1,
+        1
+      ],
+      "distinguishing_features": "Identify the factor varied or compared in the stated investigation rather than the measured response.",
+      "member_source_ids": [
+        "biology_2023_internal_paper1_july_q4.1.2.a",
+        "biology_2023_internal_class_test_october_q2.1",
+        "biology_2023_internal_paper1_november_q3.2.2"
+      ],
+      "breakdown_memo_basis": {
+        "biology_2023_internal_paper1_july_q4.1.2.a": "Contents of the test tube ✓",
+        "biology_2023_internal_class_test_october_q2.1": "Type of bacteria ✓ (1)",
+        "biology_2023_internal_paper1_november_q3.2.2": "Age ✓ (1)"
+      }
+    },
+    {
+      "family_id": "QUESTION-FAMILY-BIO-003",
+      "name": "Identify the measured response of an investigation",
+      "members": 2,
+      "papers": [
+        "BIO-2023-JUL",
+        "BIO-2023-NOV"
+      ],
+      "confidence": "medium",
+      "marks_range": [
+        1,
+        1
+      ],
+      "distinguishing_features": "Name the dependent variable from the investigation description, distinguishing the measurement from what is varied.",
+      "member_source_ids": [
+        "biology_2023_internal_paper1_july_q4.1.2.b",
+        "biology_2023_internal_paper1_november_q1.4.5"
+      ],
+      "breakdown_memo_basis": {
+        "biology_2023_internal_paper1_july_q4.1.2.b": "Diameter/ growth of bacteria colony ✓",
+        "biology_2023_internal_paper1_november_q1.4.5": "Heart rate (bpm) ✓ (1)"
+      }
+    },
+    {
+      "family_id": "QUESTION-FAMILY-BIO-004",
+      "name": "Specify controls that keep comparisons fair",
+      "members": 6,
+      "papers": [
+        "BIO-2022-CYCLE1",
+        "BIO-2023-JUL",
+        "BIO-2023-NOV"
+      ],
+      "confidence": "high",
+      "marks_range": [
+        1,
+        2
+      ],
+      "distinguishing_features": "Name relevant quantities or participant characteristics held the same between compared groups; do not confuse controlled variables with an untreated control group.",
+      "member_source_ids": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.A",
+        "biology_2023_internal_paper1_july_q3.2.5",
+        "biology_2023_internal_paper1_july_q4.1.2.c",
+        "biology_2023_internal_paper1_july_q4.2.3",
+        "biology_2023_internal_paper1_november_q1.4.6",
+        "biology_2023_internal_paper1_november_q3.2.4"
+      ],
+      "breakdown_memo_basis": {
+        "biology_2022_internal_cycle_test_february_q2.2.4.A": "The same number of females and males needed to participate in the study. Each age group needed to contain the same number of males and females The patients could not be suffering with any other illnesses that could alter the results of the study (any 2✓✓) (2)",
+        "biology_2023_internal_paper1_july_q3.2.5": "Same gender Same age group Same length of time having RA Same kind of RA Same number of patients in each group ✓✓ (any 2)",
+        "biology_2023_internal_paper1_july_q4.1.2.c": "same amount of milk; same time/period to do the investigation; same environmental conditions/temperature ✓✓ (any 2) (4)",
+        "biology_2023_internal_paper1_july_q4.2.3": "Same type of soil was used All other factors were kept the same ✓ (any 1)",
+        "biology_2023_internal_paper1_november_q1.4.6": "same gender (female) Same age of learners ✓ Same apparatus to measure HR ✓✓ (any 2)",
+        "biology_2023_internal_paper1_november_q3.2.4": "Same gender of cyclists Same number of cyclists in each age group ✓ (any 1)"
+      }
+    },
+    {
+      "family_id": "QUESTION-FAMILY-BIO-005",
+      "name": "Apply water balance to urine volume and concentration",
+      "members": 3,
+      "papers": [
+        "BIO-2022-CYCLE1",
+        "BIO-2023-JUL"
+      ],
+      "confidence": "medium",
+      "marks_range": [
+        1,
+        3
+      ],
+      "distinguishing_features": "Use changed water intake or loss to predict urine concentration and, where asked, volume. This is an application task rather than recall of the definition of excretion.",
+      "member_source_ids": [
+        "biology_2022_internal_cycle_test_february_q1.3.4.A",
+        "biology_2023_internal_paper1_july_q1.2.4",
+        "biology_2023_internal_paper1_july_q1.4.5"
+      ],
+      "breakdown_memo_basis": {
+        "biology_2022_internal_cycle_test_february_q1.3.4.A": "More water is reabsorbed ✓ as individuals sweat more, therefore lose more water from the body. The urine is therefore more concentrated/ thicker ✓ (2)",
+        "biology_2023_internal_paper1_july_q1.2.4": "B ✓ (1)",
+        "biology_2023_internal_paper1_july_q1.4.5": "Increase in water consumption: Increases / Decreases ✓ (both correct). Increase in temperature: Decreases / Increases ✓ (both correct). Increase in exercise level: Decreases / Increases ✓ (both correct). (3)"
+      }
+    },
+    {
+      "family_id": "QUESTION-FAMILY-BIO-006",
+      "name": "Explain osteoarthritis through cartilage damage",
+      "members": 2,
+      "papers": [
+        "BIO-2023-JUL",
+        "BIO-2023-NOV"
+      ],
+      "confidence": "medium",
+      "marks_range": [
+        2,
+        3
+      ],
+      "distinguishing_features": "Describe cartilage deterioration and its consequences at a joint; do not substitute the name of a disease for its mechanism.",
+      "member_source_ids": [
+        "biology_2023_internal_paper1_july_q3.2.7",
+        "biology_2023_internal_paper1_november_q2.2.5"
+      ],
+      "breakdown_memo_basis": {
+        "biology_2023_internal_paper1_july_q3.2.7": "Cartilage that cushions the ends of bones in joints softens and wears away✓. Bones rub against one another causing pain and stiffness. ✓ (2)",
+        "biology_2023_internal_paper1_november_q2.2.5": "Articular cartilage ✓ of joint wears away ✓ Bones of joint grind against each other ✓ Small outgrowths of bone are produced ✓ (any 3)"
+      }
+    },
+    {
+      "family_id": "QUESTION-FAMILY-BIO-007",
+      "name": "Distinguish controllable and uncontrollable circulatory risk factors",
+      "members": 3,
+      "papers": [
+        "BIO-2022-CIRC",
+        "BIO-2023-NOV"
+      ],
+      "confidence": "medium",
+      "marks_range": [
+        1,
+        2
+      ],
+      "distinguishing_features": "Respond to the requested controllability category in the hypertension or coronary-disease context, rather than supplying an undifferentiated list of risks.",
+      "member_source_ids": [
+        "biology_2022_internal_class_test_may_q4.5",
+        "biology_2023_internal_paper1_november_q3.3.4",
+        "biology_2023_internal_paper1_november_q3.3.5"
+      ],
+      "breakdown_memo_basis": {
+        "biology_2022_internal_class_test_may_q4.5": "Controlled: weight, smoking, exercise, any relevant answer (any 1 ✓) Uncontrolled: age, genetics, being male (any 1 ✓) (2)",
+        "biology_2023_internal_paper1_november_q3.3.4": "High BP/ smoking/ high blood cholesterol/ obesity/ type 2 diabetes/ environmental stress/ sedentary (inactive) lifestyle/ diet high in sugars and saturated fats/ diet low in fruit and vegetables ✓✓ (any 2)",
+        "biology_2023_internal_paper1_november_q3.3.5": "Age/ genetic predisposition/ being male/ having a high achieving personality ✓ (any 1)"
+      }
+    },
+    {
+      "family_id": "QUESTION-FAMILY-BIO-008",
+      "name": "Link oxygen delivery to cellular energy demands",
+      "members": 2,
+      "papers": [
+        "BIO-2023-MICRO",
+        "BIO-2023-NOV"
+      ],
+      "confidence": "medium",
+      "marks_range": [
+        2,
+        2
+      ],
+      "distinguishing_features": "Explain the consequence of altered oxygen delivery or demand using respiration/energy, in the malaria and exercise contexts. Not a terminology-recall family.",
+      "member_source_ids": [
+        "biology_2023_internal_class_test_october_q3.1.5",
+        "biology_2023_internal_paper1_november_q1.4.1"
+      ],
+      "breakdown_memo_basis": {
+        "biology_2023_internal_class_test_october_q3.1.5": "Less oxygen will be delivered to the cells✓ and therefore a person will have less energy✓ / lowered respiration due to less oxygen (1 mark if they just say “fatigue”) (2)",
+        "biology_2023_internal_paper1_november_q1.4.1": "More oxygen ✓ is needed to be pumped around the body for increased respiration ✓ and the increase CO2 needs to be brought to the lungs for exhalation faster. ✓ (any 2)"
+      }
+    },
+    {
+      "family_id": "QUESTION-FAMILY-BIO-009",
+      "name": "State a conclusion from a biological comparison",
+      "members": 3,
+      "papers": [
+        "BIO-2022-CYCLE1",
+        "BIO-2023-JUL",
+        "BIO-2023-NOV"
+      ],
+      "confidence": "medium",
+      "marks_range": [
+        1,
+        2
+      ],
+      "distinguishing_features": "State the relationship supported by the supplied group or age data rather than restating an isolated measurement.",
+      "member_source_ids": [
+        "biology_2022_internal_cycle_test_february_q2.2.4.B",
+        "biology_2023_internal_paper1_july_q4.2.5",
+        "biology_2023_internal_paper1_november_q3.2.5"
+      ],
+      "breakdown_memo_basis": {
+        "biology_2022_internal_cycle_test_february_q2.2.4.B": "UTIs are more common amongst young females ✓ (1)",
+        "biology_2023_internal_paper1_july_q4.2.5": "Mycorrhizal fungi encourage plant growth as can be seen in plants grown in non-sterilised soil. ✓✓ (2)",
+        "biology_2023_internal_paper1_november_q3.2.5": "As age increases ✓ they minimum heart rate for metabolising fat and improving fitness decreases ✓ (2)"
+      }
+    }
+  ],
+  "confidence_distribution": {
+    "medium": 8,
+    "high": 1
+  },
+  "errors": []
+}

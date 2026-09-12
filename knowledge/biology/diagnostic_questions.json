@@ -1,0 +1,398 @@
+[
+  {
+    "diagnostic_id": "DIAG-BIO-001-A",
+    "understanding_model_id": "UNDERSTANDING-BIO-001",
+    "target_breakdown": "BREAKDOWN-BIO-001-A",
+    "question": "Which words in this description constrain your choice?",
+    "purpose": "[Tier 3] Distinguish Matches the wrong column or supplies a general association instead of addressing the description. from Does not distinguish the biological meanings needed for the match.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-001-A",
+      "BREAKDOWN-BIO-001-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Can isolate the relevant biological clue without being supplied the name. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The matching rows award one tick for the keyed letter. The two short-answer items credit the group/term; there is no memo requirement for a causal explanation. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-001-B",
+    "understanding_model_id": "UNDERSTANDING-BIO-001",
+    "target_breakdown": "BREAKDOWN-BIO-001-B",
+    "question": "How would you distinguish your choice from another option you considered?",
+    "purpose": "[Tier 3] Distinguish Does not distinguish the biological meanings needed for the match. from Matches the wrong column or supplies a general association instead of addressing the description.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-001-A",
+      "BREAKDOWN-BIO-001-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Explains a relevant difference rather than merely repeating the selected letter. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The matching rows award one tick for the keyed letter. The two short-answer items credit the group/term; there is no memo requirement for a causal explanation. [sources: biology_2023_internal_paper1_july_q1.1.row1, biology_2023_internal_paper1_july_q1.1.row2, biology_2023_internal_paper1_july_q1.1.row3, biology_2023_internal_paper1_july_q1.1.row4, biology_2023_internal_paper1_july_q1.1.row5, biology_2023_internal_paper1_july_q1.1.row6, biology_2023_internal_paper1_july_q1.1.row7, biology_2023_internal_paper1_july_q1.1.row8, biology_2023_internal_paper1_july_q1.1.row9, biology_2023_internal_paper1_july_q1.1.row10, biology_2023_internal_class_test_october_q1.row1, biology_2023_internal_class_test_october_q1.row2, biology_2023_internal_class_test_october_q1.row3, biology_2023_internal_class_test_october_q1.row4, biology_2023_internal_class_test_october_q1.row5, biology_2023_internal_class_test_october_q1.row6, biology_2023_internal_class_test_october_q1.row7, biology_2023_internal_class_test_october_q1.row8, biology_2023_internal_class_test_october_q1.row9, biology_2023_internal_class_test_october_q1.row10, biology_2023_internal_paper1_july_q1.3.1, biology_2023_internal_class_test_october_q3.1.1]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-002-A",
+    "understanding_model_id": "UNDERSTANDING-BIO-002",
+    "target_breakdown": "BREAKDOWN-BIO-002-A",
+    "question": "What differs between the groups or conditions being compared here?",
+    "purpose": "[Tier 3] Distinguish Answers for a different investigation or subpart. from Confuses the compared factor with its response.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-002-A",
+      "BREAKDOWN-BIO-002-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Locates the relevant comparison in the actual setup. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Each memo credits a single factor: the contents, bacterial type or age for its own investigation. No broad list of unrelated variables is requested. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-002-B",
+    "understanding_model_id": "UNDERSTANDING-BIO-002",
+    "target_breakdown": "BREAKDOWN-BIO-002-B",
+    "question": "How did you decide which part of the investigation your chosen variable describes?",
+    "purpose": "[Tier 3] Distinguish Confuses the compared factor with its response. from Answers for a different investigation or subpart.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-002-A",
+      "BREAKDOWN-BIO-002-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Distinguishes comparison from measurement without a supplied variable name. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Each memo credits a single factor: the contents, bacterial type or age for its own investigation. No broad list of unrelated variables is requested. [sources: biology_2023_internal_paper1_july_q4.1.2.a, biology_2023_internal_class_test_october_q2.1, biology_2023_internal_paper1_november_q3.2.2]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-003-A",
+    "understanding_model_id": "UNDERSTANDING-BIO-003",
+    "target_breakdown": "BREAKDOWN-BIO-003-A",
+    "question": "What observation is recorded for each condition in this investigation?",
+    "purpose": "[Tier 3] Distinguish Does not locate the recorded observation. from Reverses treatment and response roles.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-003-A",
+      "BREAKDOWN-BIO-003-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Identifies the response measurement from the setup. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] A single response quantity is credited in each memo; the evidence is bacterial growth/diameter in one investigation and heart rate in the other. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-003-B",
+    "understanding_model_id": "UNDERSTANDING-BIO-003",
+    "target_breakdown": "BREAKDOWN-BIO-003-B",
+    "question": "Where would your chosen variable appear in the results, and why?",
+    "purpose": "[Tier 3] Distinguish Reverses treatment and response roles. from Does not locate the recorded observation.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-003-A",
+      "BREAKDOWN-BIO-003-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Connects the proposed variable to observations rather than treatment labels. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] A single response quantity is credited in each memo; the evidence is bacterial growth/diameter in one investigation and heart rate in the other. [sources: biology_2023_internal_paper1_july_q4.1.2.b, biology_2023_internal_paper1_november_q1.4.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-004-A",
+    "understanding_model_id": "UNDERSTANDING-BIO-004",
+    "target_breakdown": "BREAKDOWN-BIO-004-A",
+    "question": "Which differences between these groups could make the comparison difficult to interpret?",
+    "purpose": "[Tier 3] Distinguish Confuses a controlled variable with the factor deliberately compared. from Gives vague or too few fixed factors despite recognising the comparison.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-004-A",
+      "BREAKDOWN-BIO-004-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Selects relevant potential confounders from the stated setup. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memos list acceptable fixed factors and credit the requested number. Participant characteristics, group sizes and experimental conditions are credited in their respective contexts; these lists must not be transferred wholesale between experiments. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-004-B",
+    "understanding_model_id": "UNDERSTANDING-BIO-004",
+    "target_breakdown": "BREAKDOWN-BIO-004-B",
+    "question": "For one factor you chose, explain how you would keep it consistent in both groups.",
+    "purpose": "[Tier 3] Distinguish Gives vague or too few fixed factors despite recognising the comparison. from Confuses a controlled variable with the factor deliberately compared.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-004-A",
+      "BREAKDOWN-BIO-004-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Operationalises a specific fixed condition instead of repeating a label. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memos list acceptable fixed factors and credit the requested number. Participant characteristics, group sizes and experimental conditions are credited in their respective contexts; these lists must not be transferred wholesale between experiments. [sources: biology_2022_internal_cycle_test_february_q2.2.4.A, biology_2023_internal_paper1_july_q3.2.5, biology_2023_internal_paper1_july_q4.1.2.c, biology_2023_internal_paper1_july_q4.2.3, biology_2023_internal_paper1_november_q1.4.6, biology_2023_internal_paper1_november_q3.2.4]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-005-A",
+    "understanding_model_id": "UNDERSTANDING-BIO-005",
+    "target_breakdown": "BREAKDOWN-BIO-005-A",
+    "question": "What is changing in the condition described, and what are you being asked to predict?",
+    "purpose": "[Tier 3] Distinguish Confuses volume with concentration. from Recognises the quantities but fails to connect the stated water-balance change to them.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-005-A",
+      "BREAKDOWN-BIO-005-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Separates the condition from each requested urine property. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Credit depends on the indicated urine outcome, not merely naming excretion. Local paired-entry and partial-credit rules are not generalised; see unresolved_items. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-005-B",
+    "understanding_model_id": "UNDERSTANDING-BIO-005",
+    "target_breakdown": "BREAKDOWN-BIO-005-B",
+    "question": "Explain the connection between the change you identified and your predicted outcome.",
+    "purpose": "[Tier 3] Distinguish Recognises the quantities but fails to connect the stated water-balance change to them. from Confuses volume with concentration.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-005-A",
+      "BREAKDOWN-BIO-005-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Offers a causal account rather than two disconnected labels. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Credit depends on the indicated urine outcome, not merely naming excretion. Local paired-entry and partial-credit rules are not generalised; see unresolved_items. [sources: biology_2022_internal_cycle_test_february_q1.3.4.A, biology_2023_internal_paper1_july_q1.2.4, biology_2023_internal_paper1_july_q1.4.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-006-A",
+    "understanding_model_id": "UNDERSTANDING-BIO-006",
+    "target_breakdown": "BREAKDOWN-BIO-006-A",
+    "question": "Describe what has changed in the joint in this condition.",
+    "purpose": "[Tier 3] Distinguish Cannot identify the relevant tissue change. from Names the change but omits its consequence.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-006-A",
+      "BREAKDOWN-BIO-006-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Identifies the structural change without being supplied the tissue name. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Both memos credit cartilage deterioration and the bones rubbing/grinding against one another. The local mark allocations differ (two versus three), so no universal fixed mark split is asserted. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-006-B",
+    "understanding_model_id": "UNDERSTANDING-BIO-006",
+    "target_breakdown": "BREAKDOWN-BIO-006-B",
+    "question": "How does the change you described affect what happens when the joint moves?",
+    "purpose": "[Tier 3] Distinguish Names the change but omits its consequence. from Cannot identify the relevant tissue change.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-006-A",
+      "BREAKDOWN-BIO-006-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Links the change to a mechanical consequence rather than restating a label. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Both memos credit cartilage deterioration and the bones rubbing/grinding against one another. The local mark allocations differ (two versus three), so no universal fixed mark split is asserted. [sources: biology_2023_internal_paper1_july_q3.2.7, biology_2023_internal_paper1_november_q2.2.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-007-A",
+    "understanding_model_id": "UNDERSTANDING-BIO-007",
+    "target_breakdown": "BREAKDOWN-BIO-007-A",
+    "question": "What distinction is the question asking you to make between risk factors?",
+    "purpose": "[Tier 3] Distinguish Ignores the category requested. from Cannot distinguish modifiability.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-007-A",
+      "BREAKDOWN-BIO-007-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Recognises the required category rather than just the disease topic. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The hypertension memo explicitly separates controlled and uncontrolled examples; the later paper asks for those categories in separate items. Marks follow category-appropriate examples, not a general disease description. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-007-B",
+    "understanding_model_id": "UNDERSTANDING-BIO-007",
+    "target_breakdown": "BREAKDOWN-BIO-007-B",
+    "question": "Why does the example you selected belong in that category?",
+    "purpose": "[Tier 3] Distinguish Cannot distinguish modifiability. from Ignores the category requested.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-007-A",
+      "BREAKDOWN-BIO-007-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Justifies classification and distinguishes it from a symptom. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The hypertension memo explicitly separates controlled and uncontrolled examples; the later paper asks for those categories in separate items. Marks follow category-appropriate examples, not a general disease description. [sources: biology_2022_internal_class_test_may_q4.5, biology_2023_internal_paper1_november_q3.3.4, biology_2023_internal_paper1_november_q3.3.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-008-A",
+    "understanding_model_id": "UNDERSTANDING-BIO-008",
+    "target_breakdown": "BREAKDOWN-BIO-008-A",
+    "question": "What has changed in this situation, and how could that affect the cells?",
+    "purpose": "[Tier 3] Distinguish Does not identify the oxygen relationship. from Identifies oxygen but omits its cellular consequence.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-008-A",
+      "BREAKDOWN-BIO-008-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Identifies the relevant physiological change without being given the answer. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Both memos credit oxygen and respiration/energy links. Local partial-credit rules are retained only in Pass 1 and unresolved_items. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-008-B",
+    "understanding_model_id": "UNDERSTANDING-BIO-008",
+    "target_breakdown": "BREAKDOWN-BIO-008-B",
+    "question": "What links the change you described to the effect you expect?",
+    "purpose": "[Tier 3] Distinguish Identifies oxygen but omits its cellular consequence. from Does not identify the oxygen relationship.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-008-A",
+      "BREAKDOWN-BIO-008-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Articulates intermediate reasoning rather than repeating the outcome. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Both memos credit oxygen and respiration/energy links. Local partial-credit rules are retained only in Pass 1 and unresolved_items. [sources: biology_2023_internal_class_test_october_q3.1.5, biology_2023_internal_paper1_november_q1.4.1]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-009-A",
+    "understanding_model_id": "UNDERSTANDING-BIO-009",
+    "target_breakdown": "BREAKDOWN-BIO-009-A",
+    "question": "Which parts of the results would you compare to answer this question?",
+    "purpose": "[Tier 3] Distinguish Extracts one number without the requested comparison. from Overgeneralises or reverses the observed relationship.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-009-A",
+      "BREAKDOWN-BIO-009-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Selects the relevant groups or values. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memos credit the stated group comparison or direction of association; exact expected wording and mark totals remain item-specific. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-BIO-009-B",
+    "understanding_model_id": "UNDERSTANDING-BIO-009",
+    "target_breakdown": "BREAKDOWN-BIO-009-B",
+    "question": "How do those results support the conclusion you want to state?",
+    "purpose": "[Tier 3] Distinguish Overgeneralises or reverses the observed relationship. from Extracts one number without the requested comparison.",
+    "distinguishes": [
+      "BREAKDOWN-BIO-009-A",
+      "BREAKDOWN-BIO-009-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Explains the comparison without adding a cause not tested here. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The response does not locate the evidence in the question.",
+        "follow_up": "Which part of the supplied information supports your choice?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memos credit the stated group comparison or direction of association; exact expected wording and mark totals remain item-specific. [sources: biology_2022_internal_cycle_test_february_q2.2.4.B, biology_2023_internal_paper1_july_q4.2.5, biology_2023_internal_paper1_november_q3.2.5]",
+    "confidence": "medium"
+  }
+]
