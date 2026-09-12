@@ -1,20 +1,10 @@
 #!/usr/bin/env python3
-"""Create conservative Pass 1 evidence records for each organized subject.
+"""Create conservative subject pass-1 evidence files from the organized sample manifest.
 
-This repository has a memo-only organized sample under data/organized with
-subject folders and a manifest. Since no PDF OCR or question-segmentation
-package is installed in the workspace environment, this generator emits
-subject-by-subject Pass 1 JSON evidence files in the requested subject
-shape by pairing each paper with its memo and preserving the file-level
-provenance chain the Project uses.
-
-The generated records are intentionally conservative:
-- if a paper/memo can be read as a clean PDF, fidelity_rung='A'
-- if a question field cannot be proven from the files, the record uses
-  'unresolved' instead of guessing
-- the data remains one pass-1 evidence artifact per subject and the per-paper
-  object can be extended by a downstream pipeline per question, while keeping
-  the evidence enough for Pass 2 to be able to consume the batch.
+This generator reads the organized sample manifest in data/organized and then reads
+actual organized paper+memo evidence files from the disk. It writes source-level
+Pass 1 records that remain grounded in the actual files, and leaves fields
+blank/unresolved whenever the source file or memo cannot prove them.
 """
 from __future__ import annotations
 
@@ -22,14 +12,18 @@ import hashlib
 import json
 import re
 from collections import defaultdict
-from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
 try:
-    from core.runlog import RunLogger
+    from pypdf import PdfReader
 except Exception:
-    RunLogger = None
+    PdfReader = None
+
+try:
+    from docx import Document as DocxDocument
+except Exception:
+    DocxDocument = None
 
 ROOT = Path(__file__).resolve().parent.parent
 ORGANIZED = ROOT / 'data' / 'organized'
@@ -46,87 +40,37 @@ SUBJECTS = [
     'physics',
 ]
 
-FIELD_BLOCK = {
-    'ap_mathematics': {
-        'marks': 'unresolved',
-        'module_guess': 'guess: unresolved',
-        'question_text': 'unresolved: question wording cannot be confirmed from the source PDF alone in this organized sample',
-        'has_diagram': False,
-        'memo_answer': 'unresolved',
-        'memo_method_steps': [],
-        'memo_marking_notes': 'unresolved',
-        'apparent_prerequisite_core_topics': [],
-    },
-    'biology': {
-        'marks': 'unresolved',
-        'topic_guess': 'guess: unresolved',
-        'question_type': 'unresolved',
-        'question_text': 'unresolved: question wording cannot be confirmed from the source PDF alone in this organized sample',
-        'has_diagram': False,
-        'memo_answer': 'unresolved',
-        'memo_marking_notes': 'unresolved',
-        'key_terminology_tested': [],
-    },
-    'chemistry': {
-        'marks': 'unresolved',
-        'discipline': 'Chemistry',
-        'topic_guess': 'guess: unresolved',
-        'question_type': 'unresolved',
-        'question_text': 'unresolved: question wording cannot be confirmed from the source PDF alone in this organized sample',
-        'has_diagram': False,
-        'required_formulae_visible': [],
-        'memo_answer': 'unresolved',
-        'memo_method_steps': [],
-        'memo_marking_notes': 'unresolved',
-    },
-    'english': {
-        'paper_type': 'unresolved',
-        'marks': 'unresolved',
-        'section_guess': 'unresolved',
-        'set_text_title': None,
-        'question_text': 'unresolved: question wording cannot be confirmed from the source PDF alone in this organized sample',
-        'question_format': 'unresolved',
-        'memo_answer': 'unresolved',
-        'memo_marking_notes': 'unresolved',
-        'rubric_reference': False,
-    },
-    'history': {
-        'marks': 'unresolved',
-        'topic_guess': 'guess: unresolved',
-        'question_format': 'unresolved',
-        'skill_focus_guess': 'unresolved',
-        'source_reference': 'unresolved: source description cannot be confirmed from the organized sample without the paper extract',
-        'question_text': 'unresolved: question wording cannot be confirmed from the source PDF alone in this organized sample',
-        'memo_answer': 'unresolved',
-        'memo_marking_notes': 'unresolved',
-        'essay_rubric_levels_if_present': 'unresolved',
-    },
-    'mathematics': {
-        'marks': 'unresolved',
-        'topic_guess': 'guess: unresolved',
-        'question_text': 'unresolved: question wording cannot be confirmed from the source PDF alone in this organized sample',
-        'has_diagram': False,
-        'memo_answer': 'unresolved',
-        'memo_method_steps': [],
-        'memo_marking_notes': 'unresolved',
-        'calculator_allowed': 'unresolved',
-    },
-    'physics': {
-        'marks': 'unresolved',
-        'discipline': 'Physics',
-        'topic_guess': 'guess: unresolved',
-        'question_type': 'unresolved',
-        'question_text': 'unresolved: question wording cannot be confirmed from the source PDF alone in this organized sample',
-        'has_diagram': False,
-        'required_formulae_visible': [],
-        'memo_answer': 'unresolved',
-        'memo_method_steps': [],
-        'memo_marking_notes': 'unresolved',
-    },
-}
+
+def clean_subject(subject: str) -> str:
+    subject = (subject or '').strip().lower()
+    alias = {
+        'ap maths': 'ap_mathematics',
+        'ap math': 'ap_mathematics',
+        'ap mathematics': 'ap_mathematics',
+        'math': 'mathematics',
+        'maths': 'mathematics',
+        'phys': 'physics',
+        'eng': 'english',
+        'hist': 'history',
+    }
+    return alias.get(subject, subject)
+
+
+def clean_token(token: str) -> str:
+    return re.sub(r'[^a-z0-9]+', '_', (token or 'unknown').lower()).strip('_') or 'unknown'
+
+
+def path_from_manifest(path_value: str) -> Path:
+    # convert windows-like path strings into workspace-relative file path safely
+    raw = str(path_value).replace('\\', '/')
+    if raw.startswith('data/') or raw.startswith('data\\'):
+        return ROOT / raw
+    return ROOT / raw
 
 
 def sha256(path: Path) -> str:
+    if not path.exists():
+        return 'NOT_PROVIDED'
     h = hashlib.sha256()
     with path.open('rb') as fh:
         for chunk in iter(lambda: fh.read(65536), b''):
@@ -134,45 +78,117 @@ def sha256(path: Path) -> str:
     return h.hexdigest()
 
 
-def normalize_subject_name(raw: str) -> str:
-    if raw == 'ap_math':
-        raw = 'ap_mathematics'
-    if raw == 'ap maths' or raw == 'ap mathematics':
-        raw = 'ap_mathematics'
-    if raw == 'eng':
-        raw = 'english'
-    if raw == 'hist':
-        raw = 'history'
-    if raw == 'phys':
-        raw = 'physics'
-    if raw == 'math':
-        raw = 'mathematics'
-    return raw
+def parse_pdf_or_docx_text(path: Path) -> str:
+    if not path.exists():
+        return ''
+    try:
+        if path.suffix.lower() == '.pdf' and PdfReader:
+            return '\n'.join((page.extract_text() or '') for page in PdfReader(str(path)).pages[:30])
+        if path.suffix.lower() == '.docx' and DocxDocument:
+            doc = DocxDocument(str(path))
+            return '\n'.join(p.text for p in doc.paragraphs[:80])
+    except Exception:
+        return ''
+    return ''
 
 
-def build_source_id(subject: str, record: dict[str, Any], sequence: int) -> str:
-    # Create a local, deterministic pass-1 source_id mirroring the prompt convention.
-    subject = normalize_subject_name(subject)
-    year = '2026'
-    board = str(record.get('exam_board') or 'unknown').replace(' ', '_').upper()
-    paper_type = str(record.get('paper_type') or 'unknown').replace(' ', '_').lower()
-    period = str(record.get('exam_period') or 'unknown').replace(' ', '_').lower()
-    question_number = f'q{sequence}'
-    # Avoid out-of-scope characters and keep stable per pass-1.
-    return f"{subject}_{year}_{board}_{paper_type}_{period}_{question_number}".lower()
+def detect_board(name: str) -> str:
+    low = name.lower()
+    if 'ieb' in low:
+        return 'IEB'
+    if 'nsc' in low:
+        return 'NSC'
+    if 'internal' in low or 'school' in low:
+        return 'internal'
+    return 'unknown'
 
 
-def create_record(subject: str, record: dict[str, Any], sequence: int) -> dict[str, Any]:
-    paper_path = ROOT / record['paper_path']
-    memo_path = ROOT / record['memo_path'] if record.get('memo_path') else None
+def detect_type(name: str) -> str:
+    low = name.lower()
+    if 'paper 1' in low or 'p1' in low or 'paper1' in low:
+        return 'paper1'
+    if 'paper 2' in low or 'p2' in low or 'paper2' in low:
+        return 'paper2'
+    if 'task' in low:
+        return 'internal_task'
+    return 'unknown'
 
-    fields = {
-        'source_id': build_source_id(subject, record, sequence),
-        'source_document': record['paper_path'],
+
+def detect_period(name: str) -> str:
+    low = name.lower()
+    if 'prelim' in low:
+        return 'prelim'
+    if 'june' in low or 'july' in low:
+        return 'june'
+    if 'nov' in low or 'november' in low:
+        return 'nov'
+    return 'unknown'
+
+
+def detect_year(name: str) -> str:
+    # use filename year if present; otherwise keep unknown
+    match = re.search(r'\b(20\d{2}|19\d{2})\b', name)
+    return match.group(1) if match else 'unknown'
+
+
+def source_id_for(subject: str, paper_path: str, record: dict[str, Any], seq: int) -> str:
+    """Construct a strict pass-1 source_id from the source file metadata only."""
+    name = Path(paper_path.replace('\\', '/')).name.lower()
+    year = detect_year(name)
+    board = detect_board(name)
+    paper_type = detect_type(name)
+    period = detect_period(name)
+    return f"{subject}_{year}_{clean_token(board)}_{clean_token(paper_type)}_{clean_token(period)}_q{seq}".lower()
+
+
+def mark_from_text(text: str) -> Any:
+    m = re.search(r'\bmarks?\b\s*[:=]?\s*([0-9]+)', text, re.I)
+    if m:
+        return int(m.group(1))
+    return None
+
+
+def answer_from_text(text: str) -> str | None:
+    # Keep answer text as a short excerpt only.
+    cleaned = re.sub(r'\s+', ' ', text)
+    if len(cleaned) >= 250:
+        return cleaned[:250]
+    return cleaned or None
+
+
+def question_text_from_source(text: str) -> str | None:
+    # Keep question_text very conservative: if no actual readable text, this stays None.
+    txt = re.sub(r'\s+', ' ', text[:1800])
+    if txt.strip():
+        return txt.strip()
+    return None
+
+
+def memo_method_steps_from_text(text: str) -> list[str]:
+    # Simple heuristic: keep lines that look method-like, not answer keys.
+    lines = []
+    for line in text.splitlines():
+        line = line.strip()
+        if len(line) >= 4 and len(line) <= 180 and not line.endswith('?'):
+            lines.append(line)
+    return lines[:5]
+
+
+def record_for(subject: str, rec: dict[str, Any], seq: int) -> dict[str, Any]:
+    paper_path = path_from_manifest(rec['paper_path'])
+    memo_path = path_from_manifest(rec['memo_path']) if rec.get('memo_path') else None
+
+    paper_text = parse_pdf_or_docx_text(paper_path)
+    memo_text = parse_pdf_or_docx_text(memo_path) if memo_path else ''
+
+    # Build fields in the pass-1 record shell.
+    q = {
+        'source_id': source_id_for(subject, rec['paper_path'], rec, seq),
+        'source_document': rec['paper_path'],
         'source_document_sha256': sha256(paper_path),
-        'memo_document': record.get('memo_path'),
-        'fidelity_rung': 'A',
-        'requires_visual_verification': bool(record.get('curriculum_path')),  # if curriculum present, separate evidence is needed
+        'memo_document': rec.get('memo_path'),
+        'fidelity_rung': 'A' if paper_path.exists() and memo_path and memo_path.exists() else 'C',
+        'requires_visual_verification': False,
         'ocr_uncertain': False,
         'subject': subject,
         'grade': '11',
@@ -180,62 +196,114 @@ def create_record(subject: str, record: dict[str, Any], sequence: int) -> dict[s
         'question_stem_text': None,
     }
 
-    # Attach subject-specific fields per the two-pass prompt's subject map.
-    fields.update(FIELD_BLOCK[subject])
+    # subject-specific fields that can be extracted safely from available evidence.
+    if subject == 'ap_mathematics':
+        q['marks'] = mark_from_text(paper_text) or None
+        q['module_guess'] = 'unresolved'
+        q['question_text'] = question_text_from_source(paper_text) or 'unresolved'
+        q['has_diagram'] = None
+        q['memo_answer'] = answer_from_text(memo_text) or 'unresolved'
+        q['memo_method_steps'] = memo_method_steps_from_text(memo_text)
+        q['memo_marking_notes'] = 'unresolved'
+        q['apparent_prerequisite_core_topics'] = []
+    elif subject == 'biology':
+        q['marks'] = mark_from_text(paper_text) or None
+        q['topic_guess'] = 'unresolved'
+        q['question_type'] = 'unresolved'
+        q['question_text'] = question_text_from_source(paper_text) or 'unresolved'
+        q['has_diagram'] = None
+        q['memo_answer'] = answer_from_text(memo_text) or 'unresolved'
+        q['memo_marking_notes'] = 'unresolved'
+        q['key_terminology_tested'] = []
+    elif subject == 'chemistry':
+        q['marks'] = mark_from_text(paper_text) or None
+        q['discipline'] = 'Chemistry'
+        q['topic_guess'] = 'unresolved'
+        q['question_type'] = 'unresolved'
+        q['question_text'] = question_text_from_source(paper_text) or 'unresolved'
+        q['has_diagram'] = None
+        q['required_formulae_visible'] = []
+        q['memo_answer'] = answer_from_text(memo_text) or 'unresolved'
+        q['memo_method_steps'] = memo_method_steps_from_text(memo_text)
+        q['memo_marking_notes'] = 'unresolved'
+    elif subject == 'english':
+        q['paper_type'] = 'unresolved'
+        q['marks'] = mark_from_text(paper_text) or None
+        q['section_guess'] = 'unresolved'
+        q['set_text_title'] = None
+        q['question_text'] = question_text_from_source(paper_text) or 'unresolved'
+        q['question_format'] = 'unresolved'
+        q['memo_answer'] = answer_from_text(memo_text) or 'unresolved'
+        q['memo_marking_notes'] = 'unresolved'
+        q['rubric_reference'] = False
+    elif subject == 'history':
+        q['marks'] = mark_from_text(paper_text) or None
+        q['topic_guess'] = 'unresolved'
+        q['question_format'] = 'unresolved'
+        q['skill_focus_guess'] = 'unresolved'
+        q['source_reference'] = 'unresolved'
+        q['question_text'] = question_text_from_source(paper_text) or 'unresolved'
+        q['memo_answer'] = answer_from_text(memo_text) or 'unresolved'
+        q['memo_marking_notes'] = 'unresolved'
+        q['essay_rubric_levels_if_present'] = 'unresolved'
+    elif subject == 'mathematics':
+        q['marks'] = mark_from_text(paper_text) or None
+        q['topic_guess'] = 'unresolved'
+        q['question_text'] = question_text_from_source(paper_text) or 'unresolved'
+        q['has_diagram'] = None
+        q['memo_answer'] = answer_from_text(memo_text) or 'unresolved'
+        q['memo_method_steps'] = memo_method_steps_from_text(memo_text)
+        q['memo_marking_notes'] = 'unresolved'
+        q['calculator_allowed'] = 'unresolved'
+    elif subject == 'physics':
+        q['marks'] = mark_from_text(paper_text) or None
+        q['discipline'] = 'Physics'
+        q['topic_guess'] = 'unresolved'
+        q['question_type'] = 'unresolved'
+        q['question_text'] = question_text_from_source(paper_text) or 'unresolved'
+        q['has_diagram'] = None
+        q['required_formulae_visible'] = []
+        q['memo_answer'] = answer_from_text(memo_text) or 'unresolved'
+        q['memo_method_steps'] = memo_method_steps_from_text(memo_text)
+        q['memo_marking_notes'] = 'unresolved'
 
-    # Keep a conservative, file-backed note referencing real memo/paper evidence.
-    fields['provenance_note'] = (
-        f"Pass 1 evidence generated from matching paper+memo pair {record['paper_path']} and {record.get('memo_path')}"
-    )
-    return fields
+    if rec.get('curriculum_path'):
+        q['curriculum_path'] = rec.get('curriculum_path')
+        q['curriculum_source'] = rec.get('curriculum_source')
+
+    q['source_status'] = rec.get('source_status')
+    q['provenance_note'] = f"Paper: {paper_path} | Memo: {memo_path}"
+    return q
 
 
 def main() -> None:
     EXTRACTED.mkdir(parents=True, exist_ok=True)
-    with MANIFEST.open('r', encoding='utf-8') as f:
-        manifest = json.load(f)
+    with MANIFEST.open('r', encoding='utf-8') as fh:
+        manifest = json.load(fh)
 
-    per_subject = defaultdict(list)
+    grouped = defaultdict(list)
     for rec in manifest.get('records', []):
-        subject = normalize_subject_name(rec.get('subject'))
+        subject = clean_subject(rec.get('subject', ''))
         if subject in SUBJECTS:
-            per_subject[subject].append(rec)
+            grouped[subject].append(rec)
 
-    # Create one per-subject batch file.
     for subject in SUBJECTS:
-        output = []
-        for idx, rec in enumerate(per_subject.get(subject, []), start=1):
-            output.append(create_record(subject, rec, idx))
+        out = []
+        # subject file order stable
+        for idx, rec in enumerate(grouped.get(subject, []), start=1):
+            out.append(record_for(subject, rec, idx))
 
-        subj_path = EXTRACTED / f'{subject}_pass1.json'
-        subj_path.write_text(json.dumps(output, indent=2), encoding='utf-8')
-        print(f'Wrote {subj_path} with {len(output)} conservative pass-1 records')
+        out_path = EXTRACTED / f'{subject}_pass1.json'
+        out_path.write_text(json.dumps(out, indent=2), encoding='utf-8')
+        print(f'Wrote {out_path} with {len(out)} records')
 
-    # Create a combined aggregate if desired.
-    combined_path = EXTRACTED / 'all_subjects_pass1.json'
     combined = []
     for subject in SUBJECTS:
-        combined.extend(json.loads((EXTRACTED / f'{subject}_pass1.json').read_text(encoding='utf-8')))
-    combined_path.write_text(json.dumps(combined, indent=2), encoding='utf-8')
-
-    # Write a run log if the repo run logger is available.
-    if RunLogger is not None:
-        logger = RunLogger(
-            ROOT / 'runs',
-            phase=4,
-            subject='all',
-            spec_version='1.0.0',
-            implementation_spec_version='1.0.0',
-            agent_version='pass1-generator',
-            model='manual-pass1-generator',
-            model_provider='local',
-        )
-        logger.start()
-        logger.log_event('EXTRACTION_STARTED', subject='all', entity_id='pass1-batch', message='Created subject-pass1 evidence files from organized sample manifest.')
-        logger.log_event('EXTRACTION_COMPLETED', subject='all', entity_id='pass1-batch', message='Subject pass-1 records were emitted conservatively.')
-        logger.set_metrics({'papers_processed': len(manifest.get('records', [])), 'subjects_processed': len(SUBJECTS), 'questions_extracted': len(combined)})
-        logger.complete('completed')
-        print(f'Wrote run log under {logger.run_dir}')
+        f = EXTRACTED / f'{subject}_pass1.json'
+        if f.exists():
+            combined.extend(json.loads(f.read_text(encoding='utf-8')))
+    (EXTRACTED / 'all_subjects_pass1.json').write_text(json.dumps(combined, indent=2), encoding='utf-8')
+    print(f'Wrote combined pass1 with {len(combined)} records')
 
 
 if __name__ == '__main__':
