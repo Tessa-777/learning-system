@@ -1,0 +1,2115 @@
+{
+  "paper": {
+    "paper_key": "BIO-2022-CIRC",
+    "paper_path": "data/organized/biology/Class test- circulation.pdf",
+    "memo_path": "data/organized/biology/Class test- circulation MG.pdf",
+    "year": 2022,
+    "exam_date": "16 MAY 2022",
+    "exam_period": "may",
+    "paper_type": "class_test",
+    "exam_board": "internal",
+    "total_marks": 50,
+    "question_totals": [
+      10,
+      15,
+      15,
+      10
+    ],
+    "examiner": "MRS S. STEGMANN",
+    "moderator": "MRS B. ZAJAC",
+    "duration_stated": "50 MINUTES",
+    "fidelity_rung": "A",
+    "notes": "Read directly from digital PDF text. Whitespace normalized, blank answer lines and repeating headers omitted. Lettered subparts retain source letters; rowN identifies an unnumbered matching row. Image-dependent evidence is unresolved, not reconstructed.",
+    "alignment_anchors": {
+      "memo": "Contractions arise within the muscle itself.",
+      "paper": "The heart muscle is myogenic. Define this term."
+    }
+  },
+  "memo_alignment_check": {
+    "paper_header": {
+      "date": "16 MAY 2022",
+      "marks": 50,
+      "examiner": "MRS S. STEGMANN"
+    },
+    "memo_header": {
+      "date": "16 MAY 2022",
+      "marks": 50,
+      "examiner": "MRS S. STEGMANN"
+    },
+    "date_match": true,
+    "marks_match": true,
+    "examiner_match": true,
+    "paper_question_totals": [
+      10,
+      15,
+      15,
+      10
+    ],
+    "memo_question_totals": [
+      10,
+      15,
+      15,
+      10
+    ],
+    "question_totals_match": true,
+    "memo_total_basis": "printed question totals",
+    "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+  },
+  "records_extracted": 29,
+  "marks_sum_check": {
+    "sum_of_records": 50,
+    "printed_total": 50,
+    "match": true
+  },
+  "question_stems": [
+    {
+      "stem_id": "BIO-2022-CIRC-STEM-1.1",
+      "question_stem_text": " Various possibilities are suggested as answers to the following questions. Indicate the correct answer by writing the correct letter from the corresponding question on the folio paper provided."
+    },
+    {
+      "stem_id": "BIO-2022-CIRC-STEM-1.2",
+      "question_stem_text": " Provide the correct biological term for the following statements"
+    },
+    {
+      "stem_id": "BIO-2022-CIRC-STEM-2",
+      "question_stem_text": "Study the diagram of the heart below and answer the questions that follow."
+    },
+    {
+      "stem_id": "BIO-2022-CIRC-STEM-2.3",
+      "question_stem_text": "Study the diagram of the heart below and answer the questions that follow. Structures A, B, C and D are involved in conducting the heartbeat."
+    },
+    {
+      "stem_id": "BIO-2022-CIRC-STEM-3",
+      "question_stem_text": "The graph below provides information about the blood pressure in different parts of the mammalian blood circulatory system."
+    },
+    {
+      "stem_id": "BIO-2022-CIRC-STEM-3.3",
+      "question_stem_text": "The graph below provides information about the blood pressure in different parts of the mammalian blood circulatory system. The pressure fluctuates as the blood flows along the aorta and arteries. "
+    },
+    {
+      "stem_id": "BIO-2022-CIRC-STEM-3.4",
+      "question_stem_text": "The graph below provides information about the blood pressure in different parts of the mammalian blood circulatory system. The capillaries are the smallest blood vessel (with extremely small lumens) yet the pressure is drastically reduced in capillary networks. "
+    },
+    {
+      "stem_id": "BIO-2022-CIRC-STEM-4",
+      "question_stem_text": "Blood pressure refers to the two pressures measured in the arteries when the muscles of the heart contract and relax. The instrument that is used to measure blood pressure is known as a sphygomomanometer around the upper arm, as pictured below. A nurse at a wellness centre assessed 3 different patients and recorded the following respective readings: 135/85 mmHG; 120/80 mmHG and 140/90 mmHG."
+    }
+  ],
+  "question_records": [
+    {
+      "source_id": "biology_2022_internal_class_test_may_q1.1.1",
+      "question_id": "BIO-2022-CIRC-Q1.1.1",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "1.1.1",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2022-CIRC-STEM-1.1",
+      "question_stem_text": " Various possibilities are suggested as answers to the following questions. Indicate the correct answer by writing the correct letter from the corresponding question on the folio paper provided.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Multiple Choice",
+      "question_text": "Which statement is incorrect regarding the heart? A. Its walls are made up of striated voluntary muscle B. It is situated in a space between the lungs called the mediastinum C. Internally it is divided into four chambers D. The upper atria are receiving chambers with relatively thin walls",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "A ✓",
+      "memo_method_steps": [
+        "A"
+      ],
+      "memo_marking_notes": "A ✓",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q1.1.2",
+      "question_id": "BIO-2022-CIRC-Q1.1.2",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "1.1.2",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2022-CIRC-STEM-1.1",
+      "question_stem_text": " Various possibilities are suggested as answers to the following questions. Indicate the correct answer by writing the correct letter from the corresponding question on the folio paper provided.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Multiple Choice",
+      "question_text": "Mammals are said to have a “double circulation” because… A. blood makes two full circuits of the body every five minutes. B. There are two blood circuits from the heart: one to the lungs and the other to the rest of the body. C. Each organ is served by two vessels: an artery and a vein. D. The heart has two valves, thus providing double the circulatory power of other hearts.",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "B ✓",
+      "memo_method_steps": [
+        "B"
+      ],
+      "memo_marking_notes": "B ✓",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q1.1.3",
+      "question_id": "BIO-2022-CIRC-Q1.1.3",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "1.1.3",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2022-CIRC-STEM-1.1",
+      "question_stem_text": " Various possibilities are suggested as answers to the following questions. Indicate the correct answer by writing the correct letter from the corresponding question on the folio paper provided.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Multiple Choice",
+      "question_text": "The following events occur during a heartbeat. i. Semilunar valves forced open ii. Blood flows into atria iii. Both ventricles contract iv. Mitral and tricuspid valves open Select the correct order in which these events occur: A. i, ii, iii, iv B. iii, iv, i, ii C. ii, iv, iii, i D. ii, iv, i, iii",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "C ✓",
+      "memo_method_steps": [
+        "C"
+      ],
+      "memo_marking_notes": "C ✓",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q1.1.4",
+      "question_id": "BIO-2022-CIRC-Q1.1.4",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "1.1.4",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2022-CIRC-STEM-1.1",
+      "question_stem_text": " Various possibilities are suggested as answers to the following questions. Indicate the correct answer by writing the correct letter from the corresponding question on the folio paper provided.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Multiple Choice",
+      "question_text": "Which of the following statements is correctly paired with a part of the circulatory system? Part of the circulatory system Statement A. Pulmonary vein Carries oxygenated blood at low pressure B. Semilunar valve Prevents flow of blood from arteries into ventricles C. AV valves Prevents flow of blood from arteries into ventricles D. Aorta Carries deoxygenated blood at high pressure",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "B ✓",
+      "memo_method_steps": [
+        "B"
+      ],
+      "memo_marking_notes": "B ✓",
+      "key_terminology_tested": [
+        "aorta"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q1.1.5",
+      "question_id": "BIO-2022-CIRC-Q1.1.5",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "1.1.5",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2022-CIRC-STEM-1.1",
+      "question_stem_text": " Various possibilities are suggested as answers to the following questions. Indicate the correct answer by writing the correct letter from the corresponding question on the folio paper provided.",
+      "page": 3,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Multiple Choice",
+      "question_text": "Assuming a healthy heart, if a person has a heart rate of 72 beats per minute, calculate the duration it takes to complete each cardiac cycle. A. 1,2 seconds B. 1,2 minutes C. 0,8 seconds D. 0,8 minutes (5)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "C ✓ (5)",
+      "memo_method_steps": [
+        "C"
+      ],
+      "memo_marking_notes": "C ✓ (5)",
+      "key_terminology_tested": [
+        "heart rate"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q1.2.1",
+      "question_id": "BIO-2022-CIRC-Q1.2.1",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "1.2.1",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2022-CIRC-STEM-1.2",
+      "question_stem_text": " Provide the correct biological term for the following statements",
+      "page": 3,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Definition/Terminology",
+      "question_text": "The only veins to transport oxygenated blood.",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Pulmonary veins ✓",
+      "memo_method_steps": [
+        "Pulmonary veins"
+      ],
+      "memo_marking_notes": "Pulmonary veins ✓",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q1.2.2",
+      "question_id": "BIO-2022-CIRC-Q1.2.2",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "1.2.2",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2022-CIRC-STEM-1.2",
+      "question_stem_text": " Provide the correct biological term for the following statements",
+      "page": 3,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Definition/Terminology",
+      "question_text": "Fluid that is drained between the cells of the tissue and transported back to the bloodstream.",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Lymph ✓",
+      "memo_method_steps": [
+        "Lymph"
+      ],
+      "memo_marking_notes": "Lymph ✓",
+      "key_terminology_tested": [
+        "lymph"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q1.2.3",
+      "question_id": "BIO-2022-CIRC-Q1.2.3",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "1.2.3",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2022-CIRC-STEM-1.2",
+      "question_stem_text": " Provide the correct biological term for the following statements",
+      "page": 3,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Definition/Terminology",
+      "question_text": "The relaxation of the cardiac muscle.",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Diastole/ general diastole ✓",
+      "memo_method_steps": [
+        "Diastole/ general diastole"
+      ],
+      "memo_marking_notes": "Diastole/ general diastole ✓",
+      "key_terminology_tested": [
+        "diastole"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q1.2.4",
+      "question_id": "BIO-2022-CIRC-Q1.2.4",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "1.2.4",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2022-CIRC-STEM-1.2",
+      "question_stem_text": " Provide the correct biological term for the following statements",
+      "page": 3,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Definition/Terminology",
+      "question_text": "White blood cells that actively leave capillaries to engulf foreign substances.",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Phagocytes ✓",
+      "memo_method_steps": [
+        "Phagocytes"
+      ],
+      "memo_marking_notes": "Phagocytes ✓",
+      "key_terminology_tested": [
+        "phagocytes"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q1.2.5",
+      "question_id": "BIO-2022-CIRC-Q1.2.5",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "1.2.5",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2022-CIRC-STEM-1.2",
+      "question_stem_text": " Provide the correct biological term for the following statements",
+      "page": 3,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Definition/Terminology",
+      "question_text": "The number of heart beats per minute. (5)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Heart rate ✓ (5)",
+      "memo_method_steps": [
+        "Heart rate"
+      ],
+      "memo_marking_notes": "Heart rate ✓ (5)",
+      "key_terminology_tested": [
+        "heart rate"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q2.1",
+      "question_id": "BIO-2022-CIRC-Q2.1",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "2.1",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2022-CIRC-STEM-2",
+      "question_stem_text": "Study the diagram of the heart below and answer the questions that follow.",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 3,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Labelling/Diagram",
+      "question_text": "Provide labels for parts numbered 1, 2 and 3. (3)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "1- superior vena cava ✓ 2- inferior vena cava ✓ 3- pulmonary artery✓ (3)",
+      "memo_method_steps": [
+        "1- superior vena cava",
+        "2- inferior vena cava",
+        "3- pulmonary artery"
+      ],
+      "memo_marking_notes": "1- superior vena cava ✓ 2- inferior vena cava ✓ 3- pulmonary artery✓ (3)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q2.2",
+      "question_id": "BIO-2022-CIRC-Q2.2",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "2.2",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2022-CIRC-STEM-2",
+      "question_stem_text": "Study the diagram of the heart below and answer the questions that follow.",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 2,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Data/Graph Interpretation",
+      "question_text": "Explain the importance of structure 4. (2)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "It separates the left and right side of the heart ✓ ensuring that oxygenated and deoxygenated blood do not mix. ✓ (2)",
+      "memo_method_steps": [
+        "It separates the left and right side of the heart",
+        "ensuring that oxygenated and deoxygenated blood do not mix."
+      ],
+      "memo_marking_notes": "It separates the left and right side of the heart ✓ ensuring that oxygenated and deoxygenated blood do not mix. ✓ (2)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q2.3.1",
+      "question_id": "BIO-2022-CIRC-Q2.3.1",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "2.3.1",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2022-CIRC-STEM-2.3",
+      "question_stem_text": "Study the diagram of the heart below and answer the questions that follow. Structures A, B, C and D are involved in conducting the heartbeat.",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Definition/Terminology",
+      "question_text": "The heart muscle is myogenic. Define this term. (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Contractions arise within the muscle itself. ✓ (1)",
+      "memo_method_steps": [
+        "Contractions arise within the muscle itself."
+      ],
+      "memo_marking_notes": "Contractions arise within the muscle itself. ✓ (1)",
+      "key_terminology_tested": [
+        "myogenic"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q2.3.2",
+      "question_id": "BIO-2022-CIRC-Q2.3.2",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "2.3.2",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2022-CIRC-STEM-2.3",
+      "question_stem_text": "Study the diagram of the heart below and answer the questions that follow. Structures A, B, C and D are involved in conducting the heartbeat.",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 2,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Labelling/Diagram",
+      "question_text": "Provide the letter and the name of the structure which generates the heartbeat. (2)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "A✓- Sinoatrial (SA) node ✓ (2)",
+      "memo_method_steps": [
+        "A",
+        "- Sinoatrial (SA) node"
+      ],
+      "memo_marking_notes": "A✓- Sinoatrial (SA) node ✓ (2)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q2.3.3",
+      "question_id": "BIO-2022-CIRC-Q2.3.3",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "2.3.3",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2022-CIRC-STEM-2.3",
+      "question_stem_text": "Study the diagram of the heart below and answer the questions that follow. Structures A, B, C and D are involved in conducting the heartbeat.",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 4,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Labelling/Diagram",
+      "question_text": "By using the names of structures A-D, explain how the heartbeat is generated. (4)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "The SA node (A) generates contractions in the right atrium ✓ This stimulates the AV node (B) causing the atria to contract ✓ Which in turn sends impulses down the Bundle of His (C) ✓ These branch into the Purkinje fibres (D) which stimulate contractions in the ventricles. ✓ (4)",
+      "memo_method_steps": [
+        "The SA node (A) generates contractions in the right atrium",
+        "This stimulates the AV node (B) causing the atria to contract",
+        "Which in turn sends impulses down the Bundle of His (C)",
+        "These branch into the Purkinje fibres (D) which stimulate contractions in the ventricles."
+      ],
+      "memo_marking_notes": "The SA node (A) generates contractions in the right atrium ✓ This stimulates the AV node (B) causing the atria to contract ✓ Which in turn sends impulses down the Bundle of His (C) ✓ These branch into the Purkinje fibres (D) which stimulate contractions in the ventricles. ✓ (4)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q2.3.4",
+      "question_id": "BIO-2022-CIRC-Q2.3.4",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "2.3.4",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2022-CIRC-STEM-2.3",
+      "question_stem_text": "Study the diagram of the heart below and answer the questions that follow. Structures A, B, C and D are involved in conducting the heartbeat.",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 3,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "Although the structure mentioned in 2.3.2. initiates the heartbeat, it cannot alter the rate at which the heartbeat contracts. What system is involved in slowing the heart rate and how does it achieve this? (3)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "The parasympathetic nervous system/ the nervous system ✓ Impulses are sent along the parasympathetic NS to the SA node ✓ The SA node reduces the number of impulses that it sends out and HR slows down ✓ (3)",
+      "memo_method_steps": [
+        "The parasympathetic nervous system/ the nervous system",
+        "Impulses are sent along the parasympathetic NS to the SA node",
+        "The SA node reduces the number of impulses that it sends out and HR slows down"
+      ],
+      "memo_marking_notes": "The parasympathetic nervous system/ the nervous system ✓ Impulses are sent along the parasympathetic NS to the SA node ✓ The SA node reduces the number of impulses that it sends out and HR slows down ✓ (3)",
+      "key_terminology_tested": [
+        "heart rate"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q3.1",
+      "question_id": "BIO-2022-CIRC-Q3.1",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "3.1",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2022-CIRC-STEM-3",
+      "question_stem_text": "The graph below provides information about the blood pressure in different parts of the mammalian blood circulatory system.",
+      "page": 4,
+      "memo_page": 3,
+      "marks": 2,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Data/Graph Interpretation",
+      "question_text": "What is the highest blood pressure achieved in the arteries? (2)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "14 ✓kPa ✓ (2)",
+      "memo_method_steps": [
+        "kPa"
+      ],
+      "memo_marking_notes": "14 ✓kPa ✓ (2)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q3.2",
+      "question_id": "BIO-2022-CIRC-Q3.2",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "3.2",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2022-CIRC-STEM-3",
+      "question_stem_text": "The graph below provides information about the blood pressure in different parts of the mammalian blood circulatory system.",
+      "page": 5,
+      "memo_page": 3,
+      "marks": 2,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "Explain why a higher blood pressure is achieved and maintained in the aorta. (2)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "The aorta receives blood directly from the left atrium, which pumps blood at the highest pressure. ✓ The aorta has a thick muscular wall to maintain the pressure of the blood. ✓ (2)",
+      "memo_method_steps": [
+        "The aorta receives blood directly from the left atrium, which pumps blood at the highest pressure.",
+        "The aorta has a thick muscular wall to maintain the pressure of the blood."
+      ],
+      "memo_marking_notes": "The aorta receives blood directly from the left atrium, which pumps blood at the highest pressure. ✓ The aorta has a thick muscular wall to maintain the pressure of the blood. ✓ (2)",
+      "key_terminology_tested": [
+        "aorta"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q3.3.a",
+      "question_id": "BIO-2022-CIRC-Q3.3.a",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "3.3.a",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2022-CIRC-STEM-3.3",
+      "question_stem_text": "The graph below provides information about the blood pressure in different parts of the mammalian blood circulatory system. The pressure fluctuates as the blood flows along the aorta and arteries. ",
+      "page": 5,
+      "memo_page": 3,
+      "marks": 2,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "What causes this fluctuation? (2)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "The contracting and relaxing✓ of the muscular wall/layer ✓ of the arteries. (2)",
+      "memo_method_steps": [
+        "The contracting and relaxing",
+        "of the muscular wall/layer",
+        "of the arteries. (2)"
+      ],
+      "memo_marking_notes": "The contracting and relaxing✓ of the muscular wall/layer ✓ of the arteries. (2)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q3.3.b",
+      "question_id": "BIO-2022-CIRC-Q3.3.b",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "3.3.b",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2022-CIRC-STEM-3.3",
+      "question_stem_text": "The graph below provides information about the blood pressure in different parts of the mammalian blood circulatory system. The pressure fluctuates as the blood flows along the aorta and arteries. ",
+      "page": 5,
+      "memo_page": 3,
+      "marks": 5,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Labelling/Diagram",
+      "question_text": "Draw a labelled diagram of a cross section of an artery to indicate the various layers that make up this vessel. (5)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "Heading ✓ Accuracy and diagram rules ✓ Any 3 labels ✓✓✓ (5)",
+      "memo_method_steps": [
+        "Heading",
+        "Accuracy and diagram rules",
+        "Any 3 labels"
+      ],
+      "memo_marking_notes": "Heading ✓ Accuracy and diagram rules ✓ Any 3 labels ✓✓✓ (5)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q3.4.a",
+      "question_id": "BIO-2022-CIRC-Q3.4.a",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "3.4.a",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2022-CIRC-STEM-3.4",
+      "question_stem_text": "The graph below provides information about the blood pressure in different parts of the mammalian blood circulatory system. The capillaries are the smallest blood vessel (with extremely small lumens) yet the pressure is drastically reduced in capillary networks. ",
+      "page": 5,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "How is this drop in pressure achieved? (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "As blood moves from the aorta to smaller arteries and arterioles there is a decrease in blood pressure. ✓ (1)",
+      "memo_method_steps": [
+        "As blood moves from the aorta to smaller arteries and arterioles there is a decrease in blood pressure."
+      ],
+      "memo_marking_notes": "As blood moves from the aorta to smaller arteries and arterioles there is a decrease in blood pressure. ✓ (1)",
+      "key_terminology_tested": [
+        "aorta"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q3.4.b",
+      "question_id": "BIO-2022-CIRC-Q3.4.b",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "3.4.b",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2022-CIRC-STEM-3.4",
+      "question_stem_text": "The graph below provides information about the blood pressure in different parts of the mammalian blood circulatory system. The capillaries are the smallest blood vessel (with extremely small lumens) yet the pressure is drastically reduced in capillary networks. ",
+      "page": 5,
+      "memo_page": 3,
+      "marks": 2,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "Why is it necessary that the pressure changes as blood flows into the capillaries? (2)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Capillaries only consist of one layer of endothelium. ✓ High blood pressure will cause the walls of the capillary to rupture/burst. ✓ (2)",
+      "memo_method_steps": [
+        "Capillaries only consist of one layer of endothelium.",
+        "High blood pressure will cause the walls of the capillary to rupture/burst."
+      ],
+      "memo_marking_notes": "Capillaries only consist of one layer of endothelium. ✓ High blood pressure will cause the walls of the capillary to rupture/burst. ✓ (2)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q3.5",
+      "question_id": "BIO-2022-CIRC-Q3.5",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "3.5",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2022-CIRC-STEM-3",
+      "question_stem_text": "The graph below provides information about the blood pressure in different parts of the mammalian blood circulatory system.",
+      "page": 5,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "Although veins operate under the lowest pressure, blood is still effectively transported in these vessels. What structural adaptation do these vessels contain to aid the movement of blood back towards the heart? (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "SL valves ✓ (1)",
+      "memo_method_steps": [
+        "SL valves"
+      ],
+      "memo_marking_notes": "SL valves ✓ (1)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q4.1",
+      "question_id": "BIO-2022-CIRC-Q4.1",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "4.1",
+      "top_level_question_number": "4",
+      "parent_question_id": "BIO-2022-CIRC-STEM-4",
+      "question_stem_text": "Blood pressure refers to the two pressures measured in the arteries when the muscles of the heart contract and relax. The instrument that is used to measure blood pressure is known as a sphygomomanometer around the upper arm, as pictured below. A nurse at a wellness centre assessed 3 different patients and recorded the following respective readings: 135/85 mmHG; 120/80 mmHG and 140/90 mmHG.",
+      "page": 6,
+      "memo_page": 3,
+      "marks": 4,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "Construct a table to record the nurse’s data. (4)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Heading ✓ Enclosed table ✓ Column headings ✓ Data ✓ (4)",
+      "memo_method_steps": [
+        "Heading",
+        "Enclosed table",
+        "Column headings",
+        "Data"
+      ],
+      "memo_marking_notes": "Heading ✓ Enclosed table ✓ Column headings ✓ Data ✓ (4)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q4.2",
+      "question_id": "BIO-2022-CIRC-Q4.2",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "4.2",
+      "top_level_question_number": "4",
+      "parent_question_id": "BIO-2022-CIRC-STEM-4",
+      "question_stem_text": "Blood pressure refers to the two pressures measured in the arteries when the muscles of the heart contract and relax. The instrument that is used to measure blood pressure is known as a sphygomomanometer around the upper arm, as pictured below. A nurse at a wellness centre assessed 3 different patients and recorded the following respective readings: 135/85 mmHG; 120/80 mmHG and 140/90 mmHG.",
+      "page": 6,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "Of the three patients, which reading would be in a normal, healthy range? (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Patient 2 (120/80) ✓ (1)",
+      "memo_method_steps": [
+        "Patient 2 (120/80)"
+      ],
+      "memo_marking_notes": "Patient 2 (120/80) ✓ (1)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q4.3",
+      "question_id": "BIO-2022-CIRC-Q4.3",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "4.3",
+      "top_level_question_number": "4",
+      "parent_question_id": "BIO-2022-CIRC-STEM-4",
+      "question_stem_text": "Blood pressure refers to the two pressures measured in the arteries when the muscles of the heart contract and relax. The instrument that is used to measure blood pressure is known as a sphygomomanometer around the upper arm, as pictured below. A nurse at a wellness centre assessed 3 different patients and recorded the following respective readings: 135/85 mmHG; 120/80 mmHG and 140/90 mmHG.",
+      "page": 6,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "Consider the reading of 140/90 mmHG. The value: 140 represents which phase of the cardiac cycle? (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Ventricular systole ✓ (1)",
+      "memo_method_steps": [
+        "Ventricular systole"
+      ],
+      "memo_marking_notes": "Ventricular systole ✓ (1)",
+      "key_terminology_tested": [
+        "systole"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q4.4",
+      "question_id": "BIO-2022-CIRC-Q4.4",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "4.4",
+      "top_level_question_number": "4",
+      "parent_question_id": "BIO-2022-CIRC-STEM-4",
+      "question_stem_text": "Blood pressure refers to the two pressures measured in the arteries when the muscles of the heart contract and relax. The instrument that is used to measure blood pressure is known as a sphygomomanometer around the upper arm, as pictured below. A nurse at a wellness centre assessed 3 different patients and recorded the following respective readings: 135/85 mmHG; 120/80 mmHG and 140/90 mmHG.",
+      "page": 6,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Definition/Terminology",
+      "question_text": "Provide the term for chronic high blood pressure. (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Hypertension ✓ (1)",
+      "memo_method_steps": [
+        "Hypertension"
+      ],
+      "memo_marking_notes": "Hypertension ✓ (1)",
+      "key_terminology_tested": [
+        "hypertension"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q4.5",
+      "question_id": "BIO-2022-CIRC-Q4.5",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "4.5",
+      "top_level_question_number": "4",
+      "parent_question_id": "BIO-2022-CIRC-STEM-4",
+      "question_stem_text": "Blood pressure refers to the two pressures measured in the arteries when the muscles of the heart contract and relax. The instrument that is used to measure blood pressure is known as a sphygomomanometer around the upper arm, as pictured below. A nurse at a wellness centre assessed 3 different patients and recorded the following respective readings: 135/85 mmHG; 120/80 mmHG and 140/90 mmHG.",
+      "page": 6,
+      "memo_page": 3,
+      "marks": 2,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "State one factor that cannot be controlled and one factor that can be controlled when it comes to high blood pressure in an individual. (2)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Controlled: weight, smoking, exercise, any relevant answer (any 1 ✓) Uncontrolled: age, genetics, being male (any 1 ✓) (2)",
+      "memo_method_steps": [
+        "Controlled: weight, smoking, exercise, any relevant answer (any 1",
+        ") Uncontrolled: age, genetics, being male (any 1"
+      ],
+      "memo_marking_notes": "Controlled: weight, smoking, exercise, any relevant answer (any 1 ✓) Uncontrolled: age, genetics, being male (any 1 ✓) (2)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    },
+    {
+      "source_id": "biology_2022_internal_class_test_may_q4.6",
+      "question_id": "BIO-2022-CIRC-Q4.6",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2022-CIRC",
+      "source_document": "data/organized/biology/Class test- circulation.pdf",
+      "memo_document": "data/organized/biology/Class test- circulation MG.pdf",
+      "source_document_sha256": "4ced0fffb6b926c8489eb1c59b306a464b1a5fd891d5d66fa89345a4390aa875",
+      "memo_document_sha256": "31d01c7e51c2d2968364f5d4ec81c646d9f835db169a8128c9b020d8dd68209e",
+      "orc_source_id": "SOURCE-ORC-BIO-2022-002",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2022-001",
+      "question_number": "4.6",
+      "top_level_question_number": "4",
+      "parent_question_id": "BIO-2022-CIRC-STEM-4",
+      "question_stem_text": "Blood pressure refers to the two pressures measured in the arteries when the muscles of the heart contract and relax. The instrument that is used to measure blood pressure is known as a sphygomomanometer around the upper arm, as pictured below. A nurse at a wellness centre assessed 3 different patients and recorded the following respective readings: 135/85 mmHG; 120/80 mmHG and 140/90 mmHG.",
+      "page": 6,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Transport in animals",
+      "question_type": "Short Answer",
+      "question_text": "Name one danger associated with abnormally high blood pressure. (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Heart attack, aneurysm, stroke, heart failure, kidney damage, brain damage (any 1✓) (1)",
+      "memo_method_steps": [
+        "Heart attack, aneurysm, stroke, heart failure, kidney damage, brain damage (any 1"
+      ],
+      "memo_marking_notes": "Heart attack, aneurysm, stroke, heart failure, kidney damage, brain damage (any 1✓) (1)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "16 MAY 2022",
+          "marks": 50,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "memo_question_totals": [
+          10,
+          15,
+          15,
+          10
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2022_circulation"
+      }
+    }
+  ]
+}

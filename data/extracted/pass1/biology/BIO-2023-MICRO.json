@@ -1,0 +1,2072 @@
+{
+  "paper": {
+    "paper_key": "BIO-2023-MICRO",
+    "paper_path": "data/organized/biology/Class test- microorganisms.pdf",
+    "memo_path": "data/organized/biology/Class test- microorganisms MG.pdf",
+    "year": 2023,
+    "exam_date": "2 OCTOBER 2023",
+    "exam_period": "october",
+    "paper_type": "class_test",
+    "exam_board": "internal",
+    "total_marks": 40,
+    "question_totals": [
+      10,
+      13,
+      17
+    ],
+    "examiner": "MRS S. STEGMANN",
+    "moderator": "MRS B. ZAJAC",
+    "duration_stated": "40 MINUTES",
+    "fidelity_rung": "A",
+    "notes": "Read directly from digital PDF text. Whitespace normalized, blank answer lines and repeating headers omitted. Lettered subparts retain source letters; rowN identifies an unnumbered matching row. Image-dependent evidence is unresolved, not reconstructed.",
+    "alignment_anchors": {
+      "memo": "2.1. Type of bacteria",
+      "paper": "Valentina and Ishika are microbiology students investigating penicillin resistance"
+    }
+  },
+  "memo_alignment_check": {
+    "paper_header": {
+      "date": "2 OCTOBER 2023",
+      "marks": 40,
+      "examiner": "MRS S. STEGMANN"
+    },
+    "memo_header": {
+      "date": "2 OCTOBER 2023",
+      "marks": 40,
+      "examiner": "MRS S. STEGMANN"
+    },
+    "date_match": true,
+    "marks_match": true,
+    "examiner_match": true,
+    "paper_question_totals": [
+      10,
+      13,
+      17
+    ],
+    "memo_question_totals": [
+      10,
+      13,
+      17
+    ],
+    "question_totals_match": true,
+    "memo_total_basis": "printed question totals",
+    "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+  },
+  "records_extracted": 29,
+  "marks_sum_check": {
+    "sum_of_records": 40,
+    "printed_total": 40,
+    "match": true
+  },
+  "question_stems": [
+    {
+      "stem_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers."
+    },
+    {
+      "stem_id": "BIO-2023-MICRO-STEM-2",
+      "question_stem_text": "Valentina and Ishika are microbiology students investigating penicillin resistance in modern day bacterial cultures. Penicillin had, in the past, been an effective antibiotic and so they decided to set up an experiment to determine which type of bacterium has developed the greatest resistance to penicillin. They obtained pure cultures of five different types of bacteria (A-E) and placed each type of bacteria into a separate petri dish with nutrient agar. Once the agar was set, a hollow was cut in the agar in the center of each petri dish, using a cork borer. Penicillin was then added to the hollows. After incubation at 25°C for 24 hours, the petri dishes were examined."
+    },
+    {
+      "stem_id": "BIO-2023-MICRO-STEM-2.7",
+      "question_stem_text": "Valentina and Ishika are microbiology students investigating penicillin resistance in modern day bacterial cultures. Penicillin had, in the past, been an effective antibiotic and so they decided to set up an experiment to determine which type of bacterium has developed the greatest resistance to penicillin. They obtained pure cultures of five different types of bacteria (A-E) and placed each type of bacteria into a separate petri dish with nutrient agar. Once the agar was set, a hollow was cut in the agar in the center of each petri dish, using a cork borer. Penicillin was then added to the hollows. After incubation at 25°C for 24 hours, the petri dishes were examined. Valentina and Ishika forgot to set up controls for this experiment. "
+    },
+    {
+      "stem_id": "BIO-2023-MICRO-STEM-3.1",
+      "question_stem_text": " Read the extract below and study the graph showing the temperature of a patient suffering with malaria. The malaria parasite is caused by a unicellular organism called Plasmodium. The parasite is transferred to humans by the Anopheles mosquito. Malaria symptoms only appear after 10 days when the first fever attack occurs. The graph below shows the body temperature of a malaria patient over five days."
+    },
+    {
+      "stem_id": "BIO-2023-MICRO-STEM-3.1.2",
+      "question_stem_text": " Read the extract below and study the graph showing the temperature of a patient suffering with malaria. The malaria parasite is caused by a unicellular organism called Plasmodium. The parasite is transferred to humans by the Anopheles mosquito. Malaria symptoms only appear after 10 days when the first fever attack occurs. The graph below shows the body temperature of a malaria patient over five days. From the chart determine: "
+    },
+    {
+      "stem_id": "BIO-2023-MICRO-STEM-3.2",
+      "question_stem_text": " Acute HIV infection is the earliest stage of HIV infection, and it generally develops withing 2 to 4 weeks after infection with HIV. During this time, some people have flu-like symptoms, such as fever, headache, and rash. In the acute stage of infection, HIV multiplies rapidly and spreads throughout the body."
+    }
+  ],
+  "question_records": [
+    {
+      "source_id": "biology_2023_internal_class_test_october_q1.row1",
+      "question_id": "BIO-2023-MICRO-Q1.row1",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "1.row1",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Definition/Terminology",
+      "question_text": "Antibodies",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "E ✓",
+      "memo_method_steps": [
+        "E"
+      ],
+      "memo_marking_notes": "E ✓",
+      "key_terminology_tested": [
+        "antibodies"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q1.row10",
+      "question_id": "BIO-2023-MICRO-Q1.row10",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "1.row10",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Definition/Terminology",
+      "question_text": "Thrush",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "D ✓",
+      "memo_method_steps": [
+        "D"
+      ],
+      "memo_marking_notes": "D ✓",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q1.row2",
+      "question_id": "BIO-2023-MICRO-Q1.row2",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "1.row2",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Definition/Terminology",
+      "question_text": "Viruses that infect bacteria",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "H ✓",
+      "memo_method_steps": [
+        "H"
+      ],
+      "memo_marking_notes": "H ✓",
+      "key_terminology_tested": [
+        "bacteria"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q1.row3",
+      "question_id": "BIO-2023-MICRO-Q1.row3",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "1.row3",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Definition/Terminology",
+      "question_text": "Weakened immune system",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "B ✓",
+      "memo_method_steps": [
+        "B"
+      ],
+      "memo_marking_notes": "B ✓",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q1.row4",
+      "question_id": "BIO-2023-MICRO-Q1.row4",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "1.row4",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Definition/Terminology",
+      "question_text": "Algae",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "G ✓",
+      "memo_method_steps": [
+        "G"
+      ],
+      "memo_marking_notes": "G ✓",
+      "key_terminology_tested": [
+        "algae"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q1.row5",
+      "question_id": "BIO-2023-MICRO-Q1.row5",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "1.row5",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Definition/Terminology",
+      "question_text": "Germs",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "C ✓",
+      "memo_method_steps": [
+        "C"
+      ],
+      "memo_marking_notes": "C ✓",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q1.row6",
+      "question_id": "BIO-2023-MICRO-Q1.row6",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "1.row6",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Definition/Terminology",
+      "question_text": "Agar",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "A ✓",
+      "memo_method_steps": [
+        "A"
+      ],
+      "memo_marking_notes": "A ✓",
+      "key_terminology_tested": [
+        "agar"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q1.row7",
+      "question_id": "BIO-2023-MICRO-Q1.row7",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "1.row7",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Definition/Terminology",
+      "question_text": "Acellular",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "J ✓",
+      "memo_method_steps": [
+        "J"
+      ],
+      "memo_marking_notes": "J ✓",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q1.row8",
+      "question_id": "BIO-2023-MICRO-Q1.row8",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "1.row8",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Definition/Terminology",
+      "question_text": "Mosquito",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "F ✓",
+      "memo_method_steps": [
+        "F"
+      ],
+      "memo_marking_notes": "F ✓",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q1.row9",
+      "question_id": "BIO-2023-MICRO-Q1.row9",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "1.row9",
+      "top_level_question_number": "1",
+      "parent_question_id": "BIO-2023-MICRO-STEM-1",
+      "question_stem_text": "Select the name/ or term in Column II which best matches the description in Column I. Each letter may only be used once. Column II: A Gel extract; B HIV; C Pathogens; D Fungus; E B lymphocytes; F Vector; G Protist; H Bacteriophage; I Bacteria; J Virus; K T lymphocytes; L decomposers.",
+      "page": 2,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Definition/Terminology",
+      "question_text": "Antibiotics",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "I ✓",
+      "memo_method_steps": [
+        "I"
+      ],
+      "memo_marking_notes": "I ✓",
+      "key_terminology_tested": [
+        "antibiotics"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q2.1",
+      "question_id": "BIO-2023-MICRO-Q2.1",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "2.1",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2023-MICRO-STEM-2",
+      "question_stem_text": "Valentina and Ishika are microbiology students investigating penicillin resistance in modern day bacterial cultures. Penicillin had, in the past, been an effective antibiotic and so they decided to set up an experiment to determine which type of bacterium has developed the greatest resistance to penicillin. They obtained pure cultures of five different types of bacteria (A-E) and placed each type of bacteria into a separate petri dish with nutrient agar. Once the agar was set, a hollow was cut in the agar in the center of each petri dish, using a cork borer. Penicillin was then added to the hollows. After incubation at 25°C for 24 hours, the petri dishes were examined.",
+      "page": 3,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "State the independent variable in this experiment. (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Type of bacteria ✓ (1)",
+      "memo_method_steps": [
+        "Type of bacteria"
+      ],
+      "memo_marking_notes": "Type of bacteria ✓ (1)",
+      "key_terminology_tested": [
+        "bacteria"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q2.2",
+      "question_id": "BIO-2023-MICRO-Q2.2",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "2.2",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2023-MICRO-STEM-2",
+      "question_stem_text": "Valentina and Ishika are microbiology students investigating penicillin resistance in modern day bacterial cultures. Penicillin had, in the past, been an effective antibiotic and so they decided to set up an experiment to determine which type of bacterium has developed the greatest resistance to penicillin. They obtained pure cultures of five different types of bacteria (A-E) and placed each type of bacteria into a separate petri dish with nutrient agar. Once the agar was set, a hollow was cut in the agar in the center of each petri dish, using a cork borer. Penicillin was then added to the hollows. After incubation at 25°C for 24 hours, the petri dishes were examined.",
+      "page": 3,
+      "memo_page": 2,
+      "marks": 2,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "Write a suitable hypothesis for the experiment. (2)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "All bacteria ✓ will be killed by penicillin. ✓ (any statement regarding the independent and dependent variable) (2)",
+      "memo_method_steps": [
+        "All bacteria",
+        "will be killed by penicillin.",
+        "(any statement regarding the independent and dependent variable) (2)"
+      ],
+      "memo_marking_notes": "All bacteria ✓ will be killed by penicillin. ✓ (any statement regarding the independent and dependent variable) (2)",
+      "key_terminology_tested": [
+        "bacteria",
+        "penicillin"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q2.3",
+      "question_id": "BIO-2023-MICRO-Q2.3",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "2.3",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2023-MICRO-STEM-2",
+      "question_stem_text": "Valentina and Ishika are microbiology students investigating penicillin resistance in modern day bacterial cultures. Penicillin had, in the past, been an effective antibiotic and so they decided to set up an experiment to determine which type of bacterium has developed the greatest resistance to penicillin. They obtained pure cultures of five different types of bacteria (A-E) and placed each type of bacteria into a separate petri dish with nutrient agar. Once the agar was set, a hollow was cut in the agar in the center of each petri dish, using a cork borer. Penicillin was then added to the hollows. After incubation at 25°C for 24 hours, the petri dishes were examined.",
+      "page": 3,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Data/Graph Interpretation",
+      "question_text": "Which bacteria showed the most antibiotic resistance? (1)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "Bacteria C ✓ (1)",
+      "memo_method_steps": [
+        "Bacteria C"
+      ],
+      "memo_marking_notes": "Bacteria C ✓ (1)",
+      "key_terminology_tested": [
+        "bacteria"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q2.4",
+      "question_id": "BIO-2023-MICRO-Q2.4",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "2.4",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2023-MICRO-STEM-2",
+      "question_stem_text": "Valentina and Ishika are microbiology students investigating penicillin resistance in modern day bacterial cultures. Penicillin had, in the past, been an effective antibiotic and so they decided to set up an experiment to determine which type of bacterium has developed the greatest resistance to penicillin. They obtained pure cultures of five different types of bacteria (A-E) and placed each type of bacteria into a separate petri dish with nutrient agar. Once the agar was set, a hollow was cut in the agar in the center of each petri dish, using a cork borer. Penicillin was then added to the hollows. After incubation at 25°C for 24 hours, the petri dishes were examined.",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 2,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Data/Graph Interpretation",
+      "question_text": "Explain your answer to QUESTION 2.3. (2)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "There was no change in the number of bacteria✓ after the penicillin was added and no clear zone formed✓. (2)",
+      "memo_method_steps": [
+        "There was no change in the number of bacteria",
+        "after the penicillin was added and no clear zone formed",
+        ". (2)"
+      ],
+      "memo_marking_notes": "There was no change in the number of bacteria✓ after the penicillin was added and no clear zone formed✓. (2)",
+      "key_terminology_tested": [
+        "bacteria",
+        "penicillin"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q2.5",
+      "question_id": "BIO-2023-MICRO-Q2.5",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "2.5",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2023-MICRO-STEM-2",
+      "question_stem_text": "Valentina and Ishika are microbiology students investigating penicillin resistance in modern day bacterial cultures. Penicillin had, in the past, been an effective antibiotic and so they decided to set up an experiment to determine which type of bacterium has developed the greatest resistance to penicillin. They obtained pure cultures of five different types of bacteria (A-E) and placed each type of bacteria into a separate petri dish with nutrient agar. Once the agar was set, a hollow was cut in the agar in the center of each petri dish, using a cork borer. Penicillin was then added to the hollows. After incubation at 25°C for 24 hours, the petri dishes were examined.",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 3,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "Explain how resistance to antibiotics develops in a population of bacteria. (3)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "A few bacteria develop random mutations✓ which cause them to be resistant to an antibiotic. These resistant bacteria will survive and multiply✓ producing a fully antibiotic resistant population. ✓ (3)",
+      "memo_method_steps": [
+        "A few bacteria develop random mutations",
+        "which cause them to be resistant to an antibiotic. These resistant bacteria will survive and multiply",
+        "producing a fully antibiotic resistant population."
+      ],
+      "memo_marking_notes": "A few bacteria develop random mutations✓ which cause them to be resistant to an antibiotic. These resistant bacteria will survive and multiply✓ producing a fully antibiotic resistant population. ✓ (3)",
+      "key_terminology_tested": [
+        "bacteria",
+        "antibiotics",
+        "population"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q2.6",
+      "question_id": "BIO-2023-MICRO-Q2.6",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "2.6",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2023-MICRO-STEM-2",
+      "question_stem_text": "Valentina and Ishika are microbiology students investigating penicillin resistance in modern day bacterial cultures. Penicillin had, in the past, been an effective antibiotic and so they decided to set up an experiment to determine which type of bacterium has developed the greatest resistance to penicillin. They obtained pure cultures of five different types of bacteria (A-E) and placed each type of bacteria into a separate petri dish with nutrient agar. Once the agar was set, a hollow was cut in the agar in the center of each petri dish, using a cork borer. Penicillin was then added to the hollows. After incubation at 25°C for 24 hours, the petri dishes were examined.",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "State ONE way in which the development of resistant bacteria can be minimized. (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "The full course of antibiotics needs to be taken/ completed Numerous courses/ ongoing antibiotics should be avoided ✓ (any 1)",
+      "memo_method_steps": [
+        "The full course of antibiotics needs to be taken/ completed Numerous courses/ ongoing antibiotics should be avoided",
+        "(any 1)"
+      ],
+      "memo_marking_notes": "The full course of antibiotics needs to be taken/ completed Numerous courses/ ongoing antibiotics should be avoided ✓ (any 1)",
+      "key_terminology_tested": [
+        "bacteria",
+        "antibiotics"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q2.7.A",
+      "question_id": "BIO-2023-MICRO-Q2.7.A",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "2.7.A",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2023-MICRO-STEM-2.7",
+      "question_stem_text": "Valentina and Ishika are microbiology students investigating penicillin resistance in modern day bacterial cultures. Penicillin had, in the past, been an effective antibiotic and so they decided to set up an experiment to determine which type of bacterium has developed the greatest resistance to penicillin. They obtained pure cultures of five different types of bacteria (A-E) and placed each type of bacteria into a separate petri dish with nutrient agar. Once the agar was set, a hollow was cut in the agar in the center of each petri dish, using a cork borer. Penicillin was then added to the hollows. After incubation at 25°C for 24 hours, the petri dishes were examined. Valentina and Ishika forgot to set up controls for this experiment. ",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 2,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "Explain why controls are necessary in this experiment. (2)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "To compare results ✓ and see what the natural result would look like ✓ (2)",
+      "memo_method_steps": [
+        "To compare results",
+        "and see what the natural result would look like"
+      ],
+      "memo_marking_notes": "To compare results ✓ and see what the natural result would look like ✓ (2)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q2.7.B",
+      "question_id": "BIO-2023-MICRO-Q2.7.B",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "2.7.B",
+      "top_level_question_number": "2",
+      "parent_question_id": "BIO-2023-MICRO-STEM-2.7",
+      "question_stem_text": "Valentina and Ishika are microbiology students investigating penicillin resistance in modern day bacterial cultures. Penicillin had, in the past, been an effective antibiotic and so they decided to set up an experiment to determine which type of bacterium has developed the greatest resistance to penicillin. They obtained pure cultures of five different types of bacteria (A-E) and placed each type of bacteria into a separate petri dish with nutrient agar. Once the agar was set, a hollow was cut in the agar in the center of each petri dish, using a cork borer. Penicillin was then added to the hollows. After incubation at 25°C for 24 hours, the petri dishes were examined. Valentina and Ishika forgot to set up controls for this experiment. ",
+      "page": 4,
+      "memo_page": 2,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "Which ‘ingredient’ would be missing from the controls? (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Penicillin ✓ (1)",
+      "memo_method_steps": [
+        "Penicillin"
+      ],
+      "memo_marking_notes": "Penicillin ✓ (1)",
+      "key_terminology_tested": [
+        "penicillin"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.1.1",
+      "question_id": "BIO-2023-MICRO-Q3.1.1",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.1.1",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.1",
+      "question_stem_text": " Read the extract below and study the graph showing the temperature of a patient suffering with malaria. The malaria parasite is caused by a unicellular organism called Plasmodium. The parasite is transferred to humans by the Anopheles mosquito. Malaria symptoms only appear after 10 days when the first fever attack occurs. The graph below shows the body temperature of a malaria patient over five days.",
+      "page": 5,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "What group of microorganisms does Plasmodium belong to? (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Protists/ protista ✓ (1)",
+      "memo_method_steps": [
+        "Protists/ protista"
+      ],
+      "memo_marking_notes": "Protists/ protista ✓ (1)",
+      "key_terminology_tested": [
+        "Plasmodium",
+        "protists"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.1.2.a",
+      "question_id": "BIO-2023-MICRO-Q3.1.2.a",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.1.2.a",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.1.2",
+      "question_stem_text": " Read the extract below and study the graph showing the temperature of a patient suffering with malaria. The malaria parasite is caused by a unicellular organism called Plasmodium. The parasite is transferred to humans by the Anopheles mosquito. Malaria symptoms only appear after 10 days when the first fever attack occurs. The graph below shows the body temperature of a malaria patient over five days. From the chart determine: ",
+      "page": 5,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Data/Graph Interpretation",
+      "question_text": "The highest temperature this patient experienced during the time period. (1)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "40,2 °C ✓ (accept 40-40,5) (1)",
+      "memo_method_steps": [
+        "40,2 °C",
+        "(accept 40-40,5) (1)"
+      ],
+      "memo_marking_notes": "40,2 °C ✓ (accept 40-40,5) (1)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.1.2.b",
+      "question_id": "BIO-2023-MICRO-Q3.1.2.b",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.1.2.b",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.1.2",
+      "question_stem_text": " Read the extract below and study the graph showing the temperature of a patient suffering with malaria. The malaria parasite is caused by a unicellular organism called Plasmodium. The parasite is transferred to humans by the Anopheles mosquito. Malaria symptoms only appear after 10 days when the first fever attack occurs. The graph below shows the body temperature of a malaria patient over five days. From the chart determine: ",
+      "page": 5,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Data/Graph Interpretation",
+      "question_text": "The number of fever attacks the patient experienced during the five days. (1)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "3 ✓ (1)",
+      "memo_method_steps": [],
+      "memo_marking_notes": "3 ✓ (1)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.1.3",
+      "question_id": "BIO-2023-MICRO-Q3.1.3",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.1.3",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.1",
+      "question_stem_text": " Read the extract below and study the graph showing the temperature of a patient suffering with malaria. The malaria parasite is caused by a unicellular organism called Plasmodium. The parasite is transferred to humans by the Anopheles mosquito. Malaria symptoms only appear after 10 days when the first fever attack occurs. The graph below shows the body temperature of a malaria patient over five days.",
+      "page": 5,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "Why does the graph above begin on Day 11? (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Malaria symptoms only appear after 10 days ✓ (1)",
+      "memo_method_steps": [
+        "Malaria symptoms only appear after 10 days"
+      ],
+      "memo_marking_notes": "Malaria symptoms only appear after 10 days ✓ (1)",
+      "key_terminology_tested": [
+        "malaria"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.1.4",
+      "question_id": "BIO-2023-MICRO-Q3.1.4",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.1.4",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.1",
+      "question_stem_text": " Read the extract below and study the graph showing the temperature of a patient suffering with malaria. The malaria parasite is caused by a unicellular organism called Plasmodium. The parasite is transferred to humans by the Anopheles mosquito. Malaria symptoms only appear after 10 days when the first fever attack occurs. The graph below shows the body temperature of a malaria patient over five days.",
+      "page": 6,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Data/Graph Interpretation",
+      "question_text": "Predict on which day the patient could expect the start of the next fever attack. (1)",
+      "has_diagram": true,
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "memo_answer": "Day 17 ✓ (1)",
+      "memo_method_steps": [
+        "Day 17"
+      ],
+      "memo_marking_notes": "Day 17 ✓ (1)",
+      "key_terminology_tested": [],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.1.5",
+      "question_id": "BIO-2023-MICRO-Q3.1.5",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.1.5",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.1",
+      "question_stem_text": " Read the extract below and study the graph showing the temperature of a patient suffering with malaria. The malaria parasite is caused by a unicellular organism called Plasmodium. The parasite is transferred to humans by the Anopheles mosquito. Malaria symptoms only appear after 10 days when the first fever attack occurs. The graph below shows the body temperature of a malaria patient over five days.",
+      "page": 6,
+      "memo_page": 3,
+      "marks": 2,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "Plasmodium destroys the red blood cells. What effect could this have on the body? (2)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Less oxygen will be delivered to the cells✓ and therefore a person will have less energy✓ / lowered respiration due to less oxygen (1 mark if they just say “fatigue”) (2)",
+      "memo_method_steps": [
+        "Less oxygen will be delivered to the cells",
+        "and therefore a person will have less energy",
+        "/ lowered respiration due to less oxygen (1 mark if they just say “fatigue”) (2)"
+      ],
+      "memo_marking_notes": "Less oxygen will be delivered to the cells✓ and therefore a person will have less energy✓ / lowered respiration due to less oxygen (1 mark if they just say “fatigue”) (2)",
+      "key_terminology_tested": [
+        "Plasmodium"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.1.6",
+      "question_id": "BIO-2023-MICRO-Q3.1.6",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.1.6",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.1",
+      "question_stem_text": " Read the extract below and study the graph showing the temperature of a patient suffering with malaria. The malaria parasite is caused by a unicellular organism called Plasmodium. The parasite is transferred to humans by the Anopheles mosquito. Malaria symptoms only appear after 10 days when the first fever attack occurs. The graph below shows the body temperature of a malaria patient over five days.",
+      "page": 6,
+      "memo_page": 3,
+      "marks": 2,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "Suggest TWO ways of preventing malaria. (2)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Take preventative medication before entering a malaria area (prescribed malaria medication) Wear long clothing in malaria areas Use repellent sprays and lotions Sleep under a mosquito net Spray mosquito nets with repellent sprays Close all windows and doors from dusk Stay indoors from dusk until dawn Any reasonable, logical answer ✓✓ (any 2)",
+      "memo_method_steps": [
+        "Take preventative medication before entering a malaria area (prescribed malaria medication) Wear long clothing in malaria areas Use repellent sprays and lotions Sleep under a mosquito net Spray mosquito nets with repellent sprays Close all windows and doors from dusk Stay indoors from dusk until dawn Any reasonable, logical answer",
+        "(any 2)"
+      ],
+      "memo_marking_notes": "Take preventative medication before entering a malaria area (prescribed malaria medication) Wear long clothing in malaria areas Use repellent sprays and lotions Sleep under a mosquito net Spray mosquito nets with repellent sprays Close all windows and doors from dusk Stay indoors from dusk until dawn Any reasonable, logical answer ✓✓ (any 2)",
+      "key_terminology_tested": [
+        "malaria"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.2.1",
+      "question_id": "BIO-2023-MICRO-Q3.2.1",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.2.1",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.2",
+      "question_stem_text": " Acute HIV infection is the earliest stage of HIV infection, and it generally develops withing 2 to 4 weeks after infection with HIV. During this time, some people have flu-like symptoms, such as fever, headache, and rash. In the acute stage of infection, HIV multiplies rapidly and spreads throughout the body.",
+      "page": 7,
+      "memo_page": 3,
+      "marks": 1,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "Explain the function of CD4 cells. (1)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "They start their immune response. (1)",
+      "memo_method_steps": [
+        "They start their immune response. (1)"
+      ],
+      "memo_marking_notes": "They start their immune response. (1)",
+      "key_terminology_tested": [
+        "CD4"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.2.2",
+      "question_id": "BIO-2023-MICRO-Q3.2.2",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.2.2",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.2",
+      "question_stem_text": " Acute HIV infection is the earliest stage of HIV infection, and it generally develops withing 2 to 4 weeks after infection with HIV. During this time, some people have flu-like symptoms, such as fever, headache, and rash. In the acute stage of infection, HIV multiplies rapidly and spreads throughout the body.",
+      "page": 7,
+      "memo_page": 3,
+      "marks": 2,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "When will a person be classified with AIDS? (2)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "A person will be classified as having AIDs when the CD4 cells have been reduced ✓ and can no longer fight the HIV virus and the virus keeps multiplying ✓ When the CD4 count is lower than 200 cells/ mL of blood Opportunistic diseases have taken a toll on the body (any 2)",
+      "memo_method_steps": [
+        "A person will be classified as having AIDs when the CD4 cells have been reduced",
+        "and can no longer fight the HIV virus and the virus keeps multiplying",
+        "When the CD4 count is lower than 200 cells/ mL of blood Opportunistic diseases have taken a toll on the body (any 2)"
+      ],
+      "memo_marking_notes": "A person will be classified as having AIDs when the CD4 cells have been reduced ✓ and can no longer fight the HIV virus and the virus keeps multiplying ✓ When the CD4 count is lower than 200 cells/ mL of blood Opportunistic diseases have taken a toll on the body (any 2)",
+      "key_terminology_tested": [
+        "virus",
+        "HIV",
+        "AIDS",
+        "CD4"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.2.3",
+      "question_id": "BIO-2023-MICRO-Q3.2.3",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.2.3",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.2",
+      "question_stem_text": " Acute HIV infection is the earliest stage of HIV infection, and it generally develops withing 2 to 4 weeks after infection with HIV. During this time, some people have flu-like symptoms, such as fever, headache, and rash. In the acute stage of infection, HIV multiplies rapidly and spreads throughout the body.",
+      "page": 7,
+      "memo_page": 4,
+      "marks": 3,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "Explain why the HIV virus is so dangerous and causes so many deaths. (3)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Because the HI virus attacks CD4 cells it stops the body from being able to start an immune response. ✓ Not being able to start an immune response the body becomes susceptible to any other type of infection ✓ and thus it won’t be able to fight of the infection and thus the person will die. ✓ (3)",
+      "memo_method_steps": [
+        "Because the HI virus attacks CD4 cells it stops the body from being able to start an immune response.",
+        "Not being able to start an immune response the body becomes susceptible to any other type of infection",
+        "and thus it won’t be able to fight of the infection and thus the person will die."
+      ],
+      "memo_marking_notes": "Because the HI virus attacks CD4 cells it stops the body from being able to start an immune response. ✓ Not being able to start an immune response the body becomes susceptible to any other type of infection ✓ and thus it won’t be able to fight of the infection and thus the person will die. ✓ (3)",
+      "key_terminology_tested": [
+        "virus",
+        "HIV",
+        "CD4"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    },
+    {
+      "source_id": "biology_2023_internal_class_test_october_q3.2.4",
+      "question_id": "BIO-2023-MICRO-Q3.2.4",
+      "subject": "biology",
+      "grade": "11",
+      "paper_key": "BIO-2023-MICRO",
+      "source_document": "data/organized/biology/Class test- microorganisms.pdf",
+      "memo_document": "data/organized/biology/Class test- microorganisms MG.pdf",
+      "source_document_sha256": "f97d3ee8b236620b022817e80050ae1bdc0d80c741e991f74c7d19b2f885f918",
+      "memo_document_sha256": "eeb9f50732ae63b7cbdb3a97a48a03a4e8c3693371db6eadc70fb66b4cc49517",
+      "orc_source_id": "SOURCE-ORC-BIO-2023-018",
+      "orc_memo_source_id": "SOURCE-ORC-BIO-2023-017",
+      "question_number": "3.2.4",
+      "top_level_question_number": "3",
+      "parent_question_id": "BIO-2023-MICRO-STEM-3.2",
+      "question_stem_text": " Acute HIV infection is the earliest stage of HIV infection, and it generally develops withing 2 to 4 weeks after infection with HIV. During this time, some people have flu-like symptoms, such as fever, headache, and rash. In the acute stage of infection, HIV multiplies rapidly and spreads throughout the body.",
+      "page": 7,
+      "memo_page": 4,
+      "marks": 2,
+      "topic_guess": "guess: Microorganisms",
+      "question_type": "Short Answer",
+      "question_text": "Why is it possible to easily cultivate and grow bacteria, but it is very difficult to cultivate a virus? (2)",
+      "has_diagram": false,
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "memo_answer": "Bacteria can grow easily in favourable conditions ✓ whereas a virus needs a living host to grow in ✓ and they destroy the host so thus the virus will not reproduce more if there isn’t more host tissue ✓ (any 2)",
+      "memo_method_steps": [
+        "Bacteria can grow easily in favourable conditions",
+        "whereas a virus needs a living host to grow in",
+        "and they destroy the host so thus the virus will not reproduce more if there isn’t more host tissue",
+        "(any 2)"
+      ],
+      "memo_marking_notes": "Bacteria can grow easily in favourable conditions ✓ whereas a virus needs a living host to grow in ✓ and they destroy the host so thus the virus will not reproduce more if there isn’t more host tissue ✓ (any 2)",
+      "key_terminology_tested": [
+        "bacteria",
+        "virus"
+      ],
+      "memo_alignment": {
+        "paper_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "memo_header": {
+          "date": "2 OCTOBER 2023",
+          "marks": 40,
+          "examiner": "MRS S. STEGMANN"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "paper_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "memo_question_totals": [
+          10,
+          13,
+          17
+        ],
+        "question_totals_match": true,
+        "memo_total_basis": "printed question totals",
+        "verified_by": "printed DATE/MARKS/EXAMINER and per-question totals; numbered content checked during authoring"
+      },
+      "extraction": {
+        "method": "pypdf text layer + question/memo reading; authored evidence table",
+        "generated_at": "2026-09-12T03:26:14+00:00",
+        "evidence_module": "biology_pass1_evidence_2023_microorganisms"
+      }
+    }
+  ]
+}

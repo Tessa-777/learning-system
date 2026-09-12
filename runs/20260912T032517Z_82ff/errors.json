@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": "2026-09-12T03:25:21.395483Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "error_type": "source_contradiction",
+    "message": "Paper cover and body allocate Q1=70, Q2=30, Q3=30, Q4=40: 160, but print total 170. The memo labels Q3 as 40 although its subsections are 16+9+5=30. Excluded from Pass 1 batch and Pass 2; no ten-mark balancing record was invented.",
+    "affected_artifact": "data/organized/biology/Year-end exam P1.pdf",
+    "retry_attempts": 0,
+    "resolution": "Obtain corrected paper and memo totals or missing question material from the examiner, then extract the complete pair.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-12T03:25:21.395502Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "error_type": "source_contradiction",
+    "message": "2022 Q3.3.a attributes fluctuations to contracting/relaxing arterial walls; 2023 Q3.1.7.b instead attributes them to cardiac systole/diastole. 2022 Q3.2 says the aorta receives blood directly from the left atrium. Preserve the wording and withhold this mechanism from synthesis pending examiner review.",
+    "affected_artifact": "biology_2022_internal_class_test_may_q3.2",
+    "retry_attempts": 0,
+    "resolution": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-12T03:25:21.395507Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "error_type": "source_contradiction",
+    "message": "July Q3.1.1 spells the bone radium; the word box in Q1.5 uses Radius. Do not silently substitute a correction.",
+    "affected_artifact": "biology_2023_internal_paper1_july_q3.1.1",
+    "retry_attempts": 0,
+    "resolution": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-12T03:25:21.395513Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "error_type": "source_contradiction",
+    "message": "July Q1.4.2 includes Large intestine/colon\u2013faeces; Q2.1.1 defines excretion in terms of metabolic wastes. This boundary is not resolved by the batch.",
+    "affected_artifact": "biology_2023_internal_paper1_july_q1.4.2",
+    "retry_attempts": 0,
+    "resolution": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-12T03:25:21.395518Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "error_type": "source_contradiction",
+    "message": "November Q1.5.6 asks for volume in one hour but the memo prints 15 000 cm3/minute and no unit no mark. Retained verbatim, excluded from synthesis.",
+    "affected_artifact": "biology_2023_internal_paper1_november_q1.5.6",
+    "retry_attempts": 0,
+    "resolution": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-12T03:25:21.395523Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "error_type": "source_contradiction",
+    "message": "November Q4.3.1 asks about lady bugs but its memo answer says 20 snails caught in the first sample. The source figure also remains unverified.",
+    "affected_artifact": "biology_2023_internal_paper1_november_q4.3.1",
+    "retry_attempts": 0,
+    "resolution": "Verify the original marking guidance with the examiner; do not generalise or silently correct the local rule.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-12T03:25:21.395545Z",
+    "phase": "4-11",
+    "subject": "biology",
+    "error_type": "saturation_not_reached",
+    "message": "New family in final third; five papers are below recommended 8\u201315; missing strata and large unassigned/visual portion.",
+    "affected_artifact": "knowledge/biology/saturation_report.json",
+    "retry_attempts": 0,
+    "resolution": "Resolve gaps and enlarge the evidence batch.",
+    "status": "unresolved"
+  }
+]

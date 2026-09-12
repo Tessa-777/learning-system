@@ -26,3 +26,6 @@ build/
 dist/
 out/
 target/
+
+# Local extraction scratch files
+.cache/

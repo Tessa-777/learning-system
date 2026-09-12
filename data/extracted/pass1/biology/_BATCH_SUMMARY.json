@@ -1,0 +1,33 @@
+{
+  "subject": "biology",
+  "papers_in_batch": 5,
+  "question_records": 275,
+  "problems": [],
+  "papers": [
+    {
+      "paper_key": "BIO-2022-CYCLE1",
+      "records": 26,
+      "marks": 50
+    },
+    {
+      "paper_key": "BIO-2022-CIRC",
+      "records": 29,
+      "marks": 50
+    },
+    {
+      "paper_key": "BIO-2023-JUL",
+      "records": 78,
+      "marks": 150
+    },
+    {
+      "paper_key": "BIO-2023-MICRO",
+      "records": 29,
+      "marks": 40
+    },
+    {
+      "paper_key": "BIO-2023-NOV",
+      "records": 113,
+      "marks": 200
+    }
+  ]
+}

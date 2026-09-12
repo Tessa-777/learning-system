@@ -1,0 +1,108 @@
+"""Tier 2 models and Tier 3 possible failures/diagnostics, not student diagnoses.
+
+Each entry scopes every claim to its family's evidence. The builder appends
+explicit source IDs to every substantive model field. No single-exemplar
+claim is promoted. Stages not listed here are not established by this batch.
+"""
+MODELS = {
+1: dict(
+ knowledge='Recognise the correspondence between the biological descriptions and the microorganism terms or groups in these items; the matching options are part of the evidence, not an imported vocabulary list.',
+ prerequisites='Distinguish the description being matched from the candidate names offered in a matching question.',
+ reasoning='Select the biological name corresponding to the description rather than a merely associated organism or process.',
+ procedure='Read the description; compare the candidate terms where supplied; give the requested term or matching letter.',
+ evidence='A correct selection tied to the description is stronger evidence than an unexplained association. Explaining the choice is a Tier 3 diagnostic probe, not an extra exam mark.',
+ marking='The matching rows award one tick for the keyed letter. The two short-answer items credit the group/term; there is no memo requirement for a causal explanation.',
+ misconception='Treating any term associated with a microorganism as interchangeable with the group or process actually described.',
+ breakdowns=[('interpretation','Matches the wrong column or supplies a general association instead of addressing the description.','Can discuss the term but does not connect it to the specified clue.'),('prerequisite','Does not distinguish the biological meanings needed for the match.','Uses several candidate terms as synonyms even after identifying the clue.')],
+ diagnostics=[('Which words in this description constrain your choice?','Can isolate the relevant biological clue without being supplied the name.'),('How would you distinguish your choice from another option you considered?','Explains a relevant difference rather than merely repeating the selected letter.')]),
+2: dict(
+ knowledge='An independent-variable answer identifies what is varied or compared in the described investigation.',
+ prerequisites='Locate the comparison groups or conditions in the investigation description.',
+ reasoning='Separate the compared condition from the resulting measurement.',
+ procedure='Identify what differs across the specified groups; name that factor in the context of this investigation.',
+ evidence='Names the factor compared and can point to where its differing values or categories are supplied.',
+ marking='Each memo credits a single factor: the contents, bacterial type or age for its own investigation. No broad list of unrelated variables is requested.',
+ misconception='The quantity recorded in the results must be the independent variable.',
+ breakdowns=[('interpretation','Answers for a different investigation or subpart.','Identifies a real factor but from the wrong comparison.'),('concept','Confuses the compared factor with its response.','Selects what is measured instead of what differs across the groups.')],
+ diagnostics=[('What differs between the groups or conditions being compared here?','Locates the relevant comparison in the actual setup.'),('How did you decide which part of the investigation your chosen variable describes?','Distinguishes comparison from measurement without a supplied variable name.')]),
+3: dict(
+ knowledge='The dependent variable is the recorded response in the investigation.',
+ prerequisites='Read what the investigators measured rather than only the treatment description.',
+ reasoning='Separate the resulting observation from the condition used to create the comparison.',
+ procedure='Find the measurement in the method/results; name it as the response for this investigation.',
+ evidence='Identifies the measured response and explains which observations would record it.',
+ marking='A single response quantity is credited in each memo; the evidence is bacterial growth/diameter in one investigation and heart rate in the other.',
+ misconception='The treatment name is also the dependent-variable answer.',
+ breakdowns=[('interpretation','Does not locate the recorded observation.','Talks about the investigation topic without identifying a measurement.'),('concept','Reverses treatment and response roles.','Names the condition applied rather than the observation obtained.')],
+ diagnostics=[('What observation is recorded for each condition in this investigation?','Identifies the response measurement from the setup.'),('Where would your chosen variable appear in the results, and why?','Connects the proposed variable to observations rather than treatment labels.')]),
+4: dict(
+ knowledge='A fair comparison retains relevant shared conditions or participant characteristics while the investigated comparison is made.',
+ prerequisites='Recognise the groups and the factor or outcome under investigation.',
+ reasoning='Choose relevant conditions that could otherwise differ between groups; do not erase the intended comparison.',
+ procedure='Read the setup; identify the requested number of relevant fixed factors; state what must stay the same.',
+ evidence='Names specific shared conditions suited to the actual experiment, not simply the instruction to keep things fair.',
+ marking='The memos list acceptable fixed factors and credit the requested number. Participant characteristics, group sizes and experimental conditions are credited in their respective contexts; these lists must not be transferred wholesale between experiments.',
+ misconception='Any variable mentioned in an experiment should be fixed, including the intended comparison.',
+ breakdowns=[('concept','Confuses a controlled variable with the factor deliberately compared.','Proposes removing the intended difference between groups.'),('execution','Gives vague or too few fixed factors despite recognising the comparison.','Says keep everything the same without naming the requested relevant conditions.')],
+ diagnostics=[('Which differences between these groups could make the comparison difficult to interpret?','Selects relevant potential confounders from the stated setup.'),('For one factor you chose, explain how you would keep it consistent in both groups.','Operationalises a specific fixed condition instead of repeating a label.')]),
+5: dict(
+ knowledge='These items connect increased water loss with more concentrated urine; the paired volume/concentration table also tests changed water intake.',
+ prerequisites='Distinguish how much urine is produced from how concentrated it is.',
+ reasoning='Relate a change in water intake or loss to the predicted urine outcome rather than equating concentration with volume.',
+ procedure='Identify the water-balance change; state the urine outcome asked for; supply a causal explanation only where requested.',
+ evidence='Keeps volume and concentration distinct and can explain the relationship in the changed condition.',
+ marking='Credit depends on the indicated urine outcome, not merely naming excretion. Local paired-entry and partial-credit rules are not generalised; see unresolved_items.',
+ misconception='More concentrated urine necessarily means a greater volume of urine.',
+ breakdowns=[('concept','Confuses volume with concentration.','Treats the two quantities as the same change.'),('reasoning','Recognises the quantities but fails to connect the stated water-balance change to them.','Uses an unchanged memorised outcome regardless of the condition.')],
+ diagnostics=[('What is changing in the condition described, and what are you being asked to predict?','Separates the condition from each requested urine property.'),('Explain the connection between the change you identified and your predicted outcome.','Offers a causal account rather than two disconnected labels.')]),
+6: dict(
+ knowledge='The two memos link osteoarthritis to loss or wear of joint cartilage and contact between the bones.',
+ prerequisites='Distinguish naming a condition from describing the joint changes it involves.',
+ reasoning='Connect the tissue change to its mechanical consequence at the joint.',
+ procedure='Describe the cartilage change and explain what follows at the joint, retaining the detail requested by the question.',
+ evidence='Explains the relationship between the damage and its consequence rather than giving the disease name alone.',
+ marking='Both memos credit cartilage deterioration and the bones rubbing/grinding against one another. The local mark allocations differ (two versus three), so no universal fixed mark split is asserted.',
+ misconception='Inflammation as a label alone explains the structural changes of osteoarthritis.',
+ breakdowns=[('prerequisite','Cannot identify the relevant tissue change.','Names a disease or unrelated tissue without describing cartilage deterioration.'),('explanation','Names the change but omits its consequence.','Lists a damaged tissue without connecting it to contact between the bones.')],
+ diagnostics=[('Describe what has changed in the joint in this condition.','Identifies the structural change without being supplied the tissue name.'),('How does the change you described affect what happens when the joint moves?','Links the change to a mechanical consequence rather than restating a label.')]),
+7: dict(
+ knowledge='The memos distinguish modifiable lifestyle factors from factors such as age or inherited predisposition, in their own circulatory-disease contexts.',
+ prerequisites='Read which controllability category and how many factors the question asks for.',
+ reasoning='Classify a relevant risk by whether the person can change it rather than by how serious it sounds.',
+ procedure='Identify the requested category; provide the requested number of relevant risk factors in that category.',
+ evidence='Supplies category-appropriate examples and can justify their placement without confusing a symptom with a risk factor.',
+ marking='The hypertension memo explicitly separates controlled and uncontrolled examples; the later paper asks for those categories in separate items. Marks follow category-appropriate examples, not a general disease description.',
+ misconception='Any cause or symptom of circulatory illness answers either risk-factor category.',
+ breakdowns=[('interpretation','Ignores the category requested.','Lists risks but all examples belong to the other requested category.'),('concept','Cannot distinguish modifiability.','Places age or inherited factors in the same controllability category as behaviour.')],
+ diagnostics=[('What distinction is the question asking you to make between risk factors?','Recognises the required category rather than just the disease topic.'),('Why does the example you selected belong in that category?','Justifies classification and distinguishes it from a symptom.')]),
+8: dict(
+ knowledge='These memos connect oxygen delivery with respiration or energy availability in the exercise and red-cell-destruction contexts.',
+ prerequisites='Identify what changed in the scenario rather than merely naming an illness or activity.',
+ reasoning='Link the change in supply or demand to its cellular consequence.',
+ procedure='Describe the relevant oxygen change and connect it to respiration/energy in the stated scenario.',
+ evidence='Gives a causal chain rather than only a symptom or the statement that the heart rate changes.',
+ marking='Both memos credit oxygen and respiration/energy links. Local partial-credit rules are retained only in Pass 1 and unresolved_items.',
+ misconception='Naming fatigue or increased activity alone is a complete causal explanation.',
+ breakdowns=[('concept','Does not identify the oxygen relationship.','Repeats the scenario without identifying supply or demand.'),('explanation','Identifies oxygen but omits its cellular consequence.','Names oxygen without explaining the respiration/energy link.')],
+ diagnostics=[('What has changed in this situation, and how could that affect the cells?','Identifies the relevant physiological change without being given the answer.'),('What links the change you described to the effect you expect?','Articulates intermediate reasoning rather than repeating the outcome.')]),
+9: dict(
+ knowledge='A conclusion expresses the comparison or trend supported by the supplied biological data.',
+ prerequisites='Identify the compared groups or the ordered variable in the results.',
+ reasoning='Connect the relevant groups/values into a supported relationship rather than a single isolated observation.',
+ procedure='Read the comparison requested; describe the direction or group difference supported by the data.',
+ evidence='States the relationship and can locate its support in the provided data without claiming an untested cause.',
+ marking='The memos credit the stated group comparison or direction of association; exact expected wording and mark totals remain item-specific.',
+ misconception='A conclusion can be an unsupported explanation of why the result occurred, without stating the observed comparison.',
+ breakdowns=[('interpretation','Extracts one number without the requested comparison.','States a measurement but not the relationship.'),('reasoning','Overgeneralises or reverses the observed relationship.','Claims an unsupported cause or direction despite locating the relevant groups.')],
+ diagnostics=[('Which parts of the results would you compare to answer this question?','Selects the relevant groups or values.'),('How do those results support the conclusion you want to state?','Explains the comparison without adding a cause not tested here.')]),
+}
+
+DEFERRED = [
+ ('single_exemplar','Antibiotic resistance mechanism',[('BIO-2023-MICRO','2.5')]),
+ ('single_exemplar','Formulate an antibiotic hypothesis',[('BIO-2023-MICRO','2.2')]),
+ ('single_exemplar','Mark-recapture calculation',[('BIO-2023-NOV','4.3.1')]),
+ ('coverage_gap','Population terminology repeats within one sitting, not across admitted papers',
+  [('BIO-2023-NOV','1.6.1'),('BIO-2023-NOV','4.1.5.c.i')]),
+ ('fidelity','Biological drawing rubric is readable but expected diagrams remain visually unverified',
+  [('BIO-2022-CYCLE1','2.1.3'),('BIO-2022-CIRC','3.3.b'),('BIO-2023-JUL','4.1.7'),('BIO-2023-NOV','2.1.4')]),
+]

@@ -1,0 +1,43 @@
+{
+  "papers_in_sample": 5,
+  "question_families_identified": 9,
+  "families_first_observed_in_final_third": 1,
+  "strata_left_unsampled": [
+    "2022 year-end paper (marks conflict)",
+    "Paper 2 (no local memorandum)",
+    "2024 class tests (no local memoranda)",
+    "Other locally unpaired class/cycle tests",
+    "External-board and preliminary sittings not represented; school applicability unverified"
+  ],
+  "families_supported_by_single_exemplar": 0,
+  "acquisition_order_used": [
+    "BIO-2022-CYCLE1",
+    "BIO-2022-CIRC",
+    "BIO-2023-JUL",
+    "BIO-2023-MICRO",
+    "BIO-2023-NOV"
+  ],
+  "acquisition_order_basis": "Order added to the rebuilt question-level Pass 1 batch; not inferred historical download order.",
+  "thirds_split": [
+    [
+      "BIO-2022-CYCLE1",
+      "BIO-2022-CIRC"
+    ],
+    [
+      "BIO-2023-JUL"
+    ],
+    [
+      "BIO-2023-MICRO",
+      "BIO-2023-NOV"
+    ]
+  ],
+  "families_new_in_final_third": [
+    "QUESTION-FAMILY-BIO-008"
+  ],
+  "additional_diagnostics": {
+    "saturated": false,
+    "reason_not_saturated": "New family in final third; five papers are below recommended 8–15; missing strata and large unassigned/visual portion.",
+    "deferred_single_exemplar_candidates": 4,
+    "records_unassigned": 229
+  }
+}
