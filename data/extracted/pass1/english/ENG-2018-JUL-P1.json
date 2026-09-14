@@ -1,0 +1,2651 @@
+{
+  "paper": {
+    "paper_key": "ENG-2018-JUL-P1",
+    "paper_path": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+    "memo_path": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+    "year": 2018,
+    "exam_date": "July 2018",
+    "exam_period": "july",
+    "paper_number": "P1",
+    "paper_type": "paper1",
+    "exam_board": "internal",
+    "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+    "total_marks": 90,
+    "examiner": "Mrs Oosthuysen, Mrs Nichas",
+    "moderator": "Mrs Nichas",
+    "duration_stated": {
+      "paper": "2 1/2 hours",
+      "memo": "2 1/2 hours"
+    },
+    "fidelity_rung": "A",
+    "section_totals": {
+      "1": 25,
+      "2": 10,
+      "3/4": 20,
+      "5": 25,
+      "6": 10
+    },
+    "section_key_map": {
+      "1": "1",
+      "2": "2",
+      "3": "3/4",
+      "4": "3/4",
+      "5": "5",
+      "6": "6"
+    },
+    "section_totals_basis": "printed 'Possible Marks' row (25 10 20 25 10 90) with printed section headers QUESTION 3 10 MARKS and QUESTION 4 10 MARKS combining to the table's 3/4 column",
+    "section_anchors": [
+      "QUESTION 1 25 MARKS",
+      "QUESTION 2 10 MARKS",
+      "QUESTION 3 10 MARKS",
+      "QUESTION 4 10 MARKS",
+      "QUESTION 5 25 MARKS",
+      "QUESTION 6 10 MARKS"
+    ],
+    "memo_section_anchors": [
+      "QUESTION 1 25 MARKS",
+      "QUESTION 2 10 MARKS",
+      "QUESTION 3 10 MARKS",
+      "QUESTION 4 10 MARKS",
+      "QUESTION 5 25 MARKS",
+      "QUESTION 6 10 MARKS"
+    ],
+    "printed_numbering": {
+      "6": {
+        "printed_prefix": "5",
+        "note": "The paper heads the textual-editing section 'QUESTION 6 10 MARKS' but numbers its items 5.1-5.5; the memo repeats the same mis-numbering."
+      }
+    },
+    "item_anchor_overrides": {
+      "2.1": {
+        "paper": "QUESTION 2 10 MARKS",
+        "note": "the summary is a section-level task; its 10 marks are printed in the section heading"
+      }
+    },
+    "mark_discrepancies": [
+      {
+        "section": "5",
+        "printed_section_total": 25,
+        "sum_of_printed_item_marks": 24,
+        "detail": "Question 5 is headed 'QUESTION 5 25 MARKS' but its printed items allocate 5.1(2) + 5.2(3) + 5.3.1(2) + 5.3.2(2) + 5.4(2) + 5.5(3) + 5.6(2) + 5.7(5) + 5.8(3) = 24. The memorandum restates the same items with the same brackets, so the missing mark belongs to the source; it is declared rather than added to an item."
+      }
+    ],
+    "source_hashes": {
+      "paper_path": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_path": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6"
+    },
+    "notes": "Paper 1 language paper. TEXT 1 is 'South Africa's #MeToo gap: No accountability for high-profile men' (Shaazia Ebrahim, 05 Dec 2017); TEXT 2 is 'Global Migration'; the seen poem is e.e. cummings' 'i thank You God for most this amazing'; the unseen poems are Dennis Brutus' 'Nightsong: City' and W.B. Yeats' 'The Second Coming'; TEXTS 3-4 are AIDS advertisements (images); TEXT 5 is 'The Greatest Soccer players of all time' (Jon O'Brien, 2017). The comprehension, summary and textual-editing items are language skill items and must not be merged with the Paper 2 set-work literature families."
+  },
+  "memo_alignment_check": {
+    "pairing_basis": "printed_header",
+    "pairing_note": null,
+    "paper_header": {
+      "date": "July 2018",
+      "marks": 90,
+      "examiner": "Mrs Oosthuysen, Mrs Nichas"
+    },
+    "memo_header": {
+      "date": "July 2018",
+      "marks": 90,
+      "examiner": "Mrs Oosthuysen, Mrs Nichas"
+    },
+    "date_match": true,
+    "marks_match": true,
+    "examiner_match": true,
+    "cover_table": {
+      "printed_numbers": [
+        25,
+        10,
+        20,
+        25,
+        10
+      ],
+      "total": 90,
+      "basis": "printed 'Possible Marks' row"
+    },
+    "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+  },
+  "item_verification": {
+    "items_verified_against_paper": 34,
+    "items_verified_against_memo": 33,
+    "restated_without_model_answer": []
+  },
+  "records_extracted": 34,
+  "marks_sum_check": {
+    "sum_of_transcribed_items": 89,
+    "printed_total": 90,
+    "source_shortfall": 1,
+    "match": false,
+    "declared_source_discrepancies": [
+      {
+        "section": "5",
+        "printed_section_total": 25,
+        "sum_of_printed_item_marks": 24,
+        "detail": "Question 5 is headed 'QUESTION 5 25 MARKS' but its printed items allocate 5.1(2) + 5.2(3) + 5.3.1(2) + 5.3.2(2) + 5.4(2) + 5.5(3) + 5.6(2) + 5.7(5) + 5.8(3) = 24. The memorandum restates the same items with the same brackets, so the missing mark belongs to the source; it is declared rather than added to an item."
+      }
+    ]
+  },
+  "question_records": [
+    {
+      "source_id": "english_2018_internal_paper1_july_q1.1",
+      "question_id": "ENG-2018-JUL-P1-Q1.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Comprehension",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Short Answer",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.1",
+      "printed_question_number": "1.1",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 1,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Short Answer",
+      "question_text": "In your own words, define what the #MeToo movement entails.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "A movement that seeks to campaign against violence against women and children, sexual misconduct.",
+      "memo_method_steps": [
+        "movement against violence/sexual misconduct"
+      ],
+      "memo_marking_notes": "One mark; 'in your own words' forbids lifting the text's phrasing.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q1.2",
+      "question_id": "ENG-2018-JUL-P1-Q1.2",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Comprehension",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.2",
+      "printed_question_number": "1.2",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Explain why it would be appropriate for the writer to refer to the movement as sending 'shockwaves' across the US. In your answer, consider the connotations of the word 'shockwaves'.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Earthquake metaphor — to explain the impact of the abuse, the number of people involved, the status of the people involved (high profile) and how far-reaching it is. Shocked reaction to the events. The repercussions of the movement are felt across the country.",
+      "memo_method_steps": [
+        "earthquake metaphor / connotation of shockwaves",
+        "impact: scale, high-profile accused, far-reaching repercussions"
+      ],
+      "memo_marking_notes": "The memo's own note adds that depth and layering of ideas are essential.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q1.3",
+      "question_id": "ENG-2018-JUL-P1-Q1.3",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Comprehension",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.3",
+      "printed_question_number": "1.3",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Explain the meaning of the idiomatic expression, 'call men in power out' as it has been used in paragraph 3.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "To name and shame men of status in society, to make them accountable for their actions.",
+      "memo_method_steps": [
+        "name and shame / hold accountable",
+        "men of status or power"
+      ],
+      "memo_marking_notes": "Idiom must be glossed in context.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q1.4",
+      "question_id": "ENG-2018-JUL-P1-Q1.4",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Comprehension",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Short Answer",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.4",
+      "printed_question_number": "1.4",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Short Answer",
+      "question_text": "Identify and correct the grammar error in the sentence, 'South Africa, however, does not seem to know how to call men in power out.'",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Dangling/misplaced preposition — to know how to call out men in power.",
+      "memo_method_steps": [
+        "identification of the misplaced/dangling preposition",
+        "corrected sentence"
+      ],
+      "memo_marking_notes": "Both identification and correction carry the two marks.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q1.5",
+      "question_id": "ENG-2018-JUL-P1-Q1.5",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Comprehension",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.5",
+      "printed_question_number": "1.5",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "How reliable is the writer's argument in paragraph 4? Your answer should consider diction and tone.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "His argument is reliable as he quotes stats provided by SA Medical Research Council to support his answer: '21% over the age of 18 reported that they'd experienced violence at the hands of a partner.' Tone is formal, accusatory, harsh — 'unreported', 'femicide rate', '5 times higher', 'poorest households'. So emotive language might lead to an opinionated argument which may lower the reliability as the writer wishes to persuade the reader of his point of view.",
+      "memo_method_steps": [
+        "evidence of reliability: cited statistics / source",
+        "diction and tone named and illustrated",
+        "judgement: emotive language can reduce reliability"
+      ],
+      "memo_marking_notes": "The memo's note: 'Depth and complexity of answer is essential here. Layering of ideas and proof.'",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q1.6",
+      "question_id": "ENG-2018-JUL-P1-Q1.6",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Comprehension",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.6",
+      "printed_question_number": "1.6",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Explain the effectiveness of the rhetorical question in paragraph 6?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Raise awareness for violence and take action against abuse. Do something about the violence.",
+      "memo_method_steps": [
+        "effect: compels awareness / action in the reader"
+      ],
+      "memo_marking_notes": "Two marks for the effect on the reader.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q1.7.1",
+      "question_id": "ENG-2018-JUL-P1-Q1.7.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Comprehension",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.7.1",
+      "printed_question_number": "1.7.1",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": "Refer to paragraph 7: 'We can bang on about #16DaysofActivism all we like but if we can't address the trashy behaviour of our leaders then these campaigns are just window dressing.'",
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Identify the register used in the sentence above. How does the use of register affect the message of the text?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Informal, colloquial register. Draws the reader into the text, makes them feel part of the discussion. It highlights the dirty, repulsive nature of the sexual acts. Writer is being harsh and blunt.",
+      "memo_method_steps": [
+        "register identified (informal/colloquial)",
+        "effect on the reader (draws them in / makes them part of the discussion)",
+        "effect on the message (blunt, harsh, highlights the repulsive nature)"
+      ],
+      "memo_marking_notes": "For 'call men in power out' the memo expects a colloquial register label plus effect.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q1.7.2",
+      "question_id": "ENG-2018-JUL-P1-Q1.7.2",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Comprehension",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.7.2",
+      "printed_question_number": "1.7.2",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": "Refer to paragraph 7: 'We can bang on about #16DaysofActivism all we like but if we can't address the trashy behaviour of our leaders then these campaigns are just window dressing.'",
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Provide a dictionary definition for #16DaysofActivism. Your entry needs to include a part of speech, definition and etymology (word origin).",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "#16DaysofActivism n. 16 days, or a period of time in which people speak out against abuse and actively try to combat it. From social campaigns / social media handle. Joining of words to create a handle or name of campaign.",
+      "memo_method_steps": [
+        "part of speech",
+        "definition",
+        "etymology / word origin (coined as a social-media handle)"
+      ],
+      "memo_marking_notes": "Three marks: part of speech, definition, etymology — missing any one loses its mark.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q1.8",
+      "question_id": "ENG-2018-JUL-P1-Q1.8",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Comprehension",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.8",
+      "printed_question_number": "1.8",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Evaluate how successful the hashtags and awareness campaigns could be in addressing discrimination in South Africa.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Hashtags are generally not successful / have limited success as they raise awareness but don't inspire action. 'Window-dressing' — they present ideas and dress it up but don't offer opportunities to make a difference. Hashtags trend but are forgotten often. (Some who seek revenge against an alleged attack, could attach their names to the campaign to validate their experiences.)",
+      "memo_method_steps": [
+        "evaluation: limited success — awareness without action",
+        "the 'window-dressing' judgement",
+        "counter-consideration: campaigns trend then are forgotten / may be misused"
+      ],
+      "memo_marking_notes": "Requires an evaluative stance; a description of what the campaigns do would not earn these marks. Three marks over the judgement, the reason and the counter-consideration.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q1.9",
+      "question_id": "ENG-2018-JUL-P1-Q1.9",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Comprehension",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "1.9",
+      "printed_question_number": "1.9",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 4,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Considering the title of the article and the cartoon below, how does the writer position herself in relation to her subject matter? Refer to visual and verbal details in your answer. (A cartoon showing faceless women labelled 'me too' is printed with the question.)",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "The cartoon reveals a number of women who have been abused, 'me too'. They are faceless, have no facial features and are therefore not considered to be important. They don't want to be identified as victims. The writer raises awareness for the shocking nature of SA abuse and that this campaign needs to be broadened as this campaign has not gone far enough. Even at the highest levels of government, abuse is not being adequately addressed and insufficient convictions have been made. 'No accountability', 'me too gap', 'high-profile men' — emotive words in the title accuse SA of not dealing adequately with this issue.",
+      "memo_method_steps": [
+        "reading of the cartoon (faceless women, anonymity, importance)",
+        "reading of verbal details (title's emotive diction)",
+        "positioning of the writer (raising awareness, accusing, arguing the campaign has not gone far enough)"
+      ],
+      "memo_marking_notes": "The cartoon is an image; the memo's answer supplies the reading, but the visual itself cannot be verified from the text layer.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q2.1",
+      "question_id": "ENG-2018-JUL-P1-Q2.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Summary",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "2.1",
+      "printed_question_number": "2.1",
+      "top_level_question_number": "2",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 10,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Refer to TEXT 2, Global Migration. Summarise, in not more than 90 words, how the international community could address the challenges related to global migration. Requirements: one coherent paragraph; full sentences; accurate language use in an appropriate register; an appropriate title included in the word count; an accurate word count at the end; own words (no cutting and pasting).",
+      "has_visual": false,
+      "memo_evidence": "restated_only",
+      "rubric_reference": false,
+      "memo_answer": "NOT ANSWERED IN THE MEMORANDUM — the memorandum restates the task and its instructions but prints no model summary, no point list and no rubric.",
+      "memo_method_steps": [
+        "no marking evidence printed"
+      ],
+      "memo_marking_notes": "The 10 marks are allocated by the paper; no marking evidence exists in the supplied memorandum, so no marking requirements can be derived for this record.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q3.1",
+      "question_id": "ENG-2018-JUL-P1-Q3.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Poetry (Seen)",
+      "paper_type": "Literature",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "3.1",
+      "printed_question_number": "3.1",
+      "top_level_question_number": "3",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": "i thank You God for most this amazing",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Read the poem 'i thank You God for most this amazing' by e.e. cummings. How does the use of punctuation in line 1 enhance the poet's purpose in this poem?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "The small letter use of i and capital letters for You and God indicate the poet wants to praise God and indicate the insignificance of humanity.",
+      "memo_method_steps": [
+        "identification of the lower-case 'i' and capitalised 'You'/'God'",
+        "effect: praise of God / insignificance of humanity"
+      ],
+      "memo_marking_notes": "Requires the punctuation/capitalisation detail plus its purpose.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q3.2",
+      "question_id": "ENG-2018-JUL-P1-Q3.2",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Poetry (Seen)",
+      "paper_type": "Literature",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "3.2",
+      "printed_question_number": "3.2",
+      "top_level_question_number": "3",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": "i thank You God for most this amazing",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Comment on the purpose of the parenthesis in stanzas 2 and 4.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "The poet's personal experience and his own thoughts. He feels alive and aware of the abundance of God's beauty.",
+      "memo_method_steps": [
+        "purpose of the parenthesis (personal aside / inner thought)",
+        "content: feeling alive, awareness of God's beauty"
+      ],
+      "memo_marking_notes": "Two marks for purpose plus content of the parenthetical lines.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q3.3",
+      "question_id": "ENG-2018-JUL-P1-Q3.3",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Poetry (Seen)",
+      "paper_type": "Literature",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "3.3",
+      "printed_question_number": "3.3",
+      "top_level_question_number": "3",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": "i thank You God for most this amazing",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Discuss the effectiveness of cummings' use of inverted word order in the poem.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "To stress a particular word in the sentence 'I thank you for most this amazing', to stress the 'most'. It forces the reader to pause and contemplate the lines more carefully. Accept other examples. One example with effect.",
+      "memo_method_steps": [
+        "an example of inverted word order",
+        "effect: emphasis / forces the reader to pause and contemplate"
+      ],
+      "memo_marking_notes": "The memo explicitly accepts any one example provided its effect is given.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q3.4",
+      "question_id": "ENG-2018-JUL-P1-Q3.4",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Poetry (Seen)",
+      "paper_type": "Literature",
+      "paper_number": "P1",
+      "question_format": "Short Answer",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "3.4",
+      "printed_question_number": "3.4",
+      "top_level_question_number": "3",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 1,
+      "allocation": "allocated",
+      "set_text_title": "i thank You God for most this amazing",
+      "question_type": "Short Answer",
+      "question_text": "What do you think the poet means by the expression lifted from the no / of all nothing (lines 10 and 11)?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "To be lifted from ignorance into a state of awareness of creation.",
+      "memo_method_steps": [
+        "explanation of the expression: ignorance to awareness of creation"
+      ],
+      "memo_marking_notes": "One mark; the memo's answer is short and conceptual.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q3.5",
+      "question_id": "ENG-2018-JUL-P1-Q3.5",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Poetry (Seen)",
+      "paper_type": "Literature",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "3.5",
+      "printed_question_number": "3.5",
+      "top_level_question_number": "3",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": "i thank You God for most this amazing",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Select the image which best describes the overall tone of the poem. Justify your choice by making close reference to the poem and the image. (IMAGES A, B and C are printed with the question.)",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Choose one image and connect to a tone of awe, inspiring, amazement, reverence. Must refer to poem and visual details in image.",
+      "memo_method_steps": [
+        "choice of image",
+        "a tone named (awe/inspiring/amazement/reverence)",
+        "reference to both poem and visual details"
+      ],
+      "memo_marking_notes": "The memo demands reference to both the poem and the chosen image's visual details.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q4.1",
+      "question_id": "ENG-2018-JUL-P1-Q4.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Poetry (Unseen)",
+      "paper_type": "Literature",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "4.1",
+      "printed_question_number": "4.1",
+      "top_level_question_number": "4",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": "Nightsong: City",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Read 'Nightsong: City' by Dennis Brutus. Who is the speaker addressing in the poem? Substantiate your answer.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Speaking to the city/land/country. Wanting his city/country to sleep in peace.",
+      "memo_method_steps": [
+        "addressee identified (the city/land/love)",
+        "substantiation from the poem (wanting the city to sleep in peace)"
+      ],
+      "memo_marking_notes": "Substantiation is required, not the identification alone.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q4.2",
+      "question_id": "ENG-2018-JUL-P1-Q4.2",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Poetry (Unseen)",
+      "paper_type": "Literature",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "4.2",
+      "printed_question_number": "4.2",
+      "top_level_question_number": "4",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": "Nightsong: City",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Account for the speaker's use of the word, cockroach (line 3), to describe the police cars.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "They are scurrying, pests, creeping out of hiding places, ominous, dirty feeling about them, invasive.",
+      "memo_method_steps": [
+        "connotations of 'cockroach' (scurrying, pests, hidden, invasive)",
+        "effect: ominous, dirty, threatening presence"
+      ],
+      "memo_marking_notes": "Two marks for the connotation and the effect.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q4.3",
+      "question_id": "ENG-2018-JUL-P1-Q4.3",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Poetry (Unseen)",
+      "paper_type": "Literature",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "4.3",
+      "printed_question_number": "4.3",
+      "top_level_question_number": "4",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": "Nightsong: City",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Identify and discuss the effectiveness of the figure of speech in line 5.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Simile — violence compared to a rag that is infested with bugs and tossed aside. Violence is pervasive and you toss it aside so as not to be affected by it.",
+      "memo_method_steps": [
+        "identification of the simile",
+        "effectiveness: pervasiveness of violence / being tossed aside"
+      ],
+      "memo_marking_notes": "Both identification and discussion are marked.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q4.4",
+      "question_id": "ENG-2018-JUL-P1-Q4.4",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Poetry (Unseen)",
+      "paper_type": "Literature",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "4.4",
+      "printed_question_number": "4.4",
+      "top_level_question_number": "4",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 4,
+      "allocation": "allocated",
+      "set_text_title": "Nightsong: City; The Second Coming",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Consider 'The Second Coming' by Yeats and 'Nightsong: City' by Brutus and discuss how the structure of both poems enhances the mood. Justify your response with reference to both poems.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Structure of Second Coming: no rhyming, free verse reflects the restlessness of society, anarchy. Enjambment creates fluidity or argument in lines 6,7 and 8,9. Structure of Nightsong: 3 stanzas of equal length, no rhyming to indicate the lack of structure in society emphasising the violence of society. Mood: sombre, restless (Nightsong); hopeless, faithless and desperate (Second Coming). Quotes required.",
+      "memo_method_steps": [
+        "structure of poem 1 named and linked to mood",
+        "structure of poem 2 named and linked to mood",
+        "mood stated for both",
+        "quotation from both poems"
+      ],
+      "memo_marking_notes": "Cross-poem comparison; four marks distributed across both structures, the two moods and the required quotation.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q5.1",
+      "question_id": "ENG-2018-JUL-P1-Q5.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Visual Literacy",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "5.1",
+      "printed_question_number": "5.1",
+      "top_level_question_number": "5",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Refer to TEXT 3, the advertisement for the TOPSY FOUNDATION. What is the advertiser's intention in stating that 'AIDS is creating child parents at an alarming rate'?",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Shocks the reader; realisation of the horror of the AIDS epidemic. Awareness of the destruction of the traditional family unit. Shocking understanding of young children becoming adults too soon and needing to parent.",
+      "memo_method_steps": [
+        "intention: to shock / raise awareness",
+        "realisation: children becoming parents too soon"
+      ],
+      "memo_marking_notes": "The advertisement itself is an image; the memo's answer is text but the visual cannot be verified.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q5.2",
+      "question_id": "ENG-2018-JUL-P1-Q5.2",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Visual Literacy",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "5.2",
+      "printed_question_number": "5.2",
+      "top_level_question_number": "5",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Discuss the effectiveness of the image used to support the message of the advertiser.",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Childish handwriting, the crayon, the toy car, spelling mistakes to indicate that a child has written the note. The note supports the fact that so many children are acting as parents.",
+      "memo_method_steps": [
+        "visual details named (handwriting, crayon, toy car, spelling)",
+        "effect: the note reads as written by a child",
+        "link to the message that children are acting as parents"
+      ],
+      "memo_marking_notes": "Three marks across visual detail, effect and link to message.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q5.3.1",
+      "question_id": "ENG-2018-JUL-P1-Q5.3.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Visual Literacy",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Short Answer",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "5.3.1",
+      "printed_question_number": "5.3.1",
+      "top_level_question_number": "5",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Short Answer",
+      "question_text": "Study the logo at the bottom of the advertisement. Provide a definition for the word stigma as used in the logo.",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "A negative generalisation/idea/perception/reputation about an issue or a person.",
+      "memo_method_steps": [
+        "definition of stigma: negative generalisation about a person or issue"
+      ],
+      "memo_marking_notes": "Two marks for the definition as used in the logo.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q5.3.2",
+      "question_id": "ENG-2018-JUL-P1-Q5.3.2",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Visual Literacy",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "5.3.2",
+      "printed_question_number": "5.3.2",
+      "top_level_question_number": "5",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "How does the design of the logo enhance the advertiser's message?",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "The plus/minus on the T to suggest the extent to which people are judged because of being HIV positive. Cross could symbolise death, mark on a grave.",
+      "memo_method_steps": [
+        "description of the logo's design elements",
+        "effect: judgement, HIV positive, cross/death symbolism"
+      ],
+      "memo_marking_notes": "Requires a reading of the logo's visual design.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q5.4",
+      "question_id": "ENG-2018-JUL-P1-Q5.4",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Visual Literacy",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "5.4",
+      "printed_question_number": "5.4",
+      "top_level_question_number": "5",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "What does it mean to be HIV NEUTRAL?",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Not to make a judgement of people who are HIV positive or who suffer from AIDS.",
+      "memo_method_steps": [
+        "definition: not judging people who are HIV positive"
+      ],
+      "memo_marking_notes": "Two marks; the term is defined by the advertisement's logo text (image).",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q5.5",
+      "question_id": "ENG-2018-JUL-P1-Q5.5",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Visual Literacy",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "5.5",
+      "printed_question_number": "5.5",
+      "top_level_question_number": "5",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "How does the use of the diction succeed in calling the reader to take action?",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Emotive words 'passionate', 'smart', 'honest', 'kind', 'cautious' — these words make people feel good about making a difference. These words inspire people not to be judgemental and to befriend people with AIDS and be more empathetic to their plight.",
+      "memo_method_steps": [
+        "emotive words listed",
+        "effect on the reader: feel good about making a difference",
+        "intended action: be less judgemental, befriend and empathise"
+      ],
+      "memo_marking_notes": "Three marks across diction, effect and action.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q5.6",
+      "question_id": "ENG-2018-JUL-P1-Q5.6",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Visual Literacy",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "5.6",
+      "printed_question_number": "5.6",
+      "top_level_question_number": "5",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Discuss how the font and font size play an integral part in the effectiveness of the advertisement.",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Larger font and bolder to emphasize the essence of the message — to be caring and compassionate. The font looks like a command; the reader feels that he/she is compelled to be more compassionate.",
+      "memo_method_steps": [
+        "font/size described (large, bold)",
+        "effect: emphasis and compulsion / the font reads as a command"
+      ],
+      "memo_marking_notes": "Typography question; depends on the advertisement image.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q5.7",
+      "question_id": "ENG-2018-JUL-P1-Q5.7",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Visual Literacy",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "5.7",
+      "printed_question_number": "5.7",
+      "top_level_question_number": "5",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 5,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Refer to both TEXTS 3 and 4. Identify and discuss the bias evident in both TEXT 3 and TEXT 4. Focus on verbal and visual clues.",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Text 3 assumes that the child-parent is a black child which suggests that mostly black people are affected by AIDS in SA. The child lacks education which is also associated with AIDS. The letter is written by 'Nomsa' to 'Principal Dhlamini' enforcing the black stereotype that many black children cannot attend school any longer as they are obliged to stay home and look after smaller siblings. Text 4 — white hands reach out to help those in need. This suggests that all generosity and assistance is metered out by white benevolent, educated, elite people. The language used is grammatically correct and sophisticated, 'stigma free'.",
+      "memo_method_steps": [
+        "bias in TEXT 3 identified (race, education, names)",
+        "bias in TEXT 4 identified (white hands as benefactors)",
+        "verbal clues cited",
+        "visual clues cited"
+      ],
+      "memo_marking_notes": "Five marks across both texts and both clue types; the memo is explicit about the stereotype it wants named.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q5.8",
+      "question_id": "ENG-2018-JUL-P1-Q5.8",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Visual Literacy",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": true,
+      "ocr_uncertain": false,
+      "question_number": "5.8",
+      "printed_question_number": "5.8",
+      "top_level_question_number": "5",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Suggest two ways in which an advertiser could overcome bias in an advertisement which focuses on social issues.",
+      "has_visual": true,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Reflect all race groups, not make judgements based on level of education, use of language that is inclusive and not biased e.g. 'HIV affects us all'. The use of inclusive pronouns would overcome bias and unite all. Circle of hands, not just 2 hands. Names should be more generic.",
+      "memo_method_steps": [
+        "two suggestions offered",
+        "each suggestion tied to the bias it removes",
+        "inclusive alternatives (pronouns, circle of hands, generic names)"
+      ],
+      "memo_marking_notes": "Three marks requiring two suggestions with justification.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q6.1",
+      "question_id": "ENG-2018-JUL-P1-Q6.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Language Structures & Conventions",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Short Answer",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "6.1",
+      "printed_question_number": "5.1",
+      "top_level_question_number": "6",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Short Answer",
+      "question_text": "Read TEXT 5, 'The Greatest Soccer players of all time' (Jon O'Brien, 2017). Identify and correct the grammar error in line 1.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Split infinitive — 'to always spark' should be corrected as 'to spark always'.",
+      "memo_method_steps": [
+        "identification of the split infinitive",
+        "correction supplied"
+      ],
+      "memo_marking_notes": "Two marks: identification and correction.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q6.2",
+      "question_id": "ENG-2018-JUL-P1-Q6.2",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Language Structures & Conventions",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "6.2",
+      "printed_question_number": "5.2",
+      "top_level_question_number": "6",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Why would the writer choose to place 'Golden Boot' (paragraph 2) in capital letters?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "The status he has achieved has earned him the respect of being known as having a Golden Boot.",
+      "memo_method_steps": [
+        "effect of capitalisation: status, respect, an earned title"
+      ],
+      "memo_marking_notes": "Two marks; the memo ties capitals to status/respect rather than a grammar label.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q6.3",
+      "question_id": "ENG-2018-JUL-P1-Q6.3",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Language Structures & Conventions",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "6.3",
+      "printed_question_number": "5.3",
+      "top_level_question_number": "6",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Explain the connotations of the title 'Black Panther' being given to Eusebio.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "He is a hero, a king, someone who is fit and strong and stealthy like a panther.",
+      "memo_method_steps": [
+        "connotations: hero, king, strong, stealthy"
+      ],
+      "memo_marking_notes": "Two marks for the connotations of the nickname.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q6.4",
+      "question_id": "ENG-2018-JUL-P1-Q6.4",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Language Structures & Conventions",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "6.4",
+      "printed_question_number": "5.4",
+      "top_level_question_number": "6",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Explain the effectiveness of the use of informal language to describe George Best in paragraph 3.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "The informal language is used to criticize him for being fast and loose. It makes him sound like a person who lacks moral values.",
+      "memo_method_steps": [
+        "informal language identified as criticism",
+        "effect: lacking moral values"
+      ],
+      "memo_marking_notes": "Two marks; register is judged by its effect on the subject's portrayal.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    },
+    {
+      "source_id": "english_2018_internal_paper1_july_q6.5",
+      "question_id": "ENG-2018-JUL-P1-Q6.5",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2018-JUL-P1",
+      "paper_focus": "Language — reading and viewing (comprehension, summary, poetry, visual literacy, textual editing)",
+      "section_guess": "Language Structures & Conventions",
+      "paper_type": "Language",
+      "paper_number": "P1",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 1 July 2018.pdf",
+      "source_document_sha256": "9edc4f2cf8ee98d695ed262175407b3f7bb24a93e116b98b95fc2502d3091b88",
+      "memo_document": "data/organized/english/Grade 11 Paper 1 July 2018 Memo.pdf",
+      "memo_document_sha256": "9937237e0658ac60c61b99e836429f101052c37954051de48658e69cdef871d6",
+      "orc_source_id": "SOURCE-ORC-ENG-2018-024",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2018-023",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "6.5",
+      "printed_question_number": "5.5",
+      "top_level_question_number": "6",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "By analysing the sentence structure of the last sentence, assess the effectiveness of the writer's choice to convey his message.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Compound sentence starting with a misrelated participle. Although this player didn't showcase his talents globally, the titles he has won are listed, therefore encouraging the reader to admire him.",
+      "memo_method_steps": [
+        "sentence structure identified (compound sentence / misrelated participle)",
+        "effect on the message: the reader is encouraged to admire the player"
+      ],
+      "memo_marking_notes": "Two marks across structure analysis and effect.",
+      "memo_alignment": {
+        "pairing_basis": "printed_header",
+        "pairing_note": null,
+        "paper_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "memo_header": {
+          "date": "July 2018",
+          "marks": 90,
+          "examiner": "Mrs Oosthuysen, Mrs Nichas"
+        },
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": true,
+        "cover_table": {
+          "printed_numbers": [
+            25,
+            10,
+            20,
+            25,
+            10
+          ],
+          "total": 90,
+          "basis": "printed 'Possible Marks' row"
+        },
+        "verified_by": "printed DATE/MARKS/EXAMINER in both documents, printed section headers, cover-table totals, and per-item printed marks"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:05:37+00:00",
+        "evidence_module": "english_pass1_evidence_2018_jul"
+      }
+    }
+  ]
+}
