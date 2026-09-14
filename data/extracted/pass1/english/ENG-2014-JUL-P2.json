@@ -1,0 +1,871 @@
+{
+  "paper": {
+    "paper_key": "ENG-2014-JUL-P2",
+    "paper_path": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+    "memo_path": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+    "year": 2014,
+    "exam_date": "25 July 2014",
+    "exam_period": "july",
+    "paper_number": "P2",
+    "paper_type": "paper2",
+    "exam_board": "internal",
+    "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+    "total_marks": 80,
+    "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen",
+    "moderator": "Mrs Nichas",
+    "duration_stated": {
+      "paper": "2 1/2 hours",
+      "memo": null
+    },
+    "fidelity_rung": "A",
+    "marks_style": "trailing",
+    "section_totals": {
+      "1": 30,
+      "2": 30,
+      "3": 20
+    },
+    "section_totals_basis": "printed section headings (question 1 – The God of Small Things30 Marks CONTEXTUAL, Question 2 – THE GOD OF SMALL THINGS 30 marks ESSAY, question 3 – transactional writing20 marks), which sum to the header MARKS 80",
+    "cover_table_absent_reason": "the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80",
+    "pairing_basis": "content_and_printed_totals",
+    "pairing_anchors": [
+      "question 1 – The God of Small Things30 Marks",
+      "1.1Explain what is meant by the comment: Estha had been re-Returned.3",
+      "1.10"
+    ],
+    "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+    "section_anchors": [
+      "question 1 – The God of Small Things30 Marks CONTEXTUAL",
+      "Question 2 – THE GOD OF SMALL THINGS 30 marks ESSAY",
+      "question 3 – transactional writing20 marks"
+    ],
+    "memo_section_anchors": [
+      "question 1 – The God of Small Things30 Marks CONTEXTUAL"
+    ],
+    "item_anchor_overrides": {
+      "2.1": {
+        "paper": "Question 2 – THE GOD OF SMALL THINGS 30 marks ESSAY",
+        "note": "the essay's marks are printed in its section heading, not after the item"
+      },
+      "3.1": {
+        "paper": "question 3 – transactional writing20 marks",
+        "note": "the blog's marks are printed in its section heading, not after the item"
+      }
+    },
+    "memo_section_anchors_absent": [
+      "Question 2 – THE GOD OF SMALL THINGS 30 marks ESSAY",
+      "question 3 – transactional writing20 marks"
+    ],
+    "source_hashes": {
+      "paper_path": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_path": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0"
+    },
+    "notes": "Paper 2 set-work / writing paper on The God of Small Things (Arundhati Roy). Question 1 prints two extracts — 'Paradise Pickles & Preserves' (Chapter 1, pp. 20-23) and 'The Pessimist and the Optimist' (Chapter 13, pp. 254-257). The memorandum answers Question 1 in full with rubric-style marking notes ('Mark for relevance and quoting from the extracts provided'); Question 2 (essay on the twins' destroyed innocence, 450-500 words with a plan) and Question 3 (blog on 'burning bling' / Izikhothane) have no marking evidence. This set text appears in no other sitting in the batch, which constrains family merging in Pass 2."
+  },
+  "memo_alignment_check": {
+    "pairing_basis": "content_and_printed_totals",
+    "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+    "paper_header": {
+      "date": "25 July 2014",
+      "marks": 80,
+      "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+    },
+    "memo_header": {},
+    "date_match": true,
+    "marks_match": true,
+    "examiner_match": false,
+    "cover_table": {
+      "printed_numbers": [],
+      "total": null,
+      "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+    },
+    "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+  },
+  "item_verification": {
+    "items_verified_against_paper": 12,
+    "items_verified_against_memo": 10,
+    "restated_without_model_answer": []
+  },
+  "records_extracted": 12,
+  "marks_sum_check": {
+    "sum_of_transcribed_allocated_items": 80,
+    "sum_of_counted_alternative_options": 0,
+    "source_shortfall": 0,
+    "printed_total": 80,
+    "match": true,
+    "declared_source_discrepancies": []
+  },
+  "question_records": [
+    {
+      "source_id": "english_2014_internal_paper2_july_q1.1",
+      "question_id": "ENG-2014-JUL-P2-Q1.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Novel",
+      "paper_type": "Literature",
+      "paper_number": "P2",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.1",
+      "printed_question_number": "1.1",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Refer to Extract 1, 'Paradise Pickles & Preserves' (Chapter 1, pp. 20-23). Explain what is meant by the comment: Estha had been re-Returned.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Estha, when he was seven, was sent away from the family at Ayemenem. He was sent to stay with his father and was not seen again for 23 years. This became known as when Estha was 'Returned'. Now that he is back, he has been re-Returned, sent home.",
+      "memo_method_steps": [
+        "the first 'Returning' explained (sent to his father at seven, gone 23 years)",
+        "the term's origin in the family's language",
+        "the present re-Return (sent home again)"
+      ],
+      "memo_marking_notes": "Three marks across the two events and the coinage itself.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q1.2",
+      "question_id": "ENG-2014-JUL-P2-Q1.2",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Novel",
+      "paper_type": "Literature",
+      "paper_number": "P2",
+      "question_format": "Short Answer",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.2",
+      "printed_question_number": "1.2",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 1,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Short Answer",
+      "question_text": "Refer to Extract 1. What is the biological relationship between Estha and Rahel?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "They are twins/siblings.",
+      "memo_method_steps": [
+        "twins"
+      ],
+      "memo_marking_notes": "One mark only; the memo accepts 'twins' or 'siblings'.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q1.3",
+      "question_id": "ENG-2014-JUL-P2-Q1.3",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Novel",
+      "paper_type": "Literature",
+      "paper_number": "P2",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.3",
+      "printed_question_number": "1.3",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Refer to Extract 1. How do you know from the extract that Estha and Rahel are connected on a spiritual and mental level?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Rahel was able to sense Estha and what he was feeling, doing and thinking. He was 'rocking', and Rahel could feel 'the wetness of rain on his (Estha's) skin'. Rahel is also able to hear Estha's thoughts in a way, hear 'the raucous, scrambled world inside his head'. This implies some psychic or spiritual connection.",
+      "memo_method_steps": [
+        "sensory connection: she feels the rain on his skin / his rocking",
+        "mental connection: she hears the world inside his head",
+        "conclusion: a psychic/spiritual connection"
+      ],
+      "memo_marking_notes": "Two marks requiring textual quotation from Extract 1 plus the inference.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q1.4",
+      "question_id": "ENG-2014-JUL-P2-Q1.4",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Novel",
+      "paper_type": "Literature",
+      "paper_number": "P2",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.4",
+      "printed_question_number": "1.4",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Refer to Extract 1. Account for the fact that Baby Kochamma is of the opinion that Estha has lost his mind.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Estha does not speak at all. He is a quiet man who goes on endless walks. He does not even greet his sister when he sees her again, for the first time in a very long time. Baby Kochamma views this very odd behaviour as a sign that Estha has gone mad, or has 'lost his mind'.",
+      "memo_method_steps": [
+        "Estha's silence and endless walking",
+        "he does not greet Rahel after years apart",
+        "Baby Kochamma reads this behaviour as madness"
+      ],
+      "memo_marking_notes": "Three marks; the behaviours and Baby Kochamma's interpretation of them.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q1.5",
+      "question_id": "ENG-2014-JUL-P2-Q1.5",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Novel",
+      "paper_type": "Literature",
+      "paper_number": "P2",
+      "question_format": "Short Answer",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.5",
+      "printed_question_number": "1.5",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 2,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Short Answer",
+      "question_text": "Refer to Extract 2, 'The Pessimist and the Optimist' (Chapter 13, pp. 254-257). What information is Vellya Paapen compelled to share with Mammachi?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "The affair between Ammu and Velutha.",
+      "memo_method_steps": [
+        "the affair between Ammu and Velutha"
+      ],
+      "memo_marking_notes": "Two marks; the memo's answer is a single proposition.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q1.6",
+      "question_id": "ENG-2014-JUL-P2-Q1.6",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Novel",
+      "paper_type": "Literature",
+      "paper_number": "P2",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.6",
+      "printed_question_number": "1.6",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Refer to Extract 2. Why does he feel that he is torn between Loyalty and Love?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "He feels an immense loyalty for the Ipe Family and all they have given him. He is also a victim of the discrimination in India and the caste system is entrenched within him. The loyalty he feels for the Ipe family is conflicting with the love he has for his son. If he is to be loyal he must destroy his son; if his love for his son stopped him, he would consider himself disloyal.",
+      "memo_method_steps": [
+        "loyalty to the Ipe family (what they have given him)",
+        "the caste system entrenched in him",
+        "love for his son Velutha, whom loyalty requires him to destroy"
+      ],
+      "memo_marking_notes": "Three marks; the memo spells out the double bind explicitly.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q1.7",
+      "question_id": "ENG-2014-JUL-P2-Q1.7",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Novel",
+      "paper_type": "Literature",
+      "paper_number": "P2",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.7",
+      "printed_question_number": "1.7",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Refer to Extract 2. How does Mammachi's response to touching Vellya Paapen's glass eye undermine her claim that she wasn't averse to listening to bardic stories about herself and her family's Christian munificence?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "She has time to listen to how wonderful and Christian, how charitable, her family is. She wants to hear these stories but is so repulsed by the eye of Vellya Paapen because the eye is slimy with eye fluid from this 'untouchable', which means he is literally not meant to be touched. The caste distinction, at this time abolished by law, is very unchristian. So the irony of her enjoying hearing of her and her family's 'Christian munificence' contradicts her disgust at being exposed to a few eye juices.",
+      "memo_method_steps": [
+        "her enjoyment of the family's munificence stories",
+        "her physical repulsion at the untouchable's eye fluid",
+        "the contradiction: respect for untouchability versus claimed Christian munificence"
+      ],
+      "memo_marking_notes": "Three marks; the answer is an irony argument and the memo marks the contradiction.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q1.8",
+      "question_id": "ENG-2014-JUL-P2-Q1.8",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Novel",
+      "paper_type": "Literature",
+      "paper_number": "P2",
+      "question_format": "Short Answer",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.8",
+      "printed_question_number": "1.8",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 3,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Short Answer",
+      "question_text": "Refer to Extract 2. Baby Kochamma sees the situation as God's Way of punishing Ammu for her sins. According to Baby Kochamma, what are these sins?",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "Getting married without permission; leaving her husband / getting a divorce; Ammu dared to still have something exciting in her life rather than spend it repenting.",
+      "memo_method_steps": [
+        "marrying without permission",
+        "leaving her husband / divorcing",
+        "having an exciting life instead of repenting"
+      ],
+      "memo_marking_notes": "Three marks; the memo lists three sins.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q1.9",
+      "question_id": "ENG-2014-JUL-P2-Q1.9",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Novel",
+      "paper_type": "Literature",
+      "paper_number": "P2",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.9",
+      "printed_question_number": "1.9",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 4,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Refer to Extract 2. Discuss how the statement 'How could she stand the smell? Haven't you noticed? They have a particular smell, these Paravans' highlights the caste system which exists in India. Quote from the extract to support your answer.",
+      "has_visual": false,
+      "memo_evidence": "model_answer",
+      "rubric_reference": false,
+      "memo_answer": "The quote presents the reader with the irrational, generalised stereotyping that is typically associated with a system such as the caste system in India. The caste system places people in groups (which determine their pecking order within the society) from birth. These people are confined to these groups and labelled, stereotyped, and treated as such. Any suitable quote(s). Possible quote: 'She smelled her hands when she'd finished.'",
+      "memo_method_steps": [
+        "the statement identified as irrational generalised stereotyping",
+        "caste explained as a birth-assigned grouping with a pecking order",
+        "quotation from the extract supporting the reading"
+      ],
+      "memo_marking_notes": "Four marks; the memo accepts any suitable supporting quotation and marks both the reading of the statement and the description of caste.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q1.10",
+      "question_id": "ENG-2014-JUL-P2-Q1.10",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Novel",
+      "paper_type": "Literature",
+      "paper_number": "P2",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "1.10",
+      "printed_question_number": "1.10",
+      "top_level_question_number": "1",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 6,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Refer to both extracts. Baby Kochamma is the character who the reader grows to dislike the most in the novel. Write a well-constructed paragraph in which you discuss her perception of the world and her attitude towards Estha and Rahel. Make close reference to the extracts provided.",
+      "has_visual": false,
+      "memo_evidence": "rubric_reference",
+      "rubric_reference": true,
+      "memo_answer": "Mark for relevance and quoting from the extracts provided.",
+      "memo_method_steps": [
+        "memo gives a marking instruction rather than model content",
+        "relevance to the question",
+        "quotation from the extracts"
+      ],
+      "memo_marking_notes": "The memorandum supplies a rubric instruction instead of a model paragraph: markers are told to mark for relevance and for quoting from the extracts. It describes a paragraph's construction only at that level, so no mark-by-mark breakdown can be transcribed.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q2.1",
+      "question_id": "ENG-2014-JUL-P2-Q2.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Essay Writing",
+      "paper_type": "Writing",
+      "paper_number": "P2",
+      "question_format": "Essay",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "2.1",
+      "printed_question_number": "2.1",
+      "top_level_question_number": "2",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 30,
+      "allocation": "allocated",
+      "set_text_title": "The God of Small Things",
+      "question_type": "Essay",
+      "question_text": "The God of Small Things: 'The novel is the story of Rahel and Estha, twins growing up among the banana vats and peppercorns of their blind grandmother's factory, and amid scenes of political turbulence in Kerala. Armed only with the innocence of youth, they fashion a childhood in the shade of the wreck that is their family: their lonely, lovely mother, their beloved Uncle Chacko (pickle baron, radical Marxist) and their sworn enemy, Baby Kochamma (ex-nun, incumbent grand-aunt).' In an essay of 450-500 words discuss how Rahel and Estha's shared experiences, as well as the complex relationships within their dysfunctional family, destroy the innocence of their youth. Include a plan of your essay and ensure that you make close reference to the novel.",
+      "has_visual": false,
+      "memo_evidence": "restated_only",
+      "rubric_reference": false,
+      "memo_answer": "NOT ANSWERED IN THE MEMORANDUM — this paper's memorandum marks Question 1 only; the essay prompt is printed in the paper without any model essay, plan, rubric or level descriptors.",
+      "memo_method_steps": [
+        "no marking evidence printed"
+      ],
+      "memo_marking_notes": "30 marks allocated by the paper. Without marking evidence the essay cannot ground a Pass 2 breakdown; a plan is demanded by the wording, which is a notable form requirement.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    },
+    {
+      "source_id": "english_2014_internal_paper2_july_q3.1",
+      "question_id": "ENG-2014-JUL-P2-Q3.1",
+      "subject": "english",
+      "grade": "11",
+      "paper_key": "ENG-2014-JUL-P2",
+      "paper_focus": "Literature and Writing — set-work contextual questions, literature essay, transactional writing",
+      "section_guess": "Transactional Writing",
+      "paper_type": "Writing",
+      "paper_number": "P2",
+      "question_format": "Extended/Paragraph Response",
+      "source_document": "data/organized/english/Grade 11 Paper 2 July 2014.docx",
+      "source_document_sha256": "d3cf1f0fd1b8d68390b7b57c80622154be093743343d5a059edba99bbafdbae0",
+      "memo_document": "data/organized/english/Grade 11 Paper 2 July Memo.docx",
+      "memo_document_sha256": "6c842badb38c25b0909594410d0092a737c74c2a3ee6a010d07e3ed15502dfe0",
+      "orc_source_id": "SOURCE-ORC-ENG-2014-006",
+      "orc_memo_source_id": "SOURCE-ORC-ENG-2014-007",
+      "fidelity_rung": "A",
+      "requires_visual_verification": false,
+      "ocr_uncertain": false,
+      "question_number": "3.1",
+      "printed_question_number": "3.1",
+      "top_level_question_number": "3",
+      "parent_question_id": null,
+      "question_stem_text": null,
+      "marks": 20,
+      "allocation": "allocated",
+      "set_text_title": null,
+      "question_type": "Extended/Paragraph Response",
+      "question_text": "Read the passage 'BURNING BLING' (printed in the paper) about Izikhothane youths in SA townships for whom 'fame comes at a staggering price' — they tear up or burn wads of cash, designer clothes and shoes and recklessly slosh expensive alcohol on the ground. Write a blog of 200-250 words in which you discuss your reaction to the idea of 'burning bling'.",
+      "has_visual": false,
+      "memo_evidence": "restated_only",
+      "rubric_reference": false,
+      "memo_answer": "NOT ANSWERED IN THE MEMORANDUM — the blog instruction is printed in the paper; the memorandum supplies no model answer, checklist or rubric for it.",
+      "memo_method_steps": [
+        "no marking evidence printed"
+      ],
+      "memo_marking_notes": "20 marks allocated by the paper; no marking evidence, so no marking requirements can be derived.",
+      "memo_alignment": {
+        "pairing_basis": "content_and_printed_totals",
+        "pairing_note": "The memorandum carries no header, so pairing is verified by identical numbered contextual items and marks (1.1-1.10 on The God of Small Things, 30 marks) plus the Phase-2 inventory record SOURCE-ORC-ENG-2014-007 (year 2014, P2, memorandum). No other sitting in the batch uses this set text and no other memorandum answers these items.",
+        "paper_header": {
+          "date": "25 July 2014",
+          "marks": 80,
+          "examiner": "Mr De Reuck, Mrs De Reuck, Mrs Oosthuysen"
+        },
+        "memo_header": {},
+        "date_match": true,
+        "marks_match": true,
+        "examiner_match": false,
+        "cover_table": {
+          "printed_numbers": [],
+          "total": null,
+          "basis": "absent: the paper prints no 'Possible Marks' cover row — its cover carries only the report block (STUDENT'S RESULT / COMMENT / signatures) — so the three section totals are read from the printed section headings and checked against the header MARKS 80"
+        },
+        "verified_by": "numbered-content anchors in both documents plus printed Q1 total (memo prints no header)"
+      },
+      "extraction": {
+        "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
+        "generated_at": "2026-09-14T08:12:02+00:00",
+        "evidence_module": "english_pass1_evidence_2014_p2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "run_id": "20260914T080850Z_dee0",
+  "started_at": "2026-09-14T08:08:50.785227Z",
+  "completed_at": "2026-09-14T08:08:54.217039Z",
+  "phase": "4-11",
+  "subject": "english",
+  "spec_version": "1.0.0",
+  "implementation_spec_version": "1.0.0",
+  "agent_version": "1.0.0",
+  "model": "arena-agent",
+  "model_provider": "arena.ai",
+  "git_commit_before": "8d9ba83",
+  "git_commit_after": "8d9ba83",
+  "status": "completed_with_review"
+}

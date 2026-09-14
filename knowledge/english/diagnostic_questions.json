@@ -1,0 +1,662 @@
+[
+  {
+    "diagnostic_id": "DIAG-ENG-001-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-001",
+    "target_breakdown": "BREAKDOWN-ENG-001-A",
+    "question": "Which words in this paragraph create the style you are naming, and what would the sentence lose without them?",
+    "purpose": "[Tier 3] Distinguish Names the register correctly but attaches a generic effect, e.g. \"makes it interesting\", that is not tied to this text. from Uses the wrong style term for the evidence quoted (for example calls a colloquial paragraph formal), or treats connotation as a synonym list.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-001-A",
+      "BREAKDOWN-ENG-001-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Points to the actual words and can state a loss in effect rather than repeating a label. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit the label and the effect together: the 2016 paper asks for an example of informal language and its effectiveness, the 2017 memo answers with the informal diction, its quotation and the tone it creates before naming the intention, and the 2018 memo rewards an identification of colloquial register with its effect on reader and message. One-part answers that stop at \"informal language\" or at the effect without the textual detail do not collect the full allocation. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-001-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-001",
+    "target_breakdown": "BREAKDOWN-ENG-001-B",
+    "question": "How does the effect you have named relate to what the writer is trying to do in this text?",
+    "purpose": "[Tier 3] Distinguish Uses the wrong style term for the evidence quoted (for example calls a colloquial paragraph formal), or treats connotation as a synonym list. from Names the register correctly but attaches a generic effect, e.g. \"makes it interesting\", that is not tied to this text.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-001-A",
+      "BREAKDOWN-ENG-001-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Links the stylistic effect to the writer's purpose instead of to a general claim about good writing. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit the label and the effect together: the 2016 paper asks for an example of informal language and its effectiveness, the 2017 memo answers with the informal diction, its quotation and the tone it creates before naming the intention, and the 2018 memo rewards an identification of colloquial register with its effect on reader and message. One-part answers that stop at \"informal language\" or at the effect without the textual detail do not collect the full allocation. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-002-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-002",
+    "target_breakdown": "BREAKDOWN-ENG-002-A",
+    "question": "What rule is broken in this sentence, and which words break it?",
+    "purpose": "[Tier 3] Distinguish Corrects a different word from the one carrying the error or names the wrong error type. from Identifies the error correctly but writes a correction that is not minimal or not accurate (wrong concord form, misspelling of the correction).",
+    "distinguishes": [
+      "BREAKDOWN-ENG-002-A",
+      "BREAKDOWN-ENG-002-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Names the rule and isolates the offending words rather than paraphrasing the sentence. [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda mark identification and correction as separate ticks (split infinitive, concord, spelling, tautology, dangling preposition and missing finite verb all print a corrected form). Where two mistakes are required, one mark is attached to each word, and the memo accepts any suitable correction of the fragment, so the correction must address the stated error rather than improve the sentence in general. [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-002-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-002",
+    "target_breakdown": "BREAKDOWN-ENG-002-B",
+    "question": "Change as little as possible: what is the smallest correction that repairs this sentence?",
+    "purpose": "[Tier 3] Distinguish Identifies the error correctly but writes a correction that is not minimal or not accurate (wrong concord form, misspelling of the correction). from Corrects a different word from the one carrying the error or names the wrong error type.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-002-A",
+      "BREAKDOWN-ENG-002-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Produces a minimal correction instead of rewriting the whole sentence. [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda mark identification and correction as separate ticks (split infinitive, concord, spelling, tautology, dangling preposition and missing finite verb all print a corrected form). Where two mistakes are required, one mark is attached to each word, and the memo accepts any suitable correction of the fragment, so the correction must address the stated error rather than improve the sentence in general. [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-003-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-003",
+    "target_breakdown": "BREAKDOWN-ENG-003-A",
+    "question": "What changes in this sentence if you remove or reverse the feature you have named?",
+    "purpose": "[Tier 3] Distinguish Describes the sentence structure accurately but stops before saying what it does to the emphasis or meaning. from Reads a stylistic effect into punctuation that is doing ordinary grammatical work, or misses that the construction is the point of the question.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-003-A",
+      "BREAKDOWN-ENG-003-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Demonstrates the feature's work by contrast rather than repeating its name. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda reward the function, not the label: the 2016 memo names the repetition and the work of the commas, the same memo explains that the active voice keeps the paragraph's \"real people\" as the subject and focus, the 2017 memo answers with the function of the hyphen, and the 2018 memo credits capitals for status and respect and a compound sentence with a misrelated participle for the effect it has on the reader. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-003-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-003",
+    "target_breakdown": "BREAKDOWN-ENG-003-B",
+    "question": "Which single word in the sentence benefits most from the emphasis you describe?",
+    "purpose": "[Tier 3] Distinguish Reads a stylistic effect into punctuation that is doing ordinary grammatical work, or misses that the construction is the point of the question. from Describes the sentence structure accurately but stops before saying what it does to the emphasis or meaning.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-003-A",
+      "BREAKDOWN-ENG-003-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Ties the effect to a specific element of the sentence. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda reward the function, not the label: the 2016 memo names the repetition and the work of the commas, the same memo explains that the active voice keeps the paragraph's \"real people\" as the subject and focus, the 2017 memo answers with the function of the hyphen, and the 2018 memo credits capitals for status and respect and a compound sentence with a misrelated participle for the effect it has on the reader. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-004-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-004",
+    "target_breakdown": "BREAKDOWN-ENG-004-A",
+    "question": "What exactly is being compared with what in this line, and which word carries the comparison?",
+    "purpose": "[Tier 3] Distinguish Names the wrong device or interprets the image literally (for example reads \"police cars cockroach through the streets\" as information about insects). from Names the device correctly but gives a general emotional label such as \"sad\" without saying what the image conveys.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-004-A",
+      "BREAKDOWN-ENG-004-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Identifies both terms of the comparison from the line itself. [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda list acceptable images and then require their connotations to be discussed (the 2016 memo offers several religious images and credits the connotation of the one chosen; the 2017 memo asks what the connotation of a single word implies; the 2018 memo credits an account of a simile's effectiveness). Naming is worth a mark only when an effect is added; the 2016 mark for the personification and simile pair is carried by the drought they emphasise. [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-004-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-004",
+    "target_breakdown": "BREAKDOWN-ENG-004-B",
+    "question": "What does the poem lose if this image is replaced with a plain statement?",
+    "purpose": "[Tier 3] Distinguish Names the device correctly but gives a general emotional label such as \"sad\" without saying what the image conveys. from Names the wrong device or interprets the image literally (for example reads \"police cars cockroach through the streets\" as information about insects).",
+    "distinguishes": [
+      "BREAKDOWN-ENG-004-A",
+      "BREAKDOWN-ENG-004-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Explains the work the image does rather than restating its content. [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda list acceptable images and then require their connotations to be discussed (the 2016 memo offers several religious images and credits the connotation of the one chosen; the 2017 memo asks what the connotation of a single word implies; the 2018 memo credits an account of a simile's effectiveness). Naming is worth a mark only when an effect is added; the 2016 mark for the personification and simile pair is carried by the drought they emphasise. [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-005-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-005",
+    "target_breakdown": "BREAKDOWN-ENG-005-A",
+    "question": "Where does this stanza speed up or slow down, and which line break or punctuation mark causes it?",
+    "purpose": "[Tier 3] Distinguish Describes the stanza's content or mood but does not name the structural feature the question asks about. from Treats a structural device as decoration, so the effect is unconnected to the pace or meaning, or confuses enjambment with punctuation.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-005-A",
+      "BREAKDOWN-ENG-005-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Points to a specific break or mark and connects it to pace. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit the movement from form to effect: the 2016 memo answers with the short lines and listing that quicken the pace of the stanza, the 2017 memo credits enjambment with fluid and slow movement and credits repetition and sentence structure with the final stanza's meaning, and the 2018 memo credits punctuation and parenthesis with their effect on the poet's purpose and with inverted word order that stresses a particular word and forces the reader to pause. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-005-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-005",
+    "target_breakdown": "BREAKDOWN-ENG-005-B",
+    "question": "If you rewrote this stanza as one long sentence, what would change?",
+    "purpose": "[Tier 3] Distinguish Treats a structural device as decoration, so the effect is unconnected to the pace or meaning, or confuses enjambment with punctuation. from Describes the stanza's content or mood but does not name the structural feature the question asks about.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-005-A",
+      "BREAKDOWN-ENG-005-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Articulates the function of the structure by contrast. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit the movement from form to effect: the 2016 memo answers with the short lines and listing that quicken the pace of the stanza, the 2017 memo credits enjambment with fluid and slow movement and credits repetition and sentence structure with the final stanza's meaning, and the 2018 memo credits punctuation and parenthesis with their effect on the poet's purpose and with inverted word order that stresses a particular word and forces the reader to pause. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-006-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-006",
+    "target_breakdown": "BREAKDOWN-ENG-006-A",
+    "question": "What single sentence states the difference or similarity you are arguing?",
+    "purpose": "[Tier 3] Distinguish Writes about one poem at length and adds a token sentence about the other. from Discusses both poems but never states the point of comparison, or quotes without naming the relationship.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-006-A",
+      "BREAKDOWN-ENG-006-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Produces a comparative claim rather than two summaries. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda require both sides: the 2016 memo answers the hope question by treating both poems and even links water to Mandela, the 2017 memo requires two images from each poem, and the 2018 memo divides its four marks across each poem's structure, the two moods and the required quotation. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-006-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-006",
+    "target_breakdown": "BREAKDOWN-ENG-006-B",
+    "question": "Which quotation from each poem will you use, and what does each prove?",
+    "purpose": "[Tier 3] Distinguish Discusses both poems but never states the point of comparison, or quotes without naming the relationship. from Writes about one poem at length and adds a token sentence about the other.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-006-A",
+      "BREAKDOWN-ENG-006-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Selects evidence from both poems and assigns work to each quotation. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda require both sides: the 2016 memo answers the hope question by treating both poems and even links water to Mandela, the 2017 memo requires two images from each poem, and the 2018 memo divides its four marks across each poem's structure, the two moods and the required quotation. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-007-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-007",
+    "target_breakdown": "BREAKDOWN-ENG-007-A",
+    "question": "What does this character want in this moment, and what are they afraid of?",
+    "purpose": "[Tier 3] Distinguish Answers a neighbouring question — for example explains Iago's manipulation when the question asks about Othello's change. from Gives a defensible reason but supports it only from the printed extract, or names no specific moment from the work as a whole.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-007-A",
+      "BREAKDOWN-ENG-007-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] States a motive rather than describing the action. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit reasons, not summaries: the 2014 memo explains Vellya Paapen's conflict between loyalty and love and explains how Mammachi's revulsion undermines her claim about Christian munificence; the 2015 memo answers the change-in-character question with an earlier and a later portrait of Othello and adds the explicit instruction that the answer must focus on Othello's change, not on Iago's manipulation; the responsibility question asks for a position on Iago's role supported from the play. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-007-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-007",
+    "target_breakdown": "BREAKDOWN-ENG-007-B",
+    "question": "Which moment of the work, outside this extract, best shows the change or motive you are describing?",
+    "purpose": "[Tier 3] Distinguish Gives a defensible reason but supports it only from the printed extract, or names no specific moment from the work as a whole. from Answers a neighbouring question — for example explains Iago's manipulation when the question asks about Othello's change.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-007-A",
+      "BREAKDOWN-ENG-007-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Selects a specific moment from the wider text and connects it to the claim. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit reasons, not summaries: the 2014 memo explains Vellya Paapen's conflict between loyalty and love and explains how Mammachi's revulsion undermines her claim about Christian munificence; the 2015 memo answers the change-in-character question with an earlier and a later portrait of Othello and adds the explicit instruction that the answer must focus on Othello's change, not on Iago's manipulation; the responsibility question asks for a position on Iago's role supported from the play. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-008-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-008",
+    "target_breakdown": "BREAKDOWN-ENG-008-A",
+    "question": "In one sentence, what exactly does the question ask you to identify?",
+    "purpose": "[Tier 3] Distinguish Substitutes a related fact for the one named, or misremembers the relationship between characters. from Knows the fact but states it without the context the marks require (for example the coinage's two stages).",
+    "distinguishes": [
+      "BREAKDOWN-ENG-008-A",
+      "BREAKDOWN-ENG-008-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Restates the requested fact rather than the topic of the extract. [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit the specific answer: the 2014 memo sets out the two \"Returnings\" behind \"re-Returned\", answers the twin question as \"twins/siblings\", names the affair between Ammu and Velutha and lists Ammu's three offences; the 2015 memo names the cause of Desdemona's death and the reason Othello gives. A thematic answer that misses the named fact has nothing to credit. [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-008-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-008",
+    "target_breakdown": "BREAKDOWN-ENG-008-B",
+    "question": "Which words in this extract tell you that this is the event being referred to?",
+    "purpose": "[Tier 3] Distinguish Knows the fact but states it without the context the marks require (for example the coinage's two stages). from Substitutes a related fact for the one named, or misremembers the relationship between characters.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-008-A",
+      "BREAKDOWN-ENG-008-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Locates the textual anchor for the recall answer. [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit the specific answer: the 2014 memo sets out the two \"Returnings\" behind \"re-Returned\", answers the twin question as \"twins/siblings\", names the affair between Ammu and Velutha and lists Ammu's three offences; the 2015 memo names the cause of Desdemona's death and the reason Othello gives. A thematic answer that misses the named fact has nothing to credit. [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-009-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-009",
+    "target_breakdown": "BREAKDOWN-ENG-009-A",
+    "question": "Which exact words from the extract are you interpreting?",
+    "purpose": "[Tier 3] Distinguish Quotes accurately but does not explain the words, or explains without quoting. from Offers an explanation the quotation cannot support, or reads a metaphor literally.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-009-A",
+      "BREAKDOWN-ENG-009-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Selects a quotation instead of paraphrasing the passage. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit quotation together with explanation: the 2014 memo answers the spiritual-connection question with quoted sensory detail, and the caste-system question is answered by naming irrational generalised stereotyping and accepting any suitable supporting quotation; the 2015 memo unpacks the rose image and the paradox of loving after death. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-009-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-009",
+    "target_breakdown": "BREAKDOWN-ENG-009-B",
+    "question": "What do those words tell you about how this character or society sees the world?",
+    "purpose": "[Tier 3] Distinguish Offers an explanation the quotation cannot support, or reads a metaphor literally. from Quotes accurately but does not explain the words, or explains without quoting.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-009-A",
+      "BREAKDOWN-ENG-009-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Connects the quotation to a value or belief rather than repeating its content. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit quotation together with explanation: the 2014 memo answers the spiritual-connection question with quoted sensory detail, and the caste-system question is answered by naming irrational generalised stereotyping and accepting any suitable supporting quotation; the 2015 memo unpacks the rose image and the paradox of loving after death. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-010-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-010",
+    "target_breakdown": "BREAKDOWN-ENG-010-A",
+    "question": "In this sentence, what job does the word do — what kind of word is it?",
+    "purpose": "[Tier 3] Distinguish The part of speech is misidentified, or the definition does not match the word's use in the paragraph. from A required component is omitted (no etymology where asked) or is embedded so vaguely that it cannot be credited.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-010-A",
+      "BREAKDOWN-ENG-010-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Identifies the grammatical class from the sentence. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Each requested component is allocated separately: the 2017 memo credits a noun label and a contextual definition; the 2018 memo requires part of speech, definition and etymology, and its credited answer explains that the hashtag is coined as a social-media handle. A definition that ignores the context, or a missing component, loses that component's mark. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-010-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-010",
+    "target_breakdown": "BREAKDOWN-ENG-010-B",
+    "question": "What would a reader who only had this paragraph understand the word to mean?",
+    "purpose": "[Tier 3] Distinguish A required component is omitted (no etymology where asked) or is embedded so vaguely that it cannot be credited. from The part of speech is misidentified, or the definition does not match the word's use in the paragraph.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-010-A",
+      "BREAKDOWN-ENG-010-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Writes a contextual definition rather than a general one. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] Each requested component is allocated separately: the 2017 memo credits a noun label and a contextual definition; the 2018 memo requires part of speech, definition and etymology, and its credited answer explains that the hashtag is coined as a social-media handle. A definition that ignores the context, or a missing component, loses that component's mark. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-011-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-011",
+    "target_breakdown": "BREAKDOWN-ENG-011-A",
+    "question": "What exactly are you judging, and what is your judgment in one sentence?",
+    "purpose": "[Tier 3] Distinguish Describes what the text says instead of judging reliability, positioning or success. from Takes a position but supports it with evidence that does not bear on the judgment, or ignores the counter-evidence the memo allows.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-011-A",
+      "BREAKDOWN-ENG-011-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] States the object and the position rather than summarising. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda reward supported judgment and explicitly allow either side: the 2016 memo models Stein's answer from the extract and then compares it with Brooks, the 2017 memo allows the opinion to be called unreliable or reliable depending on the support offered, and the 2018 memo credits an evaluative answer about the campaigns' limits with its own counter-consideration noted. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-011-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-011",
+    "target_breakdown": "BREAKDOWN-ENG-011-B",
+    "question": "Which evidence in the text would someone who disagrees with you use, and how do you answer it?",
+    "purpose": "[Tier 3] Distinguish Takes a position but supports it with evidence that does not bear on the judgment, or ignores the counter-evidence the memo allows. from Describes what the text says instead of judging reliability, positioning or success.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-011-A",
+      "BREAKDOWN-ENG-011-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Engages the strongest contrary evidence instead of ignoring it. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda reward supported judgment and explicitly allow either side: the 2016 memo models Stein's answer from the extract and then compares it with Brooks, the 2017 memo allows the opinion to be called unreliable or reliable depending on the support offered, and the 2018 memo credits an evaluative answer about the campaigns' limits with its own counter-consideration noted. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-012-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-012",
+    "target_breakdown": "BREAKDOWN-ENG-012-A",
+    "question": "What does this expression mean in this sentence — who is doing what to whom?",
+    "purpose": "[Tier 3] Distinguish Gives a general definition of the idiom rather than its meaning in this passage, or misses that the expression has been altered. from Explains one form but not the other when the question asks for a comparison of the two.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-012-A",
+      "BREAKDOWN-ENG-012-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Glosses the idiom in the paragraph's terms. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit the meaning and the effect: the 2016 memo answers the idiom with the writer's agreement and answers the altered expression with the connotations of both forms and the writer's motive for choosing the first; the 2017 memo credits the shift from the idiomatic to the literal sense across the two paragraphs; the 2018 memo credits the idiom as naming and shaming men of power. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-012-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-012",
+    "target_breakdown": "BREAKDOWN-ENG-012-B",
+    "question": "This expression comes from a standard form: what has changed, and what does the change do?",
+    "purpose": "[Tier 3] Distinguish Explains one form but not the other when the question asks for a comparison of the two. from Gives a general definition of the idiom rather than its meaning in this passage, or misses that the expression has been altered.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-012-A",
+      "BREAKDOWN-ENG-012-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Identifies the alteration and its effect instead of treating the expression as fixed. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit the meaning and the effect: the 2016 memo answers the idiom with the writer's agreement and answers the altered expression with the connotations of both forms and the writer's motive for choosing the first; the 2017 memo credits the shift from the idiomatic to the literal sense across the two paragraphs; the 2018 memo credits the idiom as naming and shaming men of power. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-013-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-013",
+    "target_breakdown": "BREAKDOWN-ENG-013-A",
+    "question": "What kind of thing is the writer comparing the subject to, and what is it like?",
+    "purpose": "[Tier 3] Distinguish Identifies only one side of the comparison or substitutes an unrelated association. from Lists the image's qualities but never states the implication for the subject.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-013-A",
+      "BREAKDOWN-ENG-013-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Names both sides of the comparison and some qualities of the image. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit the unpacked comparison: the 2016 memo answers the orchid metaphor with fragility and difficulty of maintenance, the 2017 memo answers the Popeye reference by identifying the character and applying the swelling brain image, and the 2018 memo answers \"shockwaves\" with the earthquake sense and the scale and reach of the abuse. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-013-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-013",
+    "target_breakdown": "BREAKDOWN-ENG-013-B",
+    "question": "What does the writer want you to believe about the subject once you accept that comparison?",
+    "purpose": "[Tier 3] Distinguish Lists the image's qualities but never states the implication for the subject. from Identifies only one side of the comparison or substitutes an unrelated association.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-013-A",
+      "BREAKDOWN-ENG-013-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] States the implication rather than the image. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit the unpacked comparison: the 2016 memo answers the orchid metaphor with fragility and difficulty of maintenance, the 2017 memo answers the Popeye reference by identifying the character and applying the swelling brain image, and the 2018 memo answers \"shockwaves\" with the earthquake sense and the scale and reach of the abuse. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-014-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-014",
+    "target_breakdown": "BREAKDOWN-ENG-014-A",
+    "question": "Complete this sentence: the poem's message is that ...",
+    "purpose": "[Tier 3] Distinguish Paraphrases the poem stanza by stanza instead of stating a message. from States a defensible message but supports it with no quotation, or quotes lines that carry a different idea.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-014-A",
+      "BREAKDOWN-ENG-014-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Produces one claim about the whole poem. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda reward the reading and the quotation together: the 2016 memo requires quotation in the Mandela contrast and answers the title question by quoting the blessing of water; the 2017 memo credits the wordplay of composition/decomposition with the poem's message and expects quotation; the 2018 memo credits an explanation of a compressed expression and requires substantiation and reference to the poem in the title and addressee questions. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-014-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-014",
+    "target_breakdown": "BREAKDOWN-ENG-014-B",
+    "question": "Which line is doing the most work in your reading, and what would be lost if it were removed?",
+    "purpose": "[Tier 3] Distinguish States a defensible message but supports it with no quotation, or quotes lines that carry a different idea. from Paraphrases the poem stanza by stanza instead of stating a message.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-014-A",
+      "BREAKDOWN-ENG-014-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Selects evidence that carries the stated reading. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda reward the reading and the quotation together: the 2016 memo requires quotation in the Mandela contrast and answers the title question by quoting the blessing of water; the 2017 memo credits the wordplay of composition/decomposition with the poem's message and expects quotation; the 2018 memo credits an explanation of a compressed expression and requires substantiation and reference to the poem in the title and addressee questions. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]",
+    "confidence": "high"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-015-A",
+    "understanding_model_id": "UNDERSTANDING-ENG-015",
+    "target_breakdown": "BREAKDOWN-ENG-015-A",
+    "question": "What response does this opening move try to produce in a reader who meets it first?",
+    "purpose": "[Tier 3] Distinguish Treats a rhetorical question as a genuine question to be answered with information from the text. from States a general \"engages the reader\" effect without tying it to this text's purpose.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-015-A",
+      "BREAKDOWN-ENG-015-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Names an effect attributable to this opening. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit effect and purpose: the 2016 memo judges the opening sentence by its conversational style, its use of a quotation and the writer's purpose of raising awareness; the 2017 memo explains that the opening question points to the ridiculousness of the question and involves the reader; the 2018 memo credits a rhetorical question with raising awareness and prompting action. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]",
+    "confidence": "medium"
+  },
+  {
+    "diagnostic_id": "DIAG-ENG-015-B",
+    "understanding_model_id": "UNDERSTANDING-ENG-015",
+    "target_breakdown": "BREAKDOWN-ENG-015-B",
+    "question": "How does that effect serve the writer's purpose in this piece?",
+    "purpose": "[Tier 3] Distinguish States a general \"engages the reader\" effect without tying it to this text's purpose. from Treats a rhetorical question as a genuine question to be answered with information from the text.",
+    "distinguishes": [
+      "BREAKDOWN-ENG-015-A",
+      "BREAKDOWN-ENG-015-B"
+    ],
+    "expected_evidence": [
+      "[Tier 3] Connects the opening to the text's argument or aim. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "The answer names the feature but states no effect.",
+        "follow_up": "What does that feature make the reader notice or feel here?"
+      }
+    ],
+    "source_or_rationale": "[Tier 3 proposed diagnostic, not validated on learners] The memoranda credit effect and purpose: the 2016 memo judges the opening sentence by its conversational style, its use of a quotation and the writer's purpose of raising awareness; the 2017 memo explains that the opening question points to the ridiculousness of the question and involves the reader; the 2018 memo credits a rhetorical question with raising awareness and prompting action. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]",
+    "confidence": "medium"
+  }
+]

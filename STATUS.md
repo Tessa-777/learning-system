@@ -3,13 +3,13 @@
 This file is auto-written by `scripts/phase1_bootstrap.py` and should be updated after each run (IMPLEMENTATION_SPEC §25). The current phase is recorded under `runs/`.
 
 ```yaml
-current_phase: 4-11 (biology Pass 1 + Pass 2; Phase 7 not run)
-current_subject: biology
+current_phase: 4-11 (english Pass 1 + Pass 2; Phase 7 not run)
+current_subject: english
 status: completed_with_review
 knowledge_bank_version: null
-unresolved_items: 19 # current biology run only; earlier subject queues remain open
-last_run_id: 20260912T032614Z_139d
-next_allowed_phase: biology review/acquisition and Phase 7 mapping; no automatic phase continuation
+unresolved_items: 23 # current english run only; earlier subject queues remain open
+last_run_id: 20260914T081202Z_864a
+next_allowed_phase: english review/acquisition and Phase 7 mapping; no automatic phase continuation
 ```
 
 > **Corrections to earlier entries in this file.** The Phase 3 aggregate below states that
@@ -434,3 +434,31 @@ This supersedes the historical statement above that all non-physics subjects sti
 stub Pass 1 records. Physics and the other subjects were not rebuilt or changed.
 Only biology entries in the all-subject aggregate were replaced. No later phase was run.
 <!-- BIOLOGY_PASS2_END -->
+
+
+
+<!-- ENGLISH_PASS2_START -->
+## English Two-Pass — 2026-09-14
+
+**Status:** completed_with_review · **Run:** `20260914T081202Z_864a`
+
+126 question records from five verified paper+memo pairs (80 + 90 + 90 + 90 + 90 = 440 marks).
+15 families, 15 Understanding Models, 30 breakdowns
+and 30 diagnostics; 90 objects schema-valid.
+81 records classified; 45 deliberately unassigned
+(26 image-dependent, 13 without marking evidence).
+23 review items. All models are `unvalidated`, `0.1.0-draft`; curriculum coverage remains unknown.
+
+**Not saturated:** the dictionary-entry family is first observed in the final third of the batch, five papers
+sit below the recommended 8–15, and thirteen strata are unsampled (every unpaired sitting, the orphaned
+2025/2026 memorandum, and the essay/transactional and visual-literacy competences). The header-less July 2014
+memorandum was paired on content; the July 2013 paper / 2025-26 memo stub pairing is rejected.
+
+Full report: `knowledge/english/ENGLISH_REPORT.md`.
+Entry point: `python scripts/run_english_pass2.py`; tests: `python -m pytest`.
+Review queue: `review_queue/RQ-P4-ENG-PASS2.yaml`.
+
+This supersedes the historical statement above that all non-physics subjects still have stub Pass 1
+records. Physics, biology and the other subjects were not rebuilt or changed. Only english entries in the
+all-subject aggregate were replaced, and the stub batch was overwritten as required. No later phase was run.
+<!-- ENGLISH_PASS2_END -->
