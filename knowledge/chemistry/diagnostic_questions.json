@@ -1,0 +1,728 @@
+[
+  {
+    "diagnostic_id": "DIAG-CHEM-001-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-001",
+    "target_breakdown": "BREAKDOWN-CHEM-001-01",
+    "question": "Probe Bonding & Definitions (QUESTION-FAMILY-CHEM-001): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-001-02",
+      "BREAKDOWN-CHEM-001-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-001 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-001-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-001",
+    "target_breakdown": "BREAKDOWN-CHEM-001-02",
+    "question": "Probe Bonding & Definitions (QUESTION-FAMILY-CHEM-001): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-001-01",
+      "BREAKDOWN-CHEM-001-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-001 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-001-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-001",
+    "target_breakdown": "BREAKDOWN-CHEM-001-03",
+    "question": "Probe Bonding & Definitions (QUESTION-FAMILY-CHEM-001): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-001-01",
+      "BREAKDOWN-CHEM-001-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-001 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-002-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-002",
+    "target_breakdown": "BREAKDOWN-CHEM-002-01",
+    "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-002): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-002-02",
+      "BREAKDOWN-CHEM-002-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-002 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-002-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-002",
+    "target_breakdown": "BREAKDOWN-CHEM-002-02",
+    "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-002): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-002-01",
+      "BREAKDOWN-CHEM-002-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-002 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-002-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-002",
+    "target_breakdown": "BREAKDOWN-CHEM-002-03",
+    "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-002): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-002-01",
+      "BREAKDOWN-CHEM-002-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-002 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-003-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-003",
+    "target_breakdown": "BREAKDOWN-CHEM-003-01",
+    "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-003): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-003-02",
+      "BREAKDOWN-CHEM-003-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-003 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-003-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-003",
+    "target_breakdown": "BREAKDOWN-CHEM-003-02",
+    "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-003): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-003-01",
+      "BREAKDOWN-CHEM-003-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-003 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-003-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-003",
+    "target_breakdown": "BREAKDOWN-CHEM-003-03",
+    "question": "Probe Stoichiometry (QUESTION-FAMILY-CHEM-003): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-003-01",
+      "BREAKDOWN-CHEM-003-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-003 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-004-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-004",
+    "target_breakdown": "BREAKDOWN-CHEM-004-01",
+    "question": "Probe Bonding (QUESTION-FAMILY-CHEM-004): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-004-02",
+      "BREAKDOWN-CHEM-004-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-004 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-004-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-004",
+    "target_breakdown": "BREAKDOWN-CHEM-004-02",
+    "question": "Probe Bonding (QUESTION-FAMILY-CHEM-004): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-004-01",
+      "BREAKDOWN-CHEM-004-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-004 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-004-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-004",
+    "target_breakdown": "BREAKDOWN-CHEM-004-03",
+    "question": "Probe Bonding (QUESTION-FAMILY-CHEM-004): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-004-01",
+      "BREAKDOWN-CHEM-004-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-004 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-005-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-005",
+    "target_breakdown": "BREAKDOWN-CHEM-005-01",
+    "question": "Probe Bonding (QUESTION-FAMILY-CHEM-005): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-005-02",
+      "BREAKDOWN-CHEM-005-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-005 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-005-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-005",
+    "target_breakdown": "BREAKDOWN-CHEM-005-02",
+    "question": "Probe Bonding (QUESTION-FAMILY-CHEM-005): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-005-01",
+      "BREAKDOWN-CHEM-005-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-005 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-005-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-005",
+    "target_breakdown": "BREAKDOWN-CHEM-005-03",
+    "question": "Probe Bonding (QUESTION-FAMILY-CHEM-005): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-005-01",
+      "BREAKDOWN-CHEM-005-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-005 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-006-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-006",
+    "target_breakdown": "BREAKDOWN-CHEM-006-01",
+    "question": "Probe Organic Chemistry (QUESTION-FAMILY-CHEM-006): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-006-02",
+      "BREAKDOWN-CHEM-006-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-006 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-006-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-006",
+    "target_breakdown": "BREAKDOWN-CHEM-006-02",
+    "question": "Probe Organic Chemistry (QUESTION-FAMILY-CHEM-006): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-006-01",
+      "BREAKDOWN-CHEM-006-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-006 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-006-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-006",
+    "target_breakdown": "BREAKDOWN-CHEM-006-03",
+    "question": "Probe Organic Chemistry (QUESTION-FAMILY-CHEM-006): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-006-01",
+      "BREAKDOWN-CHEM-006-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-006 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-007-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-007",
+    "target_breakdown": "BREAKDOWN-CHEM-007-01",
+    "question": "Probe Intermolecular Forces (QUESTION-FAMILY-CHEM-007): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-007-02",
+      "BREAKDOWN-CHEM-007-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-007 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-007-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-007",
+    "target_breakdown": "BREAKDOWN-CHEM-007-02",
+    "question": "Probe Intermolecular Forces (QUESTION-FAMILY-CHEM-007): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-007-01",
+      "BREAKDOWN-CHEM-007-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-007 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-007-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-007",
+    "target_breakdown": "BREAKDOWN-CHEM-007-03",
+    "question": "Probe Intermolecular Forces (QUESTION-FAMILY-CHEM-007): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-007-01",
+      "BREAKDOWN-CHEM-007-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-007 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-008-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-008",
+    "target_breakdown": "BREAKDOWN-CHEM-008-01",
+    "question": "Probe Reaction Rates (QUESTION-FAMILY-CHEM-008): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-008-02",
+      "BREAKDOWN-CHEM-008-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-008 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-008-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-008",
+    "target_breakdown": "BREAKDOWN-CHEM-008-02",
+    "question": "Probe Reaction Rates (QUESTION-FAMILY-CHEM-008): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-008-01",
+      "BREAKDOWN-CHEM-008-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-008 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-008-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-008",
+    "target_breakdown": "BREAKDOWN-CHEM-008-03",
+    "question": "Probe Reaction Rates (QUESTION-FAMILY-CHEM-008): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-008-01",
+      "BREAKDOWN-CHEM-008-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-008 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-009-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-009",
+    "target_breakdown": "BREAKDOWN-CHEM-009-01",
+    "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-009): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-009-02",
+      "BREAKDOWN-CHEM-009-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-009 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-009-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-009",
+    "target_breakdown": "BREAKDOWN-CHEM-009-02",
+    "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-009): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-009-01",
+      "BREAKDOWN-CHEM-009-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-009 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-009-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-009",
+    "target_breakdown": "BREAKDOWN-CHEM-009-03",
+    "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-009): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-009-01",
+      "BREAKDOWN-CHEM-009-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-009 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-010-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-010",
+    "target_breakdown": "BREAKDOWN-CHEM-010-01",
+    "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-010): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-010-02",
+      "BREAKDOWN-CHEM-010-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-010 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-010-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-010",
+    "target_breakdown": "BREAKDOWN-CHEM-010-02",
+    "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-010): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-010-01",
+      "BREAKDOWN-CHEM-010-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-010 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-010-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-010",
+    "target_breakdown": "BREAKDOWN-CHEM-010-03",
+    "question": "Probe Energy & Chemical Change (QUESTION-FAMILY-CHEM-010): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-010-01",
+      "BREAKDOWN-CHEM-010-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-010 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-011-01",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-011",
+    "target_breakdown": "BREAKDOWN-CHEM-011-01",
+    "question": "Probe Matter & Skills (QUESTION-FAMILY-CHEM-011): does the student show interpretation competence?",
+    "purpose": "Find whether the student's difficulty is in interpretation rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-011-02",
+      "BREAKDOWN-CHEM-011-03"
+    ],
+    "expected_evidence": [
+      "correct response on the interpretation probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the interpretation sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-011 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-011-02",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-011",
+    "target_breakdown": "BREAKDOWN-CHEM-011-02",
+    "question": "Probe Matter & Skills (QUESTION-FAMILY-CHEM-011): does the student show execution competence?",
+    "purpose": "Find whether the student's difficulty is in execution rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-011-01",
+      "BREAKDOWN-CHEM-011-03"
+    ],
+    "expected_evidence": [
+      "correct response on the execution probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the execution sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-011 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  },
+  {
+    "diagnostic_id": "DIAG-CHEM-011-03",
+    "understanding_model_id": "UNDERSTANDING-MODEL-CHEM-011",
+    "target_breakdown": "BREAKDOWN-CHEM-011-03",
+    "question": "Probe Matter & Skills (QUESTION-FAMILY-CHEM-011): does the student show verification competence?",
+    "purpose": "Find whether the student's difficulty is in verification rather than elsewhere.",
+    "distinguishes": [
+      "BREAKDOWN-CHEM-011-01",
+      "BREAKDOWN-CHEM-011-02"
+    ],
+    "expected_evidence": [
+      "correct response on the verification probe"
+    ],
+    "follow_up_conditions": [
+      {
+        "condition": "student answers incorrectly",
+        "follow_up": "re-teach the verification sub-skill"
+      }
+    ],
+    "source_or_rationale": "authored from QUESTION-FAMILY-CHEM-011 member distribution; see UNRES-CHEM-011 for image-dependent items",
+    "confidence": "unknown"
+  }
+]

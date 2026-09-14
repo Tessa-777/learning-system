@@ -1,0 +1,84 @@
+- artifact_id: ART-0001
+  path: /home/user/learning-system/data/extracted/chemistry_pass1.json
+  type: json
+  created_or_modified: '2026-09-12T04:38:58.660012Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: db5dcfe7b7aa6c15761b06c65ee766883df0a8049e22a9795f07d79367203e29
+  description: 'Chemistry two-pass artifact: data/extracted/chemistry_pass1.json'
+- artifact_id: ART-0002
+  path: /home/user/learning-system/data/extracted/pass1/chemistry/_BATCH_SUMMARY.json
+  type: json
+  created_or_modified: '2026-09-12T04:38:58.661260Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: be82ee617a1a9ffbf7cf964791a5b27c652dc7b99afa90aeb2c795f3a4c30e48
+  description: 'Chemistry two-pass artifact: data/extracted/pass1/chemistry/_BATCH_SUMMARY.json'
+- artifact_id: ART-0003
+  path: /home/user/learning-system/knowledge/chemistry/question_families.json
+  type: json
+  created_or_modified: '2026-09-12T04:38:58.661357Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: 95505671fcdf43dd908d2c82b96e4c8a1c1d4e30f926953228cfd5a9df170c06
+  description: 'Chemistry two-pass artifact: knowledge/chemistry/question_families.json'
+- artifact_id: ART-0004
+  path: /home/user/learning-system/knowledge/chemistry/understanding_models.json
+  type: json
+  created_or_modified: '2026-09-12T04:38:58.661426Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: 787589743b1a93e826af30970989d782eaf3b0f54fd1450398228bf669a772db
+  description: 'Chemistry two-pass artifact: knowledge/chemistry/understanding_models.json'
+- artifact_id: ART-0005
+  path: /home/user/learning-system/knowledge/chemistry/breakdown_models.json
+  type: json
+  created_or_modified: '2026-09-12T04:38:58.661505Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: 7730b5c6f5e137791fe00b9f1e843f92d70c48b9105597ecf20f7f42451dc314
+  description: 'Chemistry two-pass artifact: knowledge/chemistry/breakdown_models.json'
+- artifact_id: ART-0006
+  path: /home/user/learning-system/knowledge/chemistry/diagnostic_questions.json
+  type: json
+  created_or_modified: '2026-09-12T04:38:58.661545Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: 5ea65f60c802334a70ff7c012c0b7fb3362a382c0aec9718f504c22859d5e06d
+  description: 'Chemistry two-pass artifact: knowledge/chemistry/diagnostic_questions.json'
+- artifact_id: ART-0007
+  path: /home/user/learning-system/knowledge/chemistry/unresolved_items.json
+  type: json
+  created_or_modified: '2026-09-12T04:38:58.661590Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: dba299e08f60ac8813f6b493a68532d0f0399f630426c2600f50b8e7be710497
+  description: 'Chemistry two-pass artifact: knowledge/chemistry/unresolved_items.json'
+- artifact_id: ART-0008
+  path: /home/user/learning-system/knowledge/chemistry/saturation_report.json
+  type: json
+  created_or_modified: '2026-09-12T04:38:58.661626Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: eab0beb62ef16cecc833d49ece07c9f9e738355785df107507aec73905a04627
+  description: 'Chemistry two-pass artifact: knowledge/chemistry/saturation_report.json'
+- artifact_id: ART-0009
+  path: /home/user/learning-system/knowledge/chemistry/pass2_output.json
+  type: json
+  created_or_modified: '2026-09-12T04:38:58.661656Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: 281d1a77fd0402d560ac2650783f6855a49c499312387f7592fde18dc39d7dfc
+  description: 'Chemistry two-pass artifact: knowledge/chemistry/pass2_output.json'
+- artifact_id: ART-0010
+  path: /home/user/learning-system/knowledge/chemistry/_PASS2_SUMMARY.json
+  type: json
+  created_or_modified: '2026-09-12T04:38:58.661826Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: 00089f0a4672937fd6992b6e42a716052b276ea09b605b9905535893b801af39
+  description: 'Chemistry two-pass artifact: knowledge/chemistry/_PASS2_SUMMARY.json'
+- artifact_id: ART-0011
+  path: /home/user/learning-system/knowledge/chemistry/PASS2_REPORT.md
+  type: markdown
+  created_or_modified: '2026-09-12T04:38:58.661857Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: b3a5769214b614253916cf701140425a4feab16f61a23e2bf11a0546b0f85e0d
+  description: 'Chemistry two-pass artifact: knowledge/chemistry/PASS2_REPORT.md'
+- artifact_id: ART-0012
+  path: /home/user/learning-system/review_queue/RQ-P4-CHEM-PASS2.yaml
+  type: yaml
+  created_or_modified: '2026-09-12T04:38:58.661883Z'
+  source_run: 20260912T043853Z_a257
+  content_hash: 67fc15abc94c8e61440e5860695b49c6b9232c7e307e2ff0e2e99fa0985ee816
+  description: 'Chemistry two-pass artifact: review_queue/RQ-P4-CHEM-PASS2.yaml'

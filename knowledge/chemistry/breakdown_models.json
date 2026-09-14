@@ -1,0 +1,728 @@
+[
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-001-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-001",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-001-01"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q2.3.1",
+      "chemistry_2019_internal_paper2_june_q2.1.1",
+      "chemistry_2019_internal_paper2_june_q3.4.4",
+      "chemistry_2019_internal_paper2_june_q3.4.5"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-001-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-001",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-001-02"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q2.3.1",
+      "chemistry_2019_internal_paper2_june_q2.1.1",
+      "chemistry_2019_internal_paper2_june_q3.4.4",
+      "chemistry_2019_internal_paper2_june_q3.4.5"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-001-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-001",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-001-03"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q2.3.1",
+      "chemistry_2019_internal_paper2_june_q2.1.1",
+      "chemistry_2019_internal_paper2_june_q3.4.4",
+      "chemistry_2019_internal_paper2_june_q3.4.5"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-002-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-002",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-002-01"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q4.2.1",
+      "chemistry_2018_internal_paper2_june_q4.2.3",
+      "chemistry_2018_internal_paper2_june_q4.3.1",
+      "chemistry_2018_internal_paper2_june_q4.3.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-002-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-002",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-002-02"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q4.2.1",
+      "chemistry_2018_internal_paper2_june_q4.2.3",
+      "chemistry_2018_internal_paper2_june_q4.3.1",
+      "chemistry_2018_internal_paper2_june_q4.3.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-002-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-002",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-002-03"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q4.2.1",
+      "chemistry_2018_internal_paper2_june_q4.2.3",
+      "chemistry_2018_internal_paper2_june_q4.3.1",
+      "chemistry_2018_internal_paper2_june_q4.3.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-003-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-003",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-003-01"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q4.1",
+      "chemistry_2018_internal_paper2_june_q5.2",
+      "chemistry_2018_internal_paper2_june_q5.3",
+      "chemistry_2019_internal_paper2_june_q7.1.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-003-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-003",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-003-02"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q4.1",
+      "chemistry_2018_internal_paper2_june_q5.2",
+      "chemistry_2018_internal_paper2_june_q5.3",
+      "chemistry_2019_internal_paper2_june_q7.1.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-003-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-003",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-003-03"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q4.1",
+      "chemistry_2018_internal_paper2_june_q5.2",
+      "chemistry_2018_internal_paper2_june_q5.3",
+      "chemistry_2019_internal_paper2_june_q7.1.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-004-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-004",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-004-01"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q3.1",
+      "chemistry_2018_internal_paper2_june_q3.2",
+      "chemistry_2019_internal_paper2_june_q3.4.6",
+      "chemistry_2021_internal_paper2_nov_q2.2.5"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-004-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-004",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-004-02"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q3.1",
+      "chemistry_2018_internal_paper2_june_q3.2",
+      "chemistry_2019_internal_paper2_june_q3.4.6",
+      "chemistry_2021_internal_paper2_nov_q2.2.5"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-004-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-004",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-004-03"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q3.1",
+      "chemistry_2018_internal_paper2_june_q3.2",
+      "chemistry_2019_internal_paper2_june_q3.4.6",
+      "chemistry_2021_internal_paper2_nov_q2.2.5"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-005-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-005",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-005-01"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q2.2",
+      "chemistry_2018_internal_paper2_june_q2.4.1",
+      "chemistry_2018_internal_paper2_june_q2.5.2",
+      "chemistry_2018_internal_paper2_june_q3.4"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-005-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-005",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-005-02"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q2.2",
+      "chemistry_2018_internal_paper2_june_q2.4.1",
+      "chemistry_2018_internal_paper2_june_q2.5.2",
+      "chemistry_2018_internal_paper2_june_q3.4"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-005-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-005",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-005-03"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q2.2",
+      "chemistry_2018_internal_paper2_june_q2.4.1",
+      "chemistry_2018_internal_paper2_june_q2.5.2",
+      "chemistry_2018_internal_paper2_june_q3.4"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-006-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-006",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-006-01"
+    ],
+    "source_basis": [
+      "chemistry_2020_internal_paper2_nov_q7.3",
+      "chemistry_2020_internal_paper2_nov_q7.4",
+      "chemistry_2020_internal_paper2_nov_q7.5.1",
+      "chemistry_2020_internal_paper2_nov_q8.1"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-006-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-006",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-006-02"
+    ],
+    "source_basis": [
+      "chemistry_2020_internal_paper2_nov_q7.3",
+      "chemistry_2020_internal_paper2_nov_q7.4",
+      "chemistry_2020_internal_paper2_nov_q7.5.1",
+      "chemistry_2020_internal_paper2_nov_q8.1"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-006-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-006",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-006-03"
+    ],
+    "source_basis": [
+      "chemistry_2020_internal_paper2_nov_q7.3",
+      "chemistry_2020_internal_paper2_nov_q7.4",
+      "chemistry_2020_internal_paper2_nov_q7.5.1",
+      "chemistry_2020_internal_paper2_nov_q8.1"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-007-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-007",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-007-01"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q2.4.2",
+      "chemistry_2019_internal_paper2_june_q3.2",
+      "chemistry_2021_internal_paper2_nov_q2.2.4",
+      "chemistry_2021_internal_paper2_nov_q2.2.7"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-007-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-007",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-007-02"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q2.4.2",
+      "chemistry_2019_internal_paper2_june_q3.2",
+      "chemistry_2021_internal_paper2_nov_q2.2.4",
+      "chemistry_2021_internal_paper2_nov_q2.2.7"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-007-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-007",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-007-03"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q2.4.2",
+      "chemistry_2019_internal_paper2_june_q3.2",
+      "chemistry_2021_internal_paper2_nov_q2.2.4",
+      "chemistry_2021_internal_paper2_nov_q2.2.7"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-008-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-008",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-008-01"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q6.6",
+      "chemistry_2018_internal_paper2_june_q6.7",
+      "chemistry_2018_internal_paper2_june_q6.9",
+      "chemistry_2019_internal_paper2_june_q5.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-008-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-008",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-008-02"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q6.6",
+      "chemistry_2018_internal_paper2_june_q6.7",
+      "chemistry_2018_internal_paper2_june_q6.9",
+      "chemistry_2019_internal_paper2_june_q5.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-008-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-008",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-008-03"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q6.6",
+      "chemistry_2018_internal_paper2_june_q6.7",
+      "chemistry_2018_internal_paper2_june_q6.9",
+      "chemistry_2019_internal_paper2_june_q5.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-009-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-009",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-009-01"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q3.5.2",
+      "chemistry_2018_internal_paper2_june_q3.5.4",
+      "chemistry_2019_internal_paper2_june_q4.2.2",
+      "chemistry_2019_internal_paper2_june_q4.2.3"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-009-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-009",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-009-02"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q3.5.2",
+      "chemistry_2018_internal_paper2_june_q3.5.4",
+      "chemistry_2019_internal_paper2_june_q4.2.2",
+      "chemistry_2019_internal_paper2_june_q4.2.3"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-009-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-009",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-009-03"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q3.5.2",
+      "chemistry_2018_internal_paper2_june_q3.5.4",
+      "chemistry_2019_internal_paper2_june_q4.2.2",
+      "chemistry_2019_internal_paper2_june_q4.2.3"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-010-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-010",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-010-01"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q3.5.6",
+      "chemistry_2018_internal_paper2_june_q3.5.7",
+      "chemistry_2020_internal_paper2_nov_q4.3.1",
+      "chemistry_2020_internal_paper2_nov_q4.3.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-010-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-010",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-010-02"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q3.5.6",
+      "chemistry_2018_internal_paper2_june_q3.5.7",
+      "chemistry_2020_internal_paper2_nov_q4.3.1",
+      "chemistry_2020_internal_paper2_nov_q4.3.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-010-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-010",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-010-03"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q3.5.6",
+      "chemistry_2018_internal_paper2_june_q3.5.7",
+      "chemistry_2020_internal_paper2_nov_q4.3.1",
+      "chemistry_2020_internal_paper2_nov_q4.3.2"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-011-01",
+    "description": "Recognises the trigger or keyword of the item",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-011",
+    "stage": "interpretation",
+    "observable_signals": [
+      "student output shows interpretation competence"
+    ],
+    "possible_confusions": [
+      "confuses the trigger with a similar one"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-011-01"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q1.6",
+      "chemistry_2019_internal_paper2_june_q1.1",
+      "chemistry_2019_internal_paper2_june_q1.2",
+      "chemistry_2020_internal_paper2_nov_q1.1"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-011-02",
+    "description": "Carries the required procedure accurately",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-011",
+    "stage": "execution",
+    "observable_signals": [
+      "student output shows execution competence"
+    ],
+    "possible_confusions": [
+      "skips or misorders a step"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-011-02"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q1.6",
+      "chemistry_2019_internal_paper2_june_q1.1",
+      "chemistry_2019_internal_paper2_june_q1.2",
+      "chemistry_2020_internal_paper2_nov_q1.1"
+    ],
+    "confidence": "unknown"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-CHEM-011-03",
+    "description": "Reports the answer in the form the memo rewards",
+    "parent_understanding_model": "UNDERSTANDING-MODEL-CHEM-011",
+    "stage": "verification",
+    "observable_signals": [
+      "student output shows verification competence"
+    ],
+    "possible_confusions": [
+      "omits a unit or a ticked element"
+    ],
+    "distinguishing_questions": [
+      "DIAG-CHEM-011-03"
+    ],
+    "source_basis": [
+      "chemistry_2018_internal_paper2_june_q1.6",
+      "chemistry_2019_internal_paper2_june_q1.1",
+      "chemistry_2019_internal_paper2_june_q1.2",
+      "chemistry_2020_internal_paper2_nov_q1.1"
+    ],
+    "confidence": "unknown"
+  }
+]
