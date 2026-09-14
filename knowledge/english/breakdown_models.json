@@ -1,0 +1,734 @@
+[
+  {
+    "breakdown_id": "BREAKDOWN-ENG-001-A",
+    "description": "[Tier 3 possible failure] Names the register correctly but attaches a generic effect, e.g. \"makes it interesting\", that is not tied to this text. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-001",
+    "stage": "interpretation",
+    "observable_signals": [
+      "Can quote the language but cannot connect it to the message or the reader in this paragraph. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]"
+    ],
+    "possible_confusions": [
+      "Uses the wrong style term for the evidence quoted (for example calls a colloquial paragraph formal), or treats connotation as a synonym list. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-001-A",
+      "DIAG-ENG-001-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.3",
+      "english_2016_internal_paper1_nov_q1.5.1",
+      "english_2016_internal_paper1_nov_q6.1",
+      "english_2016_internal_paper1_nov_q6.4",
+      "english_2017_internal_paper1_nov_q1.2",
+      "english_2017_internal_paper1_nov_q1.8",
+      "english_2017_internal_paper1_nov_q5.1",
+      "english_2018_internal_paper1_july_q1.7.1",
+      "english_2018_internal_paper1_july_q6.4"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-001-B",
+    "description": "[Tier 3 possible failure] Uses the wrong style term for the evidence quoted (for example calls a colloquial paragraph formal), or treats connotation as a synonym list. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-001",
+    "stage": "concept",
+    "observable_signals": [
+      "Supplies a term that contradicts the quotation offered. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]"
+    ],
+    "possible_confusions": [
+      "Names the register correctly but attaches a generic effect, e.g. \"makes it interesting\", that is not tied to this text. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-001-A",
+      "DIAG-ENG-001-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.3",
+      "english_2016_internal_paper1_nov_q1.5.1",
+      "english_2016_internal_paper1_nov_q6.1",
+      "english_2016_internal_paper1_nov_q6.4",
+      "english_2017_internal_paper1_nov_q1.2",
+      "english_2017_internal_paper1_nov_q1.8",
+      "english_2017_internal_paper1_nov_q5.1",
+      "english_2018_internal_paper1_july_q1.7.1",
+      "english_2018_internal_paper1_july_q6.4"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-002-A",
+    "description": "[Tier 3 possible failure] Corrects a different word from the one carrying the error or names the wrong error type. [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-002",
+    "stage": "concept",
+    "observable_signals": [
+      "The corrected sentence still contains the printed error. [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]"
+    ],
+    "possible_confusions": [
+      "Identifies the error correctly but writes a correction that is not minimal or not accurate (wrong concord form, misspelling of the correction). [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-002-A",
+      "DIAG-ENG-002-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q6.2",
+      "english_2016_internal_paper1_nov_q6.3",
+      "english_2016_internal_paper1_nov_q6.6",
+      "english_2016_internal_paper1_nov_q6.7",
+      "english_2017_internal_paper1_nov_q1.5",
+      "english_2017_internal_paper1_nov_q5.2",
+      "english_2018_internal_paper1_july_q1.4",
+      "english_2018_internal_paper1_july_q6.1"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-002-B",
+    "description": "[Tier 3 possible failure] Identifies the error correctly but writes a correction that is not minimal or not accurate (wrong concord form, misspelling of the correction). [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-002",
+    "stage": "execution",
+    "observable_signals": [
+      "Names the error yet the rewritten element does not match the memo. [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]"
+    ],
+    "possible_confusions": [
+      "Corrects a different word from the one carrying the error or names the wrong error type. [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-002-A",
+      "DIAG-ENG-002-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q6.2",
+      "english_2016_internal_paper1_nov_q6.3",
+      "english_2016_internal_paper1_nov_q6.6",
+      "english_2016_internal_paper1_nov_q6.7",
+      "english_2017_internal_paper1_nov_q1.5",
+      "english_2017_internal_paper1_nov_q5.2",
+      "english_2018_internal_paper1_july_q1.4",
+      "english_2018_internal_paper1_july_q6.1"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-003-A",
+    "description": "[Tier 3 possible failure] Describes the sentence structure accurately but stops before saying what it does to the emphasis or meaning. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-003",
+    "stage": "interpretation",
+    "observable_signals": [
+      "Can label the construction, cannot state an effect. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]"
+    ],
+    "possible_confusions": [
+      "Reads a stylistic effect into punctuation that is doing ordinary grammatical work, or misses that the construction is the point of the question. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-003-A",
+      "DIAG-ENG-003-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.7",
+      "english_2016_internal_paper1_nov_q6.5.1",
+      "english_2016_internal_paper1_nov_q6.5.2",
+      "english_2017_internal_paper1_nov_q1.6",
+      "english_2018_internal_paper1_july_q6.2",
+      "english_2018_internal_paper1_july_q6.5"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-003-B",
+    "description": "[Tier 3 possible failure] Reads a stylistic effect into punctuation that is doing ordinary grammatical work, or misses that the construction is the point of the question. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-003",
+    "stage": "concept",
+    "observable_signals": [
+      "Claims an effect the sentence cannot support. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]"
+    ],
+    "possible_confusions": [
+      "Describes the sentence structure accurately but stops before saying what it does to the emphasis or meaning. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-003-A",
+      "DIAG-ENG-003-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.7",
+      "english_2016_internal_paper1_nov_q6.5.1",
+      "english_2016_internal_paper1_nov_q6.5.2",
+      "english_2017_internal_paper1_nov_q1.6",
+      "english_2018_internal_paper1_july_q6.2",
+      "english_2018_internal_paper1_july_q6.5"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-004-A",
+    "description": "[Tier 3 possible failure] Names the wrong device or interprets the image literally (for example reads \"police cars cockroach through the streets\" as information about insects). [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-004",
+    "stage": "concept",
+    "observable_signals": [
+      "The stated device or meaning contradicts the quoted line. [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]"
+    ],
+    "possible_confusions": [
+      "Names the device correctly but gives a general emotional label such as \"sad\" without saying what the image conveys. [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-004-A",
+      "DIAG-ENG-004-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q4.2",
+      "english_2016_internal_paper1_nov_q4.3",
+      "english_2017_internal_paper1_nov_q3.1",
+      "english_2017_internal_paper1_nov_q3.3",
+      "english_2017_internal_paper1_nov_q3.7.2",
+      "english_2018_internal_paper1_july_q4.2",
+      "english_2018_internal_paper1_july_q4.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-004-B",
+    "description": "[Tier 3 possible failure] Names the device correctly but gives a general emotional label such as \"sad\" without saying what the image conveys. [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-004",
+    "stage": "interpretation",
+    "observable_signals": [
+      "The effect is not derived from the quoted words. [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]"
+    ],
+    "possible_confusions": [
+      "Names the wrong device or interprets the image literally (for example reads \"police cars cockroach through the streets\" as information about insects). [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-004-A",
+      "DIAG-ENG-004-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q4.2",
+      "english_2016_internal_paper1_nov_q4.3",
+      "english_2017_internal_paper1_nov_q3.1",
+      "english_2017_internal_paper1_nov_q3.3",
+      "english_2017_internal_paper1_nov_q3.7.2",
+      "english_2018_internal_paper1_july_q4.2",
+      "english_2018_internal_paper1_july_q4.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-005-A",
+    "description": "[Tier 3 possible failure] Describes the stanza's content or mood but does not name the structural feature the question asks about. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-005",
+    "stage": "interpretation",
+    "observable_signals": [
+      "Answers about meaning only, with no structural observation. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]"
+    ],
+    "possible_confusions": [
+      "Treats a structural device as decoration, so the effect is unconnected to the pace or meaning, or confuses enjambment with punctuation. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-005-A",
+      "DIAG-ENG-005-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q4.4",
+      "english_2017_internal_paper1_nov_q3.4",
+      "english_2017_internal_paper1_nov_q3.5",
+      "english_2018_internal_paper1_july_q3.1",
+      "english_2018_internal_paper1_july_q3.2",
+      "english_2018_internal_paper1_july_q3.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-005-B",
+    "description": "[Tier 3 possible failure] Treats a structural device as decoration, so the effect is unconnected to the pace or meaning, or confuses enjambment with punctuation. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-005",
+    "stage": "concept",
+    "observable_signals": [
+      "The named structure does not exist at the cited line. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]"
+    ],
+    "possible_confusions": [
+      "Describes the stanza's content or mood but does not name the structural feature the question asks about. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-005-A",
+      "DIAG-ENG-005-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q4.4",
+      "english_2017_internal_paper1_nov_q3.4",
+      "english_2017_internal_paper1_nov_q3.5",
+      "english_2018_internal_paper1_july_q3.1",
+      "english_2018_internal_paper1_july_q3.2",
+      "english_2018_internal_paper1_july_q3.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-006-A",
+    "description": "[Tier 3 possible failure] Writes about one poem at length and adds a token sentence about the other. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-006",
+    "stage": "strategy",
+    "observable_signals": [
+      "Quotations come from one poem only. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]"
+    ],
+    "possible_confusions": [
+      "Discusses both poems but never states the point of comparison, or quotes without naming the relationship. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-006-A",
+      "DIAG-ENG-006-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q4.6",
+      "english_2017_internal_paper1_nov_q3.10",
+      "english_2018_internal_paper1_july_q4.4"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-006-B",
+    "description": "[Tier 3 possible failure] Discusses both poems but never states the point of comparison, or quotes without naming the relationship. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-006",
+    "stage": "execution",
+    "observable_signals": [
+      "Two paraphrases sit side by side without a link. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]"
+    ],
+    "possible_confusions": [
+      "Writes about one poem at length and adds a token sentence about the other. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-006-A",
+      "DIAG-ENG-006-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q4.6",
+      "english_2017_internal_paper1_nov_q3.10",
+      "english_2018_internal_paper1_july_q4.4"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-007-A",
+    "description": "[Tier 3 possible failure] Answers a neighbouring question — for example explains Iago's manipulation when the question asks about Othello's change. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-007",
+    "stage": "strategy",
+    "observable_signals": [
+      "The response is relevant to the text but not to the character or change asked about. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]"
+    ],
+    "possible_confusions": [
+      "Gives a defensible reason but supports it only from the printed extract, or names no specific moment from the work as a whole. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-007-A",
+      "DIAG-ENG-007-B"
+    ],
+    "source_basis": [
+      "english_2014_internal_paper2_july_q1.4",
+      "english_2014_internal_paper2_july_q1.6",
+      "english_2014_internal_paper2_july_q1.7",
+      "english_2015_internal_paper2_july_q1.2",
+      "english_2015_internal_paper2_july_q1.6",
+      "english_2015_internal_paper2_july_q1.7",
+      "english_2015_internal_paper2_july_q1.8"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-007-B",
+    "description": "[Tier 3 possible failure] Gives a defensible reason but supports it only from the printed extract, or names no specific moment from the work as a whole. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-007",
+    "stage": "execution",
+    "observable_signals": [
+      "The claim is asserted without the required wider-work evidence. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]"
+    ],
+    "possible_confusions": [
+      "Answers a neighbouring question — for example explains Iago's manipulation when the question asks about Othello's change. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-007-A",
+      "DIAG-ENG-007-B"
+    ],
+    "source_basis": [
+      "english_2014_internal_paper2_july_q1.4",
+      "english_2014_internal_paper2_july_q1.6",
+      "english_2014_internal_paper2_july_q1.7",
+      "english_2015_internal_paper2_july_q1.2",
+      "english_2015_internal_paper2_july_q1.6",
+      "english_2015_internal_paper2_july_q1.7",
+      "english_2015_internal_paper2_july_q1.8"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-008-A",
+    "description": "[Tier 3 possible failure] Substitutes a related fact for the one named, or misremembers the relationship between characters. [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-008",
+    "stage": "concept",
+    "observable_signals": [
+      "Names the wrong event or relation with confidence. [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]"
+    ],
+    "possible_confusions": [
+      "Knows the fact but states it without the context the marks require (for example the coinage's two stages). [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-008-A",
+      "DIAG-ENG-008-B"
+    ],
+    "source_basis": [
+      "english_2014_internal_paper2_july_q1.1",
+      "english_2014_internal_paper2_july_q1.2",
+      "english_2014_internal_paper2_july_q1.5",
+      "english_2014_internal_paper2_july_q1.8",
+      "english_2015_internal_paper2_july_q1.1",
+      "english_2015_internal_paper2_july_q1.3"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-008-B",
+    "description": "[Tier 3 possible failure] Knows the fact but states it without the context the marks require (for example the coinage's two stages). [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-008",
+    "stage": "execution",
+    "observable_signals": [
+      "Gives a bare phrase where the memo's answer has two or three parts. [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]"
+    ],
+    "possible_confusions": [
+      "Substitutes a related fact for the one named, or misremembers the relationship between characters. [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-008-A",
+      "DIAG-ENG-008-B"
+    ],
+    "source_basis": [
+      "english_2014_internal_paper2_july_q1.1",
+      "english_2014_internal_paper2_july_q1.2",
+      "english_2014_internal_paper2_july_q1.5",
+      "english_2014_internal_paper2_july_q1.8",
+      "english_2015_internal_paper2_july_q1.1",
+      "english_2015_internal_paper2_july_q1.3"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-009-A",
+    "description": "[Tier 3 possible failure] Quotes accurately but does not explain the words, or explains without quoting. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-009",
+    "stage": "execution",
+    "observable_signals": [
+      "One half of the required pair is missing. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]"
+    ],
+    "possible_confusions": [
+      "Offers an explanation the quotation cannot support, or reads a metaphor literally. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-009-A",
+      "DIAG-ENG-009-B"
+    ],
+    "source_basis": [
+      "english_2014_internal_paper2_july_q1.3",
+      "english_2014_internal_paper2_july_q1.9",
+      "english_2015_internal_paper2_july_q1.4",
+      "english_2015_internal_paper2_july_q1.5"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-009-B",
+    "description": "[Tier 3 possible failure] Offers an explanation the quotation cannot support, or reads a metaphor literally. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-009",
+    "stage": "interpretation",
+    "observable_signals": [
+      "The stated meaning is not located in the quoted words. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]"
+    ],
+    "possible_confusions": [
+      "Quotes accurately but does not explain the words, or explains without quoting. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-009-A",
+      "DIAG-ENG-009-B"
+    ],
+    "source_basis": [
+      "english_2014_internal_paper2_july_q1.3",
+      "english_2014_internal_paper2_july_q1.9",
+      "english_2015_internal_paper2_july_q1.4",
+      "english_2015_internal_paper2_july_q1.5"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-010-A",
+    "description": "[Tier 3 possible failure] The part of speech is misidentified, or the definition does not match the word's use in the paragraph. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-010",
+    "stage": "concept",
+    "observable_signals": [
+      "The entry would not fit the printed sentence. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]"
+    ],
+    "possible_confusions": [
+      "A required component is omitted (no etymology where asked) or is embedded so vaguely that it cannot be credited. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-010-A",
+      "DIAG-ENG-010-B"
+    ],
+    "source_basis": [
+      "english_2017_internal_paper1_nov_q5.3",
+      "english_2018_internal_paper1_july_q1.7.2"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-010-B",
+    "description": "[Tier 3 possible failure] A required component is omitted (no etymology where asked) or is embedded so vaguely that it cannot be credited. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-010",
+    "stage": "execution",
+    "observable_signals": [
+      "Components are missing rather than wrong. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]"
+    ],
+    "possible_confusions": [
+      "The part of speech is misidentified, or the definition does not match the word's use in the paragraph. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-010-A",
+      "DIAG-ENG-010-B"
+    ],
+    "source_basis": [
+      "english_2017_internal_paper1_nov_q5.3",
+      "english_2018_internal_paper1_july_q1.7.2"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-011-A",
+    "description": "[Tier 3 possible failure] Describes what the text says instead of judging reliability, positioning or success. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-011",
+    "stage": "strategy",
+    "observable_signals": [
+      "No position is taken. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]"
+    ],
+    "possible_confusions": [
+      "Takes a position but supports it with evidence that does not bear on the judgment, or ignores the counter-evidence the memo allows. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-011-A",
+      "DIAG-ENG-011-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.9",
+      "english_2017_internal_paper1_nov_q1.10",
+      "english_2018_internal_paper1_july_q1.5",
+      "english_2018_internal_paper1_july_q1.8"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-011-B",
+    "description": "[Tier 3 possible failure] Takes a position but supports it with evidence that does not bear on the judgment, or ignores the counter-evidence the memo allows. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-011",
+    "stage": "interpretation",
+    "observable_signals": [
+      "The evidence and the judgment are unrelated. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]"
+    ],
+    "possible_confusions": [
+      "Describes what the text says instead of judging reliability, positioning or success. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-011-A",
+      "DIAG-ENG-011-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.9",
+      "english_2017_internal_paper1_nov_q1.10",
+      "english_2018_internal_paper1_july_q1.5",
+      "english_2018_internal_paper1_july_q1.8"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-012-A",
+    "description": "[Tier 3 possible failure] Gives a general definition of the idiom rather than its meaning in this passage, or misses that the expression has been altered. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-012",
+    "stage": "concept",
+    "observable_signals": [
+      "The answer could belong to any text. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]"
+    ],
+    "possible_confusions": [
+      "Explains one form but not the other when the question asks for a comparison of the two. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-012-A",
+      "DIAG-ENG-012-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.2",
+      "english_2016_internal_paper1_nov_q1.6",
+      "english_2017_internal_paper1_nov_q1.7",
+      "english_2018_internal_paper1_july_q1.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-012-B",
+    "description": "[Tier 3 possible failure] Explains one form but not the other when the question asks for a comparison of the two. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-012",
+    "stage": "execution",
+    "observable_signals": [
+      "Only half of the required contrast is present. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]"
+    ],
+    "possible_confusions": [
+      "Gives a general definition of the idiom rather than its meaning in this passage, or misses that the expression has been altered. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-012-A",
+      "DIAG-ENG-012-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.2",
+      "english_2016_internal_paper1_nov_q1.6",
+      "english_2017_internal_paper1_nov_q1.7",
+      "english_2018_internal_paper1_july_q1.3"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-013-A",
+    "description": "[Tier 3 possible failure] Identifies only one side of the comparison or substitutes an unrelated association. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-013",
+    "stage": "concept",
+    "observable_signals": [
+      "The qualities transferred are not the image's. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]"
+    ],
+    "possible_confusions": [
+      "Lists the image's qualities but never states the implication for the subject. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-013-A",
+      "DIAG-ENG-013-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.4",
+      "english_2017_internal_paper1_nov_q1.4",
+      "english_2018_internal_paper1_july_q1.2"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-013-B",
+    "description": "[Tier 3 possible failure] Lists the image's qualities but never states the implication for the subject. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-013",
+    "stage": "interpretation",
+    "observable_signals": [
+      "Description of the image replaces the claim about the subject. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]"
+    ],
+    "possible_confusions": [
+      "Identifies only one side of the comparison or substitutes an unrelated association. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-013-A",
+      "DIAG-ENG-013-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.4",
+      "english_2017_internal_paper1_nov_q1.4",
+      "english_2018_internal_paper1_july_q1.2"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-014-A",
+    "description": "[Tier 3 possible failure] Paraphrases the poem stanza by stanza instead of stating a message. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-014",
+    "stage": "strategy",
+    "observable_signals": [
+      "No single reading is asserted. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]"
+    ],
+    "possible_confusions": [
+      "States a defensible message but supports it with no quotation, or quotes lines that carry a different idea. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-014-A",
+      "DIAG-ENG-014-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q3.1",
+      "english_2016_internal_paper1_nov_q3.2",
+      "english_2016_internal_paper1_nov_q3.4",
+      "english_2016_internal_paper1_nov_q4.1",
+      "english_2017_internal_paper1_nov_q3.2",
+      "english_2017_internal_paper1_nov_q3.6",
+      "english_2017_internal_paper1_nov_q3.9",
+      "english_2018_internal_paper1_july_q3.4",
+      "english_2018_internal_paper1_july_q4.1"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-014-B",
+    "description": "[Tier 3 possible failure] States a defensible message but supports it with no quotation, or quotes lines that carry a different idea. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-014",
+    "stage": "execution",
+    "observable_signals": [
+      "The reading and its evidence do not match. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]"
+    ],
+    "possible_confusions": [
+      "Paraphrases the poem stanza by stanza instead of stating a message. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-014-A",
+      "DIAG-ENG-014-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q3.1",
+      "english_2016_internal_paper1_nov_q3.2",
+      "english_2016_internal_paper1_nov_q3.4",
+      "english_2016_internal_paper1_nov_q4.1",
+      "english_2017_internal_paper1_nov_q3.2",
+      "english_2017_internal_paper1_nov_q3.6",
+      "english_2017_internal_paper1_nov_q3.9",
+      "english_2018_internal_paper1_july_q3.4",
+      "english_2018_internal_paper1_july_q4.1"
+    ],
+    "confidence": "high"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-015-A",
+    "description": "[Tier 3 possible failure] Treats a rhetorical question as a genuine question to be answered with information from the text. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-015",
+    "stage": "concept",
+    "observable_signals": [
+      "Supplies factual content instead of an effect. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]"
+    ],
+    "possible_confusions": [
+      "States a general \"engages the reader\" effect without tying it to this text's purpose. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-015-A",
+      "DIAG-ENG-015-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.1",
+      "english_2017_internal_paper1_nov_q1.1",
+      "english_2018_internal_paper1_july_q1.6"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "breakdown_id": "BREAKDOWN-ENG-015-B",
+    "description": "[Tier 3 possible failure] States a general \"engages the reader\" effect without tying it to this text's purpose. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]",
+    "parent_understanding_model": "UNDERSTANDING-ENG-015",
+    "stage": "interpretation",
+    "observable_signals": [
+      "The effect could belong to any opening. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]"
+    ],
+    "possible_confusions": [
+      "Treats a rhetorical question as a genuine question to be answered with information from the text. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]"
+    ],
+    "distinguishing_questions": [
+      "DIAG-ENG-015-A",
+      "DIAG-ENG-015-B"
+    ],
+    "source_basis": [
+      "english_2016_internal_paper1_nov_q1.1",
+      "english_2017_internal_paper1_nov_q1.1",
+      "english_2018_internal_paper1_july_q1.6"
+    ],
+    "confidence": "medium"
+  }
+]

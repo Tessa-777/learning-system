@@ -112,10 +112,11 @@
   },
   "records_extracted": 34,
   "marks_sum_check": {
-    "sum_of_transcribed_items": 89,
-    "printed_total": 90,
+    "sum_of_transcribed_allocated_items": 89,
+    "sum_of_counted_alternative_options": 0,
     "source_shortfall": 1,
-    "match": false,
+    "printed_total": 90,
+    "match": true,
     "declared_source_discrepancies": [
       {
         "section": "5",
@@ -195,7 +196,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -269,7 +270,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -343,7 +344,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -417,7 +418,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -492,7 +493,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -565,7 +566,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -640,7 +641,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -715,7 +716,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -790,7 +791,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -865,7 +866,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -938,7 +939,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1012,7 +1013,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1086,7 +1087,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1160,7 +1161,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1233,7 +1234,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1308,7 +1309,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1382,7 +1383,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1456,7 +1457,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1530,7 +1531,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1606,7 +1607,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1680,7 +1681,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1755,7 +1756,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1828,7 +1829,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1902,7 +1903,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -1975,7 +1976,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -2050,7 +2051,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -2124,7 +2125,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -2200,7 +2201,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -2275,7 +2276,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -2349,7 +2350,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -2422,7 +2423,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -2495,7 +2496,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -2569,7 +2570,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     },
@@ -2643,7 +2644,7 @@
       },
       "extraction": {
         "method": "zipfile (docx) / pypdf (pdf) text layer + manual reading of paper and memorandum",
-        "generated_at": "2026-09-14T08:05:37+00:00",
+        "generated_at": "2026-09-14T08:12:02+00:00",
         "evidence_module": "english_pass1_evidence_2018_jul"
       }
     }

@@ -1,0 +1,616 @@
+review_id: RQ-P4-ENG-PASS2
+run_id: 20260914T081202Z_864a
+subject: english
+phase: 4-11
+item_count: 23
+items:
+- id: UNRES-ENG-001
+  type: data_quality
+  issue: The 2026-named memorandum is dated 2025, disagrees with its own cover row,
+    and is orphaned
+  detail: '"Final of Grade 11 English Paper 1 July 2026 Memo.pdf" prints DATE 22 July
+    2025 in its header, so the year in its filename is wrong, and its printed cover
+    row (20+10+15+10+20+10) sums to 85 against a header of MARKS 80. Neither discrepancy
+    can be settled from the file, and no question paper for that sitting exists in
+    the corpus: no local paper matches its numbered content (a World Cup article comprehension
+    and a voting-speech summary). It was not paired with anything, and no question
+    record was created from it. The trap in the subject prompt — that the document-level
+    stubs paired the July 2013 paper with this 2025/2026 memo — is real and is rejected
+    here on content, not on filename.'
+  affected_entity:
+  - data/organized/english/Final of Grade 11 English Paper 1 July 2026 Memo.pdf
+  evidence:
+  - Memo p1 header and cover row; memo items 1.1-1.6 and 2; no matching paper in data/organized/english
+  possible_resolutions:
+  - Ask the department which sitting this memorandum belongs to, correct the printed
+    total or locate the missing question paper, then extract the pair.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Ask the department which sitting this memorandum belongs to,
+    correct the printed total or locate the missing question paper, then extract the
+    pair.
+- id: UNRES-ENG-002
+  type: coverage_gap
+  issue: Ten locally present papers have no matching local memorandum
+  detail: 'These papers are readable and print dated headers, but no memorandum for
+    their sitting exists in the organised sample, so no question record was created
+    and no marking requirement was inferred. Some also carry printed total conflicts
+    that would need to be resolved before extraction: July 2015 P1 (cover row 30+10+20+20+15=95
+    against MARKS 90), July 2016 P1 (printed row parses as 45+10+20+20=95 against
+    MARKS 90), November 2018 P1 PDF (25+10+20+20+10=85 against MARKS 90) and July
+    2017 P2 (30+30+20=80 against MARKS 90).'
+  affected_entity:
+  - data/organized/english/Grade 11 English Paper 1 July 2013.docx
+  - data/organized/english/Grade 11 Paper 1 July 2014.docx
+  - data/organized/english/Grade 11 English P1 July 2015.docx
+  - data/organized/english/Grade 11 English P1 July 2016.docx
+  - data/organized/english/Grade 11 English Paper 1 July 2017.docx
+  - data/organized/english/Grade 11 Paper 1 Nov 2014.docx
+  - data/organized/english/Grade 11 English P1 Nov 2015.docx
+  - data/organized/english/Grade 11 Paper 1 November 2018 .pdf
+  - data/organized/english/Grade 11 English Paper 2 July 2016.docx
+  - data/organized/english/Grade 11 Paper 2  July 2017.docx
+  evidence:
+  - data/organized/english
+  - data/raw/english/SOURCE_INVENTORY.yaml
+  possible_resolutions:
+  - Acquire the matching memorandum for each sitting and verify it against the paper
+    before extraction; resolve each printed total conflict with the examiner rather
+    than by arithmetic.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Acquire the matching memorandum for each sitting and verify
+    it against the paper before extraction; resolve each printed total conflict with
+    the examiner rather than by arithmetic.
+- id: UNRES-ENG-003
+  type: data_quality
+  issue: Inherited document-level stub pairings were wrong and were not used
+  detail: The stub batch paired the July 2013 paper with the 2025/2026 memorandum
+    and carried no question-level evidence at all. This run rebuilt Pass 1 from printed
+    headers, numbered content, printed totals and source hashes; the manifest at data/organized/sample_manifest.json
+    was not consulted. The stubs are replaced by the question-level batch.
+  affected_entity:
+  - data/extracted/english_pass1.json
+  - data/organized/sample_manifest.json
+  evidence:
+  - Old stub batch; printed content of both documents
+  possible_resolutions:
+  - Correct upstream manifest metadata in a separately authorised run; do not change
+    the preserved source files.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Correct upstream manifest metadata in a separately authorised
+    run; do not change the preserved source files.
+- id: UNRES-ENG-004
+  type: data_quality
+  issue: The subject prompt understates how many files print a date
+  detail: SUBJECT_PROMPTS.md states that only four English files print a DATE in the
+    header block. The mechanical corpus audit finds a dated header block in 19 of
+    the 21 files; only "Grade 11 English Paper 1 July 2013.docx" and "Grade 11 Paper
+    2 July Memo.docx" print none. Pairing therefore used the printed header wherever
+    it existed, and content plus printed totals for the 2014 P2 memorandum, which
+    has no header at all.
+  affected_entity:
+  - SUBJECT_PROMPTS.md
+  - data/organized/english
+  evidence:
+  - Corpus audit generated at data/extracted/pass1/english/_CORPUS_AUDIT.json
+  possible_resolutions:
+  - Treat the prompt sentence as incorrect for this corpus and keep the corpus audit
+    as the record of what each file prints.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Treat the prompt sentence as incorrect for this corpus and keep
+    the corpus audit as the record of what each file prints.
+- id: UNRES-ENG-005
+  type: data_quality
+  issue: The subject prompt reverses the Paper 1 and Paper 2 competences as they appear
+    in this corpus
+  detail: 'SUBJECT_PROMPTS.md describes Paper 1 as "comprehension/contextual questions
+    on set texts" and Paper 2 as "language". In the organised files it is the other
+    way round: every Paper 1 in the batch (July 2018, November 2016 and November 2017,
+    plus the unpaired Paper 1 sittings) opens with a comprehension of a news text,
+    then a summary, a poetry section, visual literacy and textual editing, while every
+    Paper 2 (July 2014 and July 2015) carries the set-work contextual questions, the
+    literature essay and transactional writing. The one genuine overlap is that the
+    Paper 1 poetry section is contextual work on set poems, which is why the competence
+    split in this batch was made per record (paper_type Language / Literature / Writing)
+    rather than from the prompt wording.'
+  affected_entity:
+  - SUBJECT_PROMPTS.md
+  - data/organized/english/Grade 11 Paper 1 July 2018.pdf
+  - data/organized/english/Grade 11 Paper 2 July 2015.docx
+  evidence:
+  - Printed question 1 of the three admitted Paper 1 papers; printed section headings
+    of the two admitted Paper 2 papers
+  possible_resolutions:
+  - Correct the prompt wording and keep the per-record competence labels as the record
+    of what each paper tests.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Correct the prompt wording and keep the per-record competence
+    labels as the record of what each paper tests.
+- id: UNRES-ENG-006
+  type: coverage_gap
+  issue: Each set text occurs in one sitting only, so text-specific families are single-exemplar
+  detail: The God of Small Things appears only in the July 2014 Paper 2 pair and Othello
+    only in the July 2015 Paper 2 pair. Hamlet and Gatsby recur only in papers whose
+    memoranda are absent. A family such as "theme in The God of Small Things" would
+    therefore rest on one paper, which the prompt forbids for evidence-bearing families.
+    Only generic operations (character motive and change, recall of a stated event,
+    close reading of an extract) were admitted, and the Paper 1 and Paper 2 competences
+    were kept in separate families.
+  affected_entity:
+  - data/organized/english/Grade 11 Paper 2 July 2014.docx
+  - data/organized/english/Grade 11 Paper 2 July Memo.docx
+  - data/organized/english/Grade 11 Paper 2 July 2015.docx
+  - data/organized/english/Grade 11 Paper 2 July 2015 Memo.docx
+  evidence:
+  - Set-text sweep of all 21 files; families in ingestion/analysis/english_pass2_families.py
+  possible_resolutions:
+  - Acquire further memoranda for the same set texts (2014-2016) before admitting
+    text-specific theme families.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Acquire further memoranda for the same set texts (2014-2016)
+    before admitting text-specific theme families.
+- id: UNRES-ENG-007
+  type: curriculum_gap
+  issue: No syllabus or ATP in the English sample
+  detail: The organised English sample contains papers and memoranda only. No Grade
+    11 English syllabus, ATP or assessment programme is present, so no curriculum
+    coverage percentage, no missing-topic claim and no Phase 7 mapping is asserted.
+    Topic labels in this batch are the sections printed on the papers themselves.
+  affected_entity:
+  - data/organized/english
+  evidence:
+  - data/organized/english contains no curriculum directory
+  possible_resolutions:
+  - Obtain the school Grade 11 English syllabus/ATP before any curriculum mapping
+    or validation.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Obtain the school Grade 11 English syllabus/ATP before any curriculum
+    mapping or validation.
+- id: UNRES-ENG-008
+  type: contradiction
+  issue: November 2016 Paper 1 Question 1 prints 26 marks but its items allocate 25
+  detail: 'The section heading and cover row say 26 marks while items 1.1-1.9 allocate
+    3+1+2+2+2+3+3+2+3+4 = 25 in both the paper and the memorandum. The missing mark
+    is left unallocated and the shortfall is declared in the batch; the per-item marks
+    that the families use are consistent in both documents. Affected records: english_2016_internal_paper1_nov_q1.1.'
+  affected_entity:
+  - english_2016_internal_paper1_nov_q1.1
+  evidence:
+  - english_2016_internal_paper1_nov_q1.1
+  possible_resolutions:
+  - Confirm the printed allocation with the examiner; preserve the source wording
+    and do not pad or renumber it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Confirm the printed allocation with the examiner; preserve the
+    source wording and do not pad or renumber it.
+- id: UNRES-ENG-009
+  type: contradiction
+  issue: July 2018 Paper 1 Question 5 prints 25 marks but its items allocate 24
+  detail: 'Items 5.1-5.8 allocate 2+3+2+2+2+3+2+5+3 = 24 against the printed 25. All
+    Question 5 records are visual-dependent and are excluded from Pass 2 families,
+    but the printed shortfall is preserved rather than padded. Affected records: english_2018_internal_paper1_july_q5.1.'
+  affected_entity:
+  - english_2018_internal_paper1_july_q5.1
+  evidence:
+  - english_2018_internal_paper1_july_q5.1
+  possible_resolutions:
+  - Confirm the printed allocation with the examiner; preserve the source wording
+    and do not pad or renumber it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Confirm the printed allocation with the examiner; preserve the
+    source wording and do not pad or renumber it.
+- id: UNRES-ENG-010
+  type: data_quality
+  issue: July 2018 Paper 1 prints the textual-editing section as Question 6 but numbers
+    its items 5.1-5.5
+  detail: 'The paper and the memorandum both head the section "QUESTION 6 10 MARKS"
+    and then number its items 5.1-5.5. The batch records the logical numbers 6.1-6.5
+    and stores the printed number separately; nothing is silently renumbered in the
+    source. Affected records: english_2018_internal_paper1_july_q6.1.'
+  affected_entity:
+  - english_2018_internal_paper1_july_q6.1
+  evidence:
+  - english_2018_internal_paper1_july_q6.1
+  possible_resolutions:
+  - Confirm the printed allocation with the examiner; preserve the source wording
+    and do not pad or renumber it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Confirm the printed allocation with the examiner; preserve the
+    source wording and do not pad or renumber it.
+- id: UNRES-ENG-011
+  type: data_quality
+  issue: July 2015 Paper 2 memorandum numbers the last extract question 1.7 twice
+  detail: 'The paper numbers the final Othello item 1.8 while the memorandum repeats
+    1.7 for the prayer question. The record keeps the logical number 1.8 with its
+    printed mark, read from the content. Affected records: english_2015_internal_paper2_july_q1.8.'
+  affected_entity:
+  - english_2015_internal_paper2_july_q1.8
+  evidence:
+  - english_2015_internal_paper2_july_q1.8
+  possible_resolutions:
+  - Confirm the printed allocation with the examiner; preserve the source wording
+    and do not pad or renumber it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Confirm the printed allocation with the examiner; preserve the
+    source wording and do not pad or renumber it.
+- id: UNRES-ENG-012
+  type: fidelity
+  issue: November 2016 Paper 1 memorandum has no Question 5 marking section at all
+  detail: 'The memorandum restates Questions 1, 2, 3, 4 and 6 but prints no marking
+    guidance for the 15-mark visual-literacy question. Those four records retain their
+    question text and marks with no memo answer, and cannot ground any marking requirement.
+    Affected records: english_2016_internal_paper1_nov_q5.1, english_2016_internal_paper1_nov_q5.2.'
+  affected_entity:
+  - english_2016_internal_paper1_nov_q5.1
+  - english_2016_internal_paper1_nov_q5.2
+  evidence:
+  - english_2016_internal_paper1_nov_q5.1
+  - english_2016_internal_paper1_nov_q5.2
+  possible_resolutions:
+  - Confirm the printed allocation with the examiner; preserve the source wording
+    and do not pad or renumber it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Confirm the printed allocation with the examiner; preserve the
+    source wording and do not pad or renumber it.
+- id: UNRES-ENG-013
+  type: rubric_gap
+  issue: Two records are marked by an IEB rubric that the memorandum does not print
+  detail: 'The November 2016 memorandum ends one answer with "Use IEB rubric." and
+    the July 2014 memorandum answers its 6-mark paragraph with "Mark for relevance
+    and quoting from the extracts provided." Neither memorandum prints the rubric
+    descriptors, so no rubric level criteria can be transcribed and neither record
+    is used as family evidence. Affected records: english_2016_internal_paper1_nov_q1.8,
+    english_2014_internal_paper2_july_q1.10.'
+  affected_entity:
+  - english_2016_internal_paper1_nov_q1.8
+  - english_2014_internal_paper2_july_q1.10
+  evidence:
+  - english_2016_internal_paper1_nov_q1.8
+  - english_2014_internal_paper2_july_q1.10
+  possible_resolutions:
+  - Confirm the printed allocation with the examiner; preserve the source wording
+    and do not pad or renumber it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Confirm the printed allocation with the examiner; preserve the
+    source wording and do not pad or renumber it.
+- id: UNRES-ENG-014
+  type: coverage_gap
+  issue: Summary, essay and transactional records carry no marking evidence
+  detail: 'The three Paper 1 summaries (2016, 2017 and 2018) are restated without
+    model answers or rubrics, and the 2014 and 2015 Paper 2 memoranda mark only the
+    set-work question: the essay and the transactional options have no model answers,
+    checklists or rubrics. These nine records cannot ground a breakdown model and
+    are excluded from families. Affected records: english_2016_internal_paper1_nov_q2.1,
+    english_2017_internal_paper1_nov_q2.1, english_2018_internal_paper1_july_q2.1,
+    english_2014_internal_paper2_july_q2.1, english_2014_internal_paper2_july_q3.1,
+    english_2015_internal_paper2_july_q2.1, english_2015_internal_paper2_july_q3.1,
+    english_2015_internal_paper2_july_q3.2, english_2015_internal_paper2_july_q3.3.'
+  affected_entity:
+  - english_2016_internal_paper1_nov_q2.1
+  - english_2017_internal_paper1_nov_q2.1
+  - english_2018_internal_paper1_july_q2.1
+  - english_2014_internal_paper2_july_q2.1
+  - english_2014_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q2.1
+  - english_2015_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q3.2
+  - english_2015_internal_paper2_july_q3.3
+  evidence:
+  - english_2016_internal_paper1_nov_q2.1
+  - english_2017_internal_paper1_nov_q2.1
+  - english_2018_internal_paper1_july_q2.1
+  - english_2014_internal_paper2_july_q2.1
+  - english_2014_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q2.1
+  - english_2015_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q3.2
+  - english_2015_internal_paper2_july_q3.3
+  possible_resolutions:
+  - Confirm the printed allocation with the examiner; preserve the source wording
+    and do not pad or renumber it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Confirm the printed allocation with the examiner; preserve the
+    source wording and do not pad or renumber it.
+- id: UNRES-ENG-015
+  type: single_exemplar
+  issue: Explain why a writer doubts a claim made in the text
+  detail: 'Deferred candidate: this operation is observed once in the batch (english_2017_internal_paper1_nov_q1.3)
+    and cannot support a family or any claim needing two independent sources.'
+  affected_entity:
+  - english_2017_internal_paper1_nov_q1.3
+  evidence:
+  - english_2017_internal_paper1_nov_q1.3
+  possible_resolutions:
+  - Acquire further sittings or class material containing the same operation before
+    promoting it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Acquire further sittings or class material containing the same
+    operation before promoting it.
+- id: UNRES-ENG-016
+  type: single_exemplar
+  issue: Infer what a writer's own words reveal about how they see themselves
+  detail: 'Deferred candidate: this operation is observed once in the batch (english_2017_internal_paper1_nov_q1.9)
+    and cannot support a family or any claim needing two independent sources.'
+  affected_entity:
+  - english_2017_internal_paper1_nov_q1.9
+  evidence:
+  - english_2017_internal_paper1_nov_q1.9
+  possible_resolutions:
+  - Acquire further sittings or class material containing the same operation before
+    promoting it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Acquire further sittings or class material containing the same
+    operation before promoting it.
+- id: UNRES-ENG-017
+  type: single_exemplar
+  issue: Name the figure of speech used in a line, with no effect required
+  detail: 'Deferred candidate: this operation is observed once in the batch (english_2017_internal_paper1_nov_q3.7.1)
+    and cannot support a family or any claim needing two independent sources.'
+  affected_entity:
+  - english_2017_internal_paper1_nov_q3.7.1
+  evidence:
+  - english_2017_internal_paper1_nov_q3.7.1
+  possible_resolutions:
+  - Acquire further sittings or class material containing the same operation before
+    promoting it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Acquire further sittings or class material containing the same
+    operation before promoting it.
+- id: UNRES-ENG-018
+  type: single_exemplar
+  issue: Recall a single quoted word that carries a stated attitude
+  detail: 'Deferred candidate: this operation is observed once in the batch (english_2017_internal_paper1_nov_q3.8)
+    and cannot support a family or any claim needing two independent sources.'
+  affected_entity:
+  - english_2017_internal_paper1_nov_q3.8
+  evidence:
+  - english_2017_internal_paper1_nov_q3.8
+  possible_resolutions:
+  - Acquire further sittings or class material containing the same operation before
+    promoting it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Acquire further sittings or class material containing the same
+    operation before promoting it.
+- id: UNRES-ENG-019
+  type: single_exemplar
+  issue: Define a movement or term in the candidate's own words
+  detail: 'Deferred candidate: this operation is observed once in the batch (english_2018_internal_paper1_july_q1.1)
+    and cannot support a family or any claim needing two independent sources.'
+  affected_entity:
+  - english_2018_internal_paper1_july_q1.1
+  evidence:
+  - english_2018_internal_paper1_july_q1.1
+  possible_resolutions:
+  - Acquire further sittings or class material containing the same operation before
+    promoting it.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Acquire further sittings or class material containing the same
+    operation before promoting it.
+- id: UNRES-ENG-UNASSIGNED
+  type: coverage_gap
+  issue: 45 unassigned question records
+  detail: Records that do not fit an admitted, independently supported family remain
+    unassigned; no coverage is implied by their absence. This is a view over the batch;
+    it overlaps the other views and the unassigned set.
+  affected_entity:
+  - english_2014_internal_paper2_july_q1.10
+  - english_2014_internal_paper2_july_q2.1
+  - english_2014_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q2.1
+  - english_2015_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q3.2
+  - english_2015_internal_paper2_july_q3.3
+  - english_2016_internal_paper1_nov_q1.5.2
+  - english_2016_internal_paper1_nov_q1.8
+  - english_2016_internal_paper1_nov_q2.1
+  - english_2016_internal_paper1_nov_q3.3
+  - english_2016_internal_paper1_nov_q4.5
+  - english_2016_internal_paper1_nov_q5.1
+  - english_2016_internal_paper1_nov_q5.2
+  - english_2016_internal_paper1_nov_q5.3
+  - english_2016_internal_paper1_nov_q5.4
+  - english_2017_internal_paper1_nov_q1.11
+  - english_2017_internal_paper1_nov_q1.3
+  - english_2017_internal_paper1_nov_q1.9
+  - english_2017_internal_paper1_nov_q2.1
+  - english_2017_internal_paper1_nov_q3.11
+  - english_2017_internal_paper1_nov_q3.7.1
+  - english_2017_internal_paper1_nov_q3.8
+  - english_2017_internal_paper1_nov_q4.1
+  - english_2017_internal_paper1_nov_q4.2
+  - english_2017_internal_paper1_nov_q4.3
+  - english_2017_internal_paper1_nov_q4.4
+  - english_2017_internal_paper1_nov_q4.5
+  - english_2017_internal_paper1_nov_q4.6
+  - english_2017_internal_paper1_nov_q4.7
+  - english_2017_internal_paper1_nov_q4.8
+  - english_2018_internal_paper1_july_q1.1
+  - english_2018_internal_paper1_july_q1.9
+  - english_2018_internal_paper1_july_q2.1
+  - english_2018_internal_paper1_july_q3.5
+  - english_2018_internal_paper1_july_q5.1
+  - english_2018_internal_paper1_july_q5.2
+  - english_2018_internal_paper1_july_q5.3.1
+  - english_2018_internal_paper1_july_q5.3.2
+  - english_2018_internal_paper1_july_q5.4
+  - english_2018_internal_paper1_july_q5.5
+  - english_2018_internal_paper1_july_q5.6
+  - english_2018_internal_paper1_july_q5.7
+  - english_2018_internal_paper1_july_q5.8
+  - english_2018_internal_paper1_july_q6.3
+  evidence:
+  - english_2014_internal_paper2_july_q1.10
+  - english_2014_internal_paper2_july_q2.1
+  - english_2014_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q2.1
+  - english_2015_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q3.2
+  - english_2015_internal_paper2_july_q3.3
+  - english_2016_internal_paper1_nov_q1.5.2
+  - english_2016_internal_paper1_nov_q1.8
+  - english_2016_internal_paper1_nov_q2.1
+  - english_2016_internal_paper1_nov_q3.3
+  - english_2016_internal_paper1_nov_q4.5
+  - english_2016_internal_paper1_nov_q5.1
+  - english_2016_internal_paper1_nov_q5.2
+  - english_2016_internal_paper1_nov_q5.3
+  - english_2016_internal_paper1_nov_q5.4
+  - english_2017_internal_paper1_nov_q1.11
+  - english_2017_internal_paper1_nov_q1.3
+  - english_2017_internal_paper1_nov_q1.9
+  - english_2017_internal_paper1_nov_q2.1
+  - english_2017_internal_paper1_nov_q3.11
+  - english_2017_internal_paper1_nov_q3.7.1
+  - english_2017_internal_paper1_nov_q3.8
+  - english_2017_internal_paper1_nov_q4.1
+  - english_2017_internal_paper1_nov_q4.2
+  - english_2017_internal_paper1_nov_q4.3
+  - english_2017_internal_paper1_nov_q4.4
+  - english_2017_internal_paper1_nov_q4.5
+  - english_2017_internal_paper1_nov_q4.6
+  - english_2017_internal_paper1_nov_q4.7
+  - english_2017_internal_paper1_nov_q4.8
+  - english_2018_internal_paper1_july_q1.1
+  - english_2018_internal_paper1_july_q1.9
+  - english_2018_internal_paper1_july_q2.1
+  - english_2018_internal_paper1_july_q3.5
+  - english_2018_internal_paper1_july_q5.1
+  - english_2018_internal_paper1_july_q5.2
+  - english_2018_internal_paper1_july_q5.3.1
+  - english_2018_internal_paper1_july_q5.3.2
+  - english_2018_internal_paper1_july_q5.4
+  - english_2018_internal_paper1_july_q5.5
+  - english_2018_internal_paper1_july_q5.6
+  - english_2018_internal_paper1_july_q5.7
+  - english_2018_internal_paper1_july_q5.8
+  - english_2018_internal_paper1_july_q6.3
+  possible_resolutions:
+  - Review the source documents (and the rubric, where one exists) before treating
+    these records as evidence.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Review the source documents (and the rubric, where one exists)
+    before treating these records as evidence.
+- id: UNRES-ENG-VISUAL
+  type: fidelity
+  issue: 26 visual question records
+  detail: These records depend on an image, advertisement or cartoon that the text
+    layer cannot verify. Their text and memorandum answers are retained in Pass 1,
+    but none contributes to a Pass 2 family or model. This is a view over the batch;
+    it overlaps the other views and the unassigned set.
+  affected_entity:
+  - english_2016_internal_paper1_nov_q4.5
+  - english_2016_internal_paper1_nov_q5.1
+  - english_2016_internal_paper1_nov_q5.2
+  - english_2016_internal_paper1_nov_q5.3
+  - english_2016_internal_paper1_nov_q5.4
+  - english_2017_internal_paper1_nov_q1.11
+  - english_2017_internal_paper1_nov_q3.11
+  - english_2017_internal_paper1_nov_q4.1
+  - english_2017_internal_paper1_nov_q4.2
+  - english_2017_internal_paper1_nov_q4.3
+  - english_2017_internal_paper1_nov_q4.4
+  - english_2017_internal_paper1_nov_q4.5
+  - english_2017_internal_paper1_nov_q4.6
+  - english_2017_internal_paper1_nov_q4.7
+  - english_2017_internal_paper1_nov_q4.8
+  - english_2018_internal_paper1_july_q1.9
+  - english_2018_internal_paper1_july_q3.5
+  - english_2018_internal_paper1_july_q5.1
+  - english_2018_internal_paper1_july_q5.2
+  - english_2018_internal_paper1_july_q5.3.1
+  - english_2018_internal_paper1_july_q5.3.2
+  - english_2018_internal_paper1_july_q5.4
+  - english_2018_internal_paper1_july_q5.5
+  - english_2018_internal_paper1_july_q5.6
+  - english_2018_internal_paper1_july_q5.7
+  - english_2018_internal_paper1_july_q5.8
+  evidence:
+  - english_2016_internal_paper1_nov_q4.5
+  - english_2016_internal_paper1_nov_q5.1
+  - english_2016_internal_paper1_nov_q5.2
+  - english_2016_internal_paper1_nov_q5.3
+  - english_2016_internal_paper1_nov_q5.4
+  - english_2017_internal_paper1_nov_q1.11
+  - english_2017_internal_paper1_nov_q3.11
+  - english_2017_internal_paper1_nov_q4.1
+  - english_2017_internal_paper1_nov_q4.2
+  - english_2017_internal_paper1_nov_q4.3
+  - english_2017_internal_paper1_nov_q4.4
+  - english_2017_internal_paper1_nov_q4.5
+  - english_2017_internal_paper1_nov_q4.6
+  - english_2017_internal_paper1_nov_q4.7
+  - english_2017_internal_paper1_nov_q4.8
+  - english_2018_internal_paper1_july_q1.9
+  - english_2018_internal_paper1_july_q3.5
+  - english_2018_internal_paper1_july_q5.1
+  - english_2018_internal_paper1_july_q5.2
+  - english_2018_internal_paper1_july_q5.3.1
+  - english_2018_internal_paper1_july_q5.3.2
+  - english_2018_internal_paper1_july_q5.4
+  - english_2018_internal_paper1_july_q5.5
+  - english_2018_internal_paper1_july_q5.6
+  - english_2018_internal_paper1_july_q5.7
+  - english_2018_internal_paper1_july_q5.8
+  possible_resolutions:
+  - Review the source documents (and the rubric, where one exists) before treating
+    these records as evidence.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Review the source documents (and the rubric, where one exists)
+    before treating these records as evidence.
+- id: UNRES-ENG-NO-MARKING-EVIDENCE
+  type: coverage_gap
+  issue: 13 no marking evidence question records
+  detail: The summary, essay and transactional records whose memoranda print no model
+    answer or rubric cannot ground any marking requirement or breakdown model. This
+    is a view over the batch; it overlaps the other views and the unassigned set.
+  affected_entity:
+  - english_2014_internal_paper2_july_q2.1
+  - english_2014_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q2.1
+  - english_2015_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q3.2
+  - english_2015_internal_paper2_july_q3.3
+  - english_2016_internal_paper1_nov_q2.1
+  - english_2016_internal_paper1_nov_q5.1
+  - english_2016_internal_paper1_nov_q5.2
+  - english_2016_internal_paper1_nov_q5.3
+  - english_2016_internal_paper1_nov_q5.4
+  - english_2017_internal_paper1_nov_q2.1
+  - english_2018_internal_paper1_july_q2.1
+  evidence:
+  - english_2014_internal_paper2_july_q2.1
+  - english_2014_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q2.1
+  - english_2015_internal_paper2_july_q3.1
+  - english_2015_internal_paper2_july_q3.2
+  - english_2015_internal_paper2_july_q3.3
+  - english_2016_internal_paper1_nov_q2.1
+  - english_2016_internal_paper1_nov_q5.1
+  - english_2016_internal_paper1_nov_q5.2
+  - english_2016_internal_paper1_nov_q5.3
+  - english_2016_internal_paper1_nov_q5.4
+  - english_2017_internal_paper1_nov_q2.1
+  - english_2018_internal_paper1_july_q2.1
+  possible_resolutions:
+  - Review the source documents (and the rubric, where one exists) before treating
+    these records as evidence.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Review the source documents (and the rubric, where one exists)
+    before treating these records as evidence.
+- id: UNRES-ENG-RUBRIC-ONLY
+  type: fidelity
+  issue: 2 rubric only question records
+  detail: These records are to be marked against an IEB rubric that the supplied memorandum
+    does not print, so no level descriptors or criteria could be transcribed. This
+    is a view over the batch; it overlaps the other views and the unassigned set.
+  affected_entity:
+  - english_2014_internal_paper2_july_q1.10
+  - english_2016_internal_paper1_nov_q1.8
+  evidence:
+  - english_2014_internal_paper2_july_q1.10
+  - english_2016_internal_paper1_nov_q1.8
+  possible_resolutions:
+  - Review the source documents (and the rubric, where one exists) before treating
+    these records as evidence.
+  - Retain the unresolved item and exclude unsupported claims from the knowledge bank.
+  recommended_review: Review the source documents (and the rubric, where one exists)
+    before treating these records as evidence.

@@ -1,0 +1,20 @@
+{
+  "files_in_organized_sample": 21,
+  "question_papers_in_sample": 15,
+  "memoranda_in_sample": 6,
+  "papers_processed": 5,
+  "papers_without_local_memo": 10,
+  "memoranda_without_matching_paper": 1,
+  "questions_extracted": 126,
+  "questions_classified": 81,
+  "questions_unclassified": 45,
+  "memo_alignment_rate": 1.0,
+  "curriculum_mapping_rate": null,
+  "records_requiring_visual_verification": 26,
+  "understanding_models": 15,
+  "breakdowns": 30,
+  "diagnostics": 30,
+  "unresolved_items": 23,
+  "validation_failures": 0,
+  "schema_objects_checked": 90
+}

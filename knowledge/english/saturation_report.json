@@ -1,0 +1,58 @@
+{
+  "papers_in_sample": 5,
+  "question_families_identified": 15,
+  "families_first_observed_in_final_third": 1,
+  "strata_left_unsampled": [
+    "July 2013 Paper 1 (no readable header block, no memorandum)",
+    "July 2014 Paper 1 (no local memorandum)",
+    "July 2015 Paper 1 (no local memorandum; printed total conflict)",
+    "July 2016 Paper 1 (no local memorandum; printed total conflict)",
+    "July 2017 Paper 1 (no local memorandum)",
+    "November 2014 Paper 1 (no local memorandum)",
+    "November 2015 Paper 1 (no local memorandum)",
+    "November 2018 Paper 1 PDF (no local memorandum; printed total conflict)",
+    "Paper 2 July 2016 (no local memorandum)",
+    "Paper 2 July 2017 (no local memorandum; printed total conflict)",
+    "The orphaned 2025/2026 Paper 1 memorandum (no matching paper)",
+    "Essay and transactional writing (no marking evidence in any local memorandum)",
+    "Visual literacy (all local evidence is image-dependent)"
+  ],
+  "families_supported_by_single_exemplar": 0,
+  "acquisition_order_used": [
+    "ENG-2014-JUL-P2",
+    "ENG-2015-JUL-P2",
+    "ENG-2016-NOV-P1",
+    "ENG-2017-NOV-P1",
+    "ENG-2018-JUL-P1"
+  ],
+  "acquisition_order_basis": "Order in which the five verified pairs entered this question-level Pass 1 batch; not inferred historical download order.",
+  "thirds_split": [
+    [
+      "ENG-2014-JUL-P2",
+      "ENG-2015-JUL-P2"
+    ],
+    [
+      "ENG-2016-NOV-P1"
+    ],
+    [
+      "ENG-2017-NOV-P1",
+      "ENG-2018-JUL-P1"
+    ]
+  ],
+  "families_new_in_final_third": [
+    "QUESTION-FAMILY-ENG-010"
+  ],
+  "additional_diagnostics": {
+    "saturated": false,
+    "reason_not_saturated": "A family (the dictionary-entry operation) is first observed in the final third of the batch; five papers are well below the recommended 8-15; thirteen strata are unsampled and 45 records remain unassigned (26 of them image-dependent).",
+    "deferred_single_exemplar_candidates": 5,
+    "records_unassigned": 45,
+    "records_image_dependent": 26,
+    "records_without_marking_evidence": 13,
+    "set_texts_represented": [
+      "The God of Small Things (one sitting)",
+      "Othello (one sitting)"
+    ],
+    "papers_separated_by_competence": true
+  }
+}

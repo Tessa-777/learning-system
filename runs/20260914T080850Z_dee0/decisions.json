@@ -1,0 +1,173 @@
+[
+  {
+    "decision_id": "DEC-ENG-001",
+    "timestamp": "2026-09-14T08:08:52.563978Z",
+    "phase": "4-11",
+    "subject": "english",
+    "decision_type": "replace_stubs",
+    "context": "Document-level records contain no usable question evidence.",
+    "evidence": [
+      "data/extracted/english_pass1.json"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Rebuild five usable pairs at question level; preserve source files unchanged."
+    ],
+    "selected": "Rebuild five usable pairs at question level; preserve source files unchanged.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-ENG-002",
+    "timestamp": "2026-09-14T08:08:52.563983Z",
+    "phase": "4-11",
+    "subject": "english",
+    "decision_type": "pairing",
+    "context": "The July 2014 memorandum prints no header, and the 2026-named memorandum matches nothing.",
+    "evidence": [
+      "UNRES-ENG-001"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Pair the header-less memorandum on identical numbered content and marks plus its inventory record; leave the orphan memo unpaired."
+    ],
+    "selected": "Pair the header-less memorandum on identical numbered content and marks plus its inventory record; leave the orphan memo unpaired.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-ENG-003",
+    "timestamp": "2026-09-14T08:08:52.563986Z",
+    "phase": "4-11",
+    "subject": "english",
+    "decision_type": "marks_gate",
+    "context": "November 2016 Q1 and July 2018 Q5 print section totals above their own item sums.",
+    "evidence": [
+      "UNRES-ENG-007"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Declare the shortfall in the batch and in a review item; never pad an item to close the gap."
+    ],
+    "selected": "Declare the shortfall in the batch and in a review item; never pad an item to close the gap.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-ENG-004",
+    "timestamp": "2026-09-14T08:08:52.563989Z",
+    "phase": "4-11",
+    "subject": "english",
+    "decision_type": "fidelity",
+    "context": "All local visual-literacy evidence is image-dependent.",
+    "evidence": [
+      "UNRES-ENG-VISUAL"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Record the memorandum answers but exclude every image-dependent record from Pass 2 families and models."
+    ],
+    "selected": "Record the memorandum answers but exclude every image-dependent record from Pass 2 families and models.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-ENG-005",
+    "timestamp": "2026-09-14T08:08:52.563991Z",
+    "phase": "4-11",
+    "subject": "english",
+    "decision_type": "evidence_gate",
+    "context": "Summaries, essays and transactional options have no model answers or rubrics.",
+    "evidence": [
+      "UNRES-ENG-NO-MARKING-EVIDENCE"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Exclude them from families; log them as coverage gaps rather than inferring marking requirements."
+    ],
+    "selected": "Exclude them from families; log them as coverage gaps rather than inferring marking requirements.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-ENG-006",
+    "timestamp": "2026-09-14T08:08:52.563993Z",
+    "phase": "4-11",
+    "subject": "english",
+    "decision_type": "competence_split",
+    "context": "Paper 1 and Paper 2 test different competences, and set texts recur once each.",
+    "evidence": [
+      "ingestion/analysis/english_pass2_families.py"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Keep P1 and P2 families separate and admit only generic literature operations, never a single-text theme family."
+    ],
+    "selected": "Keep P1 and P2 families separate and admit only generic literature operations, never a single-text theme family.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-ENG-007",
+    "timestamp": "2026-09-14T08:08:52.563995Z",
+    "phase": "4-11",
+    "subject": "english",
+    "decision_type": "confidence",
+    "context": "Confidence must be computed, not authored.",
+    "evidence": [
+      "scripts/build_english_pass2.py"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "High requires four members across three papers; image-dependent and unverified records may never be members."
+    ],
+    "selected": "High requires four members across three papers; image-dependent and unverified records may never be members.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-ENG-008",
+    "timestamp": "2026-09-14T08:08:52.563998Z",
+    "phase": "4-11",
+    "subject": "english",
+    "decision_type": "saturation_order",
+    "context": "Historical download order is not evidence for this rebuilt batch.",
+    "evidence": [
+      "knowledge/english/saturation_report.json"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Use the recorded order of addition to question-level Pass 1, report all thirds, and do not declare saturation."
+    ],
+    "selected": "Use the recorded order of addition to question-level Pass 1, report all thirds, and do not declare saturation.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  },
+  {
+    "decision_id": "DEC-ENG-009",
+    "timestamp": "2026-09-14T08:08:52.564001Z",
+    "phase": "4-11",
+    "subject": "english",
+    "decision_type": "scope",
+    "context": "No syllabus or ATP exists in the English sample.",
+    "evidence": [
+      "knowledge/english/unresolved_items.json"
+    ],
+    "alternatives": [
+      "Infer or silently repair the missing evidence",
+      "Keep Phase 7 and later phases out of scope; assert no curriculum coverage and label sections as printed."
+    ],
+    "selected": "Keep Phase 7 and later phases out of scope; assert no curriculum coverage and label sections as printed.",
+    "rationale": "Preserve provenance and distinguish source facts from unvalidated synthesis.",
+    "confidence": "high",
+    "requires_review": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2026-09-14T08:10:08.219247Z",
+    "phase": "4-11",
+    "subject": "english",
+    "error_type": "source_contradiction",
+    "message": "The section heading and cover row say 26 marks while items 1.1-1.9 allocate 3+1+2+2+2+3+3+2+3+4 = 25 in both the paper and the memorandum. The missing mark is left unallocated and the shortfall is declared in the batch; the per-item marks that the families use are consistent in both documents. Affected records: english_2016_internal_paper1_nov_q1.1.",
+    "affected_artifact": "english_2016_internal_paper1_nov_q1.1",
+    "retry_attempts": 0,
+    "resolution": "Confirm the printed allocation with the examiner; preserve the source wording and do not pad or renumber it.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-14T08:10:08.219251Z",
+    "phase": "4-11",
+    "subject": "english",
+    "error_type": "source_contradiction",
+    "message": "Items 5.1-5.8 allocate 2+3+2+2+2+3+2+5+3 = 24 against the printed 25. All Question 5 records are visual-dependent and are excluded from Pass 2 families, but the printed shortfall is preserved rather than padded. Affected records: english_2018_internal_paper1_july_q5.1.",
+    "affected_artifact": "english_2018_internal_paper1_july_q5.1",
+    "retry_attempts": 0,
+    "resolution": "Confirm the printed allocation with the examiner; preserve the source wording and do not pad or renumber it.",
+    "status": "unresolved"
+  },
+  {
+    "timestamp": "2026-09-14T08:10:08.219275Z",
+    "phase": "4-11",
+    "subject": "english",
+    "error_type": "saturation_not_reached",
+    "message": "A family (the dictionary-entry operation) is first observed in the final third of the batch; five papers are well below the recommended 8-15; thirteen strata are unsampled and 45 records remain unassigned (26 of them image-dependent).",
+    "affected_artifact": "knowledge/english/saturation_report.json",
+    "retry_attempts": 0,
+    "resolution": "Resolve the acquisition gaps and enlarge the evidence batch.",
+    "status": "unresolved"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-001",
+    "name": "Explain how diction, register or tone creates a stated effect",
+    "definition": "[Tier 2 derived, unvalidated] Name the register, tone or word-level choice the question asks about and explain the effect it creates on the reader or the message, instead of only labelling it. [sources: english_2016_internal_paper1_nov_q1.3, english_2016_internal_paper1_nov_q1.5.1, english_2016_internal_paper1_nov_q6.1, english_2016_internal_paper1_nov_q6.4, english_2017_internal_paper1_nov_q1.2, english_2017_internal_paper1_nov_q1.8, english_2017_internal_paper1_nov_q5.1, english_2018_internal_paper1_july_q1.7.1, english_2018_internal_paper1_july_q6.4]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Language — authorial style"
+    ],
+    "assessment_operations": [
+      "identify",
+      "explain effect"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q1.3",
+      "english_2016_internal_paper1_nov_q1.5.1",
+      "english_2016_internal_paper1_nov_q6.1"
+    ],
+    "frequency": 9,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q1.3",
+      "english_2016_internal_paper1_nov_q1.5.1",
+      "english_2016_internal_paper1_nov_q6.1",
+      "english_2016_internal_paper1_nov_q6.4",
+      "english_2017_internal_paper1_nov_q1.2",
+      "english_2017_internal_paper1_nov_q1.8",
+      "english_2017_internal_paper1_nov_q5.1",
+      "english_2018_internal_paper1_july_q1.7.1",
+      "english_2018_internal_paper1_july_q6.4"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-002",
+    "name": "Identify and correct an error of grammar, concord or spelling in context",
+    "definition": "[Tier 2 derived, unvalidated] Locate the specific error in the supplied sentence and supply its corrected form; the task is error repair, not general rewriting. [sources: english_2016_internal_paper1_nov_q6.2, english_2016_internal_paper1_nov_q6.3, english_2016_internal_paper1_nov_q6.6, english_2016_internal_paper1_nov_q6.7, english_2017_internal_paper1_nov_q1.5, english_2017_internal_paper1_nov_q5.2, english_2018_internal_paper1_july_q1.4, english_2018_internal_paper1_july_q6.1]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Language Structures & Conventions"
+    ],
+    "assessment_operations": [
+      "identify",
+      "correct"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q6.2",
+      "english_2016_internal_paper1_nov_q6.3",
+      "english_2016_internal_paper1_nov_q6.6"
+    ],
+    "frequency": 8,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q6.2",
+      "english_2016_internal_paper1_nov_q6.3",
+      "english_2016_internal_paper1_nov_q6.6",
+      "english_2016_internal_paper1_nov_q6.7",
+      "english_2017_internal_paper1_nov_q1.5",
+      "english_2017_internal_paper1_nov_q5.2",
+      "english_2018_internal_paper1_july_q1.4",
+      "english_2018_internal_paper1_july_q6.1"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-003",
+    "name": "Explain how sentence construction or punctuation shapes meaning",
+    "definition": "[Tier 2 derived, unvalidated] Name the syntactic or punctuation feature (repetition and commas, voice, hyphen, capitals, sentence type) and explain what it does to the meaning, emphasis or reader of the sentence. [sources: english_2016_internal_paper1_nov_q1.7, english_2016_internal_paper1_nov_q6.5.1, english_2016_internal_paper1_nov_q6.5.2, english_2017_internal_paper1_nov_q1.6, english_2018_internal_paper1_july_q6.2, english_2018_internal_paper1_july_q6.5]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Language Structures & Conventions"
+    ],
+    "assessment_operations": [
+      "identify",
+      "explain effect"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q1.7",
+      "english_2016_internal_paper1_nov_q6.5.1",
+      "english_2016_internal_paper1_nov_q6.5.2"
+    ],
+    "frequency": 6,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q1.7",
+      "english_2016_internal_paper1_nov_q6.5.1",
+      "english_2016_internal_paper1_nov_q6.5.2",
+      "english_2017_internal_paper1_nov_q1.6",
+      "english_2018_internal_paper1_july_q6.2",
+      "english_2018_internal_paper1_july_q6.5"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-004",
+    "name": "Interpret a poem's imagery, connotation or tone and its effect",
+    "definition": "[Tier 2 derived, unvalidated] Identify the figure, image or connotative word the question targets and explain the effect it creates in the poem; naming the device without its work does not answer the question. [sources: english_2016_internal_paper1_nov_q4.2, english_2016_internal_paper1_nov_q4.3, english_2017_internal_paper1_nov_q3.1, english_2017_internal_paper1_nov_q3.3, english_2017_internal_paper1_nov_q3.7.2, english_2018_internal_paper1_july_q4.2, english_2018_internal_paper1_july_q4.3]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Poetry — language"
+    ],
+    "assessment_operations": [
+      "identify",
+      "explain effect"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q4.2",
+      "english_2016_internal_paper1_nov_q4.3",
+      "english_2017_internal_paper1_nov_q3.1"
+    ],
+    "frequency": 7,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q4.2",
+      "english_2016_internal_paper1_nov_q4.3",
+      "english_2017_internal_paper1_nov_q3.1",
+      "english_2017_internal_paper1_nov_q3.3",
+      "english_2017_internal_paper1_nov_q3.7.2",
+      "english_2018_internal_paper1_july_q4.2",
+      "english_2018_internal_paper1_july_q4.3"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-005",
+    "name": "Explain how a poem's structure, form or punctuation shapes its meaning",
+    "definition": "[Tier 2 derived, unvalidated] Explain what line arrangement, enjambment, repetition or punctuation does to the pace, emphasis or meaning of the poem, rather than describing the stanza. [sources: english_2016_internal_paper1_nov_q4.4, english_2017_internal_paper1_nov_q3.4, english_2017_internal_paper1_nov_q3.5, english_2018_internal_paper1_july_q3.1, english_2018_internal_paper1_july_q3.2, english_2018_internal_paper1_july_q3.3]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Poetry — form"
+    ],
+    "assessment_operations": [
+      "identify",
+      "explain effect"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q4.4",
+      "english_2017_internal_paper1_nov_q3.4",
+      "english_2017_internal_paper1_nov_q3.5"
+    ],
+    "frequency": 6,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q4.4",
+      "english_2017_internal_paper1_nov_q3.4",
+      "english_2017_internal_paper1_nov_q3.5",
+      "english_2018_internal_paper1_july_q3.1",
+      "english_2018_internal_paper1_july_q3.2",
+      "english_2018_internal_paper1_july_q3.3"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-006",
+    "name": "Compare the treatment of an idea across two poems",
+    "definition": "[Tier 2 derived, unvalidated] Draw a comparison between two named poems, citing each poem, instead of answering on one poem and mentioning the other. [sources: english_2016_internal_paper1_nov_q4.6, english_2017_internal_paper1_nov_q3.10, english_2018_internal_paper1_july_q4.4]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Poetry — comparative"
+    ],
+    "assessment_operations": [
+      "compare",
+      "substantiate"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q4.6",
+      "english_2017_internal_paper1_nov_q3.10",
+      "english_2018_internal_paper1_july_q4.4"
+    ],
+    "frequency": 3,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q4.6",
+      "english_2017_internal_paper1_nov_q3.10",
+      "english_2018_internal_paper1_july_q4.4"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-007",
+    "name": "Explain a character's motive, change or responsibility using the whole set work",
+    "definition": "[Tier 2 derived, unvalidated] Account for what a named character does, feels or becomes, and support it with evidence from outside the printed extract; describing the plot does not answer the question. [sources: english_2014_internal_paper2_july_q1.4, english_2014_internal_paper2_july_q1.6, english_2014_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.2, english_2015_internal_paper2_july_q1.6, english_2015_internal_paper2_july_q1.7, english_2015_internal_paper2_july_q1.8]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Set work — characterisation"
+    ],
+    "assessment_operations": [
+      "explain",
+      "substantiate"
+    ],
+    "representative_questions": [
+      "english_2014_internal_paper2_july_q1.4",
+      "english_2014_internal_paper2_july_q1.6",
+      "english_2014_internal_paper2_july_q1.7"
+    ],
+    "frequency": 7,
+    "source_evidence": [
+      "english_2014_internal_paper2_july_q1.4",
+      "english_2014_internal_paper2_july_q1.6",
+      "english_2014_internal_paper2_july_q1.7",
+      "english_2015_internal_paper2_july_q1.2",
+      "english_2015_internal_paper2_july_q1.6",
+      "english_2015_internal_paper2_july_q1.7",
+      "english_2015_internal_paper2_july_q1.8"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-008",
+    "name": "Recall and relate a specific event, relationship or reference from the set work",
+    "definition": "[Tier 2 derived, unvalidated] State the particular event, relationship or term the question asks about, in the terms the text itself uses; it is a recall task, not a judgment task. [sources: english_2014_internal_paper2_july_q1.1, english_2014_internal_paper2_july_q1.2, english_2014_internal_paper2_july_q1.5, english_2014_internal_paper2_july_q1.8, english_2015_internal_paper2_july_q1.1, english_2015_internal_paper2_july_q1.3]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Set work — content recall"
+    ],
+    "assessment_operations": [
+      "state",
+      "relate"
+    ],
+    "representative_questions": [
+      "english_2014_internal_paper2_july_q1.1",
+      "english_2014_internal_paper2_july_q1.2",
+      "english_2014_internal_paper2_july_q1.5"
+    ],
+    "frequency": 6,
+    "source_evidence": [
+      "english_2014_internal_paper2_july_q1.1",
+      "english_2014_internal_paper2_july_q1.2",
+      "english_2014_internal_paper2_july_q1.5",
+      "english_2014_internal_paper2_july_q1.8",
+      "english_2015_internal_paper2_july_q1.1",
+      "english_2015_internal_paper2_july_q1.3"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-009",
+    "name": "Interpret an image, statement or relationship in a set-work extract",
+    "definition": "[Tier 2 derived, unvalidated] Turn a quoted image, statement or relationship in the printed extract into its meaning in the text, quoting the extract as the memo requires. [sources: english_2014_internal_paper2_july_q1.3, english_2014_internal_paper2_july_q1.9, english_2015_internal_paper2_july_q1.4, english_2015_internal_paper2_july_q1.5]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Set work — close reading"
+    ],
+    "assessment_operations": [
+      "interpret",
+      "substantiate"
+    ],
+    "representative_questions": [
+      "english_2014_internal_paper2_july_q1.3",
+      "english_2014_internal_paper2_july_q1.9",
+      "english_2015_internal_paper2_july_q1.4"
+    ],
+    "frequency": 4,
+    "source_evidence": [
+      "english_2014_internal_paper2_july_q1.3",
+      "english_2014_internal_paper2_july_q1.9",
+      "english_2015_internal_paper2_july_q1.4",
+      "english_2015_internal_paper2_july_q1.5"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-010",
+    "name": "Construct a dictionary entry for a word or neologism in context",
+    "definition": "[Tier 2 derived, unvalidated] Give the requested components of a dictionary entry (part of speech, definition, and where asked etymology) for the coinage or word as it is used in the supplied text. [sources: english_2017_internal_paper1_nov_q5.3, english_2018_internal_paper1_july_q1.7.2]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Language — lexical knowledge"
+    ],
+    "assessment_operations": [
+      "define",
+      "classify"
+    ],
+    "representative_questions": [
+      "english_2017_internal_paper1_nov_q5.3",
+      "english_2018_internal_paper1_july_q1.7.2"
+    ],
+    "frequency": 2,
+    "source_evidence": [
+      "english_2017_internal_paper1_nov_q5.3",
+      "english_2018_internal_paper1_july_q1.7.2"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-011",
+    "name": "Evaluate the reliability, positioning or success of an argument",
+    "definition": "[Tier 2 derived, unvalidated] Take a position on how reliable, successfully positioned or effective the writer's argument is and substantiate it with the text's own evidence, rather than summarising the argument. [sources: english_2016_internal_paper1_nov_q1.9, english_2017_internal_paper1_nov_q1.10, english_2018_internal_paper1_july_q1.5, english_2018_internal_paper1_july_q1.8]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Language — critical evaluation"
+    ],
+    "assessment_operations": [
+      "evaluate",
+      "substantiate"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q1.9",
+      "english_2017_internal_paper1_nov_q1.10",
+      "english_2018_internal_paper1_july_q1.5"
+    ],
+    "frequency": 4,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q1.9",
+      "english_2017_internal_paper1_nov_q1.10",
+      "english_2018_internal_paper1_july_q1.5",
+      "english_2018_internal_paper1_july_q1.8"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-012",
+    "name": "Explain the meaning and effect of an idiom or fixed expression",
+    "definition": "[Tier 2 derived, unvalidated] Unpack what the idiom or altered expression means in its paragraph and, where asked, the effect of its use or the difference from the standard form. [sources: english_2016_internal_paper1_nov_q1.2, english_2016_internal_paper1_nov_q1.6, english_2017_internal_paper1_nov_q1.7, english_2018_internal_paper1_july_q1.3]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Language — figurative usage"
+    ],
+    "assessment_operations": [
+      "explain",
+      "explain effect"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q1.2",
+      "english_2016_internal_paper1_nov_q1.6",
+      "english_2017_internal_paper1_nov_q1.7"
+    ],
+    "frequency": 4,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q1.2",
+      "english_2016_internal_paper1_nov_q1.6",
+      "english_2017_internal_paper1_nov_q1.7",
+      "english_2018_internal_paper1_july_q1.3"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-013",
+    "name": "Draw out the implication of a metaphor or extended comparison",
+    "definition": "[Tier 2 derived, unvalidated] Interpret the comparison the writer reaches for (a metaphor, a cartoon figure, a metaphor built from a natural object) and what it implies about the subject. [sources: english_2016_internal_paper1_nov_q1.4, english_2017_internal_paper1_nov_q1.4, english_2018_internal_paper1_july_q1.2]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Language — figurative usage"
+    ],
+    "assessment_operations": [
+      "interpret",
+      "explain"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q1.4",
+      "english_2017_internal_paper1_nov_q1.4",
+      "english_2018_internal_paper1_july_q1.2"
+    ],
+    "frequency": 3,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q1.4",
+      "english_2017_internal_paper1_nov_q1.4",
+      "english_2018_internal_paper1_july_q1.2"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-014",
+    "name": "Explain the stated idea, message or title of a poem with quotation",
+    "definition": "[Tier 2 derived, unvalidated] Explain the poem's central message, title or a stated idea and support the reading with quotation from the poem, as the memo demands. [sources: english_2016_internal_paper1_nov_q3.1, english_2016_internal_paper1_nov_q3.2, english_2016_internal_paper1_nov_q3.4, english_2016_internal_paper1_nov_q4.1, english_2017_internal_paper1_nov_q3.2, english_2017_internal_paper1_nov_q3.6, english_2017_internal_paper1_nov_q3.9, english_2018_internal_paper1_july_q3.4, english_2018_internal_paper1_july_q4.1]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Poetry — meaning"
+    ],
+    "assessment_operations": [
+      "interpret",
+      "substantiate"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q3.1",
+      "english_2016_internal_paper1_nov_q3.2",
+      "english_2016_internal_paper1_nov_q3.4"
+    ],
+    "frequency": 9,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q3.1",
+      "english_2016_internal_paper1_nov_q3.2",
+      "english_2016_internal_paper1_nov_q3.4",
+      "english_2016_internal_paper1_nov_q4.1",
+      "english_2017_internal_paper1_nov_q3.2",
+      "english_2017_internal_paper1_nov_q3.6",
+      "english_2017_internal_paper1_nov_q3.9",
+      "english_2018_internal_paper1_july_q3.4",
+      "english_2018_internal_paper1_july_q4.1"
+    ],
+    "confidence": "high",
+    "validation_status": "unvalidated"
+  },
+  {
+    "question_family_id": "QUESTION-FAMILY-ENG-015",
+    "name": "Explain the effect of a rhetorical or opening device",
+    "definition": "[Tier 2 derived, unvalidated] Judge or explain what the opening move or rhetorical question does for the reader and the writer's purpose, tying it to the text's intention. [sources: english_2016_internal_paper1_nov_q1.1, english_2017_internal_paper1_nov_q1.1, english_2018_internal_paper1_july_q1.6]",
+    "subject": "english",
+    "grade": "11",
+    "topics": [
+      "Language — authorial purpose"
+    ],
+    "assessment_operations": [
+      "identify",
+      "explain effect"
+    ],
+    "representative_questions": [
+      "english_2016_internal_paper1_nov_q1.1",
+      "english_2017_internal_paper1_nov_q1.1",
+      "english_2018_internal_paper1_july_q1.6"
+    ],
+    "frequency": 3,
+    "source_evidence": [
+      "english_2016_internal_paper1_nov_q1.1",
+      "english_2017_internal_paper1_nov_q1.1",
+      "english_2018_internal_paper1_july_q1.6"
+    ],
+    "confidence": "medium",
+    "validation_status": "unvalidated"
+  }
+]

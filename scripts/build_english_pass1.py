@@ -533,6 +533,10 @@ def main() -> int:
             item_report = check_items(meta, vals, paper_text, memo_text)
             records = build_records(meta, vals, alignment, hashes, orc, module_name)
             allocated = sum(r["marks"] for r in records if r["allocation"] == "allocated")
+            alternatives = sum(
+                spec["counted"] * spec["marks_each"]
+                for spec in meta.get("alternative_sections", {}).values()
+            )
             shortfall = sum(d["printed_section_total"] - d["sum_of_printed_item_marks"] for d in meta.get("mark_discrepancies", []))
             docs.append({
                 "paper": meta,
@@ -540,17 +544,19 @@ def main() -> int:
                 "item_verification": item_report,
                 "records_extracted": len(records),
                 "marks_sum_check": {
-                    "sum_of_transcribed_items": allocated,
-                    "printed_total": meta["total_marks"],
+                    "sum_of_transcribed_allocated_items": allocated,
+                    "sum_of_counted_alternative_options": alternatives,
                     "source_shortfall": shortfall,
-                    "match": allocated == meta["total_marks"],
+                    "printed_total": meta["total_marks"],
+                    "match": allocated + alternatives + shortfall == meta["total_marks"],
                     "declared_source_discrepancies": meta.get("mark_discrepancies", []),
                 },
                 "question_records": records,
             })
             batch.extend(records)
-            print(f"  {meta['paper_key']}: {len(records):>3} records, {allocated} transcribed marks "
-                  f"(header {meta['total_marks']}, source shortfall {shortfall})")
+            print(f"  {meta['paper_key']}: {len(records):>3} records, {allocated} transcribed marks"
+                  + (f" + {alternatives} counted option marks" if alternatives else "")
+                  + f" (header {meta['total_marks']}, source shortfall {shortfall})")
         if len({r["source_id"] for r in batch}) != len(batch):
             raise ValueError("Duplicate source_id in the English batch")
     except (ValueError, KeyError, OSError, ImportError) as exc:
